@@ -1,0 +1,439 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNTIyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1957-2</identifier>
+        <datestamp>2022-06-01T08:35:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24492</identifier>
+          <identifier>BK-1957-2</identifier>
+          <title>Hercules bevrijdt Deianeira van de centaur Nessus</title>
+          <creator>Crozatier, Charles</creator>
+          <creator>Vries, Adriaen de</creator>
+          <date>ca. 1845 - ca. 1850</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-134-A-1</identifier>
+        <datestamp>2021-11-03T19:23:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27313</identifier>
+          <identifier>BK-1984-134-A-1</identifier>
+          <title>Handschoen van wit leer met koperen drukknoop</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1925</date>
+          <type>kleding</type>
+          <type>handschoen</type>
+          <format>leer</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2344</identifier>
+        <datestamp>2021-10-02T11:40:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26347</identifier>
+          <identifier>BK-KOG-2344</identifier>
+          <title>39 sleutels uit de collectie van Emmanuel Vita Israël</title>
+          <creator>anoniem</creator>
+          <description>De Amsterdamse apotheker en kunstverzamelaar Emmanuel Vita Israël schonk zijn collectie, met sleutels van de Romeinse oudheid tot de 19de eeuw, in 1937 aan het Koninklijk Oudheidkundig Genootschap. Naar eigen zeggen kwam zijn sleutelcollectie min of meer per toeval tot stand. Omdat hij een van de weinige verzamelaars was, wisten handelaren hem automatisch te vinden.</description>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>sleutel</type>
+          <type>kamerheersleutel</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7545-B</identifier>
+        <datestamp>2021-10-02T11:40:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26445</identifier>
+          <identifier>BK-NM-7545-B</identifier>
+          <title>Lint, cingulum, van linnen (?); op een oranje ondergrond staat in beige letters het opschrift: LONGITVDO + SANCTISSIMI + SEPVLCRI + DOMINI NOSTRI + IESV CHRISTI + IN IERVSALEM ABRAHAM COSSON +</title>
+          <creator>anoniem</creator>
+          <date>ca. 1500 - ca. 1600</date>
+          <type>liturgische kleding</type>
+          <type>lint</type>
+          <type>cingulum</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Azië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1961-65</identifier>
+        <datestamp>2021-10-02T11:42:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27201</identifier>
+          <identifier>RP-T-1961-65</identifier>
+          <title>Admiraliteitsjacht op weg naar een voor anker liggende vloot</title>
+          <creator>Bakhuysen, Ludolf</creator>
+          <date>1641 - 1708</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-159-4-A</identifier>
+        <datestamp>2021-11-03T19:23:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27261</identifier>
+          <identifier>BK-1984-159-4-A</identifier>
+          <title>Handschoen van zwart leer met wit stiksel</title>
+          <creator>anoniem</creator>
+          <date>ca. 1950 - ca. 1960</date>
+          <type>kleding</type>
+          <type>handschoen</type>
+          <format>leer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-437-B-3</identifier>
+        <datestamp>2019-08-01T09:36:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23790</identifier>
+          <identifier>BK-BR-J-437-B-3</identifier>
+          <title>Manchet van gehaakte kant met losse stengels en gelaagde rozetbloempjes</title>
+          <creator>anoniem</creator>
+          <date>ca. 1890 - ca. 1909</date>
+          <type>manchet</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ierland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1229</identifier>
+        <datestamp>2021-10-02T01:49:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24365</identifier>
+          <identifier>BK-NM-1229</identifier>
+          <title>Laatste avondmaal</title>
+          <creator>anoniem</creator>
+          <date>ca. 1515 - ca. 1520</date>
+          <type>beeldhouwwerk</type>
+          <format>eikenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12980-R</identifier>
+        <datestamp>2021-10-02T11:41:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26683</identifier>
+          <identifier>BK-NM-12980-R</identifier>
+          <title>Strook kloskant met bloemen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Buckingham</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1978-70</identifier>
+        <datestamp>2021-10-02T11:42:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27071</identifier>
+          <identifier>RP-T-1978-70</identifier>
+          <title>Rotsachtig berglandschap met op de voorgrond twee reizigers</title>
+          <creator>Almeloveen, Jan van</creator>
+          <date>1679-09-23</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2125</identifier>
+        <datestamp>2021-11-03T16:58:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26127</identifier>
+          <identifier>BK-KOG-2125</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1300 - ca. 1400</date>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-95</identifier>
+        <datestamp>2019-08-01T09:36:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23816</identifier>
+          <identifier>BK-BR-J-95</identifier>
+          <title>Strook gehaakte kant met afwisselend een bloem en een blad</title>
+          <creator>anoniem</creator>
+          <date>ca. 1890 - ca. 1909</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ierland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-15935-C</identifier>
+        <datestamp>2022-03-21T11:21:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24091</identifier>
+          <identifier>AK-RBK-15935-C</identifier>
+          <title>Bord met een haan op een rots bij bloeiende planten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>bord (vaatwerk)</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2451-B</identifier>
+        <datestamp>2021-11-09T10:40:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24568</identifier>
+          <identifier>BK-KOG-2451-B</identifier>
+          <title>Vier medaillonportretten in lijst, voorstellende Willem I (1533-1584), Maurits (1567-1625), Frederik Hendrik (1584-1647) en Willem III (1650-1701)</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1875</date>
+          <type>beeldhouwwerk</type>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9034</identifier>
+        <datestamp>2021-10-02T01:43:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24027</identifier>
+          <identifier>BK-NM-9034</identifier>
+          <title>Slot</title>
+          <creator>anoniem</creator>
+          <type>slot</type>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-99-A-5</identifier>
+        <datestamp>2019-08-01T09:36:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24186</identifier>
+          <identifier>BK-BR-J-99-A-5</identifier>
+          <title>Strook gehaakte kant met waaiervormige bloemen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1890 - ca. 1909</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ierland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-159-45-A</identifier>
+        <datestamp>2021-08-19T17:08:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27304</identifier>
+          <identifier>BK-1984-159-45-A</identifier>
+          <title>Paar handschoenen van haakwerk</title>
+          <creator>anoniem</creator>
+          <description>Tot 1950 was het gebruikelijk buitenshuis altijd handschoenen te dragen. Deze waren meestal van leer of rekbare stof gemaakt. In de zomer droegen vrouwen ook gehaakte handschoenen, zoals deze.</description>
+          <date>ca. 1850 - ca. 1900</date>
+          <type>kleding</type>
+          <type>handschoen</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1983-496</identifier>
+        <datestamp>2021-10-02T11:41:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26794</identifier>
+          <identifier>RP-T-1983-496</identifier>
+          <title>Drie landschappen</title>
+          <title>Ontwerpen voor reeks aquatints Sketches in Flanders and Holland</title>
+          <creator>Hills, Robert</creator>
+          <subject>Leiden</subject>
+          <subject>Den Haag</subject>
+          <date>1811 - 1816</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8657</identifier>
+        <datestamp>2021-10-02T11:42:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27181</identifier>
+          <identifier>BK-NM-8657</identifier>
+          <title>Graftombe van ridder Arnold van der Sluis van Heusden (ca. 1245-1296)</title>
+          <creator>anoniem</creator>
+          <subject>Bern (Gelderland)</subject>
+          <date>ca. 1296 - ca. 1325</date>
+          <type>graftombe</type>
+          <format>kalksteen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Maasstreek</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2079</identifier>
+        <datestamp>2021-11-03T16:58:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26082</identifier>
+          <identifier>BK-KOG-2079</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1300 - ca. 1400</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNTI0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

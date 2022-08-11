@@ -1,0 +1,489 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjI4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1934-85</identifier>
+        <datestamp>2021-01-28T16:03:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.79196</identifier>
+          <identifier>RP-P-1934-85</identifier>
+          <title>Hemelvaart van Christus</title>
+          <title>Christus Hemelvaert</title>
+          <creator>Bernards, Balthasar</creator>
+          <contributor>Champagne</contributor>
+          <date>ca. 1711 - ca. 1720</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1939-266</identifier>
+        <datestamp>2021-01-28T15:57:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78560</identifier>
+          <identifier>RP-P-1939-266</identifier>
+          <title>Titelprent voor Verzamelde Tekeningen en schetsen van Gerardus Lairesse, deel 2</title>
+          <title>Verzamelde Tekeningen en schetsen van Gerardus Lairesse int Koper gebragt en geschikt tot een teekenboek, door Pieter van den Berge</title>
+          <creator>Berge, Pieter van den</creator>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Berge, Pieter van den</contributor>
+          <subject>(het verhaal van) Hercules (Herakles)</subject>
+          <date>1695</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.623</identifier>
+        <datestamp>2021-01-28T16:09:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80375</identifier>
+          <identifier>RP-P-OB-26.623</identifier>
+          <title>Jongen in tuin van kasteel</title>
+          <title>Titelpagina voor: H. Muller, Jeugd en Deugd; of het Voorbeeld der kinderen op Rozendaal, aan alle jongelieden ter navolging voorgesteld, Haarlem 1840</title>
+          <creator>Best, Johannes Alexander Rudolf</creator>
+          <contributor>Loosjes, weduwe Adriaan Pietersz.</contributor>
+          <date>1807 - 1840</date>
+          <date>1840</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1942-338</identifier>
+        <datestamp>2021-01-28T16:14:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80971</identifier>
+          <identifier>RP-P-1942-338</identifier>
+          <title>De engel belooft Abraham een zoon</title>
+          <creator>Bleker, Gerrit</creator>
+          <date>1638</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1900-A-21948</identifier>
+        <datestamp>2021-01-28T15:58:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78611</identifier>
+          <identifier>RP-P-1900-A-21948</identifier>
+          <title>Boer uit Zaandam</title>
+          <title>Paijsan de Saardam</title>
+          <title>Nederlandse klederdrachten</title>
+          <creator>Berge, Pieter van den</creator>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Persoy, Pieter</contributor>
+          <contributor>Le Moine de l’Espine, Jaques</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>1669 - in of voor 1689</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-525</identifier>
+        <datestamp>2021-01-28T15:58:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78660</identifier>
+          <identifier>RP-P-1878-A-525</identifier>
+          <title>Interieur van de Noorderkerk te Amsterdam</title>
+          <title>De Kerk van Binnen te Zien</title>
+          <creator>Berge, Pieter van den</creator>
+          <subject>Noorderkerk</subject>
+          <date>1694 - 1737</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1671</identifier>
+        <datestamp>2021-01-28T16:11:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80725</identifier>
+          <identifier>RP-P-1910-1671</identifier>
+          <title>Portret van Johann Rudolph Walram Brandlinsky</title>
+          <creator>Birckhart, Anton</creator>
+          <contributor>Brandl, Peter</contributor>
+          <subject>Brandlinsky, Johann Rudolph Walram</subject>
+          <date>1720</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Praag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-3989</identifier>
+        <datestamp>2021-01-28T16:12:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80809</identifier>
+          <identifier>RP-P-1907-3989</identifier>
+          <title>Christus met kruis en andere passiewerktuigen</title>
+          <title>Paradigmata graphices variorum artificum</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>Michelangelo</contributor>
+          <contributor>Matham, Jacob</contributor>
+          <date>1668 - 1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-5197</identifier>
+        <datestamp>2021-01-28T15:54:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78238</identifier>
+          <identifier>RP-P-1905-5197</identifier>
+          <title>Gezicht over Merwede vanaf Boom langs Melkpoortje op Riedijk</title>
+          <title>Gezicht van den boom langs het Melkpoortje tot buiten de Rietdijk</title>
+          <title>Twaalf gezichten op Dordrecht</title>
+          <title>XII Gezichtjes der Stadt Dordrecht Langs de water zijde</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Bendorp, Carel Frederik (I)</contributor>
+          <subject>Dordrecht</subject>
+          <subject>Merwede</subject>
+          <date>1803</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-1799</identifier>
+        <datestamp>2016-12-07T16:02:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78965</identifier>
+          <identifier>RP-P-1905-1799</identifier>
+          <title>Portret van G.H. Hofland</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>Trap, Pieter Willem Marinus</contributor>
+          <date>1850-06-08</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.641</identifier>
+        <datestamp>2021-01-28T16:10:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80542</identifier>
+          <identifier>RP-P-OB-26.641</identifier>
+          <title>Mannenkop met helm gedecoreerd, met Romulus en Remus</title>
+          <title>Antiquitatis genio</title>
+          <creator>Bie, Jacques de</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <date>1591 - 1615</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1039</identifier>
+        <datestamp>2021-07-30T11:53:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78393</identifier>
+          <identifier>RP-P-BI-1039</identifier>
+          <title>Zittende herder met zijn hond</title>
+          <creator>anoniem</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>1648 - 1733</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2856</identifier>
+        <datestamp>2021-01-28T16:01:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78988</identifier>
+          <identifier>RP-P-1906-2856</identifier>
+          <title>Portret van Frederik Willem Krieger</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>Springer, Leendert (I)</contributor>
+          <subject>Krieger, Frederik Willem</subject>
+          <date>1856-05-28</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-102.323</identifier>
+        <datestamp>2021-01-28T16:10:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80581</identifier>
+          <identifier>RP-P-OB-102.323</identifier>
+          <title>Ruiter naast pissend paard</title>
+          <creator>Bijlaert, Joannis Jacobus</creator>
+          <contributor>Wouwerman, Philips</contributor>
+          <date>1776</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-2926</identifier>
+        <datestamp>2021-01-28T15:53:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78192</identifier>
+          <identifier>RP-P-1911-2926</identifier>
+          <title>Stadsgezicht met Maagdenhuis te Amsterdam</title>
+          <title>R.C. Maagdenhuis te Amsterdam</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Bulthuis, Jan</contributor>
+          <subject>Rooms-Katholiek Maagdenhuis (Amsterdam)</subject>
+          <date>1786 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-4609</identifier>
+        <datestamp>2019-01-02T17:37:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78919</identifier>
+          <identifier>RP-P-1905-4609</identifier>
+          <title>Portret van een man, mogelijk Petrus Abraham Samuel van Limburg Brouwer</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <subject>Limburg Brouwer, Petrus Abraham Samuel van</subject>
+          <date>1851-04-06</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.620</identifier>
+        <datestamp>2021-01-28T16:09:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80372</identifier>
+          <identifier>RP-P-OB-26.620</identifier>
+          <title>Meisje huilt om kapotte kruik en jongen geeft haar nieuw exemplaar</title>
+          <creator>Best, Johannes Alexander Rudolf</creator>
+          <date>1807 - 1855</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-2948</identifier>
+        <datestamp>2021-01-28T15:54:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78215</identifier>
+          <identifier>RP-P-1911-2948</identifier>
+          <title>Gezicht op dorp Oudshoorn</title>
+          <title>T' Dorp Oudshoorn</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Bulthuis, Jan</contributor>
+          <subject>Oudshoorn</subject>
+          <date>1786 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-4616</identifier>
+        <datestamp>2016-10-20T20:28:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78942</identifier>
+          <identifier>RP-P-1905-4616</identifier>
+          <title>Portret van Arn. van Gennep</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>Springer, Leendert (I)</contributor>
+          <date>1847-07-20</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1937-176</identifier>
+        <datestamp>2021-01-28T16:09:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80395</identifier>
+          <identifier>RP-P-1937-176</identifier>
+          <title>Maria sprokkelt hout</title>
+          <title>De moederlooze Maria</title>
+          <creator>Best, Johannes Alexander Rudolf</creator>
+          <contributor>Beijerinck, Gerrit Jan Adriaan</contributor>
+          <date>1807 - 1823</date>
+          <date>1823</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjMwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

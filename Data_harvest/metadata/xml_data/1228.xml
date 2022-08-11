@@ -1,0 +1,515 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNDU0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-302</identifier>
+        <datestamp>2021-10-02T12:15:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45731</identifier>
+          <identifier>RP-P-1958-302</identifier>
+          <title>Fujiwara clan : de parels van eb en vloed en de Fujiwara zeis</title>
+          <title>Fujiwara - Kanju manju Fuji no makikama</title>
+          <title>De vier aanzienlijke clans van Japan</title>
+          <title>Shisei no uchi</title>
+          <creator>Hokusai, Katsushika</creator>
+          <contributor>Isuzugawando</contributor>
+          <contributor>Teodori, Senbatei</contributor>
+          <date>ca. 1822</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2768</identifier>
+        <datestamp>2021-10-20T10:00:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62213</identifier>
+          <identifier>NG-VG-1-2768</identifier>
+          <title>Tweehonderdste verjaardag van de stichting van de hogeschool te Leiden</title>
+          <creator>Berckel, Theodorus Victor van</creator>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>universiteit</subject>
+          <subject>200-jarig jubileum</subject>
+          <subject>Leiden</subject>
+          <subject>Universiteit van Leiden</subject>
+          <date>1775</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2773</identifier>
+        <datestamp>2021-10-20T10:00:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62219</identifier>
+          <identifier>NG-VG-1-2773</identifier>
+          <title>Tweehonderdste verjaardag van de stichting van de hogeschool te Leiden</title>
+          <creator>anoniem</creator>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>universiteit</subject>
+          <subject>200-jarig jubileum</subject>
+          <subject>Leiden</subject>
+          <subject>Universiteit van Leiden</subject>
+          <date>1775</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-642</identifier>
+        <datestamp>2021-12-17T11:49:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45470</identifier>
+          <identifier>RP-P-1956-642</identifier>
+          <title>Acteur Iwai Hanshiro IV in het dagelijks leven</title>
+          <creator>Kiyonaga, Torii</creator>
+          <subject>Iwai Hanshiro IV</subject>
+          <date>1782 - 1786</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2949</identifier>
+        <datestamp>2021-10-20T10:02:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62387</identifier>
+          <identifier>NG-VG-1-2949</identifier>
+          <title>Karel Willem Ferdinand, hertog van Brunswijk, penning aangeboden door de Staten van Holland en West-Friesland wegens het herstel van de orde in de Nederlanden</title>
+          <creator>Schepp, Johann Heinrich</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>strijd tussen patriotten en prinsgezinden</subject>
+          <subject>herstel van de stadhouder</subject>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>Pruisische inval in de Republiek</subject>
+          <subject>Herstel van stadhouder Willem V (1787)</subject>
+          <subject>Holland</subject>
+          <subject>West-Friesland</subject>
+          <subject>Brunswijk-Wolfenbüttel, Karel Willem Ferdinand hertog van</subject>
+          <subject>Staten van Holland</subject>
+          <subject>Staten van West-Friesland</subject>
+          <date>1787</date>
+          <type>historiepenning</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-352</identifier>
+        <datestamp>2018-09-05T10:05:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61213</identifier>
+          <identifier>RP-T-00-352</identifier>
+          <title>Paardenmarkt</title>
+          <creator>Velde, Esaias van de</creator>
+          <date>1600 - 1630</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1952-121</identifier>
+        <datestamp>2020-05-01T13:42:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61299</identifier>
+          <identifier>RP-T-1952-121</identifier>
+          <title>Enkele kleine vaartuigen op zee</title>
+          <creator>Velde, Willem van de (II)</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Milford, Richard Philipps 1e lord</subject>
+          <date>1643 - 1707</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2669</identifier>
+        <datestamp>2021-10-20T14:37:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62118</identifier>
+          <identifier>NG-VG-1-2669</identifier>
+          <title>Inhuldiging van Willem V, prins van Oranje-Nassau, als erfelijk stadhouder van de Nederlanden</title>
+          <creator>Monogrammist IB (medailleur)</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>erfelijk stadhouder</subject>
+          <subject>Willem V (prins van Oranje-Nassau)</subject>
+          <date>1766</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2747</identifier>
+        <datestamp>2021-10-20T10:00:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62193</identifier>
+          <identifier>NG-VG-1-2747</identifier>
+          <title>Geboorte van Willem Frederik, erfprins van Oranje-Nassau</title>
+          <creator>Calker, Barend Christiaan van</creator>
+          <subject>Den Haag</subject>
+          <subject>Willem I (koning der Nederlanden)</subject>
+          <date>1772</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zeist</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2920</identifier>
+        <datestamp>2021-10-20T10:01:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62364</identifier>
+          <identifier>NG-VG-1-2920</identifier>
+          <title>Antonius Slicher en zijn kleinzoon Wigbold, die opeenvolgend gedurende 100 jaar het ambt van raadheer hebben bekleed aan het hof van Holland, Zeeland en West-Friesland</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>100-jarig jubileum</subject>
+          <subject>Holland</subject>
+          <subject>Zeeland</subject>
+          <subject>West-Friesland</subject>
+          <subject>Slicher, Antonius</subject>
+          <subject>Slicher, Wigboldt</subject>
+          <subject>Hof van Holland</subject>
+          <subject>Hof van Zeeland</subject>
+          <subject>Hof van West-Friesland</subject>
+          <date>1786</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1893-A-2764</identifier>
+        <datestamp>2019-02-22T15:32:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61179</identifier>
+          <identifier>RP-T-1893-A-2764</identifier>
+          <title>Gezicht op een stadswal met een toren</title>
+          <creator>Velde, Esaias van de</creator>
+          <date>1622 - 1626</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-806</identifier>
+        <datestamp>2021-12-17T11:50:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46191</identifier>
+          <identifier>RP-P-1956-806</identifier>
+          <title>Narumi tot Chiriyu</title>
+          <title>Meerdere beroemde plaatsen langs de Tokaido tegelijk</title>
+          <title>Tokaido gojusan eki goshuku meisho</title>
+          <creator>Kuniyoshi, Utagawa</creator>
+          <contributor>Tsuruya Kiemon (Senkakudo)</contributor>
+          <contributor>Tsutaya Kichizo</contributor>
+          <date>1833 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Tokyo</coverage>
+          <coverage>Tokyo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-659</identifier>
+        <datestamp>2021-12-17T11:49:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45423</identifier>
+          <identifier>RP-P-1956-659</identifier>
+          <title>Acteur Ichikawa Danjuro IV</title>
+          <creator>Shunsho, Katsukawa</creator>
+          <subject>Ichikawa Danjûrô IV</subject>
+          <date>1765 - 1770</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-324</identifier>
+        <datestamp>2021-10-02T12:15:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45848</identifier>
+          <identifier>RP-P-1958-324</identifier>
+          <title>Hotei kijkend naar twee dansende Chinese jongetjes</title>
+          <title>Geluk en lang leven</title>
+          <title>Mimasu Fukurokuju</title>
+          <creator>Hokkei, Totoya</creator>
+          <contributor>Juhoen Michiyoshi</contributor>
+          <contributor>Hasendo Tenma</contributor>
+          <date>ca. 1823</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <format>koperpoeder</format>
+          <format>zilverpoeder</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-405</identifier>
+        <datestamp>2021-10-02T12:16:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45926</identifier>
+          <identifier>RP-P-1958-405</identifier>
+          <title>Dansende geisha's</title>
+          <title>Eén</title>
+          <title>Ichi</title>
+          <title>Dansen van Furuichi voor de Hisakataya dichtersvereniging</title>
+          <title>Hisakataya Furuichi odori</title>
+          <creator>Gakutei, Yashima</creator>
+          <contributor>Osamaru, Minogame</contributor>
+          <contributor>Hisakataya</contributor>
+          <date>ca. 1824</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-511</identifier>
+        <datestamp>2021-10-02T12:17:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46168</identifier>
+          <identifier>RP-P-1958-511</identifier>
+          <title>Hofdame bij rivieroever</title>
+          <title>De Ide rivier in Yamashiro, nummer één</title>
+          <title>Yamashiro - sono ichi</title>
+          <title>De zes juwelen rivieren</title>
+          <title>Mutamagawa no uchi</title>
+          <creator>Sadakage, Utagawa</creator>
+          <contributor>Shujin, Setoku</contributor>
+          <date>1832</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-83</identifier>
+        <datestamp>2019-05-23T15:53:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45276</identifier>
+          <identifier>RP-P-1909-83</identifier>
+          <title>Buste van een man met tulband</title>
+          <creator>Schouman, Aert</creator>
+          <date>1746</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2850</identifier>
+        <datestamp>2021-10-20T10:01:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62295</identifier>
+          <identifier>NG-VG-1-2850</identifier>
+          <title>Aanvang van het jaar 1782 en de oorlog tegen Engeland</title>
+          <creator>Lageman, Johannes Michiel</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>zeeslag</subject>
+          <subject>Vierde Engelse Oorlog</subject>
+          <subject>Engeland</subject>
+          <date>1782</date>
+          <type>nieuwjaarspenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2865</identifier>
+        <datestamp>2021-10-20T10:01:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62307</identifier>
+          <identifier>NG-VG-1-2865</identifier>
+          <title>Vijfentwintigjarig bestaan van de vrijmetselaarsloge La Vertu te Leiden</title>
+          <creator>Baerll, Johannes Josephus van</creator>
+          <subject>sekte</subject>
+          <subject>vrijmetselarij</subject>
+          <subject>Leiden</subject>
+          <date>1783</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1961-117</identifier>
+        <datestamp>2020-05-12T14:00:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61293</identifier>
+          <identifier>RP-T-1961-117</identifier>
+          <title>Fluitschip op onrustige zee</title>
+          <creator>Velde, Willem van de (II)</creator>
+          <subject>maritieme geschiedenis</subject>
+          <date>1643 - 1707</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNDU2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

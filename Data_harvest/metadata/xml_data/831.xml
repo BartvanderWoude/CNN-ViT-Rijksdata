@@ -1,0 +1,511 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNjYwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1952-M</identifier>
+        <datestamp>2021-10-20T09:51:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59194</identifier>
+          <identifier>NG-VG-1-1952-M</identifier>
+          <title>Ontzet van Barcelona</title>
+          <creator>Müller, Philipp Heinrich</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Ontzet van Barcelona (1706)</subject>
+          <subject>Barcelona</subject>
+          <subject>Spanje</subject>
+          <subject>Karel VI (keizer van het Heilige Roomse Rijk)</subject>
+          <subject>Filips V (koning van Spanje)</subject>
+          <date>1706</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1987</identifier>
+        <datestamp>2021-10-20T09:52:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59279</identifier>
+          <identifier>NG-VG-1-1987</identifier>
+          <title>Inname van Bergen</title>
+          <creator>Croker, John</creator>
+          <contributor>Bull, Samuel</contributor>
+          <subject>politieke geschiedenis</subject>
+          <subject>Inname van Bergen (1709)</subject>
+          <subject>Bergen (België)</subject>
+          <subject>Henegouwen</subject>
+          <subject>Anna Stuart (koningin van Engeland en Schotland)</subject>
+          <date>1709</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2251</identifier>
+        <datestamp>2021-10-20T09:55:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59531</identifier>
+          <identifier>NG-VG-1-2251</identifier>
+          <title>Huwelijk van Willem IV met prinses Anna van Engeland te Londen</title>
+          <creator>Swinderen, Nicolaas van</creator>
+          <subject>Londen</subject>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <subject>Anna van Hannover</subject>
+          <date>1734</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1989-90(R)</identifier>
+        <datestamp>2022-03-21T10:36:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59686</identifier>
+          <identifier>RP-T-1989-90(R)</identifier>
+          <title>De tempel van de Sibylle te Tivoli</title>
+          <creator>Poelenburch, Cornelis van</creator>
+          <subject>Tempio della Sibille</subject>
+          <subject>Tivoli</subject>
+          <date>1620 - 1623</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>grafiet</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Tivoli</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1840</identifier>
+        <datestamp>2021-10-20T13:54:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59035</identifier>
+          <identifier>NG-VG-1-1840</identifier>
+          <title>Prins George van Denemarken benoemd tot opperbevelhebber van de Britse krijgsmacht</title>
+          <creator>Croker, John</creator>
+          <subject>militaire geschiedenis</subject>
+          <subject>opperbevelhebber Britse leger</subject>
+          <subject>Anna Stuart (koningin van Engeland en Schotland)</subject>
+          <subject>George (prins van Denemarken)</subject>
+          <date>1702</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1954-M</identifier>
+        <datestamp>2021-10-20T09:52:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59244</identifier>
+          <identifier>NG-VG-1-1954-M</identifier>
+          <title>Vereniging van Engeland en Schotland</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Vereniging van Engeland en Schotland</subject>
+          <subject>Engeland</subject>
+          <subject>Schotland</subject>
+          <subject>Anna Stuart (koningin van Engeland en Schotland)</subject>
+          <date>1707</date>
+          <type>strooipenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2088</identifier>
+        <datestamp>2021-10-20T09:53:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59373</identifier>
+          <identifier>NG-VG-1-2088</identifier>
+          <title>Vrede van Rastatt</title>
+          <creator>Vestner, Georg Wilhelm</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>vrede</subject>
+          <subject>Vrede van Rastatt</subject>
+          <subject>Rastatt</subject>
+          <subject>Baden-Württemberg</subject>
+          <date>1714</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1899-A-4120</identifier>
+        <datestamp>2021-10-02T12:42:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59591</identifier>
+          <identifier>RP-T-1899-A-4120</identifier>
+          <title>Gezicht op het Huis Zuilen bij Maarssen</title>
+          <creator>Rademaker, Abraham</creator>
+          <contributor>Roghman, Geertruydt</contributor>
+          <contributor>Roghman, Roelant</contributor>
+          <subject>Oud-Zuilen</subject>
+          <subject>Utrecht</subject>
+          <date>1685 - 1735</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1781</identifier>
+        <datestamp>2021-10-20T13:53:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58975</identifier>
+          <identifier>NG-VG-1-1781</identifier>
+          <title>Lothar Franz van Schonborn, aartsbisschop van Mainz en bisschop van Bamberg</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>vrede</subject>
+          <subject>Vrede van Rijswijk (1697)</subject>
+          <subject>Rijswijk</subject>
+          <subject>Lothar Franz (graaf van Schönborn, keurvorst en aartsbisschop van Mainz)</subject>
+          <date>1696</date>
+          <type>munt</type>
+          <type>dukaat</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1793</identifier>
+        <datestamp>2021-10-20T13:53:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58989</identifier>
+          <identifier>NG-VG-1-1793</identifier>
+          <title>Invoering van de Gregoriaanse tijdrekening door de protestantse, Duitse vorsten</title>
+          <creator>anoniem</creator>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>invoer van de Gregoriaanse tijdrekening</subject>
+          <subject>Invoering van de Gregoriaanse kalender in de Rebubliek (1700)</subject>
+          <subject>Duitsland</subject>
+          <date>1700</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1999</identifier>
+        <datestamp>2021-10-20T09:52:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59290</identifier>
+          <identifier>NG-VG-1-1999</identifier>
+          <title>Slag bij Zaragossa</title>
+          <creator>Croker, John</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Slag bij Zaragoza (1710)</subject>
+          <subject>Zaragoza</subject>
+          <subject>Zaragoza (provincie)</subject>
+          <subject>Anna Stuart (koningin van Engeland en Schotland)</subject>
+          <date>1710</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2039</identifier>
+        <datestamp>2021-10-20T09:53:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59327</identifier>
+          <identifier>NG-VG-1-2039</identifier>
+          <title>Karel VI gekozen tot Duits keizer</title>
+          <creator>anoniem</creator>
+          <subject>Karel VI (keizer van het Heilige Roomse Rijk)</subject>
+          <date>1711</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1907-62</identifier>
+        <datestamp>2020-04-06T16:05:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59625</identifier>
+          <identifier>RP-T-1907-62</identifier>
+          <title>Gezicht op Montfoort</title>
+          <creator>Rademaker, Abraham</creator>
+          <subject>Montfoort</subject>
+          <date>1685 - 1735</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1948</identifier>
+        <datestamp>2021-10-20T14:37:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59178</identifier>
+          <identifier>NG-VG-1-1948</identifier>
+          <title>Openen van de rijschool te Utrecht</title>
+          <creator>Chevalier, Nicolas</creator>
+          <subject>vrijetijdsbesteding en volksvermaak</subject>
+          <subject>rijschool</subject>
+          <subject>Utrecht</subject>
+          <date>1705</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>tin</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1952-D</identifier>
+        <datestamp>2021-10-20T09:51:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59185</identifier>
+          <identifier>NG-VG-1-1952-D</identifier>
+          <title>Kroning van Jozef I tot Duits keizer</title>
+          <creator>Seidlitz, Johann Georg</creator>
+          <subject>Jozef I (Duits keizer)</subject>
+          <date>1705</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2156</identifier>
+        <datestamp>2021-10-20T09:54:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59438</identifier>
+          <identifier>NG-VG-1-2156</identifier>
+          <title>Philip, baron von Stosch, antiquair, archeoloog en verzamelaar</title>
+          <creator>Pozzi, Giovanni Battista</creator>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>schone kunsten</subject>
+          <subject>archeologie</subject>
+          <subject>Stosch, Philipp, baron van</subject>
+          <date>1717</date>
+          <type>erepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1881-A-144</identifier>
+        <datestamp>2019-01-03T15:16:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59838</identifier>
+          <identifier>RP-T-1881-A-144</identifier>
+          <title>Strandgezicht</title>
+          <creator>Saftleven, Herman</creator>
+          <contributor>Beerstraten</contributor>
+          <date>1619 - 1685</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1588</identifier>
+        <datestamp>2021-10-20T13:51:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58782</identifier>
+          <identifier>NG-VG-1-1588</identifier>
+          <title>Slag bij Steenkerken</title>
+          <creator>Smeltzing, Jan (I)</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Negenjarige Oorlog</subject>
+          <subject>Slag bij Steenkerke (1692)</subject>
+          <subject>Steenkerke</subject>
+          <subject>Henegouwen</subject>
+          <subject>Edingen</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <subject>Maria II Stuart (koningin van Engeland, Schotland en Ierland)</subject>
+          <date>1692</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1594</identifier>
+        <datestamp>2021-10-20T13:51:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58788</identifier>
+          <identifier>NG-VG-1-1594</identifier>
+          <title>Bescherming van Duinkerken, ter ere van Lodewijk XIV, koning van Frankrijk</title>
+          <creator>Nilis, Jacques</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>verdediging van Duinkerken</subject>
+          <subject>Negenjarige Oorlog</subject>
+          <subject>Duinkerke</subject>
+          <subject>Nord</subject>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1692</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1892-A-2508</identifier>
+        <datestamp>2021-10-02T12:42:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59128</identifier>
+          <identifier>RP-T-1892-A-2508</identifier>
+          <title>Gezicht op het kasteel Coebel bij Leiden</title>
+          <creator>Rademaker, Abraham</creator>
+          <subject>Kasteel Coebel</subject>
+          <date>1685 - 1735</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNjYyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

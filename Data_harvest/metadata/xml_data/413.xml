@@ -1,0 +1,489 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw4MjQw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-2848</identifier>
+        <datestamp>2019-05-09T15:21:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32197</identifier>
+          <identifier>RP-P-1907-2848</identifier>
+          <title>Landschap nabij Hanau met gezicht op Steinheim</title>
+          <title>Bey Hanau</title>
+          <title>Stadsgezichten en landschappen</title>
+          <title>Amoenissimae Aliquot Locorum In Diversis Provincijs iacentiu Effigies</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Hogenberg, Abraham</contributor>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <subject>Hanau</subject>
+          <subject>Steinheim am Main</subject>
+          <date>1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Keulen</coverage>
+          <coverage>Keulen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-1917</identifier>
+        <datestamp>2022-03-02T15:15:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32287</identifier>
+          <identifier>RP-P-1907-1917</identifier>
+          <title>Rivierlandschap met gezicht op Ruhrort</title>
+          <title>Riviergezichten in Duitsland en de Lage Landen</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <subject>Ruhrort</subject>
+          <date>1643</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.165</identifier>
+        <datestamp>2019-05-09T15:20:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32053</identifier>
+          <identifier>RP-P-OB-11.165</identifier>
+          <title>De abt en de Dood</title>
+          <title>Dodendans</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <date>ca. 1680</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1938-305</identifier>
+        <datestamp>2021-01-28T13:04:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32344</identifier>
+          <identifier>RP-P-1938-305</identifier>
+          <title>Kapittelhuis van de Saint Paul's Cathedral in Londen</title>
+          <title>Geschiedenis van de Saint Paul's Cathedral in Londen</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Hollar, Wenceslaus</contributor>
+          <subject>Saint Paul's Cathedral</subject>
+          <date>1658</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.309</identifier>
+        <datestamp>2019-05-09T15:22:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32356</identifier>
+          <identifier>RP-P-OB-11.309</identifier>
+          <title>Schepen voor de kust van Ierland</title>
+          <title>Louuing in Irland</title>
+          <title>Riviergezichten en kustgezichten</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Peeters, Bonaventura (I)</contributor>
+          <contributor>Galle, Cornelis (II)</contributor>
+          <subject>Ierland</subject>
+          <date>1651 - 1678</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.458</identifier>
+        <datestamp>2019-05-09T15:23:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32594</identifier>
+          <identifier>RP-P-OB-11.458</identifier>
+          <title>Fries met studiekoppen / Karikaturen van de koning en koningin van Tunesië</title>
+          <title>Rex et Regina de Tunis</title>
+          <title>Varie figurae et probae</title>
+          <title>Karikaturen, koppen en misvormingen naar Leonardo da Vinci</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Leonardo da Vinci</contributor>
+          <date>1645</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.466</identifier>
+        <datestamp>2019-05-13T11:40:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32606</identifier>
+          <identifier>RP-P-OB-11.466</identifier>
+          <title>Portret van Saskia met een parelsnoer in het haar</title>
+          <title>Reisbüchlein</title>
+          <title>Klein reisboek met verschillende portretten</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <subject>Uylenburgh, Saskia van</subject>
+          <date>1635</date>
+          <date>1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1964-363</identifier>
+        <datestamp>2019-09-09T16:21:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32930</identifier>
+          <identifier>RP-T-1964-363</identifier>
+          <title>Schetsblad met moors graf en vrouwenfiguur</title>
+          <title>Reisschetsen gemaakt in Indië</title>
+          <creator>Schouten, Wouter</creator>
+          <creator>Bruyn, Cornelis de</creator>
+          <subject>Indië</subject>
+          <date>ca. 1660</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.369</identifier>
+        <datestamp>2019-05-13T11:39:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32450</identifier>
+          <identifier>RP-P-OB-11.369</identifier>
+          <title>Portret van Stefano della Bella</title>
+          <title>Portretten van kunstenaars</title>
+          <title>Image de divers hommes desprit sublime</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Helt Stockade, Nicolaes van</contributor>
+          <contributor>Meyssens, Joannes</contributor>
+          <subject>Bella, Stefano della</subject>
+          <date>1649</date>
+          <date>1649 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.398</identifier>
+        <datestamp>2019-05-13T11:40:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32488</identifier>
+          <identifier>RP-P-OB-11.398</identifier>
+          <title>Portret van Inigo Jones</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <subject>Jones, Inigo</subject>
+          <date>1655</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-395</identifier>
+        <datestamp>2019-05-13T11:40:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32500</identifier>
+          <identifier>RP-P-1910-395</identifier>
+          <title>Portret van Karel Stuart, prins van Wales</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <subject>Karel II (koning van Engeland)</subject>
+          <date>1649</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1975-33</identifier>
+        <datestamp>2021-01-28T13:05:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33052</identifier>
+          <identifier>RP-P-1975-33</identifier>
+          <title>Ornamentele bokaal met staande vrouw</title>
+          <title>Ornamentele schalen en kannen</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <date>1645</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1162</identifier>
+        <datestamp>2020-08-10T21:23:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33102</identifier>
+          <identifier>RP-P-OB-1162</identifier>
+          <title>Christus voor Kajafas</title>
+          <title>De gegraveerde Passie</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1512</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.140</identifier>
+        <datestamp>2019-05-09T15:20:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32016</identifier>
+          <identifier>RP-P-OB-11.140</identifier>
+          <title>Petrus en Johannes genezen een kreupele voor de tempel</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Elsheimer, Adam</contributor>
+          <contributor>Wijngaerde, Frans van den</contributor>
+          <date>1644 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.214</identifier>
+        <datestamp>2019-05-09T15:20:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32102</identifier>
+          <identifier>RP-P-OB-11.214</identifier>
+          <title>Mercurius en Herse</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Elsheimer, Adam</contributor>
+          <date>1644 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-1924</identifier>
+        <datestamp>2019-05-09T15:22:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32307</identifier>
+          <identifier>RP-P-1907-1924</identifier>
+          <title>Gezicht op Wageningen aan de Nederrijn</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <subject>Wageningen</subject>
+          <subject>Nederrijngebied</subject>
+          <date>1625 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.341</identifier>
+        <datestamp>2019-05-09T15:22:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32393</identifier>
+          <identifier>RP-P-OB-11.341</identifier>
+          <title>Landschap met wagen voortgetrokken door paarden</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <date>1625 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1920-2715</identifier>
+        <datestamp>2019-05-09T15:24:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32766</identifier>
+          <identifier>RP-P-1920-2715</identifier>
+          <title>Vrouw met kanten hoofdkapje en bijpassende kraag</title>
+          <title>Vrouwenbusten in ronde lijsten</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <date>1647</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1954-64</identifier>
+        <datestamp>2021-01-28T13:04:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32834</identifier>
+          <identifier>RP-P-1954-64</identifier>
+          <title>Zalmvisserij</title>
+          <title>Salmon Fishing</title>
+          <title>Jachtpartijen</title>
+          <title>Severall Wayes of Hunting, Hawking, and Fishing, According to the English Manner</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Barlow, Francis</contributor>
+          <contributor>Overton, John</contributor>
+          <date>1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.615</identifier>
+        <datestamp>2019-05-09T15:25:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32871</identifier>
+          <identifier>RP-P-OB-11.615</identifier>
+          <title>Witte hond</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Matham, Adriaen</contributor>
+          <date>1649</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw4MjYw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

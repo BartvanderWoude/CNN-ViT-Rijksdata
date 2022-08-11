@@ -1,0 +1,519 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNTk0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2015</identifier>
+        <datestamp>2021-10-20T09:53:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59305</identifier>
+          <identifier>NG-VG-1-2015</identifier>
+          <title>Johan Willem, keurvorst van de Palts, na de dood van keizer Jozef I aangesteld als stadhouder van Schwaben, Frankenland en de Palts</title>
+          <creator>Müller, Philipp Heinrich</creator>
+          <subject>Palts</subject>
+          <subject>Zwaben</subject>
+          <subject>Frankenland</subject>
+          <subject>Johan Willem, keurvorst van de Palts</subject>
+          <date>1711</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2024</identifier>
+        <datestamp>2021-10-20T09:53:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59311</identifier>
+          <identifier>NG-VG-1-2024</identifier>
+          <title>Frederik Augustus, koning van Polen en keurvorst van Saksen aangesteld tot stadhouder van het Roomse Rijk</title>
+          <creator>Holland, Johann Lorenz</creator>
+          <subject>Augustus II de Sterke (koning van Polen)</subject>
+          <date>1711</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dresden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2275</identifier>
+        <datestamp>2021-10-20T09:55:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59557</identifier>
+          <identifier>NG-VG-1-2275</identifier>
+          <title>Handhaven van de vrede door Maria Elisabeth, landvoogdes der zuidelijke Nederlanden</title>
+          <creator>Harrewijn, François</creator>
+          <contributor>Roëttiers, Jacques (II)</contributor>
+          <subject>Maria Elisabeth (aartshertogin van Oostenrijk)</subject>
+          <date>1736</date>
+          <type>nieuwjaarspenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2281</identifier>
+        <datestamp>2021-10-20T09:55:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59563</identifier>
+          <identifier>NG-VG-1-2281</identifier>
+          <title>Openen der Westfriese muntbus onder muntmeester J. Knol, penning vereerd aan de burgemeesters der westfriese steden</title>
+          <creator>Knol, Jan</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>geld-, krediet-, bankwezen en belastingen</subject>
+          <subject>openen der muntbussen</subject>
+          <subject>West-Friesland</subject>
+          <subject>Knol, Jan</subject>
+          <date>1736</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Friesland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11619</identifier>
+        <datestamp>2021-10-02T12:43:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59888</identifier>
+          <identifier>BK-NM-11619</identifier>
+          <title>Stoel van palissander, bekleed met kalfsleer. Kolompoten met vier sporten; achterstijlen bekroond door schildhoudende leeuwen.</title>
+          <creator>anoniem</creator>
+          <date>ca. 1640 - ca. 1650</date>
+          <type>meubilair</type>
+          <type>zitmeubel</type>
+          <type>stoel</type>
+          <format>hout</format>
+          <format>palissanderhout</format>
+          <format>kalfsleer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1714-A</identifier>
+        <datestamp>2021-10-20T13:52:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58907</identifier>
+          <identifier>NG-VG-1-1714-A</identifier>
+          <title>Dertig koopvaardijschepen en drie oorlogsschepen door de Fransen bij Texel ingenomen of verbrand</title>
+          <creator>Mauger, Jean</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Negenjarige Oorlog</subject>
+          <subject>Verovering van schepen bij Texel</subject>
+          <subject>Texel</subject>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1699 - 1703</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1719</identifier>
+        <datestamp>2021-10-20T13:52:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58913</identifier>
+          <identifier>NG-VG-1-1719</identifier>
+          <title>Vijfentwintigjarig huwelijk van Franco van Bleizwijk en Anna Hogenhouk</title>
+          <creator>anoniem</creator>
+          <subject>sociale geschiedenis</subject>
+          <subject>huwelijk</subject>
+          <subject>25-jarig jubileum</subject>
+          <subject>Bleiswijck, Franco van</subject>
+          <subject>Hogenhouk, Anna</subject>
+          <date>1696</date>
+          <type>familiepenning</type>
+          <type>huwelijksjubileumpenning 25</type>
+          <type>huwelijkspenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1762</identifier>
+        <datestamp>2021-10-20T13:53:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58956</identifier>
+          <identifier>NG-VG-1-1762</identifier>
+          <title>Vrede van Rijswijk, tot stand gekomen door de bemiddeling van Zweden</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>vrede</subject>
+          <subject>diplomatieke betrekkingen</subject>
+          <subject>bemiddelingen door Zweden</subject>
+          <subject>Vrede van Rijswijk (1697)</subject>
+          <subject>Rijswijk</subject>
+          <date>1697</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2124</identifier>
+        <datestamp>2021-10-20T09:54:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59406</identifier>
+          <identifier>NG-VG-1-2124</identifier>
+          <title>Verovering van Temesvar</title>
+          <creator>Vestner, Georg Wilhelm</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Oorlog tegen de Turken (1716-1718)</subject>
+          <subject>Inname van Temesvár (1716)</subject>
+          <subject>Timisoara</subject>
+          <subject>Roemenië</subject>
+          <subject>Karel VI (keizer van het Heilige Roomse Rijk)</subject>
+          <date>1716</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2130</identifier>
+        <datestamp>2021-10-20T09:54:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59412</identifier>
+          <identifier>NG-VG-1-2130</identifier>
+          <title>Karel XII van Zweden</title>
+          <creator>Müller, Philipp Heinrich</creator>
+          <subject>Karel XII (koning van Zweden)</subject>
+          <date>1719</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2175</identifier>
+        <datestamp>2021-10-20T09:54:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59456</identifier>
+          <identifier>NG-VG-1-2175</identifier>
+          <title>Het moedwillig laten zinken van het schip 't Groene Bosch door schipper Christoffel Guding van Drontheim</title>
+          <creator>anoniem</creator>
+          <subject>rechtsgeschiedenis</subject>
+          <subject>scheepvaart</subject>
+          <subject>zinken van schip</subject>
+          <subject>misdaad</subject>
+          <subject>Guding van Drontheim, Christoffel</subject>
+          <date>1724</date>
+          <type>historiepenning</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2181</identifier>
+        <datestamp>2021-10-20T09:54:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59462</identifier>
+          <identifier>NG-VG-1-2181</identifier>
+          <title>Vijftigjarig huwelijk van Pieter van Loon en Agneta Graswinckel, ter ere van de zevende keer dat een dergelijk feest in het geslacht van Loon wordt gevierd</title>
+          <creator>anoniem</creator>
+          <subject>sociale geschiedenis</subject>
+          <subject>huwelijk</subject>
+          <subject>50-jarig jubileum</subject>
+          <subject>Loon, Pieter van (1641)</subject>
+          <subject>Graswinckel, Agneta</subject>
+          <date>1722</date>
+          <type>familiepenning</type>
+          <type>huwelijkspenning</type>
+          <type>huwelijksjubileumpenning 50</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1812</identifier>
+        <datestamp>2021-12-20T13:45:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59007</identifier>
+          <identifier>NG-VG-1-1812</identifier>
+          <title>Agneta Block (1629-1704), die als eerste in Nederland een ananas wist op te kweken</title>
+          <creator>Boskam, Jan</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>agrarische geschiedenis</subject>
+          <subject>landbouw</subject>
+          <subject>ananas</subject>
+          <subject>Flines-Blok, Agneta de</subject>
+          <description>De meeste munten hebben een zijde waarop een portret staat, meestal van een vorst of vorstin. Daarnaast zijn er altijd ook portretpenningen gemaakt, als eerbetoon, ter opluistering van een belangrijke gebeurtenis of als herinnering. Vaak waren ze bestemd voor een algemeen publiek, soms bleven ze binnen de familie. Hoe dan ook probeerden de medailleurs de portretten zo goed mogelijk te laten lijken. Daarom worden ze als apart genre gezien.</description>
+          <date>1700</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijmegen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1971</identifier>
+        <datestamp>2021-10-20T09:52:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59262</identifier>
+          <identifier>NG-VG-1-1971</identifier>
+          <title>Slag bij Oudenaarde en inname van Rijssel</title>
+          <creator>Wermuth, Christian</creator>
+          <contributor>Junker, Johann Georg</contributor>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Inname van Rijssel (1708)</subject>
+          <subject>Slag bij Oudenaarde (1708)</subject>
+          <subject>Lille</subject>
+          <subject>Nord</subject>
+          <subject>Oudenaarde</subject>
+          <subject>Sint-Martens-Leerne</subject>
+          <date>1708</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Gotha</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1951-58</identifier>
+        <datestamp>2020-04-17T09:53:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59606</identifier>
+          <identifier>RP-T-1951-58</identifier>
+          <title>Huis te Regteren</title>
+          <creator>Rademaker, Abraham</creator>
+          <subject>Kasteel Rechteren</subject>
+          <date>1685 - 1735</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1927</identifier>
+        <datestamp>2021-10-20T09:51:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59157</identifier>
+          <identifier>NG-VG-1-1927</identifier>
+          <title>Beieren onderwerpt zich aan keizer Leopold I</title>
+          <creator>Kleinert, Friedrich</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Spaanse Successieoorlog</subject>
+          <subject>Beieren</subject>
+          <subject>Augsburg</subject>
+          <subject>Ulm</subject>
+          <subject>Leopold I (keizer van Duitsland)</subject>
+          <date>1704</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1953-B</identifier>
+        <datestamp>2021-10-20T09:52:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59209</identifier>
+          <identifier>NG-VG-1-1953-B</identifier>
+          <title>Slag bij Ramillies</title>
+          <creator>Croker, John</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Slag bij Ramillies (1706)</subject>
+          <subject>Ramillies-Offus</subject>
+          <subject>Brabant</subject>
+          <subject>Anna Stuart (koningin van Engeland en Schotland)</subject>
+          <date>1706</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1940-602A</identifier>
+        <datestamp>2020-12-03T10:02:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59724</identifier>
+          <identifier>RP-T-1940-602A</identifier>
+          <title>Schets van een tapir</title>
+          <creator>Royen, Willem Hendrik Wilhelmus van</creator>
+          <date>1706</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-228</identifier>
+        <datestamp>2019-01-03T16:42:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59800</identifier>
+          <identifier>RP-T-00-228</identifier>
+          <title>Romaanse kerk</title>
+          <creator>Ruysdael, Salomon van</creator>
+          <contributor>Roghman, Roelant</contributor>
+          <date>1610 - 1670</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1859</identifier>
+        <datestamp>2021-10-20T13:54:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59053</identifier>
+          <identifier>NG-VG-1-1859</identifier>
+          <title>Anna, koningin van Engeland, shilling geslagen van het in de zeeslag bij Vigo veroverde zilver</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Zeeslag in de baai van Vigo</subject>
+          <subject>Haags verbond, groot</subject>
+          <subject>Vigo</subject>
+          <subject>Galicië</subject>
+          <subject>Anna Stuart (koningin van Engeland en Schotland)</subject>
+          <date>1703</date>
+          <type>munt</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNTk2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

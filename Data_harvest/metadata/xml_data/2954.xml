@@ -1,0 +1,498 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTA2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1822</identifier>
+        <datestamp>2021-10-01T21:10:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4882</identifier>
+          <identifier>SK-A-1822</identifier>
+          <title>Het laatste gebed van Johan van Oldenbarnevelt</title>
+          <creator>Opzoomer, Simon</creator>
+          <subject>historiestuk</subject>
+          <subject>politieke geschiedenis</subject>
+          <subject>Oldenbarnevelt, Johan van</subject>
+          <date>1840 - 1878</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4605</identifier>
+        <datestamp>2021-10-01T21:12:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4971</identifier>
+          <identifier>SK-A-4605</identifier>
+          <title>Joannes Vollenhove (1631-1708). Predikant en dichter te Den Haag</title>
+          <creator>Halen, Arnoud van</creator>
+          <contributor>Blois, Abraham de</contributor>
+          <subject>Vollenhove, Joannes</subject>
+          <date>1700 - 1732</date>
+          <type>schilderij</type>
+          <type>grisaille</type>
+          <format>blik</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1978-127-11860-W</identifier>
+        <datestamp>2021-07-15T15:42:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5141</identifier>
+          <identifier>NG-1978-127-11860-W</identifier>
+          <title>Bord uit V.O.C.-schip de 'Witte Leeuw'</title>
+          <creator>anoniem</creator>
+          <subject>bord (vaatwerk)</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>voor 1613</date>
+          <type>bord (vaatwerk)</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Shantou</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3883</identifier>
+        <datestamp>2021-10-01T21:19:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5247</identifier>
+          <identifier>SK-A-3883</identifier>
+          <title>Filosoof met spiegel</title>
+          <creator>Ribera, Jusepe de</creator>
+          <subject>figuurvoorstelling</subject>
+          <date>1600 - 1652</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1978-127-11255-W</identifier>
+        <datestamp>2021-07-19T12:55:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4473</identifier>
+          <identifier>NG-1978-127-11255-W</identifier>
+          <title>Fragment kom uit V.O.C.-schip de 'Witte Leeuw'</title>
+          <creator>anoniem</creator>
+          <subject>kom</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>voor 1613</date>
+          <type>kom</type>
+          <type>scherf</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jingdezhen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-6577-A</identifier>
+        <datestamp>2022-03-15T13:15:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.3442</identifier>
+          <identifier>AK-NM-6577-A</identifier>
+          <title>Theebus</title>
+          <creator>anoniem</creator>
+          <subject>Royer, Jean Theodore</subject>
+          <date>ca. 1700 - ca. 1799</date>
+          <type>theebus</type>
+          <format>steengoed</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-1972-198-A</identifier>
+        <datestamp>2021-10-20T14:15:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.3491</identifier>
+          <identifier>AK-RBK-1972-198-A</identifier>
+          <title>Vierkante fles met personen in een landschap, een bloemenvaas en een bloeiende plant bij een rots</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1660 - ca. 1680</date>
+          <type>fles</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Arita</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-1972-210</identifier>
+        <datestamp>2022-03-22T11:56:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.3497</identifier>
+          <identifier>AK-RBK-1972-210</identifier>
+          <title>Fles met mensen in een landschap, bloemranken en tulpmotieven</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1655 - ca. 1680</date>
+          <type>fles</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Arita</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-15941-C</identifier>
+        <datestamp>2021-10-01T20:56:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4016</identifier>
+          <identifier>AK-RBK-15941-C</identifier>
+          <title>Kop en schotel met een Chinese jonk en het wapen van Amsterdam</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>kop-en-schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-1962-58</identifier>
+        <datestamp>2022-04-04T11:06:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.3390</identifier>
+          <identifier>AK-RBK-1962-58</identifier>
+          <title>Gelobde kom met pioen, granaatappel en schaafstro</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1670 - ca. 1690</date>
+          <type>kom</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Arita</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-902</identifier>
+        <datestamp>2021-10-01T21:07:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4725</identifier>
+          <identifier>SK-A-902</identifier>
+          <title>Anna Maria Hoeufft (1646-1715). Echtgenote van Jan Boudaen Courten</title>
+          <creator>Netscher, Caspar</creator>
+          <contributor>Dijk, Philip van</contributor>
+          <subject>portret</subject>
+          <subject>Hoeufft, Anna Maria (1646-1715)</subject>
+          <date>1690 - 1753</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-13371-A</identifier>
+        <datestamp>2022-03-22T15:03:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.3913</identifier>
+          <identifier>AK-NM-13371-A</identifier>
+          <title>Bord met een gekroond familiewapen en vier bloemtakken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1725 - ca. 1749</date>
+          <type>bord (vaatwerk)</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4263</identifier>
+        <datestamp>2022-06-01T13:10:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4622</identifier>
+          <identifier>SK-A-4263</identifier>
+          <title>Schilderij op een klavecimbeldeksel met Bacchus en Cybele</title>
+          <title>Schilderij op een klavecimbeldeksel met De dood van Euridice</title>
+          <creator>Momper, Joos de (II)</creator>
+          <subject>landschap</subject>
+          <date>1590 - 1675</date>
+          <type>schilderij</type>
+          <type>klavecimbeldeksel</type>
+          <type>muziekinstrument</type>
+          <type>toetsinstrument</type>
+          <type>snaarinstrument</type>
+          <type>klavecimbel</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3334</identifier>
+        <datestamp>2022-02-17T15:42:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4874</identifier>
+          <identifier>SK-A-3334</identifier>
+          <title>De dienstmaagd</title>
+          <creator>Odekercken, Willem van</creator>
+          <subject>genrestuk</subject>
+          <date>1631 - 1677</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2348</identifier>
+        <datestamp>2022-04-04T19:11:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6604</identifier>
+          <identifier>SK-A-2348</identifier>
+          <title>Een paardenstal</title>
+          <creator>Wouwerman, Philips</creator>
+          <subject>diervoorstelling</subject>
+          <date>ca. 1665 - 1668</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1978-127-11254-W</identifier>
+        <datestamp>2021-10-06T16:42:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4467</identifier>
+          <identifier>NG-1978-127-11254-W</identifier>
+          <title>Fragment kom uit V.O.C.-schip de 'Witte Leeuw'</title>
+          <creator>anoniem</creator>
+          <subject>kom</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>voor 1613</date>
+          <type>kom</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jingdezhen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4588</identifier>
+        <datestamp>2021-10-01T21:12:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4979</identifier>
+          <identifier>SK-A-4588</identifier>
+          <title>Willem Ogier (1618-89). Toneeldichter te Antwerpen</title>
+          <creator>Halen, Arnoud van</creator>
+          <contributor>Bouttats, Gaspar</contributor>
+          <subject>Ogier, Willem</subject>
+          <date>1700 - 1732</date>
+          <type>schilderij</type>
+          <type>grisaille</type>
+          <format>blik</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4712</identifier>
+        <datestamp>2021-10-01T21:13:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5032</identifier>
+          <identifier>SK-A-4712</identifier>
+          <title>Prins Willem I verpleegd door zijn echtgenote Charlotte de Bourbon na de mislukte moordaanslag door Jean Jauregui te Antwerpen in 1582</title>
+          <creator>Pieneman, Nicolaas</creator>
+          <subject>ouders met hun kinderen</subject>
+          <subject>historiestuk</subject>
+          <subject>Koninklijk Huis</subject>
+          <subject>Aanslag op Willem I door Jean de Jauregui</subject>
+          <subject>Willem I (prins van Oranje)</subject>
+          <subject>Bourbon, Charlotte de</subject>
+          <subject>Jauregui, Jean de</subject>
+          <date>1840</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1252</identifier>
+        <datestamp>2022-02-28T14:01:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4765</identifier>
+          <identifier>SK-A-1252</identifier>
+          <title>Jacoba Bontemantel (geb 1643). Dochter van de Amsterdamse koopman Frederik Bontemantel en Agatha Hasselaer met wie hij in 1642 trouwde</title>
+          <creator>anoniem</creator>
+          <subject>Bontemantel, Jacoba</subject>
+          <date>1644</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1747-A</identifier>
+        <datestamp>2022-01-22T21:38:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5111</identifier>
+          <identifier>SK-A-1747-A</identifier>
+          <title>Portret van Cornelis Samuelsz. van Esch (1594/95-1656)</title>
+          <creator>anoniem</creator>
+          <contributor>Poelenburch, Cornelis van</contributor>
+          <subject>portret</subject>
+          <date>1632</date>
+          <type>schilderij</type>
+          <format>koper</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTA4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxOTE0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1880-A-4147</identifier>
+        <datestamp>2020-08-18T23:43:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49406</identifier>
+          <identifier>RP-P-1880-A-4147</identifier>
+          <title>Ornamentele lijst met schrijvende mensen</title>
+          <title>Titelpagina voor: Henri Estienne, Lexicon Graecolatium (...), 1616.</title>
+          <creator>Monogrammist GL (graveur)</creator>
+          <creator>anoniem</creator>
+          <contributor>Aubert, Petrus</contributor>
+          <date>1616</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Genève</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-303</identifier>
+        <datestamp>2021-10-02T12:19:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49747</identifier>
+          <identifier>RP-T-1948-303</identifier>
+          <title>Salome ontvangt het hoofd van Johannes de Doper</title>
+          <creator>Gambara, Lattanzio</creator>
+          <date>1550 - 1574</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.053(R)</identifier>
+        <datestamp>2020-04-20T12:10:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48727</identifier>
+          <identifier>RP-P-OB-22.053(R)</identifier>
+          <title>Minerva bezoekt Afgunst</title>
+          <title>Pallas &amp; Invidia</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.059(R)</identifier>
+        <datestamp>2020-04-20T12:11:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48739</identifier>
+          <identifier>RP-P-OB-22.059(R)</identifier>
+          <title>Dood van Pentheus</title>
+          <title>Pentheus à Bacchis discerpitur</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-30.928</identifier>
+        <datestamp>2019-05-22T12:33:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49077</identifier>
+          <identifier>RP-P-OB-30.928</identifier>
+          <title>Triomftocht van Julius Caesar</title>
+          <creator>Andreani, Andrea</creator>
+          <contributor>Malpizzi, Bernardo</contributor>
+          <contributor>Mantegna, Andrea</contributor>
+          <date>1599</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Mantua</coverage>
+          <coverage>Mantua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.178</identifier>
+        <datestamp>2019-10-16T05:20:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48925</identifier>
+          <identifier>RP-P-OB-22.178</identifier>
+          <title>Heilige Matteüs</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Geißler, Valentin</contributor>
+          <date>1552</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.269</identifier>
+        <datestamp>2020-09-09T23:21:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49200</identifier>
+          <identifier>RP-P-OB-22.269</identifier>
+          <title>Besnijdenis van Christus</title>
+          <title>Leven van Christus</title>
+          <creator>anoniem</creator>
+          <creator>Wechtlin, Hans (I)</creator>
+          <date>1490 - 1526</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-531</identifier>
+        <datestamp>2020-08-19T01:35:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49354</identifier>
+          <identifier>RP-P-1988-531</identifier>
+          <title>Opstanding van Christus</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <contributor>Guldenmund, Hans</contributor>
+          <date>1536</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1891-A-2475(V)</identifier>
+        <datestamp>2021-10-02T12:19:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49701</identifier>
+          <identifier>RP-T-1891-A-2475(V)</identifier>
+          <title>Schetsen van een krijger en een gedeelte van een Kruisafname</title>
+          <date>1534 - 1606</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2340</identifier>
+        <datestamp>2021-01-28T13:28:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49028</identifier>
+          <identifier>RP-P-1906-2340</identifier>
+          <title>Portret van Alexander Pope op 57-jarige leeftijd</title>
+          <creator>Faber, John (II)</creator>
+          <contributor>Loo, Jean Baptiste van</contributor>
+          <contributor>Faber, John (II)</contributor>
+          <contributor>Faber, John (II)</contributor>
+          <contributor>Murray, William (1e graaf van Mansfield)</contributor>
+          <subject>Pope, Alexander</subject>
+          <date>1744 - 1756</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.309</identifier>
+        <datestamp>2020-09-10T00:20:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49254</identifier>
+          <identifier>RP-P-OB-22.309</identifier>
+          <title>David met Abner toont Saul het hoofd van Goliath</title>
+          <title>Bijbelse voorstellingen</title>
+          <creator>anoniem</creator>
+          <creator>Woensam, Anton von</creator>
+          <date>1529</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1955-112(R)</identifier>
+        <datestamp>2021-10-02T12:19:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49601</identifier>
+          <identifier>RP-T-1955-112(R)</identifier>
+          <title>Heilige Margaretha met de draak in een landschap</title>
+          <creator>Cambiaso, Giovanni</creator>
+          <date>1505 - 1579</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1951-180</identifier>
+        <datestamp>2021-10-02T12:19:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49607</identifier>
+          <identifier>RP-T-1951-180</identifier>
+          <title>Bewegende figuren</title>
+          <creator>Cambiaso, Luca</creator>
+          <date>1540 - 1620</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.132</identifier>
+        <datestamp>2019-10-16T22:29:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48879</identifier>
+          <identifier>RP-P-OB-22.132</identifier>
+          <title>Lot en zijn dochters verlaten het brandende Sodom</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Geißler, Valentin</contributor>
+          <date>1552</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3722-A</identifier>
+        <datestamp>2021-10-02T12:18:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49148</identifier>
+          <identifier>BK-NM-3722-A</identifier>
+          <title>Fragment oosterse textiel</title>
+          <date>ca. 1800 - ca. 1850</date>
+          <type>zijdeweefsel</type>
+          <format>zijde</format>
+          <format>katoen</format>
+          <format>filégouddraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Indië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.362</identifier>
+        <datestamp>2020-08-19T00:16:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49400</identifier>
+          <identifier>RP-P-OB-22.362</identifier>
+          <title>Christus en Farizeeërs</title>
+          <title>Bijbelillustraties</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1590</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-26</identifier>
+        <datestamp>2019-09-10T11:17:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49655</identifier>
+          <identifier>RP-T-1953-26</identifier>
+          <title>Fragment van een tekening voorstellende de heilige Hieronymus</title>
+          <creator>Campagnola, Domenico</creator>
+          <date>1510 - 1564</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.056(R)</identifier>
+        <datestamp>2020-04-20T12:11:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48733</identifier>
+          <identifier>RP-P-OB-22.056(R)</identifier>
+          <title>Diana en Actaeon</title>
+          <title>Actaeon in ceruum</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.227</identifier>
+        <datestamp>2019-10-16T07:27:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48979</identifier>
+          <identifier>RP-P-OB-22.227</identifier>
+          <title>Thisbe vlucht voor de leeuwin bij de bron</title>
+          <creator>anoniem</creator>
+          <creator>Solis, Virgilius</creator>
+          <date>1524 - 1612</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-463</identifier>
+        <datestamp>2021-07-29T14:22:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49300</identifier>
+          <identifier>RP-P-1988-463</identifier>
+          <title>Voorlezen van het vonnis</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Hupfuff, Matthias</contributor>
+          <date>1518</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxOTE2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

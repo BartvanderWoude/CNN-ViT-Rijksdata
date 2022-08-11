@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3MzQw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2016</identifier>
+        <datestamp>2021-11-03T16:58:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25922</identifier>
+          <identifier>BK-KOG-2016</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1966-18</identifier>
+        <datestamp>2021-10-02T02:00:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24979</identifier>
+          <identifier>BK-1966-18</identifier>
+          <title>Zelfportret</title>
+          <creator>Seuntjes, Nicolaas</creator>
+          <date>ca. 1735</date>
+          <type>beeldhouwwerk</type>
+          <format>ivoor</format>
+          <format>lindehout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12490</identifier>
+        <datestamp>2021-10-02T11:33:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25197</identifier>
+          <identifier>BK-NM-12490</identifier>
+          <title>Maria met kind</title>
+          <creator>Bellano, Bartolomeo</creator>
+          <date>1475 - 1500</date>
+          <type>beeldhouwwerk</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11882-A</identifier>
+        <datestamp>2021-10-02T11:34:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25321</identifier>
+          <identifier>BK-NM-11882-A</identifier>
+          <title>Verrijzenis</title>
+          <creator>Monogrammist IFP</creator>
+          <contributor>Monogrammist IFP</contributor>
+          <date>ca. 1500</date>
+          <type>beeldhouwwerk</type>
+          <type>plaquette</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-VBR-200</identifier>
+        <datestamp>2021-10-02T11:36:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25594</identifier>
+          <identifier>BK-VBR-200</identifier>
+          <title>Bedelaar</title>
+          <creator>Troger, Simon</creator>
+          <date>na 1726 - voor 1768</date>
+          <type>beeldhouwwerk</type>
+          <format>ivoor</format>
+          <format>hout</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1976-46-B</identifier>
+        <datestamp>2022-06-01T08:37:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25722</identifier>
+          <identifier>BK-1976-46-B</identifier>
+          <title>Marmeren Putti</title>
+          <creator>Delvaux, Laurent</creator>
+          <date>1746 - 1748</date>
+          <type>beeldhouwwerk</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7345</identifier>
+        <datestamp>2022-05-19T13:55:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24856</identifier>
+          <identifier>BK-NM-7345</identifier>
+          <title>Gitaar spelende vrouw, naaldenkoker</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1799</date>
+          <type>naaldenkoker</type>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16940</identifier>
+        <datestamp>2021-10-02T11:33:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25227</identifier>
+          <identifier>BK-16940</identifier>
+          <title>Borstbeeld van een kind</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1500</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+          <coverage>Padua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16952-B</identifier>
+        <datestamp>2021-10-02T11:34:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25298</identifier>
+          <identifier>BK-16952-B</identifier>
+          <title>Mascaron</title>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1959-32-B</identifier>
+        <datestamp>2022-06-01T08:36:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24879</identifier>
+          <identifier>BK-1959-32-B</identifier>
+          <title>De Herfst</title>
+          <creator>Logteren, Ignatius van</creator>
+          <date>1717</date>
+          <type>beeldhouwwerk</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16946</identifier>
+        <datestamp>2021-10-02T11:34:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25275</identifier>
+          <identifier>BK-16946</identifier>
+          <title>Knaap</title>
+          <date>1500 - 1525</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1272-G</identifier>
+        <datestamp>2021-10-02T11:36:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25642</identifier>
+          <identifier>BK-KOG-1272-G</identifier>
+          <title>Mannelijke heilige</title>
+          <creator>anoniem</creator>
+          <date>ca. 1450 - ca. 1500</date>
+          <type>beeldhouwwerk</type>
+          <format>pijpaarde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9352</identifier>
+        <datestamp>2021-12-16T11:35:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24902</identifier>
+          <identifier>BK-NM-9352</identifier>
+          <title>Schets van zwevende putto</title>
+          <creator>Xavery, Jan Baptist</creator>
+          <date>ca. 1725 - ca. 1750</date>
+          <type>beeldhouwwerk</type>
+          <format>terracotta</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1953-21</identifier>
+        <datestamp>2021-10-02T02:01:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24996</identifier>
+          <identifier>BK-1953-21</identifier>
+          <title>Neptunus</title>
+          <creator>Wall, Willem Hendrik van der</creator>
+          <date>1757</date>
+          <type>beeldhouwwerk</type>
+          <format>terracotta</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16975</identifier>
+        <datestamp>2021-10-02T11:33:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25179</identifier>
+          <identifier>BK-16975</identifier>
+          <title>Lunette, waarin Maria met kind tussen cherubs</title>
+          <creator>Ferruci da Fiesole, Francesco di Simone</creator>
+          <date>1437 - 1493</date>
+          <type>beeldhouwwerk</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1966-29</identifier>
+        <datestamp>2021-10-02T11:36:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25665</identifier>
+          <identifier>BK-1966-29</identifier>
+          <title>Beeldje, fragment van de kleding</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <date>ca. 1425 - ca. 1550</date>
+          <type>beeldhouwwerk</type>
+          <format>pijpaarde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18801</identifier>
+        <datestamp>2022-01-25T08:53:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25074</identifier>
+          <identifier>BK-18801</identifier>
+          <title>De Hoop</title>
+          <creator>Lacomblé, Eugène</creator>
+          <date>1800 - 1900</date>
+          <type>beeldhouwwerk</type>
+          <format>klei</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17231</identifier>
+        <datestamp>2021-10-02T11:33:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25203</identifier>
+          <identifier>BK-17231</identifier>
+          <title>Maria met kind, kniestuk</title>
+          <creator>Rosselino, A.</creator>
+          <date>ca. 1500</date>
+          <type>beeldhouwwerk</type>
+          <format>stucwerk</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15499</identifier>
+        <datestamp>2021-10-02T11:36:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25690</identifier>
+          <identifier>BK-15499</identifier>
+          <title>Corpus Christi</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1800</date>
+          <type>beeldhouwwerk</type>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7249</identifier>
+        <datestamp>2021-11-03T16:57:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25823</identifier>
+          <identifier>BK-NM-7249</identifier>
+          <title>Sleutel met gekroond monogram</title>
+          <date>1675 - 1700</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3MzYw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

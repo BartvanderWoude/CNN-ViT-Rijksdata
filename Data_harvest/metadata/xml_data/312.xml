@@ -1,0 +1,449 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MjIw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1775</identifier>
+        <datestamp>2019-05-29T14:37:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33979</identifier>
+          <identifier>RP-P-OB-1775</identifier>
+          <title>Een familie verrast door de Dood</title>
+          <creator>anoniem</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1523 - 1599</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-925</identifier>
+        <datestamp>2019-05-13T11:42:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34149</identifier>
+          <identifier>RP-P-OB-925</identifier>
+          <title>Boerenpaar</title>
+          <creator>Meester van het Amsterdamse Kabinet</creator>
+          <contributor>Meester van het Amsterdamse Kabinet</contributor>
+          <date>1470 - 1475</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1348</identifier>
+        <datestamp>2019-05-09T15:28:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33271</identifier>
+          <identifier>RP-P-OB-1348</identifier>
+          <title>Graflegging</title>
+          <title>De kleine Passie</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1509 - 1510</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1627</identifier>
+        <datestamp>2022-03-02T15:15:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33701</identifier>
+          <identifier>RP-P-OB-1627</identifier>
+          <title>Christus wordt door Pilatus aan het volk getoond (Ecce Homo)</title>
+          <title>De kleine Passie</title>
+          <creator>Leyden, Lucas van</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1521</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-616</identifier>
+        <datestamp>2019-05-09T15:31:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33750</identifier>
+          <identifier>RP-P-1904-616</identifier>
+          <title>De apostel Philippus</title>
+          <creator>anoniem</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1508 - 1583</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1252</identifier>
+        <datestamp>2019-05-09T15:27:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33199</identifier>
+          <identifier>RP-P-OB-1252</identifier>
+          <title>Drie boeren in gesprek</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1495 - 1499</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1258</identifier>
+        <datestamp>2019-05-09T15:27:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33205</identifier>
+          <identifier>RP-P-OB-1258</identifier>
+          <title>De doedelzakspeler</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1514</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1449</identifier>
+        <datestamp>2019-05-29T14:36:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33371</identifier>
+          <identifier>RP-P-OB-1449</identifier>
+          <title>De Heilige Hiëronymus schrijvend in een grot</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1512</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1580</identifier>
+        <datestamp>2020-05-06T11:46:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33650</identifier>
+          <identifier>RP-P-OB-1580</identifier>
+          <title>Kaïn doodt Abel</title>
+          <creator>Leyden, Lucas van</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1520</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1658</identifier>
+        <datestamp>2020-05-06T11:47:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33721</identifier>
+          <identifier>RP-P-OB-1658</identifier>
+          <title>Madonna op de maansikkel</title>
+          <creator>Leyden, Lucas van</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1510 - 1514</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1723</identifier>
+        <datestamp>2020-05-06T11:47:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33929</identifier>
+          <identifier>RP-P-OB-1723</identifier>
+          <title>Venus en Cupido</title>
+          <title>Venus la tresbelle deese damours</title>
+          <creator>Leyden, Lucas van</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1528</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1949-342</identifier>
+        <datestamp>2019-05-09T15:31:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33935</identifier>
+          <identifier>RP-P-1949-342</identifier>
+          <title>Wandelend paar</title>
+          <creator>Muller, Jan Harmensz.</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1581 - 1628</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1428</identifier>
+        <datestamp>2019-05-09T15:28:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33348</identifier>
+          <identifier>RP-P-OB-1428</identifier>
+          <title>Hemelvaart en kroning van Maria</title>
+          <title>Leven van Maria</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1510</date>
+          <date>1511</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1709</identifier>
+        <datestamp>2022-02-24T10:29:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33912</identifier>
+          <identifier>RP-P-OB-1709</identifier>
+          <title>Maria Magdalena op de wolken</title>
+          <creator>Leyden, Lucas van</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <description>Maria Magdalena zalfde de voeten van Jezus en is dus herkenbaar aan de zalfpot. Toen zij lang als kluizenares leefde zou zij iedere dag meermaals door engelen naar de hemel zijn gebracht. Lucas’ verbeelding hiervan is nogal ongebruikelijk. Ze stijgt geheel op eigen kracht op, zonder hulp van engelen. Deze kleine prent moet al vroeg een grote populariteit hebben genoten, want er bestaan vijf verschillende
+gegraveerde kopieën van.</description>
+          <date>1518</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6236D</identifier>
+        <datestamp>2020-05-06T11:47:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34080</identifier>
+          <identifier>RP-P-BI-6236D</identifier>
+          <title>Koningen Abia, Asa en Josafat</title>
+          <title>De twaalf koningen van Israël</title>
+          <creator>Leyden, Lucas van</creator>
+          <contributor>Cornelisz. van Oostsanen, Jacob</contributor>
+          <date>1518 - 1522</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1215</identifier>
+        <datestamp>2019-05-09T15:27:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33156</identifier>
+          <identifier>RP-P-OB-1215</identifier>
+          <title>De Heilige Sebastiaan</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1499 - 1503</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1982-49</identifier>
+        <datestamp>2021-11-03T23:05:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33886</identifier>
+          <identifier>BK-1982-49</identifier>
+          <title>Katoenen kinderonderbroek, versierd met geborduurde bloemetjes en afgezet met een machinaal kanten strookje</title>
+          <creator>Boissevain-Brantjes, mevrouw J.M.J.C.</creator>
+          <date>ca. 1925</date>
+          <type>kinderkleding</type>
+          <type>meisjeskleding</type>
+          <type>onderbroek</type>
+          <format>katoen</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Indonesië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1781</identifier>
+        <datestamp>2019-05-09T15:31:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33985</identifier>
+          <identifier>RP-P-OB-1781</identifier>
+          <title>De vlucht naar Egypte</title>
+          <title>Het leven van Maria</title>
+          <creator>Monogrammist L (graveur, Nederland)</creator>
+          <contributor>Dürer, Albrecht</contributor>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1500 - 1524</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1652</identifier>
+        <datestamp>2021-12-07T15:54:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34057</identifier>
+          <identifier>RP-P-OB-1652</identifier>
+          <title>Golgotha</title>
+          <creator>Leyden, Lucas van</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1517</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1947-114</identifier>
+        <datestamp>2021-10-02T11:55:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33179</identifier>
+          <identifier>RP-P-1947-114</identifier>
+          <title>Ontvoering door het zeemonster</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1496 - 1500</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MjQw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

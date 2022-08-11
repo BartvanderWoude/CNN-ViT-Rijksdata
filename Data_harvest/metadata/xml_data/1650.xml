@@ -1,0 +1,451 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjk4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1959-13-A</identifier>
+        <datestamp>2021-10-02T00:13:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16363</identifier>
+          <identifier>BK-1959-13-A</identifier>
+          <title>Paar terrines in de vorm van dromedarissen</title>
+          <creator>Blankers, Arie</creator>
+          <date>ca. 1758 - ca. 1764</date>
+          <type>terrine</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7856</identifier>
+        <datestamp>2021-11-03T23:47:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16819</identifier>
+          <identifier>BK-NM-7856</identifier>
+          <title>Slot van een (streek)sieraad bezet met diamant</title>
+          <creator>anoniem</creator>
+          <date>1650 - 1699</date>
+          <type>sieraad</type>
+          <type>streeksieraad</type>
+          <type>onderdeel</type>
+          <format>zilver</format>
+          <format>diamant</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-118(V)</identifier>
+        <datestamp>2019-12-12T13:56:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17002</identifier>
+          <identifier>RP-T-1963-118(V)</identifier>
+          <title>Landschap</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1982-67</identifier>
+        <datestamp>2021-11-02T08:23:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17191</identifier>
+          <identifier>BK-1982-67</identifier>
+          <title>Presenteerblad, vierkant, met opstaande opengezaagde rand.</title>
+          <creator>Brandt, Reynier</creator>
+          <date>1782</date>
+          <type>blad</type>
+          <type>presenteerblad</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1983-30</identifier>
+        <datestamp>2021-10-02T00:24:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17366</identifier>
+          <identifier>BK-1983-30</identifier>
+          <title>Hengselmand</title>
+          <creator>Wiener Werkstätte</creator>
+          <contributor>Hoffmann, Josef</contributor>
+          <date>ca. 1905</date>
+          <type>hengselmand</type>
+          <format>zilver</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Wenen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14822</identifier>
+        <datestamp>2022-01-27T09:30:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16115</identifier>
+          <identifier>BK-14822</identifier>
+          <title>pot (zonder deksel) met bloemdecoraties</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>pot</type>
+          <type>dekselpot</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-74</identifier>
+        <datestamp>2021-10-02T00:14:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16386</identifier>
+          <identifier>BK-NM-12400-74</identifier>
+          <title>Bord van faïence met bloemdecoratie</title>
+          <creator>anoniem</creator>
+          <date>ca. 1685 - ca. 1710</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14709-A</identifier>
+        <datestamp>2021-11-03T23:47:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16844</identifier>
+          <identifier>BK-14709-A</identifier>
+          <title>Halsketting met bloedkoraal</title>
+          <creator>Ruff, H.C.F.</creator>
+          <date>1915 - 1917</date>
+          <type>sieraad</type>
+          <type>streeksieraad</type>
+          <type>ketting</type>
+          <type>halsketting</type>
+          <format>goud</format>
+          <format>bloedkoraal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Sloten</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-113</identifier>
+        <datestamp>2019-12-12T13:52:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16975</identifier>
+          <identifier>RP-T-1963-113</identifier>
+          <title>Weg op de Butte met molens in het verschiet</title>
+          <creator>Michel, Georges</creator>
+          <subject>Butte Montmartre</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-53</identifier>
+        <datestamp>2021-11-02T08:24:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17343</identifier>
+          <identifier>BK-1977-53</identifier>
+          <title>Vinaigrettehouder</title>
+          <creator>Taylor, Joseph</creator>
+          <date>1814</date>
+          <type>eet- en drinkgerei</type>
+          <type>vaatwerk</type>
+          <type>vinaigrettehouder</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Birmingham</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-420</identifier>
+        <datestamp>2021-10-02T00:14:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16412</identifier>
+          <identifier>BK-1955-420</identifier>
+          <title>Guanyin</title>
+          <creator>anoniem</creator>
+          <subject>Guanyin</subject>
+          <description>Door de wereldwijde handel van de VOC kwam het blanc de Chine naar Europa. Fabrieken in Delft en in de Duitse stad Meissen imiteerden het witte porselein, zoals dit beeldje laat zien. Waarschijnlijk gebruikte de Europese navolger de Guanyin van de beroemde Chinese pottenbakker
+He Chaozong als voorbeeld.</description>
+          <date>ca. 1720 - ca. 1750</date>
+          <type>decoratief object</type>
+          <type>vrouwenfiguur</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ansbach</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2211</identifier>
+        <datestamp>2021-11-03T16:54:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16550</identifier>
+          <identifier>BK-NM-2211</identifier>
+          <title>Achtkantige doos van schildpad</title>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>doos</type>
+          <format>koper</format>
+          <format>schildpad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-117(V)</identifier>
+        <datestamp>2019-12-11T10:50:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16950</identifier>
+          <identifier>RP-T-1963-117(V)</identifier>
+          <title>Studie van draperie; middel van staande figuur met de hand in de zij</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-31</identifier>
+        <datestamp>2021-11-02T08:23:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17239</identifier>
+          <identifier>BK-1977-31</identifier>
+          <title>Loddereindoos van zilver</title>
+          <creator>Keun, A.</creator>
+          <date>1825</date>
+          <type>loddereindoos</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-252</identifier>
+        <datestamp>2022-02-02T10:53:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17313</identifier>
+          <identifier>BK-1977-252</identifier>
+          <title>Miskelk</title>
+          <creator>Carrenhoff, Jacobus</creator>
+          <date>ca. 1820</date>
+          <type>miskelk</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13334</identifier>
+        <datestamp>2017-02-28T17:10:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16461</identifier>
+          <identifier>BK-NM-13334</identifier>
+          <title>Doos in de vorm van een mand met peren</title>
+          <creator>De Porceleyne Byl</creator>
+          <contributor>Brouwer, Justus</contributor>
+          <date>ca. 1750 - ca. 1780</date>
+          <type>doos</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-201</identifier>
+        <datestamp>2019-12-11T10:34:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16925</identifier>
+          <identifier>RP-T-1963-201</identifier>
+          <title>Oplopende landweg met bomen rechts</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1989-28</identifier>
+        <datestamp>2021-10-02T00:23:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17262</identifier>
+          <identifier>BK-1989-28</identifier>
+          <title>Theebus met bloemen in cut card-techniek</title>
+          <creator>anoniem</creator>
+          <date>1677</date>
+          <type>theebus</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-120-B</identifier>
+        <datestamp>2021-10-02T00:18:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16725</identifier>
+          <identifier>BK-1978-120-B</identifier>
+          <title>Zoutvat op ovale voet met spitsovale glazen bak</title>
+          <creator>Bennewitz en Bonebakker, Fa.</creator>
+          <contributor>Bennewitz, Diederik Lodewijk</contributor>
+          <date>1807</date>
+          <type>zoutvat</type>
+          <format>zilver</format>
+          <format>goud</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-199(V)</identifier>
+        <datestamp>2017-02-02T14:35:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16899</identifier>
+          <identifier>RP-T-1963-199(V)</identifier>
+          <title>Sleperskar in een straat</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzAwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

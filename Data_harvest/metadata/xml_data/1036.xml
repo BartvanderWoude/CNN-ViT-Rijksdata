@@ -1,0 +1,494 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMDcwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.974</identifier>
+        <datestamp>2021-11-30T16:53:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88793</identifier>
+          <identifier>RP-P-OB-26.974</identifier>
+          <title>Poolse muzikanten te paard</title>
+          <creator>Bruyn, Abraham de</creator>
+          <contributor>Bruyn, Abraham de</contributor>
+          <contributor>Rutz, Caspar</contributor>
+          <date>1577</date>
+          <type>kostuumprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Keulen</coverage>
+          <coverage>Keulen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1954-395</identifier>
+        <datestamp>2016-10-20T20:37:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86872</identifier>
+          <identifier>RP-P-1954-395</identifier>
+          <title>Gezicht op Bethlehem</title>
+          <title>Topografische afbeeldingen van het Midden-Oosten</title>
+          <creator>Bouttats, Gaspar</creator>
+          <contributor>Peeters, Jan (I)</contributor>
+          <contributor>Peeters, Jan (I)</contributor>
+          <subject>Bethlehem</subject>
+          <subject>Jezus Christus</subject>
+          <date>1672</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4901</identifier>
+        <datestamp>2021-01-28T17:26:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88049</identifier>
+          <identifier>RP-P-BI-4901</identifier>
+          <title>Ruïne in Rome</title>
+          <title>Romeinse ruïnes</title>
+          <creator>Bronckhorst, Jan Gerritsz. van</creator>
+          <contributor>Poelenburch, Cornelis van</contributor>
+          <subject>Rome</subject>
+          <date>1613 - 1661</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-693</identifier>
+        <datestamp>2021-01-28T17:27:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88098</identifier>
+          <identifier>RP-P-1878-A-693</identifier>
+          <title>Landschap met kleine aanlegsteiger waarop lopende man met emmer</title>
+          <creator>Brondgeest, Albertus</creator>
+          <date>1796 - 1849</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1954-374</identifier>
+        <datestamp>2016-10-20T20:37:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86864</identifier>
+          <identifier>RP-P-1954-374</identifier>
+          <title>Gezicht op Rechnitz</title>
+          <title>Topografische afbeeldingen van Oostenrijk, Hongarije en de Balkan</title>
+          <title>Korte beschryvinghe, en de aen-wysinghe der plaetsen in desen boeck, met hunnen teghen woordighen standt, pertinentelijk uyt-ghebeldt, in Oostenryck</title>
+          <creator>Bouttats, Gaspar</creator>
+          <contributor>Peeters, Jacob</contributor>
+          <subject>Rechnitz</subject>
+          <date>1686</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4849</identifier>
+        <datestamp>2021-01-28T17:23:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87762</identifier>
+          <identifier>RP-P-BI-4849</identifier>
+          <title>Titelpagina voor 'Cinquiesme partie du grand Atlas (...) du Monde Maritime'</title>
+          <creator>Bremden, Daniël van den</creator>
+          <contributor>Janssonius, Johannes</contributor>
+          <date>1657</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.959</identifier>
+        <datestamp>2021-01-28T17:33:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88777</identifier>
+          <identifier>RP-P-OB-26.959</identifier>
+          <title>Franse raadsheer te paard</title>
+          <creator>Bruyn, Abraham de</creator>
+          <contributor>Rutz, Caspar</contributor>
+          <contributor>Bruyn, Abraham de</contributor>
+          <date>1577</date>
+          <type>kostuumprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Keulen</coverage>
+          <coverage>Keulen</coverage>
+          <coverage>Keulen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-3822</identifier>
+        <datestamp>2016-10-20T20:37:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86888</identifier>
+          <identifier>RP-P-1908-3822</identifier>
+          <title>Triomf van Gouverneur Starrenburg</title>
+          <creator>Bouttats, Gaspar</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Bouttats, Gaspar</contributor>
+          <subject>de hemel (hemellichamen)</subject>
+          <subject>Beleg van Wenen (1683)</subject>
+          <subject>Starrenburg</subject>
+          <date>1683</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1964-3568</identifier>
+        <datestamp>2021-01-28T17:21:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87458</identifier>
+          <identifier>RP-P-1964-3568</identifier>
+          <title>Vignet met Christus bij treurende Maria Magdalena na zijn opstanding in medaillon bij drie lijdenswerktuigen in landschap</title>
+          <title>Drie dagen</title>
+          <creator>Brasser, Leendert</creator>
+          <contributor>Brasser, Leendert</contributor>
+          <date>1727 - 1793</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-653</identifier>
+        <datestamp>2021-01-28T17:24:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87785</identifier>
+          <identifier>RP-P-1878-A-653</identifier>
+          <title>Elpenor redt Lyconis uit het ijs</title>
+          <creator>Bremden, Daniël van den</creator>
+          <contributor>Cuyp, Jacob Gerritsz.</contributor>
+          <date>ca. 1635 - 1537</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1951-60</identifier>
+        <datestamp>2016-10-20T20:38:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88132</identifier>
+          <identifier>RP-P-1951-60</identifier>
+          <title>Gevechten bij Porto Calvo, 1637</title>
+          <title>Praelium prope Portum Calvum</title>
+          <creator>Brosterhuyzen, Jan van</creator>
+          <contributor>Post, Frans Jansz.</contributor>
+          <subject>Reis naar en verblijf van Johan Maurits in Brazilië (1636-1644)</subject>
+          <subject>Pôrto Calvo</subject>
+          <subject>Nassau-Siegen, Johan Maurits graaf van</subject>
+          <subject>West-Indische Compagnie</subject>
+          <subject>Jol, Cornelis Corneliszoon (alias Houtebeen)</subject>
+          <date>1645 - 1647</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-5538</identifier>
+        <datestamp>2021-01-28T17:28:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88256</identifier>
+          <identifier>RP-P-1882-A-5538</identifier>
+          <title>Boomrijk landschap met veedrijver</title>
+          <creator>Brouwer, Cornelis</creator>
+          <contributor>Both, Jan</contributor>
+          <date>1741 - 1803</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.936</identifier>
+        <datestamp>2021-01-28T17:32:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88754</identifier>
+          <identifier>RP-P-OB-26.936</identifier>
+          <title>Duitse ruiter met pistool</title>
+          <creator>Bruyn, Abraham de</creator>
+          <contributor>Rutz, Caspar</contributor>
+          <contributor>Bruyn, Abraham de</contributor>
+          <date>1577</date>
+          <type>kostuumprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Keulen</coverage>
+          <coverage>Keulen</coverage>
+          <coverage>Keulen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-12968</identifier>
+        <datestamp>2021-01-28T17:23:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87715</identifier>
+          <identifier>RP-P-1888-A-12968</identifier>
+          <title>Portret van Frederik Verachter aan zijn bureau in het archief</title>
+          <creator>Bree, Philippus Jacobus van</creator>
+          <contributor>Bree, Philippus Jacobus van</contributor>
+          <subject>Verachter, Frederik</subject>
+          <date>ca. 1833 - voor ca. 1871</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-16.105</identifier>
+        <datestamp>2021-01-28T17:23:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87738</identifier>
+          <identifier>RP-P-OB-16.105</identifier>
+          <title>Wandelend paar</title>
+          <creator>Breen, Gillis van</creator>
+          <contributor>Noort, Adam van</contributor>
+          <contributor>Goltz, Conrad</contributor>
+          <contributor>anoniem</contributor>
+          <subject>kostuum</subject>
+          <date>ca. 1580 - ca. 1600</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Keulen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1934-421</identifier>
+        <datestamp>2021-01-28T17:28:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88210</identifier>
+          <identifier>RP-P-1934-421</identifier>
+          <title>Joodse leider Barchochebas (Simon ben Kosiba) toont vuurspuwende Romein aan Joodse leger</title>
+          <title>Den verleider Barchochebas</title>
+          <creator>Brouwer, Cornelis</creator>
+          <contributor>Buys, Jacobus</contributor>
+          <date>1784</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-27.003</identifier>
+        <datestamp>2022-04-22T15:07:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88825</identifier>
+          <identifier>RP-P-OB-27.003</identifier>
+          <title>Indiase ruiter</title>
+          <title>Indische ruiter</title>
+          <creator>Bruyn, Abraham de</creator>
+          <contributor>Rutz, Caspar</contributor>
+          <date>1577</date>
+          <type>kostuumprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Keulen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-319</identifier>
+        <datestamp>2021-01-28T17:18:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87032</identifier>
+          <identifier>RP-P-1904-319</identifier>
+          <title>Minerva (Pallas Athena) in wapenrusting</title>
+          <creator>Boyvin, René</creator>
+          <contributor>Penni, Luca</contributor>
+          <date>1535 - 1598</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4966</identifier>
+        <datestamp>2021-01-28T17:30:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88603</identifier>
+          <identifier>RP-P-BI-4966</identifier>
+          <title>Paar onder boom in landschap</title>
+          <creator>Brussel, Hermanus van</creator>
+          <contributor>Brussel, Hermanus van</contributor>
+          <date>ca. 1800 - in of voor 1815</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.930</identifier>
+        <datestamp>2021-01-28T17:31:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88675</identifier>
+          <identifier>RP-P-OB-26.930</identifier>
+          <title>Portret van de schilder Franciscus Andreas Milatz op zijn doodsbed</title>
+          <creator>Brussel, Hermanus van</creator>
+          <contributor>Brussel, Hermanus van</contributor>
+          <subject>Milatz, Franciscus Andreas</subject>
+          <date>ca. 1808 - 1810</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMDcyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

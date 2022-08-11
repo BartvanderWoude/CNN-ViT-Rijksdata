@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMjMyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.671</identifier>
+        <datestamp>2021-01-14T22:53:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40894</identifier>
+          <identifier>RP-P-OB-17.671</identifier>
+          <title>Portret van Karel I, koning van Engeland</title>
+          <title>Carolus Primus Dei Gratia Angliae Scotiae Franciae et Hiberniae Rex Fidei Defensor &amp;ct</title>
+          <creator>Browne, Alexander</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <contributor>Browne, Alexander</contributor>
+          <subject>Karel I (koning van Engeland)</subject>
+          <date>1680 - 1683</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.767</identifier>
+        <datestamp>2019-05-29T15:03:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40611</identifier>
+          <identifier>RP-P-OB-20.767</identifier>
+          <title>Heilige Eleutherius van Spoleto, Heilige Regina van Alise-Sainte-Reine, Heilige Johannes Martyr, Geboorte van Maria (Maria-Geboorte) (6-8 september)</title>
+          <title>Alle heiligen en de Christelijke feestdagen van het jaar</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <date>1632 - 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.003</identifier>
+        <datestamp>2019-05-29T15:05:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40957</identifier>
+          <identifier>RP-P-OB-21.003</identifier>
+          <title>Dwerg met zwaard, een knopenrij op de buik</title>
+          <title>Varie figure gobbi di Jacopo Callot</title>
+          <title>Diverse groteske figuren</title>
+          <title>Dwergen en gebochelden</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621 - 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1948-39</identifier>
+        <datestamp>2019-05-13T11:49:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41289</identifier>
+          <identifier>RP-P-1948-39</identifier>
+          <title>Portret van Hardouin de Péréfixe de Beaumont</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Nanteuil, Robert</contributor>
+          <subject>Beaumont de Péréfixe, Hardouin de</subject>
+          <date>1662</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4963</identifier>
+        <datestamp>2019-05-29T15:01:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40368</identifier>
+          <identifier>RP-P-OB-4963</identifier>
+          <title>Herders verdedigen hun kudde</title>
+          <title>Non impune lacessent/Ils n'attaqueront pas sans en estre punis</title>
+          <title>Kloosterleven in emblemen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Langlois, François</contributor>
+          <date>1621 - 1635</date>
+          <date>1646</date>
+          <type>prent</type>
+          <type>embleem</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.744</identifier>
+        <datestamp>2019-05-29T15:03:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40588</identifier>
+          <identifier>RP-P-OB-20.744</identifier>
+          <title>Heilige Elisabeth van Portugal, Heilige Zoë van Rome, Heilige Jesaja, Heilige Ethelburga van Faremoutiers (4-7 juli)</title>
+          <title>Alle heiligen en de Christelijke feestdagen van het jaar</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <date>1632 - 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.981</identifier>
+        <datestamp>2019-05-09T16:19:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40934</identifier>
+          <identifier>RP-P-OB-20.981</identifier>
+          <title>Tweemaal dezelfde soldaat met grote gepluimde hoed en opgeheven arm, van voren gezien</title>
+          <title>Varie figure di Jacopo Callot</title>
+          <title>Diverse figuren</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621 - 1624</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.227</identifier>
+        <datestamp>2019-05-13T11:49:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41266</identifier>
+          <identifier>RP-P-OB-21.227</identifier>
+          <title>Portret van Jules Mazarin</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Mol, Peter van</contributor>
+          <subject>Mazarino, Giulio Raimondo</subject>
+          <date>1656 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-5779</identifier>
+        <datestamp>2019-05-29T15:01:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40391</identifier>
+          <identifier>RP-P-OB-5779</identifier>
+          <title>Rietstengels in de wind</title>
+          <title>Flecti docilis/Il sçait ployer, sans jamais se roidir</title>
+          <title>Kloosterleven in emblemen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Langlois, François</contributor>
+          <subject>wind</subject>
+          <date>1621 - 1635</date>
+          <date>1646</date>
+          <type>prent</type>
+          <type>embleem</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.721</identifier>
+        <datestamp>2020-11-27T11:18:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40565</identifier>
+          <identifier>RP-P-OB-20.721</identifier>
+          <title>Heilige Theodorus Trichinas, Heilige Agnes van Montepulciano, Heilige Anselmus van Canterbury, Heilige Opportuna van Montreuil (20-22 april)</title>
+          <title>Alle heiligen en de Christelijke feestdagen van het jaar</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <date>1632 - 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.889</identifier>
+        <datestamp>2019-05-29T15:04:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40737</identifier>
+          <identifier>RP-P-OB-20.889</identifier>
+          <title>Twee straatartiesten als Taglia Cantoni en Fracasso</title>
+          <title>Balli di Sfessania</title>
+          <title>Dansen van Sfessania</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621 - 1622</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.989</identifier>
+        <datestamp>2019-05-29T15:04:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40911</identifier>
+          <identifier>RP-P-OB-20.989</identifier>
+          <title>Tweemaal dezelfde boerin met de handen op elkaar, op de linkerzijde gezien</title>
+          <title>Varie figure di Jacopo Callot</title>
+          <title>Diverse figuren</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621 - 1624</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.116</identifier>
+        <datestamp>2021-07-12T17:35:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41074</identifier>
+          <identifier>RP-P-OB-21.116</identifier>
+          <title>Landschap met een knielende man</title>
+          <title>Divers paisages</title>
+          <title>Verschillende landschappen</title>
+          <creator>Collignon, François</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <date>1630 - 1660</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1963-58</identifier>
+        <datestamp>2021-01-28T13:12:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41243</identifier>
+          <identifier>RP-P-1963-58</identifier>
+          <title>Portret van Charles-Maurice Le Tellier</title>
+          <title>Carolus Mauritius le Tellier abbas. et comes latiniadensis</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Nanteuil, Robert</contributor>
+          <subject>Le Tellier, Charles-Maurice</subject>
+          <date>1663</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-5800</identifier>
+        <datestamp>2019-05-29T15:01:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40414</identifier>
+          <identifier>RP-P-OB-5800</identifier>
+          <title>Aankomst van Margaretha van Oostenrijk in Valencia</title>
+          <creator>Callot, Jacques</creator>
+          <subject>Valencia</subject>
+          <subject>Margaretha van Oostenrijk (koningin van Spanje)</subject>
+          <date>1612</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.698</identifier>
+        <datestamp>2019-05-29T15:02:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40542</identifier>
+          <identifier>RP-P-OB-20.698</identifier>
+          <title>Heilige Ignatius van Antiochië, Presentatie van Christus in de tempel (Maria-Lichtmis), Heilige Blasius, Heilige Isidorus van Pelusium (1-4 februari)</title>
+          <title>Alle heiligen en de Christelijke feestdagen van het jaar</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <date>1632 - 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23890</identifier>
+        <datestamp>2021-07-12T17:13:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40760</identifier>
+          <identifier>RP-P-1903-A-23890</identifier>
+          <title>Edelman met hoed, op de linkerzijde gezien</title>
+          <title>La Noblesse</title>
+          <title>Edellieden uit Lotharingen</title>
+          <creator>anoniem</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Wit, Frederik de</contributor>
+          <subject>kostuum</subject>
+          <subject>Lotharingen</subject>
+          <date>1630 - 1690</date>
+          <type>kostuumprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1884-A-314</identifier>
+        <datestamp>2021-01-28T13:12:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40887</identifier>
+          <identifier>RP-T-1884-A-314</identifier>
+          <title>Gezicht op een vijver</title>
+          <creator>Esselens, Jacob</creator>
+          <date>1636 - 1687</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.139</identifier>
+        <datestamp>2019-05-29T15:06:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41097</identifier>
+          <identifier>RP-P-OB-21.139</identifier>
+          <title>Laden van handelswaar</title>
+          <title>Diverse vedute designate in Fiorenza</title>
+          <title>Elf Italiaanse landschappen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Collignon, François</contributor>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <contributor>Lodewijk XIII (koning van Frankrijk)</contributor>
+          <subject>Florence</subject>
+          <date>1628 - 1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-2529</identifier>
+        <datestamp>2022-05-18T09:07:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41220</identifier>
+          <identifier>RP-P-1878-A-2529</identifier>
+          <title>Portret van Jean Baptiste Budes graaf van Guebriant</title>
+          <title>Jean Baptiste Budes Comte de Guebriant (...)</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Nanteuil, Robert</contributor>
+          <subject>Guébriant, Jean Baptiste Budes graaf van</subject>
+          <date>1655 - 1656</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMjM0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

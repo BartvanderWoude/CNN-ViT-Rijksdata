@@ -1,0 +1,505 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNzYw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4718</identifier>
+        <datestamp>2019-05-29T14:59:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40123</identifier>
+          <identifier>RP-P-OB-4718</identifier>
+          <title>De Heilige Familie met Elisabet en Johannes</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Sarto, Andrea del</contributor>
+          <contributor>Burellius, Johannis Maria</contributor>
+          <contributor>Nieuwerven, Bernard van</contributor>
+          <date>1613</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4858</identifier>
+        <datestamp>2022-02-24T10:22:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39307</identifier>
+          <identifier>RP-P-OB-4858</identifier>
+          <title>De kleine brug</title>
+          <creator>Ruisdael, Jacob Isaacksz van</creator>
+          <contributor>Ruisdael, Jacob Isaacksz van</contributor>
+          <date>1650 - 1655</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-5636</identifier>
+        <datestamp>2020-05-06T11:49:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39480</identifier>
+          <identifier>RP-P-OB-5636</identifier>
+          <title>Heuvel met bebossing</title>
+          <creator>Vlieger, Simon de</creator>
+          <contributor>Vlieger, Simon de</contributor>
+          <date>1610 - 1653</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-5999</identifier>
+        <datestamp>2019-05-09T16:09:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39807</identifier>
+          <identifier>RP-P-1882-A-5999</identifier>
+          <title>Het schip De Salamander</title>
+          <title>Zeegezichten en afbeeldingen van schepen</title>
+          <creator>anoniem</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <contributor>Kleynhens, Bernardus</contributor>
+          <subject>maritieme geschiedenis</subject>
+          <date>ca. 1730 - 1760</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.547</identifier>
+        <datestamp>2019-05-09T16:10:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39856</identifier>
+          <identifier>RP-P-OB-20.547</identifier>
+          <title>Twee schepen: een Amsterdammer lichter en een Wieringer lichter</title>
+          <title>Een Amsterdammer Lichter, Een Wieringer Lichter</title>
+          <title>Verschillende schepen en stadsgezichten van Amsterdam, derde deel</title>
+          <title>Derde deel. Verscheijden Schepen en Gesichten van Amsterdam, naer t leven afgetekent en opt Cooper gebracht, door Reinier Nooms, alias Zeeman</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <date>1652 - 1654</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.591</identifier>
+        <datestamp>2020-08-31T10:41:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39973</identifier>
+          <identifier>RP-P-OB-20.591</identifier>
+          <title>Zeegezicht met schipbreuk lijdende schepen</title>
+          <title>Divers Embarquements et autre Faicts</title>
+          <title>Diverse inschepingen en dergelijken</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <contributor>Danckerts, Dancker</contributor>
+          <date>1651 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1980-138</identifier>
+        <datestamp>2021-01-28T13:12:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39979</identifier>
+          <identifier>RP-P-1980-138</identifier>
+          <title>Baai met een hoeker en een oorlogsschip</title>
+          <title>Divers Embarquements et autre Faicts</title>
+          <title>Diverse inschepingen en dergelijken</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <contributor>Danckerts, Justus</contributor>
+          <date>1651 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-4005</identifier>
+        <datestamp>2019-05-23T15:52:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40023</identifier>
+          <identifier>RP-P-1910-4005</identifier>
+          <title>De haven van Honfleur</title>
+          <title>Entrée du port de Honfleur</title>
+          <creator>Jongkind, Johan Barthold</creator>
+          <contributor>Delâtre, Auguste</contributor>
+          <contributor>Cadart &amp; Luquet</contributor>
+          <subject>Honfleur</subject>
+          <date>1863</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Honfleur</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.891</identifier>
+        <datestamp>2020-05-06T11:49:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39408</identifier>
+          <identifier>RP-P-OB-12.891</identifier>
+          <title>Gezicht op het kapucijnenklooster te Tervuren</title>
+          <creator>Uden, Lucas van</creator>
+          <contributor>Uden, Lucas van</contributor>
+          <contributor>Wijngaerde, Frans van den</contributor>
+          <subject>Tervuren</subject>
+          <date>1605 - 1673</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.649</identifier>
+        <datestamp>2021-01-16T23:09:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39830</identifier>
+          <identifier>RP-P-OB-17.649</identifier>
+          <title>Portret van Gottfried Kneller</title>
+          <title>Godfrid Kneller Germ.</title>
+          <creator>Beckett, Isaac</creator>
+          <contributor>Kneller, Gottfried</contributor>
+          <contributor>Smith, John (prentmaker/ uitgever)</contributor>
+          <subject>Kneller, Gottfried</subject>
+          <date>1685</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1894-A-18278</identifier>
+        <datestamp>2019-05-09T16:12:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39999</identifier>
+          <identifier>RP-P-1894-A-18278</identifier>
+          <title>Reparaties aan een groot zeilschip</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <date>1656 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4673</identifier>
+        <datestamp>2019-05-29T14:59:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40074</identifier>
+          <identifier>RP-P-OB-4673</identifier>
+          <title>Voetwassing</title>
+          <title>De kleine Passie</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1624 - 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4650</identifier>
+        <datestamp>2019-05-29T14:59:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40051</identifier>
+          <identifier>RP-P-OB-4650</identifier>
+          <title>Het Christuskind vertrapt de zonde</title>
+          <creator>Callot, Jacques</creator>
+          <date>1618 - 1621</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4694</identifier>
+        <datestamp>2019-05-29T14:59:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40100</identifier>
+          <identifier>RP-P-OB-4694</identifier>
+          <title>De Joden proberen Christus te stenigen</title>
+          <title>Scènes uit het Nieuwe Testament</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Henriet, Israël</contributor>
+          <contributor>Lodewijk XIII (koning van Frankrijk)</contributor>
+          <date>1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-1695</identifier>
+        <datestamp>2019-05-09T16:06:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39544</identifier>
+          <identifier>RP-P-1878-A-1695</identifier>
+          <title>Fort met verdedigingswerken van Tholen aan de Schelde</title>
+          <title>Landschappen</title>
+          <creator>Velde, Esaias van de</creator>
+          <contributor>Velde, Esaias van de</contributor>
+          <contributor>Berendrecht, Johannes Pietersz.</contributor>
+          <subject>Tholen</subject>
+          <date>1615 - 1616</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1884-A-8071</identifier>
+        <datestamp>2019-05-09T16:09:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39781</identifier>
+          <identifier>RP-P-1884-A-8071</identifier>
+          <title>Haven van Amsterdam met het wachthuis</title>
+          <title>Wacht huÿs of camer vande EE Heeren vant water-recht</title>
+          <title>Verschillende schepen en stadsgezichten van Amsterdam, eerste deel</title>
+          <title>Eerste deel. Verscheÿde schepen en gesichten van Amstelredam, naer t leven afgetekent en opt cooper gebracht, door Reinier Nooms, alÿas Zeeman</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <contributor>Jonghe, Clement de</contributor>
+          <subject>Kamperhoofd</subject>
+          <date>1652 - 1670</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.518</identifier>
+        <datestamp>2019-05-09T16:09:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39793</identifier>
+          <identifier>RP-P-OB-20.518</identifier>
+          <title>De schepen De Vergulde Dolfijn en De Kat</title>
+          <title>De Vergulde Dolphyn een Straets-Vaerder, De Kat een Frans-Vaerder</title>
+          <title>'t Nieuw Schipboek</title>
+          <creator>anoniem</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <contributor>Danckerts, Justus</contributor>
+          <subject>maritieme geschiedenis</subject>
+          <date>1652 - 1701</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-4007</identifier>
+        <datestamp>2019-05-23T15:52:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40031</identifier>
+          <identifier>RP-P-1910-4007</identifier>
+          <title>Spoorweghaven te Honfleur</title>
+          <title>Vue du port au chemin de fer à Honfleur</title>
+          <creator>Jongkind, Johan Barthold</creator>
+          <contributor>Delâtre, Auguste</contributor>
+          <contributor>Cadart &amp; Luquet</contributor>
+          <subject>Honfleur</subject>
+          <date>1866</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Honfleur</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1941-19</identifier>
+        <datestamp>2021-01-28T13:12:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40043</identifier>
+          <identifier>RP-P-1941-19</identifier>
+          <title>Uitgang van ziekenhuis Cochin (Faubourg Saint-Jacques, Parijs)</title>
+          <title>Sortie de la Maison Cochin (Faubourg Saint-Jacques)</title>
+          <creator>Jongkind, Johan Barthold</creator>
+          <contributor>Jongkind, Johan Barthold</contributor>
+          <contributor>Delorière, Ch.</contributor>
+          <subject>Faubourg Saint-Jacques</subject>
+          <subject>Cochin, maison</subject>
+          <date>1878-11-03</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4912</identifier>
+        <datestamp>2019-05-29T15:00:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40280</identifier>
+          <identifier>RP-P-OB-4912</identifier>
+          <title>Paradijsvogel</title>
+          <title>Hic puro licet aethere vesci</title>
+          <title>Leven van Maria in emblemen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Charlot, Anthoine</contributor>
+          <date>1625 - 1629</date>
+          <type>prent</type>
+          <type>embleem</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNzgw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

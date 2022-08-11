@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTk0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1510</identifier>
+        <datestamp>2021-01-28T16:22:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81627</identifier>
+          <identifier>RP-P-BI-1510</identifier>
+          <title>Kinderen en dieren</title>
+          <title>Dieren</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <contributor>Staten-Generaal</contributor>
+          <subject>dieren</subject>
+          <date>na 1635 - 1670</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1750</identifier>
+        <datestamp>2021-01-28T16:26:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81894</identifier>
+          <identifier>RP-P-BI-1750</identifier>
+          <title>Portret van predikant Joannes Vollenhove</title>
+          <title>Joannes Vollenhovius, s.s. theologiae (...) denique ecclesia praeco</title>
+          <creator>Blois, Abraham de</creator>
+          <contributor>Baen, Jan de</contributor>
+          <contributor>Blois, Abraham de</contributor>
+          <subject>Vollenhove, Joannes</subject>
+          <date>1679 - 1717</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-3570</identifier>
+        <datestamp>2021-01-28T16:17:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81205</identifier>
+          <identifier>RP-P-1910-3570</identifier>
+          <title>Student rookt pijp en filosofeert in studeerkamer in omlijsting met vers</title>
+          <title>Een student in sijn kamer sinspelend op en ondert rooken van een pyp tabak</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>Bleyswijck, François van</contributor>
+          <contributor>Rotterdam, Arnout</contributor>
+          <date>1681 - 1746</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1568</identifier>
+        <datestamp>2021-01-28T16:25:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81813</identifier>
+          <identifier>RP-P-BI-1568</identifier>
+          <title>De maand augustus</title>
+          <title>De Maanden van het Jaar</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <contributor>onbekend</contributor>
+          <date>na 1635 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1482</identifier>
+        <datestamp>2021-01-28T16:26:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81862</identifier>
+          <identifier>RP-P-BI-1482</identifier>
+          <title>Vertumnus en Pomona</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Passe, Crispijn van de (II)</contributor>
+          <contributor>Passe, Crispijn van de (II)</contributor>
+          <date>1600 - 1670</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1934-93</identifier>
+        <datestamp>2021-01-28T16:27:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81917</identifier>
+          <identifier>RP-P-1934-93</identifier>
+          <title>Ruth en Naomi</title>
+          <title>Ruth met hare schoonmoeder</title>
+          <creator>Blois, Abraham de</creator>
+          <contributor>Hoet, Gerard (I)</contributor>
+          <contributor>Hondt, Pieter de</contributor>
+          <date>1720 - 1728</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.669</identifier>
+        <datestamp>2021-01-28T16:27:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81937</identifier>
+          <identifier>RP-P-OB-26.669</identifier>
+          <title>De nakomelingen van Ruben verantwoorden zich bij de Israëlieten over de bouw van een altaar</title>
+          <title>Verantwoording der Rubeniten, enz., over den Altaar</title>
+          <creator>Blois, H. de</creator>
+          <contributor>Hoet, Gerard (I)</contributor>
+          <contributor>Hondt, Pieter de</contributor>
+          <date>1720 - 1728</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1857</identifier>
+        <datestamp>2021-01-28T16:30:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82183</identifier>
+          <identifier>RP-P-BI-1857</identifier>
+          <title>Gezicht op de molen bij de Blauwbrug</title>
+          <title>de Meulen by de Blaeubrugh</title>
+          <title>Amstelgezichten</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Ruisdael, Jacob Isaacksz van</contributor>
+          <subject>Amsterdam</subject>
+          <subject>Blauwbrug</subject>
+          <date>1655 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-577X</identifier>
+        <datestamp>2021-01-28T16:33:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82664</identifier>
+          <identifier>RP-P-1878-A-577X</identifier>
+          <title>Heilige Thomas van Aquino in gesprek met een crucifix</title>
+          <title>Het leven van de heilige Thomas van Aquino</title>
+          <creator>Boel, Cornelis</creator>
+          <contributor>Veen, Otto van</contributor>
+          <contributor>Veen, Otto van</contributor>
+          <subject>Thomas van Aquino</subject>
+          <date>1610</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1461</identifier>
+        <datestamp>2021-01-28T16:21:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81531</identifier>
+          <identifier>RP-P-BI-1461</identifier>
+          <title>Titelpagina voor Leo van Ostiense, Chronicon Casinense</title>
+          <title>Hartstocht en Waakzaamheid</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Vanni, Raffaello</contributor>
+          <subject>Abdij van Montecassino</subject>
+          <date>1633 - 1692</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-980</identifier>
+        <datestamp>2021-01-28T16:29:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82111</identifier>
+          <identifier>RP-P-1906-980</identifier>
+          <title>Portret van Constantijn Huygens</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Netscher, Caspar</contributor>
+          <subject>Huygens, Constantijn (I)</subject>
+          <date>1672 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1827</identifier>
+        <datestamp>2021-01-28T16:29:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82117</identifier>
+          <identifier>RP-P-BI-1827</identifier>
+          <title>Portret van de Marquis de Mirabeau</title>
+          <title>Marquis de Mirabelle</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <subject>Mirabeau, Honoré de Riqueti, marquis de</subject>
+          <date>1675 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1844</identifier>
+        <datestamp>2021-04-29T17:22:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82160</identifier>
+          <identifier>RP-P-BI-1844</identifier>
+          <title>Portretbuste van de zoon van Peter Paul Rubens</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Bloteling, Abraham</contributor>
+          <date>1655 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1891-A-16408</identifier>
+        <datestamp>2021-01-28T16:33:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82688</identifier>
+          <identifier>RP-P-1891-A-16408</identifier>
+          <title>Struisvogels, kasuaris en lepelaar</title>
+          <title>1. de Autruches. 2. des Pals. c. Casuel</title>
+          <title>Vogels uit de menagerie van Versailles</title>
+          <creator>Boel, Peeter</creator>
+          <contributor>Boel, Peeter</contributor>
+          <contributor>Scotin, Gérard (I)</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1670 - 1674</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1308</identifier>
+        <datestamp>2021-01-28T16:19:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81388</identifier>
+          <identifier>RP-P-BI-1308</identifier>
+          <title>Apollo</title>
+          <title>Vier goden naar Pietro da Cortona</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Cortona, Pietro da</contributor>
+          <contributor>Rossi, Giovanni Giacomo de'</contributor>
+          <date>1637 - 1692</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1384</identifier>
+        <datestamp>2021-01-28T16:20:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81462</identifier>
+          <identifier>RP-P-BI-1384</identifier>
+          <title>Twee slapers</title>
+          <title>Pastorale scènes</title>
+          <title>Otia delectant</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Cornelis (II)</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>na ca. 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.665</identifier>
+        <datestamp>2021-01-28T16:26:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81888</identifier>
+          <identifier>RP-P-OB-26.665</identifier>
+          <title>Portret van Duitse rechtsfilosoof en historicus Samuel von Pufendorf</title>
+          <title>Samuel Pufendorf</title>
+          <creator>Blois, Abraham de</creator>
+          <contributor>Ehrenstrahl, David</contributor>
+          <subject>Pufendorf, Samuel von</subject>
+          <date>1679 - 1717</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1834</identifier>
+        <datestamp>2021-01-28T16:29:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82140</identifier>
+          <identifier>RP-P-BI-1834</identifier>
+          <title>Portret van Tjerk Hiddes de Vries</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Eeckhout, Gerbrand van den</contributor>
+          <contributor>Galama, Hero</contributor>
+          <contributor>Galama, Hero</contributor>
+          <subject>Vries, Tjerck Hiddes de</subject>
+          <date>in of na 1666 - 1672</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Harlingen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15283</identifier>
+        <datestamp>2021-01-28T16:30:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82211</identifier>
+          <identifier>RP-P-1890-A-15283</identifier>
+          <title>Vader met kind op schoot in interieur</title>
+          <title>Caprice</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <contributor>Bloteling, Abraham</contributor>
+          <date>1655 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1936-897</identifier>
+        <datestamp>2021-01-28T16:17:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81174</identifier>
+          <identifier>RP-P-1936-897</identifier>
+          <title>Muze en putti zitten bij grafmonument van dichter Arnold Moonen</title>
+          <title>Titelpagina voor: Arnold Moonen, Vervolg der poëzye, Delft 1720</title>
+          <title>Vervolg van A. Moonens Poëzy</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>Bleyswijck, François van</contributor>
+          <contributor>Boitet, Reinier</contributor>
+          <subject>Parnassos, heilig voor Apollo de Muzenleider</subject>
+          <subject>Moonen, Arnold</subject>
+          <date>1720</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTk2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

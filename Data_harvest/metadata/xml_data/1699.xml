@@ -1,0 +1,438 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzk2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-330-F</identifier>
+        <datestamp>2021-08-19T17:01:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20358</identifier>
+          <identifier>BK-1975-330-F</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1800 - 1900</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-348</identifier>
+        <datestamp>2021-11-03T19:21:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19852</identifier>
+          <identifier>BK-1978-348</identifier>
+          <title>Hoed bedekt met hanenveren in tulbandvorm</title>
+          <creator>Vries, Han de</creator>
+          <date>ca. 1960 - ca. 1965</date>
+          <type>dameskleding</type>
+          <type>hoed</type>
+          <format>veer (vogel)</format>
+          <format>gaas</format>
+          <format>laiton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Hilversum</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-442</identifier>
+        <datestamp>2021-08-19T17:00:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20251</identifier>
+          <identifier>BK-1980-442</identifier>
+          <title>Tafellaken</title>
+          <date>1690 - 1710</date>
+          <type>tafellaken</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1971-148-C</identifier>
+        <datestamp>2021-12-09T14:40:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19736</identifier>
+          <identifier>BK-1971-148-C</identifier>
+          <title>Wandbespanning</title>
+          <creator>Lebeau, Chris</creator>
+          <date>1911 - 1915</date>
+          <type>wandbespanning</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Eindhoven</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-317</identifier>
+        <datestamp>2019-08-01T09:23:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20404</identifier>
+          <identifier>BK-BR-J-317</identifier>
+          <title>Kraag met gespleten ranken</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>kraag</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Burano</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1976-37</identifier>
+        <datestamp>2021-10-02T01:09:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20565</identifier>
+          <identifier>BK-1976-37</identifier>
+          <title>Babyhoed van lila zijde met toefjes van roze rozen en knop aan tak, voorzien van goudkleurig passement en afgezet met kant</title>
+          <creator>anoniem</creator>
+          <date>ca. 1785 - ca. 1825</date>
+          <type>babykleding</type>
+          <type>hoed</type>
+          <format>zijde</format>
+          <format>chenille</format>
+          <format>kant (materiaal)</format>
+          <format>passement</format>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-421</identifier>
+        <datestamp>2019-11-22T16:27:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20826</identifier>
+          <identifier>BK-BR-J-421</identifier>
+          <title>Sprei van applicatiekant van Koningin Sophie</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1839</date>
+          <type>sprei</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-157-D</identifier>
+        <datestamp>2021-08-19T16:58:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19801</identifier>
+          <identifier>BK-1967-157-D</identifier>
+          <title>Servet van linnendamast met de verheerlijking van Karel VI van Habsburg</title>
+          <creator>anoniem</creator>
+          <date>ca. 1711</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1983-79</identifier>
+        <datestamp>2021-08-19T16:59:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20118</identifier>
+          <identifier>BK-1983-79</identifier>
+          <title>Laken met entre-deux met bloem- en bladmotieven en open zomen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1650 - ca. 1700</date>
+          <type>laken (object)</type>
+          <format>linnen</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-316</identifier>
+        <datestamp>2019-08-01T09:23:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20204</identifier>
+          <identifier>BK-BR-J-316</identifier>
+          <title>Strook met twee hoeken en lopende rank</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1600 - ca. 1699</date>
+          <date>ca. 1875 - ca. 1910</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+          <coverage>Burano</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1983-106</identifier>
+        <datestamp>2021-10-02T01:08:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20217</identifier>
+          <identifier>BK-1983-106</identifier>
+          <title>Fichu van linnenbatist met witwerk</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>dameskleding</type>
+          <type>fichu</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-327-B</identifier>
+        <datestamp>2019-08-01T09:23:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20415</identifier>
+          <identifier>BK-BR-J-327-B</identifier>
+          <title>Strook naaldkant met veermotief</title>
+          <creator>anoniem</creator>
+          <date>ca. 1875 - ca. 1910</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Burano</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12965</identifier>
+        <datestamp>2021-11-03T16:55:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20554</identifier>
+          <identifier>BK-NM-12965</identifier>
+          <title>Suikerdoos</title>
+          <date>1600 - 1699</date>
+          <type>suikerdoos</type>
+          <format>ijzer</format>
+          <format>kristal (loodglas)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-404</identifier>
+        <datestamp>2019-08-01T09:24:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20773</identifier>
+          <identifier>BK-BR-J-404</identifier>
+          <title>Zakdoek met een rand van naaldkant met acht ovalen en acht cirkels</title>
+          <creator>anoniem</creator>
+          <date>ca. 1870 - ca. 1890</date>
+          <type>zakdoek</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-151</identifier>
+        <datestamp>2021-12-15T11:41:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19790</identifier>
+          <identifier>BK-1967-151</identifier>
+          <title>Servet met Arma Christi</title>
+          <creator>anoniem</creator>
+          <date>ca. 1550 - ca. 1599</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-386-D</identifier>
+        <datestamp>2021-08-19T17:00:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20265</identifier>
+          <identifier>BK-1980-386-D</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1831 - 1850</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-176-A-1</identifier>
+        <datestamp>2022-04-01T21:32:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20878</identifier>
+          <identifier>BK-BR-J-176-A-1</identifier>
+          <title>Mutsenslip van kloskant met zigzag-rivière</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1760</date>
+          <type>mutsenslip</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-554-B</identifier>
+        <datestamp>2021-08-19T16:59:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20164</identifier>
+          <identifier>BK-1980-554-B</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1880 - 1910</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-713-B</identifier>
+        <datestamp>2021-08-19T17:01:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20462</identifier>
+          <identifier>BK-1980-713-B</identifier>
+          <title>Lendensloop</title>
+          <date>1820 - 1870</date>
+          <type>lendensloop</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-708</identifier>
+        <datestamp>2021-08-19T17:02:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20505</identifier>
+          <identifier>BK-1980-708</identifier>
+          <title>Lendensloop</title>
+          <date>1852 - 1872</date>
+          <type>lendensloop</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzk4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

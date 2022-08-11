@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTkwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1898-A-19704</identifier>
+        <datestamp>2016-10-20T19:53:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46531</identifier>
+          <identifier>RP-P-1898-A-19704</identifier>
+          <title>Een man en een vrouw</title>
+          <creator>Vaillant, Bernard</creator>
+          <date>1642 - 1698</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.410</identifier>
+        <datestamp>2019-05-29T15:11:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46864</identifier>
+          <identifier>RP-P-OB-17.410</identifier>
+          <title>Portret van een man, mogelijk Jean Leclerc</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <contributor>Bisschop, Jan de</contributor>
+          <subject>Leclerc, Jean</subject>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3464</identifier>
+        <datestamp>2016-10-20T19:53:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47196</identifier>
+          <identifier>RP-P-1906-3464</identifier>
+          <title>Zittende hond</title>
+          <creator>anoniem</creator>
+          <contributor>Hondecoeter, Melchior d'</contributor>
+          <date>1650 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-6829</identifier>
+        <datestamp>2019-05-23T15:55:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46672</identifier>
+          <identifier>RP-P-1910-6829</identifier>
+          <title>Lezende jongen</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Wit, Frederik de</contributor>
+          <subject>lezen</subject>
+          <date>1658 - 1706</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-130</identifier>
+        <datestamp>2020-01-09T15:29:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46678</identifier>
+          <identifier>RP-P-1911-130</identifier>
+          <title>Tekenaar met een inktpot en pen</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Bisschop, Jan de</contributor>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-Q-28</identifier>
+        <datestamp>2018-11-16T10:18:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46749</identifier>
+          <identifier>RP-P-H-Q-28</identifier>
+          <title>Vioolspeler in een herberg</title>
+          <creator>Vaillant, Wallerant</creator>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1981-72</identifier>
+        <datestamp>2021-03-19T12:06:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47626</identifier>
+          <identifier>RP-P-1981-72</identifier>
+          <title>The actor Onoe Kikugoro als Shirai Gompachi</title>
+          <creator>Hirosada, Utagawa</creator>
+          <contributor>Kinkado Konishi</contributor>
+          <date>1848</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Osaka</coverage>
+          <coverage>Osaka</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10172-F</identifier>
+        <datestamp>2021-10-19T16:24:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42362</identifier>
+          <identifier>BK-NM-10172-F</identifier>
+          <title>Ruit met een gezicht op een stadswal</title>
+          <creator>anoniem</creator>
+          <date>1600</date>
+          <type>ruit</type>
+          <format>glas</format>
+          <format>lood</format>
+          <format>glas-in-lood</format>
+          <format>grisailleverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1907</identifier>
+        <datestamp>2019-05-29T15:08:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43151</identifier>
+          <identifier>RP-P-BI-1907</identifier>
+          <title>Twee Romeinse krijgslieden</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Bloteling, Abraham</contributor>
+          <contributor>Lairesse, Gerard de</contributor>
+          <subject>de soldaat; het leven van een soldaat</subject>
+          <date>1652 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-3636</identifier>
+        <datestamp>2021-11-19T15:46:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43201</identifier>
+          <identifier>RP-P-1907-3636</identifier>
+          <title>Portret van predikant Willem de Koning</title>
+          <creator>Bolomey, Benjamin Samuel</creator>
+          <contributor>Hoogstraten, Jan van (1627-1654)</contributor>
+          <subject>Koning, Willem de (predikant)</subject>
+          <date>1791</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1921-2086</identifier>
+        <datestamp>2020-12-14T13:31:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42757</identifier>
+          <identifier>RP-P-1921-2086</identifier>
+          <title>Waar gaat moeder naar toe?</title>
+          <title>Donde vá Mamá?</title>
+          <title>Los Caprichos</title>
+          <creator>Goya, Francisco de</creator>
+          <contributor>Goya, Francisco de</contributor>
+          <date>1797 - 1799</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1921-2092</identifier>
+        <datestamp>2019-05-09T16:35:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42763</identifier>
+          <identifier>RP-P-1921-2092</identifier>
+          <title>Als de dag aanbreekt, zijn wij weg</title>
+          <title>Si amanece; nos vamos</title>
+          <title>Los Caprichos</title>
+          <creator>Goya, Francisco de</creator>
+          <contributor>Goya, Francisco de</contributor>
+          <date>1797 - 1799</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3119</identifier>
+        <datestamp>2021-01-19T22:19:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47399</identifier>
+          <identifier>RP-P-1906-3119</identifier>
+          <title>Portret van Johannes Calvijn</title>
+          <title>Joannes Calvinus</title>
+          <title>Hervormers</title>
+          <title>The Reformers</title>
+          <creator>Faber, John (I)</creator>
+          <contributor>Faber, John (I)</contributor>
+          <subject>Calvijn, Johannes</subject>
+          <date>1660 - 1721</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-Q-32</identifier>
+        <datestamp>2020-06-11T17:23:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46649</identifier>
+          <identifier>RP-P-H-Q-32</identifier>
+          <title>Gortenteller</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Vaillant, Wallerant</contributor>
+          <subject>spreekwoorden, gezegden etc.</subject>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3707-D</identifier>
+        <datestamp>2021-10-02T12:17:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46772</identifier>
+          <identifier>BK-NM-3707-D</identifier>
+          <title>Fragment zijdeweefsel</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1725</date>
+          <type>zijdeweefsel</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1957-13</identifier>
+        <datestamp>2021-10-02T12:18:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47592</identifier>
+          <identifier>RP-P-1957-13</identifier>
+          <title>Wetenswaardigheden over de roodharigen</title>
+          <title>Komo zatsuwa</title>
+          <creator>anoniem</creator>
+          <contributor>Churyo, Morishima</contributor>
+          <date>1787</date>
+          <type>boek</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Edo</coverage>
+          <coverage>Edo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1891-A-16608</identifier>
+        <datestamp>2016-10-20T19:53:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46502</identifier>
+          <identifier>RP-P-1891-A-16608</identifier>
+          <title>Portret van Thomas Killigrew</title>
+          <title>Thomas Killegrew Groome of ye Bedchamber to King Charles ye Second</title>
+          <creator>Vaart, Jan van der</creator>
+          <contributor>Wissing, Willem</contributor>
+          <contributor>Smith, John (prentmaker/ uitgever)</contributor>
+          <subject>Killigrew, Thomas</subject>
+          <date>1662 - 1721</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1921-1963</identifier>
+        <datestamp>2021-03-29T09:50:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42864</identifier>
+          <identifier>RP-P-1921-1963</identifier>
+          <title>Gevallenen op een slagveld</title>
+          <title>Tanto y mas</title>
+          <title>Gruwelen van de oorlog</title>
+          <title>Los desastres de la guerra</title>
+          <creator>Goya, Francisco de</creator>
+          <contributor>Potenciano, Laurenciano</contributor>
+          <contributor>Real Academia de Nobles Artes de San Fernando</contributor>
+          <subject>Spaanse Onafhankelijkheidsoorlog</subject>
+          <subject>Spanje</subject>
+          <date>1810</date>
+          <date>1863</date>
+          <type>prent</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Madrid</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.632</identifier>
+        <datestamp>2019-05-29T15:12:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47250</identifier>
+          <identifier>RP-P-OB-17.632</identifier>
+          <title>Jonge vrouw met open hemd</title>
+          <creator>anoniem</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1650 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1959-92</identifier>
+        <datestamp>2021-01-28T13:12:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41338</identifier>
+          <identifier>RP-P-1959-92</identifier>
+          <title>Het park gezien vanuit de Villa d'Este</title>
+          <creator>Fragonard, Jean Honoré</creator>
+          <subject>Villa d'Este</subject>
+          <date>1763 - 1764</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTkyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

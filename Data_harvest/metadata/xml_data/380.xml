@@ -1,0 +1,440 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3NTgw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13041</identifier>
+        <datestamp>2021-11-03T16:56:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25763</identifier>
+          <identifier>BK-NM-13041</identifier>
+          <title>Dopsleutel van staal</title>
+          <date>ca. 1300 - ca. 1500</date>
+          <type>sleutel</type>
+          <type>dopsleutel</type>
+          <format>staal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1127</identifier>
+        <datestamp>2019-05-09T15:08:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30030</identifier>
+          <identifier>RP-P-OB-1127</identifier>
+          <title>Petrus en Andreas</title>
+          <title>De twaalf apostelen in paren</title>
+          <creator>Meckenem, Israhel van</creator>
+          <date>1455 - 1503</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bocholt (Duitsland)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-Z-167</identifier>
+        <datestamp>2019-05-09T15:12:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30627</identifier>
+          <identifier>RP-P-H-Z-167</identifier>
+          <title>Dansend paar no. 3</title>
+          <title>Grote paren dansende bruiloftsgasten</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <date>1538</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18808</identifier>
+        <datestamp>2022-01-25T09:11:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25080</identifier>
+          <identifier>BK-18808</identifier>
+          <title>Ontwerp voor een standbeeld van Paulus Potter</title>
+          <creator>Lacomblé, Eugène</creator>
+          <date>ca. 1828 - ca. 1905</date>
+          <type>beeldhouwwerk</type>
+          <format>klei</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-680-F</identifier>
+        <datestamp>2021-10-02T11:35:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25404</identifier>
+          <identifier>BK-1973-680-F</identifier>
+          <title>Lint, marine rips, aan één van de uiteinden in de lengte dubbelgevouwen en gerimpeld vastgezet</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1950</date>
+          <type>lint</type>
+          <format>zijde</format>
+          <format>rips</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2013</identifier>
+        <datestamp>2021-11-03T16:57:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25919</identifier>
+          <identifier>BK-KOG-2013</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13215-B</identifier>
+        <datestamp>2022-05-25T15:23:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24868</identifier>
+          <identifier>BK-NM-13215-B</identifier>
+          <title>Hercules en de Hydra</title>
+          <creator>Baurscheit, Jan Pieter van (I)</creator>
+          <description>Het bedwingen van de Hydra van Lerna was het tweede van de twaalf werken die Hercules in opdracht van koning Eurystheus moest volbrengen. Hercules is bezig een van de negen koppen van het monster af te slaan. Wanneer er een kop werd afgehakt, groeiden
+er onmiddellijk twee nieuwe voor terug. Om dit te voorkomen liet Hercules door zijn vriend Iolaus de wonden dichtschroeien.</description>
+          <date>ca. 1722 - ca. 1728</date>
+          <type>tuinbeeld</type>
+          <format>zandsteen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3212</identifier>
+        <datestamp>2021-10-02T11:35:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25545</identifier>
+          <identifier>BK-NM-3212</identifier>
+          <title>Helft van damschijf met portret: Keizer Otto</title>
+          <date>1525 - 1575</date>
+          <type>damschijf</type>
+          <format>palmhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12431</identifier>
+        <datestamp>2021-11-02T08:29:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25551</identifier>
+          <identifier>BK-NM-12431</identifier>
+          <title>De Reuk</title>
+          <title>Vijf zintuigen</title>
+          <creator>Flötner, Peter</creator>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>plaquette</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9142</identifier>
+        <datestamp>2021-11-03T16:57:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25810</identifier>
+          <identifier>BK-NM-9142</identifier>
+          <title>Binnenwerk van een slot met sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2002</identifier>
+        <datestamp>2021-10-02T11:38:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25908</identifier>
+          <identifier>BK-KOG-2002</identifier>
+          <title>39 sleutels uit de collectie van Emmanuel Vita Israël</title>
+          <creator>anoniem</creator>
+          <description>De Amsterdamse apotheker en kunstverzamelaar Emmanuel Vita Israël schonk zijn collectie, met sleutels van de Romeinse oudheid tot de 19de eeuw, in 1937 aan het Koninklijk Oudheidkundig Genootschap. Naar eigen zeggen kwam zijn sleutelcollectie min of meer per toeval tot stand. Omdat hij een van de weinige verzamelaars was, wisten handelaren hem automatisch te vinden.</description>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1099</identifier>
+        <datestamp>2019-05-29T14:31:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30071</identifier>
+          <identifier>RP-P-OB-1099</identifier>
+          <title>De afdaling in het voorgeborchte</title>
+          <title>De Passie</title>
+          <creator>Monogrammist WAH</creator>
+          <contributor>Schongauer, Martin</contributor>
+          <contributor>Monogrammist AG (15e eeuw)</contributor>
+          <date>1475 - 1491</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+          <coverage>Bocholt (Duitsland)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2611</identifier>
+        <datestamp>2022-03-02T15:13:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30406</identifier>
+          <identifier>RP-P-OB-2611</identifier>
+          <title>Adam en Eva aan het werk</title>
+          <title>Geschiedenis van Adam en Eva</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>Aldegrever, Heinrich</contributor>
+          <date>1540</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2622</identifier>
+        <datestamp>2019-05-09T15:10:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30418</identifier>
+          <identifier>RP-P-OB-2622</identifier>
+          <title>Lot vertrekt met zijn familie uit Sodom</title>
+          <title>Geschiedenis van Lot</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>Aldegrever, Heinrich</contributor>
+          <date>1555</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2924</identifier>
+        <datestamp>2021-10-02T11:53:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30667</identifier>
+          <identifier>RP-P-OB-2924</identifier>
+          <title>Judith met het hoofd van Holofernes</title>
+          <creator>Altdorfer, Albrecht</creator>
+          <contributor>Mantegna, Andrea</contributor>
+          <date>ca. 1506 - 1538</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11289</identifier>
+        <datestamp>2021-10-02T11:36:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25654</identifier>
+          <identifier>BK-NM-11289</identifier>
+          <title>Wiegje met Christuskind</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>anoniem</contributor>
+          <date>ca. 1475 - ca. 1525</date>
+          <type>beeldhouwwerk</type>
+          <format>pijpaarde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Utrecht</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1121</identifier>
+        <datestamp>2019-05-09T15:08:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30022</identifier>
+          <identifier>RP-P-OB-1121</identifier>
+          <title>De kindermoord te Bethlehem</title>
+          <title>Het leven van Maria</title>
+          <creator>Meckenem, Israhel van</creator>
+          <contributor>Holbein, Hans (I)</contributor>
+          <date>1455 - 1503</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bocholt (Duitsland)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7532</identifier>
+        <datestamp>2021-10-02T11:36:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25598</identifier>
+          <identifier>BK-NM-7532</identifier>
+          <title>Bedelende figuur</title>
+          <creator>Troger, Simon</creator>
+          <date>na 1693 - voor 1768</date>
+          <type>beeldhouwwerk</type>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1034</identifier>
+        <datestamp>2021-11-03T16:57:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25862</identifier>
+          <identifier>BK-NM-1034</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18777</identifier>
+        <datestamp>2022-01-25T08:54:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25086</identifier>
+          <identifier>BK-18777</identifier>
+          <title>Verdediging van de vlag</title>
+          <creator>Lacomblé, Eugène</creator>
+          <date>1800 - 1900</date>
+          <type>beeldhouwwerk</type>
+          <format>klei</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3NjAw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

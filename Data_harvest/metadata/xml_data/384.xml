@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3NjYw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2758</identifier>
+        <datestamp>2021-10-02T11:53:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30595</identifier>
+          <identifier>RP-P-OB-2758</identifier>
+          <title>De Dood en de kardinaal</title>
+          <title>Macht van de Dood</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <date>1541</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1962-28</identifier>
+        <datestamp>2021-11-03T19:22:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25378</identifier>
+          <identifier>BK-1962-28</identifier>
+          <title>Hoedenspeld met knop van een kleine verzilverde bol gevat in koperen kelkblaadjes</title>
+          <creator>anoniem</creator>
+          <date>ca. 1905</date>
+          <type>hoedenspeld</type>
+          <format>staal</format>
+          <format>koper</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7529</identifier>
+        <datestamp>2021-10-02T11:36:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25595</identifier>
+          <identifier>BK-NM-7529</identifier>
+          <title>Bedelende figuur</title>
+          <creator>Troger, Simon</creator>
+          <date>na 1693 - voor 1768</date>
+          <type>beeldhouwwerk</type>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12957</identifier>
+        <datestamp>2021-11-03T16:56:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25773</identifier>
+          <identifier>BK-NM-12957</identifier>
+          <title>Sleutel van ijzer</title>
+          <date>ca. 1300 - ca. 1400</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1922-241</identifier>
+        <datestamp>2021-10-02T11:53:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30337</identifier>
+          <identifier>RP-P-1922-241</identifier>
+          <title>Veertien heiligen</title>
+          <creator>anoniem</creator>
+          <date>1465 - 1475</date>
+          <type>prent</type>
+          <type>fragment</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zwaben</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2750</identifier>
+        <datestamp>2021-10-02T11:53:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30587</identifier>
+          <identifier>RP-P-OB-2750</identifier>
+          <title>Kracht</title>
+          <title>Fortitudo</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>Aldegrever, Heinrich</contributor>
+          <date>1528</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4101</identifier>
+        <datestamp>2019-05-29T14:32:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30830</identifier>
+          <identifier>RP-P-OB-4101</identifier>
+          <title>Martinus snijdt stuk van mantel voor bedelaar</title>
+          <creator>Baldung Grien, Hans</creator>
+          <date>1505 - 1507</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11709</identifier>
+        <datestamp>2021-10-02T11:34:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25322</identifier>
+          <identifier>BK-NM-11709</identifier>
+          <title>De gerechtigheid van Trajanus</title>
+          <creator>Meester van de Dood van Absalom</creator>
+          <date>1475 - 1500</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2635</identifier>
+        <datestamp>2022-03-02T15:14:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30438</identifier>
+          <identifier>RP-P-OB-2635</identifier>
+          <title>Absalom doodt Amnon</title>
+          <title>Geschiedenis van Amnon en Tamar</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>Aldegrever, Heinrich</contributor>
+          <date>1540</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4202</identifier>
+        <datestamp>2019-05-09T15:14:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30930</identifier>
+          <identifier>RP-P-OB-4202</identifier>
+          <title>Slapend kind met zandloper en vier schedels</title>
+          <title>Mors Omnia Aeqvat</title>
+          <creator>Beham, Barthel</creator>
+          <contributor>Beham, Barthel</contributor>
+          <date>1512 - 1540</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18804</identifier>
+        <datestamp>2022-01-25T09:10:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25077</identifier>
+          <identifier>BK-18804</identifier>
+          <title>Edelvrouw</title>
+          <creator>Lacomblé, Eugène</creator>
+          <date>1800 - 1900</date>
+          <type>beeldhouwwerk</type>
+          <format>klei</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16952-C</identifier>
+        <datestamp>2021-10-02T11:34:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25299</identifier>
+          <identifier>BK-16952-C</identifier>
+          <title>Mascaron</title>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1958-9-A</identifier>
+        <datestamp>2021-10-02T11:37:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25693</identifier>
+          <identifier>BK-1958-9-A</identifier>
+          <title>Ingelijst portret Voltaire, en profil gezien</title>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1955-548</identifier>
+        <datestamp>2021-01-28T13:03:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30294</identifier>
+          <identifier>RP-P-1955-548</identifier>
+          <title>Christus door de duivel in verleiding gebracht</title>
+          <title>Concordantie Oude en Nieuwe Testament</title>
+          <title>Concordantzen alt und news Testaments</title>
+          <creator>Hirschvogel, Augustin</creator>
+          <contributor>Hirschvogel, Augustin</contributor>
+          <date>1548</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Wenen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2715</identifier>
+        <datestamp>2021-10-02T11:53:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30538</identifier>
+          <identifier>RP-P-OB-2715</identifier>
+          <title>Oordeel van Paris</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>Aldegrever, Heinrich</contributor>
+          <date>1538</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-3056</identifier>
+        <datestamp>2019-05-09T15:13:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30787</identifier>
+          <identifier>RP-P-OB-3056</identifier>
+          <title>De droom van Paris</title>
+          <title>Het oordeel van Paris</title>
+          <creator>Altdorfer, Albrecht</creator>
+          <date>1511</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1006</identifier>
+        <datestamp>2019-05-29T14:31:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30094</identifier>
+          <identifier>RP-P-OB-1006</identifier>
+          <title>De doornenkroning</title>
+          <title>De Passie</title>
+          <creator>Schongauer, Martin</creator>
+          <date>1470 - 1490</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1054</identifier>
+        <datestamp>2019-05-29T14:31:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30144</identifier>
+          <identifier>RP-P-OB-1054</identifier>
+          <title>Christus kroont Maria</title>
+          <creator>Schongauer, Martin</creator>
+          <date>1470 - 1490</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-Z-172</identifier>
+        <datestamp>2019-05-09T15:12:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30638</identifier>
+          <identifier>RP-P-H-Z-172</identifier>
+          <title>Kussend paar</title>
+          <title>Grote paren dansende bruiloftsgasten</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <date>1538</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8923</identifier>
+        <datestamp>2022-05-20T10:27:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24865</identifier>
+          <identifier>BK-NM-8923</identifier>
+          <title>Borstbeeld van een Romeinse keizer</title>
+          <creator>anoniem</creator>
+          <description>Beelden werden vanaf de 17de eeuw veelvuldig gebruikt voor de decoratie van de strak ontworpen barokke tuinen. Populair waren daarbij bustes van Romeinse keizers. Deze twee marmeren beelden stammen uit de 18de eeuw; het is niet bekend
+om welke Romeinse keizers het gaat.</description>
+          <date>ca. 1700 - ca. 1750</date>
+          <type>tuinbeeld</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3Njgw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

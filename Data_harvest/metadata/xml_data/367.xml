@@ -1,0 +1,441 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3MzIw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1966-3</identifier>
+        <datestamp>2021-10-02T11:35:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25450</identifier>
+          <identifier>BK-1966-3</identifier>
+          <title>Elisabeth I keizerin van Rusland (1709-1762)</title>
+          <creator>Gillet, Nicolas-François</creator>
+          <date>ca. 1758 - ca. 1762</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Sint-Petersburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-18-A</identifier>
+        <datestamp>2021-11-29T11:56:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25727</identifier>
+          <identifier>BK-1978-18-A</identifier>
+          <title>Koe</title>
+          <creator>anoniem</creator>
+          <date>ca. 1675 - ca. 1750</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16930-A</identifier>
+        <datestamp>2022-06-01T08:37:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25266</identifier>
+          <identifier>BK-16930-A</identifier>
+          <title>Cilinder met roofvogels, schildpadden, kreeften en hagedissen, onderdeel van een fontein</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11919</identifier>
+        <datestamp>2021-10-02T11:34:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25315</identifier>
+          <identifier>BK-NM-11919</identifier>
+          <title>Maria met kind tussen twee heiligen</title>
+          <creator>Moderno</creator>
+          <date>ca. 1475 - ca. 1499</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1983</identifier>
+        <datestamp>2021-11-03T16:57:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25889</identifier>
+          <identifier>BK-KOG-1983</identifier>
+          <title>Sleutelgreep</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-239-3</identifier>
+        <datestamp>2022-03-29T09:24:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24728</identifier>
+          <identifier>BK-1968-239-3</identifier>
+          <title>Geschulpte schotel met hoo-vogels</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1670 - ca. 1700</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Arita</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18779</identifier>
+        <datestamp>2022-01-24T14:43:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25051</identifier>
+          <identifier>BK-18779</identifier>
+          <title>Schets voor een standbeeld van J.P. Coen te Hoorn</title>
+          <creator>Lacomblé, Eugène</creator>
+          <date>ca. 1828 - ca. 1905</date>
+          <type>beeldhouwwerk</type>
+          <format>klei</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-678</identifier>
+        <datestamp>2021-10-02T11:35:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25413</identifier>
+          <identifier>BK-1973-678</identifier>
+          <title>Halslint van zwart zijden lint, met een voorstuk van gitten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1925 - ca. 1950</date>
+          <type>dameskleding</type>
+          <type>sieraad</type>
+          <type>halsband</type>
+          <format>zijde</format>
+          <format>git</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9166</identifier>
+        <datestamp>2021-11-03T16:57:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25795</identifier>
+          <identifier>BK-NM-9166</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-16329-B</identifier>
+        <datestamp>2022-03-30T08:33:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24767</identifier>
+          <identifier>AK-RBK-16329-B</identifier>
+          <title>Zeshoekige vaas met vrouwen, landschappen en kostbaarheden in vakdecoratie</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>vaas</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-21</identifier>
+        <datestamp>2022-06-01T08:36:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25027</identifier>
+          <identifier>BK-1967-21</identifier>
+          <title>Borstbeeld van een Grieks meisje</title>
+          <creator>Royer, Louis</creator>
+          <date>1833</date>
+          <type>beeldhouwwerk</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-630-B</identifier>
+        <datestamp>2021-10-02T11:34:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25371</identifier>
+          <identifier>BK-1973-630-B</identifier>
+          <title>Hoedenspeld met ijzeren pen en kroonvormige knop waarin twee delen wit been</title>
+          <creator>anoniem</creator>
+          <date>ca. 1930 - ca. 1940</date>
+          <type>hoedenspeld</type>
+          <format>ijzer</format>
+          <format>ijzer</format>
+          <format>been</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12679</identifier>
+        <datestamp>2021-11-02T08:29:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25547</identifier>
+          <identifier>BK-NM-12679</identifier>
+          <title>Abraham als gastheer van de engelen</title>
+          <creator>Flötner, Peter</creator>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>plaquette</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1992</identifier>
+        <datestamp>2021-11-03T16:57:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25898</identifier>
+          <identifier>BK-KOG-1992</identifier>
+          <title>Fragment van een sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8670</identifier>
+        <datestamp>2022-03-30T08:39:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24806</identifier>
+          <identifier>BK-NM-8670</identifier>
+          <title>Juno</title>
+          <creator>Verhulst, Rombout</creator>
+          <date>1680 - 1690</date>
+          <type>beeldhouwwerk</type>
+          <format>marmer</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1970-138</identifier>
+        <datestamp>2021-10-02T02:01:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25002</identifier>
+          <identifier>BK-1970-138</identifier>
+          <title>Maria als Mater dolorosa</title>
+          <creator>Roy, Pierre-François le</creator>
+          <date>1762</date>
+          <type>beeldhouwwerk</type>
+          <type>reliëf</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17236</identifier>
+        <datestamp>2022-06-01T08:36:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25173</identifier>
+          <identifier>BK-17236</identifier>
+          <title>Maria in aanbidding voor het kind, tondo</title>
+          <creator>Rossellino, Antonio</creator>
+          <date>na 1427</date>
+          <type>beeldhouwwerk</type>
+          <format>terracotta</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1958-18</identifier>
+        <datestamp>2021-11-29T22:59:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25345</identifier>
+          <identifier>BK-1958-18</identifier>
+          <title>Maria met kind</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <description>Kleine religieuze beeldjes zoals dit delicate groepje van Maria met een speels kindje Jezus op schoot dienden niet uitsluitend een devotioneel doel, maar waren ook verzamelobjecten op zich. Ze werden bewonderd om hun kostbare materiaal en verfijnde afwerking en vonden een plaats in een kunstkabinet of Kunstkammer.</description>
+          <date>ca. 1550</date>
+          <type>beeld</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+          <coverage>Mechelen</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7347</identifier>
+        <datestamp>2021-10-02T11:36:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25571</identifier>
+          <identifier>BK-NM-7347</identifier>
+          <title>Bacchanaal</title>
+          <creator>Strauss, Bernard</creator>
+          <description>Processies van figuren leenden zich goed voor voorstellingen rondom bekers en vazen. Deze voorstelling van een drinkgelag met de wijngod Bacchus en de beschonken Silenus is gebaseerd op een werk van Rubens. Het is een toepasselijk onderwerp voor een pronkbeker, waarvoor dit ivoren reliëf dus moet zijn gemaakt.</description>
+          <date>ca. 1660</date>
+          <type>beeldhouwwerk</type>
+          <type>reliëf</type>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Augsburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16959</identifier>
+        <datestamp>2021-11-03T16:56:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25745</identifier>
+          <identifier>BK-16959</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1700</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3MzQw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

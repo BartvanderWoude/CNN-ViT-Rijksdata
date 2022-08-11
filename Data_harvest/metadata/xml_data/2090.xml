@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MTc4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11794</identifier>
+        <datestamp>2021-01-28T19:43:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96828</identifier>
+          <identifier>RP-P-1887-A-11794</identifier>
+          <title>Heilige Johanna van Frankrijk</title>
+          <title>Stichters van kloosters en religieuze orden</title>
+          <title>Ordinvm Religiosorvum conditores</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Collaert, Adriaen</contributor>
+          <contributor>Collaert, Adriaen</contributor>
+          <date>1608</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6046</identifier>
+        <datestamp>2021-12-01T11:55:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97079</identifier>
+          <identifier>RP-P-BI-6046</identifier>
+          <title>Leeuwen en luipaard</title>
+          <title>Vierpotige dieren</title>
+          <title>Animalivm Qvaddrvpedvm</title>
+          <creator>anoniem</creator>
+          <contributor>Collaert, Adriaen</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <date>1595 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-10348</identifier>
+        <datestamp>2021-01-28T19:36:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96311</identifier>
+          <identifier>RP-P-1886-A-10348</identifier>
+          <title>Mercurius en Argus</title>
+          <title>Landschappen met bijbelse en mythologische scènes</title>
+          <creator>Cock, Hieronymus</creator>
+          <contributor>Cock, Matthys</contributor>
+          <contributor>Cock, Hieronymus</contributor>
+          <date>ca. 1551 - voor 1558</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5975</identifier>
+        <datestamp>2021-01-28T19:39:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96539</identifier>
+          <identifier>RP-P-BI-5975</identifier>
+          <title>Portret van een Leuvense doctor (Joh. Brandt?)</title>
+          <creator>Coelemans, Jacob</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <date>ca. 1670 - ca. 1735</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1944-1058</identifier>
+        <datestamp>2021-01-28T19:46:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96983</identifier>
+          <identifier>RP-P-1944-1058</identifier>
+          <title>Wolvenjacht</title>
+          <title>Landschappen met Bijbelse, mythologische scènes en jachttaferelen</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Hoeswinckel, Eduwart van</contributor>
+          <date>1582 - 1586</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5847</identifier>
+        <datestamp>2021-01-28T19:29:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95732</identifier>
+          <identifier>RP-P-BI-5847</identifier>
+          <title>Portret van Lodewijk Filips II hertog van Orléans</title>
+          <creator>Claessens, Lambertus Antonius</creator>
+          <subject>Lodewijk Filips II (hertog van Orléans)</subject>
+          <date>ca. 1792 - ca. 1808</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1883-A-7110</identifier>
+        <datestamp>2016-10-20T20:46:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96327</identifier>
+          <identifier>RP-P-1883-A-7110</identifier>
+          <title>Portret van Jean Baptiste Coclers</title>
+          <creator>Coclers, Louis Bernard</creator>
+          <subject>Coclers, Jean Baptiste</subject>
+          <date>1756 - 1817</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-1924</identifier>
+        <datestamp>2021-01-28T19:02:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91755</identifier>
+          <identifier>RP-P-1918-1924</identifier>
+          <title>Staande vrouw met stok</title>
+          <creator>Mare, Pieter de</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1777 - 1779</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5710</identifier>
+        <datestamp>2021-01-28T19:10:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92087</identifier>
+          <identifier>RP-P-BI-5710</identifier>
+          <title>Rokende man</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <date>1748 - 1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-7260</identifier>
+        <datestamp>2021-08-16T15:05:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95781</identifier>
+          <identifier>RP-P-OB-7260</identifier>
+          <title>Memorieprent voor Hendrik Hooft Daniëlsz.</title>
+          <creator>Claessens, Lambertus Antonius</creator>
+          <contributor>Kuyper, Jacques</contributor>
+          <subject>Amsterdam</subject>
+          <subject>Hooft, Hendrik Danielsz.</subject>
+          <date>1794</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-1917</identifier>
+        <datestamp>2021-01-28T19:03:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91824</identifier>
+          <identifier>RP-P-1918-1917</identifier>
+          <title>Rokende boer</title>
+          <creator>Mare, Pieter de</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1777 - 1779</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-7259-37</identifier>
+        <datestamp>2021-12-01T10:30:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92817</identifier>
+          <identifier>RP-P-OB-7259-37</identifier>
+          <title>Penning met een embleem en de namen van de hertogen van Savoye</title>
+          <creator>anoniem</creator>
+          <contributor>Chevalier, Nicolas</contributor>
+          <subject>Victor Amadeus II (hertog van Savoye)</subject>
+          <date>1706</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-1849</identifier>
+        <datestamp>2021-12-01T11:38:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95993</identifier>
+          <identifier>RP-P-1904-1849</identifier>
+          <title>Gezicht op een ruïne van een Griekse jachttempel</title>
+          <title>Venorij templum in Graecia</title>
+          <title>Ruinarum varii prospectus</title>
+          <creator>anoniem</creator>
+          <contributor>Cleve, Hendrick van</contributor>
+          <contributor>Galle, Philips</contributor>
+          <subject>tempel</subject>
+          <subject>Griekenland</subject>
+          <date>1585</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6063XU</identifier>
+        <datestamp>2021-01-28T19:42:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96734</identifier>
+          <identifier>RP-P-BI-6063XU</identifier>
+          <title>Graflegging van Christus</title>
+          <title>Passie en wederopstanding van Christus</title>
+          <title>Passio et Resvrrectio D.N. Iesv Christi</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Collaert, Adriaen</contributor>
+          <date>1570 - 1618</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5971</identifier>
+        <datestamp>2016-10-20T20:46:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96466</identifier>
+          <identifier>RP-P-BI-5971</identifier>
+          <title>Stranding van de Britse Oost-Indiëvaarder 'Generaal Barker' bij Noordwijk, 1781</title>
+          <creator>Coclers, Louis Bernard</creator>
+          <contributor>Bakhuysen, Ludolf</contributor>
+          <subject>Vierde Engelse Oorlog</subject>
+          <subject>Noordwijk</subject>
+          <date>in of na 1781 - 1817</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-10344A</identifier>
+        <datestamp>2021-01-28T19:31:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95838</identifier>
+          <identifier>RP-P-1886-A-10344A</identifier>
+          <title>Mercurius met het hoofd van Argus</title>
+          <title>Landschappen met bijbelse en mythologische scènes</title>
+          <creator>Cock, Hieronymus</creator>
+          <contributor>Cock, Matthys</contributor>
+          <contributor>Cock, Hieronymus</contributor>
+          <date>ca. 1551 - voor 1558</date>
+          <date>1558</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1978-83</identifier>
+        <datestamp>2021-01-28T19:46:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96991</identifier>
+          <identifier>RP-P-1978-83</identifier>
+          <title>Februari: roeping van Petrus en Andreas</title>
+          <title>Het leven van Christus in de twaalf maanden</title>
+          <title>Emblemata Evangelica</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Sadeler</contributor>
+          <date>1585</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5934</identifier>
+        <datestamp>2021-01-28T19:34:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96126</identifier>
+          <identifier>RP-P-BI-5934</identifier>
+          <title>Engel met lans en spijkers</title>
+          <title>SS Apostolorum Iconen</title>
+          <creator>Clouwet, Petrus</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Hendricx, Gilles</contributor>
+          <date>1639 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1963-245</identifier>
+        <datestamp>2021-01-28T19:41:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96688</identifier>
+          <identifier>RP-P-1963-245</identifier>
+          <title>Saul te midden van de profeten</title>
+          <title>Loflied op de muziek</title>
+          <title>Encomium Musices</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Straet, Jan van der</contributor>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Bochius, Joannes</contributor>
+          <date>1587 - 1591</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5833</identifier>
+        <datestamp>2021-01-28T19:29:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95640</identifier>
+          <identifier>RP-P-BI-5833</identifier>
+          <title>Memorieprent met portret van Marie-Antoinette</title>
+          <creator>Claessens, Lambertus Antonius</creator>
+          <contributor>Novion, Comte de</contributor>
+          <subject>Marie Antoinette</subject>
+          <date>in of na 1793 - ca. 1808</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MTgwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

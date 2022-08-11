@@ -1,0 +1,504 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NzA0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-55.254</identifier>
+        <datestamp>2020-01-20T10:26:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124117</identifier>
+          <identifier>RP-P-OB-55.254</identifier>
+          <title>Portret van Philipp Melanchton</title>
+          <title>Philippus Melanchton natus Brittae in Palatinatu</title>
+          <title>Portretten van hervormers</title>
+          <creator>Holsteyn, Pieter (II)</creator>
+          <contributor>Jonghe, Clement de</contributor>
+          <subject>Melanchthon, Philipp</subject>
+          <date>ca. 1640 - ca. 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17230</identifier>
+        <datestamp>2016-10-20T21:10:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124319</identifier>
+          <identifier>RP-P-1892-A-17230</identifier>
+          <title>Landschap met drinkende Jupiter</title>
+          <title>Allegorische landschappen</title>
+          <creator>Hondius, Hendrick (I)</creator>
+          <date>1644</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1913-5996</identifier>
+        <datestamp>2016-10-20T21:10:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124932</identifier>
+          <identifier>RP-P-1913-5996</identifier>
+          <title>Illustratie voor 'Den Arbeid van Mars' van Allain Manesson Mallet</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>Béthune</subject>
+          <date>1672</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-48.993</identifier>
+        <datestamp>2017-04-20T17:53:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125009</identifier>
+          <identifier>RP-P-OB-48.993</identifier>
+          <title>Portret van Jan Beukelsz. van Leiden (Jan van Leyden)</title>
+          <title>Iohannes Bucholdi á Leyda</title>
+          <title>Historie der Kerken en ketteren (...) tot aan het jaar onses Heeren 1688</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>Wederdopersoproer in Münster</subject>
+          <subject>Münster</subject>
+          <subject>Leiden, Jan van</subject>
+          <date>in of voor ca. 1701</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1895-A-18688</identifier>
+        <datestamp>2020-08-19T12:03:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124296</identifier>
+          <identifier>RP-P-1895-A-18688</identifier>
+          <title>Gezicht op de Vijverberg in Den Haag</title>
+          <title>Curia Hollandiae</title>
+          <creator>Hondius, Hendrick (I)</creator>
+          <contributor>Saen, Aegidius van</contributor>
+          <contributor>Hondius, Hendrick (I)</contributor>
+          <contributor>Staten-Generaal der Verenigde Nederlanden</contributor>
+          <contributor>Hondius, Hendrick (I)</contributor>
+          <contributor>onbekend</contributor>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <subject>Buitenhof</subject>
+          <subject>Vijverberg</subject>
+          <subject>Gevangenpoort</subject>
+          <subject>Plaats</subject>
+          <subject>Grote Kerk</subject>
+          <date>1598</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1900-A-22223</identifier>
+        <datestamp>2020-03-23T09:43:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124345</identifier>
+          <identifier>RP-P-1900-A-22223</identifier>
+          <title>De Dood met een zandloper en een pijl</title>
+          <title>Allegorie op beroemdheid na de dood</title>
+          <title>Post funera, vita.</title>
+          <title>Portretten van beroemde schilders uit de Lage Landen</title>
+          <title>Pictorum aliquot celebrium praecipuae Germaniae Inferioris effigies</title>
+          <creator>Hondius, Hendrick (I)</creator>
+          <contributor>Hondius, Hendrick (I)</contributor>
+          <date>1610</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1913-5943</identifier>
+        <datestamp>2016-10-20T21:10:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124860</identifier>
+          <identifier>RP-P-1913-5943</identifier>
+          <title>Illustratie voor 'Den Arbeid van Mars' van Allain Manesson Mallet</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>wiskunde</subject>
+          <subject>Venetië</subject>
+          <date>1672</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1913-5973</identifier>
+        <datestamp>2016-10-20T21:10:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124909</identifier>
+          <identifier>RP-P-1913-5973</identifier>
+          <title>Illustratie voor 'Den Arbeid van Mars' van Allain Manesson Mallet</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>wiskunde</subject>
+          <date>1672</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1913-6047</identifier>
+        <datestamp>2016-10-20T21:11:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124983</identifier>
+          <identifier>RP-P-1913-6047</identifier>
+          <title>Illustratie voor 'Den Arbeid van Mars' van Allain Manesson Mallet</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <date>1672</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-4490</identifier>
+        <datestamp>2017-04-20T17:58:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125032</identifier>
+          <identifier>RP-P-1908-4490</identifier>
+          <title>Portret van Paracelsus</title>
+          <title>Paracelsus</title>
+          <title>Historie der Kerken en ketteren (...) tot aan het jaar onses Heeren 1688</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>Paracelsus</subject>
+          <date>1701</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1880-A-4105</identifier>
+        <datestamp>2016-10-20T21:10:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124276</identifier>
+          <identifier>RP-P-1880-A-4105</identifier>
+          <title>Wild zwijn door honden aangevallen</title>
+          <creator>Hondius, Abraham Daniëlsz.</creator>
+          <contributor>Hondius, Abraham Daniëlsz.</contributor>
+          <contributor>Tompson, Richard</contributor>
+          <date>1671 - 1691</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-16.222</identifier>
+        <datestamp>2019-05-29T15:46:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124530</identifier>
+          <identifier>RP-P-OB-16.222</identifier>
+          <title>Portret van Willem Hondius</title>
+          <title>Gvilielmvs Hondivs</title>
+          <creator>Hondius, Willem</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <contributor>Enden, Martinus van den</contributor>
+          <contributor>onbekend</contributor>
+          <subject>Hondius, Willem</subject>
+          <date>1630 - 1654</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-16.224</identifier>
+        <datestamp>2016-10-20T21:10:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124542</identifier>
+          <identifier>RP-P-OB-16.224</identifier>
+          <title>Portret van Christiaan, hertog van Brunswijk-Wolfenbüttel</title>
+          <creator>Hondius, Willem</creator>
+          <contributor>Hondius, Hendrick</contributor>
+          <subject>Christiaan (II) hertog van Brunswijk-Wolfenbüttel</subject>
+          <date>1623</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-55.103</identifier>
+        <datestamp>2016-10-20T21:10:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124795</identifier>
+          <identifier>RP-P-OB-55.103</identifier>
+          <title>Illustratie voor de Decamerone van Boccaccio</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <date>1697</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-55.115</identifier>
+        <datestamp>2016-10-20T21:10:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124807</identifier>
+          <identifier>RP-P-OB-55.115</identifier>
+          <title>Illustratie voor de Decamerone van Boccaccio</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <date>1697</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1937-916</identifier>
+        <datestamp>2019-05-21T09:59:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125046</identifier>
+          <identifier>RP-P-1937-916</identifier>
+          <title>Wreedheden in een dorp aan het water, 1672</title>
+          <creator>anoniem</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>oorlog</subject>
+          <subject>Rampjaar</subject>
+          <subject>Bodegraven</subject>
+          <subject>Zwammerdam</subject>
+          <date>1673 - 1675</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17272</identifier>
+        <datestamp>2016-10-20T21:10:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.123860</identifier>
+          <identifier>RP-P-1892-A-17272</identifier>
+          <title>Begrafenisstoet met edelen</title>
+          <title>Begrafenis van Willem II, hertog van Gelre</title>
+          <title>Spiegel der vergenchlichkeit</title>
+          <creator>Hogenberg, Frans</creator>
+          <contributor>anoniem</contributor>
+          <subject>Willem II (hertog van Gelre)</subject>
+          <date>1592</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-55.256</identifier>
+        <datestamp>2016-10-20T21:10:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124053</identifier>
+          <identifier>RP-P-OB-55.256</identifier>
+          <title>Portret van Philips Conraedt, graaf van Benthem</title>
+          <creator>Holsteyn, Pieter (II)</creator>
+          <contributor>Goedesberg, Gerrit van</contributor>
+          <subject>Benthem, Philips Conraedt graaf van</subject>
+          <date>1648 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2025</identifier>
+        <datestamp>2020-10-20T11:56:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124652</identifier>
+          <identifier>RP-P-1909-2025</identifier>
+          <title>Allegorie met Zeeland</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>Zeeland</subject>
+          <date>1704 - 1706</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1902-A-22895</identifier>
+        <datestamp>2017-10-31T09:20:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124689</identifier>
+          <identifier>RP-P-1902-A-22895</identifier>
+          <title>Spotprent op de hebzucht en de rijkdom van de katholieke geestelijkheid</title>
+          <title>L'abregé du Clergé Romain</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <date>1685 - 1695</date>
+          <type>prent</type>
+          <type>spotprent</type>
+          <type>frontispice</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NzA2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

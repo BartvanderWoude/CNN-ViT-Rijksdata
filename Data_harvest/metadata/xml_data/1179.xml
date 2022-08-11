@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzU2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1981-50</identifier>
+        <datestamp>2021-10-02T12:19:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49833</identifier>
+          <identifier>RP-T-1981-50</identifier>
+          <title>Twee vrouwen met bazuinen aan de mond</title>
+          <creator>Procaccini, Giulio Cesare</creator>
+          <description>De kunstenaar maakte deze tekening in voorbereiding op een plafondschildering in het Lateraans Paleis in Rome, die door sommigen aan Mainardi wordt toegeschreven. Dat het werk hoog boven de grond moest komen, is te zien aan het perspectief in de tekening. De figuren zijn van onderaf weergegeven. De vrouwen, gekleed in klassieke gewaden, houden een ovaal schild omhoog. Op deze plek in de schildering is het wapen van paus Sixtus V weergegeven.</description>
+          <date>ca. 1586 - ca. 1588</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1955-101(R)</identifier>
+        <datestamp>2021-10-02T12:20:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49957</identifier>
+          <identifier>RP-T-1955-101(R)</identifier>
+          <title>Schetsblad met details van de Dom van Florence en een profielkop</title>
+          <creator>Sangallo, Giuliano da</creator>
+          <subject>Dom van Florence</subject>
+          <date>1455 - 1516</date>
+          <type>tekening</type>
+          <type>architectuurtekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.777</identifier>
+        <datestamp>2022-03-02T15:19:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50171</identifier>
+          <identifier>RP-P-OB-17.777</identifier>
+          <title>Zeehaven met ondergaande zon en veel figuren en gebouwen aan wal</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <date>1774-01-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8480</identifier>
+        <datestamp>2021-11-02T08:30:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50309</identifier>
+          <identifier>BK-NM-8480</identifier>
+          <title>Mes en vork in schede met het wapen van Saxen</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1725</date>
+          <type>vork</type>
+          <type>mes (culinair gereedschap)</type>
+          <format>email</format>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10209</identifier>
+        <datestamp>2021-11-02T08:32:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50568</identifier>
+          <identifier>BK-NM-10209</identifier>
+          <title>Plaquette</title>
+          <creator>anoniem</creator>
+          <date>1575 - 1600</date>
+          <type>plaquette</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1884-A-395</identifier>
+        <datestamp>2019-01-03T16:49:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50691</identifier>
+          <identifier>RP-T-1884-A-395</identifier>
+          <title>Boerenkermis</title>
+          <creator>Goyen, Jan van</creator>
+          <date>1624</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1961-38(R)</identifier>
+        <datestamp>2021-10-02T12:19:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49862</identifier>
+          <identifier>RP-T-1961-38(R)</identifier>
+          <title>Gevecht tussen Lapithen en Centauren</title>
+          <creator>Parmigianino</creator>
+          <date>1513 - 1620</date>
+          <type>tekening</type>
+          <format>geprepareerd papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2180</identifier>
+        <datestamp>2021-01-28T13:30:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49934</identifier>
+          <identifier>RP-T-1889-A-2180</identifier>
+          <title>Naar rechts knielende vrouw met een boek in de handen</title>
+          <creator>Rafaël</creator>
+          <contributor>anoniem</contributor>
+          <date>1500 - 1620</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1905-179(V)</identifier>
+        <datestamp>2021-10-12T21:18:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50196</identifier>
+          <identifier>RP-T-1905-179(V)</identifier>
+          <title>Landkaart</title>
+          <creator>Goeree, Jan</creator>
+          <date>1650 - 1750</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1941-23</identifier>
+        <datestamp>2022-04-26T15:48:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50597</identifier>
+          <identifier>RP-T-1941-23</identifier>
+          <title>Hernán Cortés wordt door Montezuma ontvangen</title>
+          <title>Cortez wordt door Montezuma ontvangen</title>
+          <title>Ontwerpen voor De Aanmerkenswaardigste (...) Zee- en Landreizen</title>
+          <creator>Goeree, Jan</creator>
+          <subject>oorspronkelijke bewoners van Centraal-Amerika</subject>
+          <subject>Azteken</subject>
+          <subject>Mexico</subject>
+          <subject>Cortés, Hernán</subject>
+          <subject>Motecuhzoma II</subject>
+          <date>1704 - 1727</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>dekverf</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1962-39</identifier>
+        <datestamp>2021-11-02T08:29:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50224</identifier>
+          <identifier>BK-1962-39</identifier>
+          <title>Mes Margaretha de Raet, Anno 1601. Den 7 octobris.</title>
+          <creator>Bry, Theodor de</creator>
+          <date>1601</date>
+          <type>mes (culinair gereedschap)</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-30.966</identifier>
+        <datestamp>2019-05-22T12:34:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50620</identifier>
+          <identifier>RP-P-OB-30.966</identifier>
+          <title>Landschap met de heilige Hieronymus</title>
+          <creator>Titiaan</creator>
+          <creator>Boldrini, Nicolò</creator>
+          <subject>landschappen</subject>
+          <date>ca. 1525 - ca. 1530</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-362</identifier>
+        <datestamp>2021-10-02T12:19:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49816</identifier>
+          <identifier>RP-T-1948-362</identifier>
+          <title>Schetsen van Kaïn die Abel doodt</title>
+          <creator>Palma, Jacopo (il Giovane)</creator>
+          <date>1554 - 1628</date>
+          <type>tekening</type>
+          <format>geprepareerd papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-233</identifier>
+        <datestamp>2021-10-02T12:22:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50433</identifier>
+          <identifier>BK-KOG-233</identifier>
+          <title>Plaquette van koper met émail met voorstelling van de Annunciatie</title>
+          <creator>Nouailher, Jean-Baptiste (I)</creator>
+          <contributor>Nouailher, Jean-Baptiste (II)</contributor>
+          <date>ca. 1725 - ca. 1775</date>
+          <type>plaquette</type>
+          <format>koper</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Limoges</coverage>
+          <coverage>Limoges</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11335-E</identifier>
+        <datestamp>2021-11-02T08:32:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50537</identifier>
+          <identifier>BK-NM-11335-E</identifier>
+          <title>Prudentia (Wijsheid)</title>
+          <title>Zeven Deugden</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600</date>
+          <type>plaquette</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1976-10</identifier>
+        <datestamp>2021-01-28T13:30:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49839</identifier>
+          <identifier>RP-T-1976-10</identifier>
+          <title>Vier heiligen in aanbidding en de kroning van Maria</title>
+          <creator>Palma, Jacopo (il Giovane)</creator>
+          <description>Het getekende oeuvre van de Venetiaanse kunstenaar Jacopo Palma is zeer gevarieerd. Naast vlugge pentekeningen, maakte hij ook diverse monochrome studies in olieverf op papier ter voorbereiding van schilderijen. Deze modelletti dienden waarschijnlijk om de evenwichtige
+verdeling van licht en schaduw in een compositie te bestuderen. Er is echter geen schilderij bekend, dat gebaseerd is op de hier getoonde
+tekening.</description>
+          <date>ca. 1608 - ca. 1628</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14418</identifier>
+        <datestamp>2021-11-02T08:29:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50271</identifier>
+          <identifier>BK-14418</identifier>
+          <title>Visschep met op de schep een vis tegen opengewerkte achtergrond van rozetten</title>
+          <creator>Both, Jan (zilversmid)</creator>
+          <date>1741</date>
+          <type>visschep</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17211</identifier>
+        <datestamp>2021-10-02T12:21:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50410</identifier>
+          <identifier>BK-17211</identifier>
+          <title>Plaquette met vrouwenportret</title>
+          <creator>Limosin, Léonard</creator>
+          <date>ca. 1530 - ca. 1540</date>
+          <type>plaquette</type>
+          <format>koper</format>
+          <format>email</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Limoges</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9421</identifier>
+        <datestamp>2021-11-02T08:32:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50574</identifier>
+          <identifier>BK-NM-9421</identifier>
+          <title>Diana en Actaeon</title>
+          <creator>anoniem</creator>
+          <date>ca. 1550 - ca. 1600</date>
+          <type>plaquette</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1955-118(V)</identifier>
+        <datestamp>2021-10-02T12:20:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50103</identifier>
+          <identifier>RP-T-1955-118(V)</identifier>
+          <title>Peristyle met ingetekende convergerende perspectivische lijnen</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1599</date>
+          <type>tekening</type>
+          <type>architectuurtekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzU4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,533 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODY0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-790</identifier>
+        <datestamp>2021-01-05T12:41:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61662</identifier>
+          <identifier>RP-F-00-790</identifier>
+          <title>Gezicht op Rolandseck, Nonnenwerth en het Zevengebergte</title>
+          <title>Rolandseck, Nonnenwerth u. d. Siebengebirge</title>
+          <title>Die Rheinlande</title>
+          <creator>anoniem</creator>
+          <creator>Römmler &amp; Jonas</creator>
+          <subject>Nonnenwerth</subject>
+          <subject>Rolandseck</subject>
+          <subject>Zevengebergte</subject>
+          <date>1890</date>
+          <type>kabinetfoto</type>
+          <type>fotomechanische afdruk</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+          <coverage>Dresden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-796</identifier>
+        <datestamp>2021-01-05T12:41:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61669</identifier>
+          <identifier>RP-F-00-796</identifier>
+          <title>Gezicht op Burcht Rheinstein</title>
+          <title>Schloss Rheinstein</title>
+          <title>Die Rheinlande</title>
+          <creator>anoniem</creator>
+          <creator>Römmler &amp; Jonas</creator>
+          <subject>Burcht Rheinfels</subject>
+          <date>1889</date>
+          <type>kabinetfoto</type>
+          <type>fotomechanische afdruk</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rijnland-Palts</coverage>
+          <coverage>Dresden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-623</identifier>
+        <datestamp>2022-03-15T17:37:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1252</identifier>
+          <identifier>AK-MAK-623</identifier>
+          <title>Wierookbrander</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1650 - ca. 1699</date>
+          <type>wierookbrander</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+          <coverage>Dehua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-187</identifier>
+        <datestamp>2022-01-24T11:04:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56137</identifier>
+          <identifier>RP-F-00-187</identifier>
+          <title>Koorbanken van de kathedraal te Siena</title>
+          <creator>Lombardi, Paolo</creator>
+          <subject>Dom</subject>
+          <date>1851 - 1890</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Siena</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1919-177</identifier>
+        <datestamp>2021-04-02T12:19:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59711</identifier>
+          <identifier>RP-F-1919-177</identifier>
+          <title>Onofriofontein in Dubrovnik</title>
+          <title>Ragusa. La fontana di Porta Pille</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <creator>Stengel &amp; Co.</creator>
+          <subject>Dubrovnik</subject>
+          <date>1889 - 1910</date>
+          <type>fotomechanische afdruk</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dubrovnik</coverage>
+          <coverage>Dresden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-5-17</identifier>
+        <datestamp>2021-11-05T02:49:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61105</identifier>
+          <identifier>RP-F-1993-5-17</identifier>
+          <title>Standbeeld van Nicola Pisano naar Salvini in het Camposanto te Pisa, Italië</title>
+          <title>Pisa. Campo Santo. Statua di Nicolò Pisano - Salvini</title>
+          <creator>Brogi, Giacomo</creator>
+          <contributor>Salvini, Salvino</contributor>
+          <subject>Camposanto</subject>
+          <subject>Pisano, Nicola</subject>
+          <date>1860 - 1881</date>
+          <type>foto</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pisa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-61</identifier>
+        <datestamp>2021-12-07T09:35:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55032</identifier>
+          <identifier>RP-F-00-61</identifier>
+          <title>Paleis voor Volksvlijt in aanbouw in Amsterdam</title>
+          <creator>anoniem</creator>
+          <subject>Amsterdam</subject>
+          <date>1862 - 1864</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-105</identifier>
+        <datestamp>2022-02-28T16:21:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55575</identifier>
+          <identifier>RP-F-00-105</identifier>
+          <title>Fragment van het ontwerp voor het Nationaal Monument</title>
+          <title>Fragment van het bekroonde model van het munument Eben-Haezer</title>
+          <creator>Verveer, Maurits</creator>
+          <contributor>Verveer, Maurits</contributor>
+          <subject>Den Haag</subject>
+          <subject>Willem I (koning der Nederlanden)</subject>
+          <date>1864</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-542</identifier>
+        <datestamp>2021-03-10T09:00:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60288</identifier>
+          <identifier>RP-F-00-542</identifier>
+          <title>Fotoreproductie van het fresco Annunciatie en twee engelen door Benozzo Gozzoli in het Campo Santo te Pisa</title>
+          <title>Camposanto. L'Annunziazione della Vergine e due Angeli. (Benozzo Gozzoli)</title>
+          <title>Pisa</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>Fratelli Alinari</contributor>
+          <contributor>Gozzoli, Benozzo</contributor>
+          <subject>Camposanto</subject>
+          <date>1857 - 1900</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pisa</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1905-3</identifier>
+        <datestamp>2021-09-29T15:50:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60814</identifier>
+          <identifier>RP-F-1905-3</identifier>
+          <title>Fotoreproductie van schilderij De anatomische les van Dr. Nicolaes Tulp door Rembrandt, coll. Mauritshuis</title>
+          <title>1902 - No. 21. / Königl. Museum im Haag</title>
+          <creator>anoniem</creator>
+          <contributor>Meisenbach, Riffarth &amp; Cie.</contributor>
+          <contributor>Verlag der Gesellschaft zur Verbreitung Klassischer Kunst</contributor>
+          <subject>Mauritshuis</subject>
+          <date>1902</date>
+          <type>fotomechanisch procedé</type>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Berlijn</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-85</identifier>
+        <datestamp>2021-10-05T15:32:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55105</identifier>
+          <identifier>RP-F-00-85</identifier>
+          <title>Interieur van een zaal van het Alhambra te Granada</title>
+          <title>No. 466. Alhambra</title>
+          <creator>Garzón, Rafael</creator>
+          <subject>Alhambra</subject>
+          <subject>Granada</subject>
+          <date>ca. 1870 - ca. 1895</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-142</identifier>
+        <datestamp>2021-04-02T16:51:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55883</identifier>
+          <identifier>RP-F-00-142</identifier>
+          <title>Fotoreproductie van het geschilderde portret van Eleonora van Toledo door Angelo Bronzino</title>
+          <title>Roma, Eleonora di Toledo, Bronzino, Coll. Conte Contini</title>
+          <creator>Anderson, Domenico</creator>
+          <contributor>Bronzino, Angelo</contributor>
+          <subject>Rome</subject>
+          <subject>Toledo, Eleonora van</subject>
+          <date>1930</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <format>barietpapier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-379</identifier>
+        <datestamp>2021-03-10T08:59:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57640</identifier>
+          <identifier>RP-F-00-379</identifier>
+          <title>Gezicht op het Acquasola te Genua, Italië</title>
+          <title>L'Acquasola</title>
+          <title>Genova</title>
+          <creator>Noack, Alfredo</creator>
+          <subject>Acquasola</subject>
+          <date>1858 - 1893</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Genua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-434</identifier>
+        <datestamp>2021-03-10T09:00:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59816</identifier>
+          <identifier>RP-F-00-434</identifier>
+          <title>Gezicht op Villa del Popolo en de Via Nuova te Napels, Italië</title>
+          <title>Villa del Popolo e Strada nuova (veduta animata)</title>
+          <title>Napoli</title>
+          <creator>Brogi, Giacomo</creator>
+          <contributor>Edizione Brogi</contributor>
+          <subject>Strada Nuova</subject>
+          <date>1864 - 1881</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Napels</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-6-16</identifier>
+        <datestamp>2021-11-12T04:10:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61325</identifier>
+          <identifier>RP-F-1993-6-16</identifier>
+          <title>Sculptuur van Perikles, Vaticaan</title>
+          <title>Pericle</title>
+          <creator>Anderson, James</creator>
+          <contributor>anoniem</contributor>
+          <subject>Vaticaanse Musea</subject>
+          <subject>Perikles</subject>
+          <date>ca. 1857 - ca. 1875</date>
+          <type>foto</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vaticaanse Musea</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-108</identifier>
+        <datestamp>2022-02-28T16:21:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55582</identifier>
+          <identifier>RP-F-00-108</identifier>
+          <title>Fragment van het ontwerp voor het Nationaal Monument</title>
+          <title>Fragment van het bekroonde model van het monument Eben-Haezer.</title>
+          <creator>Verveer, Maurits</creator>
+          <contributor>Verveer, Maurits</contributor>
+          <subject>Den Haag</subject>
+          <date>1864</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1919-194</identifier>
+        <datestamp>2021-04-02T12:17:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59696</identifier>
+          <identifier>RP-F-1919-194</identifier>
+          <title>Straatgezicht te Zadar</title>
+          <title>Zara. Gran Caffé Centrale</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <creator>Stengel &amp; Co.</creator>
+          <subject>Zadar</subject>
+          <date>1889 - 1910</date>
+          <type>fotomechanische afdruk</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zadar</coverage>
+          <coverage>Dresden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-46</identifier>
+        <datestamp>2021-01-06T12:38:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.54460</identifier>
+          <identifier>RP-F-00-46</identifier>
+          <title>Fontana di Piazza Farnese te Rome</title>
+          <creator>Chauffourier, Gustave Eugène</creator>
+          <subject>Rome</subject>
+          <date>ca. 1875 - ca. 1900</date>
+          <type>foto</type>
+          <format>fotodrager</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-332</identifier>
+        <datestamp>2022-02-28T16:14:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57004</identifier>
+          <identifier>RP-F-00-332</identifier>
+          <title>De kerk van Jaffanapatnam gelegen op Sri Lanka, door Steiger</title>
+          <title>De kerk van Jaffanapatnam van de zuidzijde gezien</title>
+          <creator>Roeloffzen, Hübner &amp; Van Santen</creator>
+          <contributor>Steiger, Cornelis</contributor>
+          <contributor>Roeloffzen, Hübner &amp; Van Santen</contributor>
+          <subject>Sri Lanka</subject>
+          <date>1890 - 1910</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Sri Lanka</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-5-23</identifier>
+        <datestamp>2021-11-05T01:25:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61134</identifier>
+          <identifier>RP-F-1993-5-23</identifier>
+          <title>Kansel door Giovanni Pisano in het Museo civico te Pisa, Italië</title>
+          <title>Pisa - Museo civico. Pulpito per largo. Giovanni Pisano</title>
+          <creator>Brogi, Giacomo</creator>
+          <contributor>Pisano, Giovanni</contributor>
+          <subject>Museo Civico</subject>
+          <date>1860 - 1881</date>
+          <type>foto</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pisa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODY2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1Njg4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-924</identifier>
+        <datestamp>2021-10-01T22:03:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7058</identifier>
+          <identifier>SK-A-924</identifier>
+          <title>Magdalena van Citters (geb 1737). Echtgenote van Adriaen Isaac Hurgronje</title>
+          <creator>anoniem</creator>
+          <subject>portret</subject>
+          <date>ca. 1760</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zeeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4693</identifier>
+        <datestamp>2021-10-01T21:36:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5903</identifier>
+          <identifier>SK-A-4693</identifier>
+          <title>Een middagdutje</title>
+          <creator>Bakker Korff, Alexander Hugo</creator>
+          <subject>genrestuk</subject>
+          <date>1866</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3536</identifier>
+        <datestamp>2021-10-01T21:46:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6281</identifier>
+          <identifier>SK-A-3536</identifier>
+          <title>Landschap bij Waalsdorp met soldaten op manoeuvre</title>
+          <creator>Breitner, George Hendrik</creator>
+          <subject>landschap</subject>
+          <subject>Waalsdorp</subject>
+          <date>ca. 1880 - ca. 1923</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2483</identifier>
+        <datestamp>2021-10-01T22:16:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7802</identifier>
+          <identifier>SK-A-2483</identifier>
+          <title>Aan de vaart</title>
+          <creator>Poggenbeek, Geo</creator>
+          <date>1863 - 1903</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4077</identifier>
+        <datestamp>2021-10-01T21:30:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5649</identifier>
+          <identifier>SK-A-4077</identifier>
+          <title>De maaltijd aangeboden aan ambassadeur Cornelis Calkoen</title>
+          <creator>Vanmour, Jean Baptiste</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Turkije</subject>
+          <subject>Calkoen, Cornelis</subject>
+          <subject>Ahmed III (sultan van het Ottomaanse Rijk)</subject>
+          <description>Een onderdeel van de ceremonie was dat Calkoen een vergadering bijwoonde in de divan, de raadzaal van het paleis, waarna de grootvizier hem en zijn gevolg een maaltijd aanbood. Die maaltijd beeldt Vanmour hier uit. Tegenover de grootvizier, op een laag krukje, zit Calkoen met naast zich twee tolken. De sultan kon achter het tralievenster onopgemerkt meeluisteren; het raampje heette daarom ‘het oog van de sultan’.</description>
+          <date>ca. 1727 - ca. 1730</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-16</identifier>
+        <datestamp>2022-01-22T21:39:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5878</identifier>
+          <identifier>SK-A-16</identifier>
+          <title>Portret van Aertje Witsen (1599-1652)</title>
+          <title>Portret van een vrouw, vermoedelijk Maria van Reigersbergh (1589-1653), echtgenote van Hugo de Groot</title>
+          <creator>Bailly, David</creator>
+          <subject>portret</subject>
+          <date>1626</date>
+          <type>schilderij</type>
+          <format>koper</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3539</identifier>
+        <datestamp>2022-03-15T09:16:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6257</identifier>
+          <identifier>SK-A-3539</identifier>
+          <title>Huzaren op manoeuvre</title>
+          <creator>Breitner, George Hendrik</creator>
+          <subject>diervoorstelling</subject>
+          <date>ca. 1880 - ca. 1923</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3447</identifier>
+        <datestamp>2022-06-01T16:18:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6614</identifier>
+          <identifier>SK-A-3447</identifier>
+          <title>Landschap met figuren</title>
+          <creator>Zaïs, Giuseppe</creator>
+          <contributor>Zuccarelli, Francesco</contributor>
+          <subject>landschap</subject>
+          <date>1730 - 1770</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2009</identifier>
+        <datestamp>2021-10-01T21:30:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5672</identifier>
+          <identifier>SK-A-2009</identifier>
+          <title>Griekse mannen en vrouwen dansen de khorra</title>
+          <creator>Vanmour, Jean Baptiste</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Turkije</subject>
+          <description>Ergens buiten de stad dansen Griekse mannen en vrouwen de dans die bekendstaat als de khorra. Het was voor Vanmour als niet-moslim gemakkelijker om toegang te krijgen tot de Griekse gemeenschap in Istanbul dan tot de Turkse.</description>
+          <date>ca. 1720 - ca. 1737</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1008</identifier>
+        <datestamp>2022-03-15T09:16:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6042</identifier>
+          <identifier>SK-A-1008</identifier>
+          <title>De heide bij Wolfheze</title>
+          <creator>Bilders, Johannes Warnardus</creator>
+          <subject>Wolfheze</subject>
+          <date>1866</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4253</identifier>
+        <datestamp>2021-10-01T21:45:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6233</identifier>
+          <identifier>SK-A-4253</identifier>
+          <title>De prins van Oranje bezoekt op 14 februari 1825 in het Aalmoezeniersweeshuis te Amsterdam de slachtoffers van de watersnood</title>
+          <creator>Bree, Mattheus Ignatius van</creator>
+          <subject>Koninklijk Huis</subject>
+          <subject>aalmoezeniersweeshuis</subject>
+          <subject>watersnoodramp</subject>
+          <subject>Watersnood februari 1825</subject>
+          <subject>Amsterdam</subject>
+          <subject>Aalmoezeniersweeshuis</subject>
+          <subject>Willem II (koning der Nederlanden)</subject>
+          <date>1825</date>
+          <type>schilderij</type>
+          <type>voorstudie</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-721</identifier>
+        <datestamp>2022-06-01T13:12:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6413</identifier>
+          <identifier>SK-A-721</identifier>
+          <title>Musicerend gezelschap</title>
+          <creator>Verkolje, Jan (I)</creator>
+          <subject>genrestuk</subject>
+          <date>1673</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-264</identifier>
+        <datestamp>2022-06-01T16:18:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6514</identifier>
+          <identifier>SK-C-264</identifier>
+          <title>Een hond bij een dode gans en een pauw</title>
+          <creator>Weenix, Jan</creator>
+          <subject>stilleven</subject>
+          <date>ca. 1700</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1850</identifier>
+        <datestamp>2021-10-01T21:54:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6591</identifier>
+          <identifier>SK-A-1850</identifier>
+          <title>Het bonte paard</title>
+          <creator>Wouwerman, Jan</creator>
+          <subject>landschap</subject>
+          <date>1655 - 1666</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2055</identifier>
+        <datestamp>2021-10-01T21:31:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5695</identifier>
+          <identifier>SK-A-2055</identifier>
+          <title>Gezicht op Ankara</title>
+          <title>Gezicht op Aleppo</title>
+          <creator>anoniem</creator>
+          <subject>Ankara</subject>
+          <date>1700 - 1799</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Turkije</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1358</identifier>
+        <datestamp>2022-04-29T15:53:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5830</identifier>
+          <identifier>SK-A-1358</identifier>
+          <title>Portret van een man</title>
+          <creator>Assen, Jan van</creator>
+          <subject>portret</subject>
+          <date>1666</date>
+          <type>schilderij</type>
+          <format>koper</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4849</identifier>
+        <datestamp>2022-06-01T13:12:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6068</identifier>
+          <identifier>SK-A-4849</identifier>
+          <title>De aanbidding der herders</title>
+          <creator>Blocklandt, Anthonie</creator>
+          <subject>historiestuk</subject>
+          <date>1560 - 1572</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3311</identifier>
+        <datestamp>2022-06-01T13:12:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6210</identifier>
+          <identifier>SK-A-3311</identifier>
+          <title>De heilige Sebastiaan</title>
+          <creator>Meester E.S.</creator>
+          <contributor>anoniem</contributor>
+          <subject>historiestuk</subject>
+          <date>ca. 1460</date>
+          <type>schilderij</type>
+          <type>zijpaneel</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Boven-Rijn</coverage>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-5000</identifier>
+        <datestamp>2022-05-24T14:58:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6436</identifier>
+          <identifier>SK-A-5000</identifier>
+          <title>Portret van Maria van Strijp</title>
+          <creator>Verspronck, Johannes Cornelisz.</creator>
+          <subject>Strijp, Maria van</subject>
+          <description>Verspronck schilderde niet alleen Maria van Strijp en haar echtgenoot, maar ook haar moeder en zwager. Hij beeldde zijn opdrachtgevers zoals gebruikelijk meestal staand af. Hier laat hij Maria echter zijdelings op een stoel zitten, met de rugleuning naar ons toe. Dit speelse motief had hij afgekeken van portretten van Frans Hals.</description>
+          <date>1652</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-491</identifier>
+        <datestamp>2021-10-01T21:53:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6568</identifier>
+          <identifier>SK-A-491</identifier>
+          <title>Heuvelachtig landschap met een ruiter op een landweg</title>
+          <creator>Wijnants, Jan</creator>
+          <date>1655 - 1684</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NjkwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

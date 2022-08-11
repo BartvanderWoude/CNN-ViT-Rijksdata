@@ -1,0 +1,524 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNDYwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2616</identifier>
+        <datestamp>2021-10-20T09:58:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62063</identifier>
+          <identifier>NG-VG-1-2616</identifier>
+          <title>Het vaandel der compagnie "de swarte knegten" te Utrecht onder bevel van kapitein J. van Dam overgebracht naar mr. W. W. du Pon</title>
+          <creator>Marmé, Johann Conrad</creator>
+          <subject>landmacht</subject>
+          <subject>burgercompagnie</subject>
+          <subject>swarte knegten</subject>
+          <subject>Utrecht</subject>
+          <subject>Du Pon, Willem Wouter</subject>
+          <subject>Dam, J. van</subject>
+          <date>1759</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2878-A</identifier>
+        <datestamp>2021-10-20T10:01:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62321</identifier>
+          <identifier>NG-VG-1-2878-A</identifier>
+          <title>Oprichting van burgercorpsen</title>
+          <creator>Lageman, Johannes Michiel</creator>
+          <subject>politieke groepering</subject>
+          <subject>patriotten</subject>
+          <subject>landmacht</subject>
+          <subject>burgercorps</subject>
+          <subject>oprichting exercitiegenootschappen (1783-1786)</subject>
+          <date>1784</date>
+          <type>erepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1898-A-3508</identifier>
+        <datestamp>2019-01-03T16:45:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61508</identifier>
+          <identifier>RP-T-1898-A-3508</identifier>
+          <title>Bergachtig landschap met rechts een man met een lastdier</title>
+          <creator>Vertangen, Daniel</creator>
+          <date>1610 - 1684</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2567</identifier>
+        <datestamp>2021-10-20T09:58:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62015</identifier>
+          <identifier>NG-VG-1-2567</identifier>
+          <title>Overlijden van Samuel de la Douespe, hofpredikant van Willem IV</title>
+          <creator>Swinderen, Nicolaas van</creator>
+          <subject>protestantisme</subject>
+          <subject>hofpredikant</subject>
+          <subject>Douespe, Samuel de la</subject>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <date>1751</date>
+          <type>familiepenning</type>
+          <type>overlijdenspenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2899</identifier>
+        <datestamp>2021-10-20T10:01:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62344</identifier>
+          <identifier>NG-VG-1-2899</identifier>
+          <title>Erkenning van de gecommitteerden der acht burgercorpsen te Utrecht door burgemeester en vroedschap</title>
+          <creator>anoniem</creator>
+          <subject>landmacht</subject>
+          <subject>burgercorps</subject>
+          <subject>politieke groepering</subject>
+          <subject>patriotten</subject>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>burgemeester</subject>
+          <subject>vroedschap</subject>
+          <subject>oprichting exercitiegenootschappen (1783-1786)</subject>
+          <subject>Utrecht</subject>
+          <date>1785</date>
+          <type>historiepenning</type>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10603</identifier>
+        <datestamp>2021-11-02T13:21:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61552</identifier>
+          <identifier>BK-NM-10603</identifier>
+          <title>Stoel</title>
+          <creator>anoniem</creator>
+          <date>1700</date>
+          <type>meubilair</type>
+          <type>zitmeubel</type>
+          <type>stoel</type>
+          <format>hout</format>
+          <format>notenhout</format>
+          <format>riet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2315</identifier>
+        <datestamp>2021-10-20T09:56:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61771</identifier>
+          <identifier>NG-VG-1-2315</identifier>
+          <title>Geboorte van aartshertog Jozef van Oostenrijk, zoon van Frans III Stephanus, hertog van Lotharingen en Maria Theresia</title>
+          <creator>Werner, Peter Paul</creator>
+          <subject>Maria Theresia (Rooms-Duits keizerin)</subject>
+          <subject>Frans I Stefan (Duits keizer)</subject>
+          <subject>Jozef II (Duits keizer)</subject>
+          <date>1741</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2416</identifier>
+        <datestamp>2021-10-20T09:57:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61869</identifier>
+          <identifier>NG-VG-1-2416</identifier>
+          <title>Willem IV, prins van Oranje-Nassau en Willem, hertog van Cumberland</title>
+          <creator>Pingo, Thomas</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>opstand</subject>
+          <subject>Schotse opstand</subject>
+          <subject>Schotland</subject>
+          <subject>Cumberland, Willem van (hertog)</subject>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <date>1747</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2496</identifier>
+        <datestamp>2021-10-20T09:57:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61946</identifier>
+          <identifier>NG-VG-1-2496</identifier>
+          <title>Tekenen van de voorlopige vrede te Aken</title>
+          <creator>Swinderen, Nicolaas van</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>voorlopige vrede van Aken</subject>
+          <subject>Vrede van Aken (1748)</subject>
+          <subject>Aken</subject>
+          <date>1748</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-734</identifier>
+        <datestamp>2021-12-17T11:50:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45737</identifier>
+          <identifier>RP-P-1956-734</identifier>
+          <title>Mishima bergpas in de provincie Kai</title>
+          <title>Koshu Mishimagoe</title>
+          <title>36 gezichten op de berg Fuji</title>
+          <title>Fugaku sanjurokkei</title>
+          <creator>Hokusai, Katsushika</creator>
+          <contributor>Nishimura Yohachi</contributor>
+          <subject>Fuji</subject>
+          <date>1829 - 1833</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Tokyo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-485</identifier>
+        <datestamp>2021-10-02T12:16:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46083</identifier>
+          <identifier>RP-P-1958-485</identifier>
+          <title>Toneelspeler Ichikawa Danjûrô II</title>
+          <title>Acteur Ichikawa Danjûrô II, de grootse Hakuen</title>
+          <title>Nidaime Dai Hakuen Danjûrô</title>
+          <title>Danjûrô familie van Kabuki acteurs</title>
+          <creator>Toyokuni, Utagawa (I)</creator>
+          <contributor>Ryûeishi</contributor>
+          <date>ca. 1830 - ca. 1835</date>
+          <type>prent</type>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-284</identifier>
+        <datestamp>2021-10-02T12:15:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45720</identifier>
+          <identifier>RP-P-1958-284</identifier>
+          <title>Tempelbezoek tijdens het Hatsuuma feest</title>
+          <title>Hatsuuma mairi</title>
+          <title>Een serie met paarden</title>
+          <title>Umazukushi</title>
+          <creator>Hokusai, Katsushika</creator>
+          <contributor>Ashindo, Oncha no</contributor>
+          <contributor>Hitonari, Shinyûtei</contributor>
+          <contributor>Okukama, Bisoan</contributor>
+          <contributor>Manzô, Shinratei</contributor>
+          <date>1822</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1891-A-2473</identifier>
+        <datestamp>2019-01-03T16:45:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61253</identifier>
+          <identifier>RP-T-1891-A-2473</identifier>
+          <title>Zeegezicht met enkele schepen op de rede liggend</title>
+          <creator>Velde, Willem van de (II)</creator>
+          <subject>maritieme geschiedenis</subject>
+          <date>1643 - 1707</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2788</identifier>
+        <datestamp>2021-10-20T10:00:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62233</identifier>
+          <identifier>NG-VG-1-2788</identifier>
+          <title>Bataviaasch Genootschap van Kunsten en Wetenschappen</title>
+          <creator>Holtzhey, Johan George</creator>
+          <subject>overzeese geschiedenis</subject>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>wetenschapsgeschiedenis</subject>
+          <subject>genootschap</subject>
+          <subject>wetenschap</subject>
+          <subject>kunst</subject>
+          <subject>Batavia</subject>
+          <subject>Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen</subject>
+          <date>1778</date>
+          <type>kopie</type>
+          <type>prijspenning</type>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1898-A-4062</identifier>
+        <datestamp>2021-08-31T13:12:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61393</identifier>
+          <identifier>RP-T-1898-A-4062</identifier>
+          <title>Celadon smeekt de piraten om hem mee te nemen naar zijn vrouw, Galathea</title>
+          <creator>Venne, Adriaen Pietersz. van de</creator>
+          <date>ca. 1625</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>dekverf</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2338</identifier>
+        <datestamp>2021-10-20T09:56:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61794</identifier>
+          <identifier>NG-VG-1-2338</identifier>
+          <title>Niet naleven van de Pragmatieke Sanctie</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Pragmatieke Sanctie</subject>
+          <subject>Oostenrijkse successieoorlog</subject>
+          <subject>Maria Theresia (Rooms-Duits keizerin)</subject>
+          <date>1742</date>
+          <type>historiepenning</type>
+          <type>spotpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-343</identifier>
+        <datestamp>2021-10-02T12:15:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45865</identifier>
+          <identifier>RP-P-1958-343</identifier>
+          <title>Reizigers lopen over een brug</title>
+          <creator>Hokkei, Totoya</creator>
+          <contributor>Nakakubo, Gurendô</contributor>
+          <date>1824</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-655</identifier>
+        <datestamp>2021-12-17T11:49:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45429</identifier>
+          <identifier>RP-P-1956-655</identifier>
+          <title>Acteur Yamashita Kinsaku II in de rol van de courtisane Agemaki</title>
+          <creator>Shunsho, Katsukawa</creator>
+          <contributor>Shimizu</contributor>
+          <subject>Yamashita Kinsaku II</subject>
+          <date>1773 - 1777</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-546</identifier>
+        <datestamp>2021-10-02T12:14:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45505</identifier>
+          <identifier>RP-P-1958-546</identifier>
+          <title>Verrekijker, gordelknoop en shôgi stukken</title>
+          <creator>Shunman, Kubota</creator>
+          <contributor>Nakanari, Hindôdô</contributor>
+          <contributor>Haruki, Renyôan</contributor>
+          <contributor>Hayamoku, Ippitsuan</contributor>
+          <date>ca. 1805 - ca. 1810</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-30</identifier>
+        <datestamp>2021-01-28T13:25:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45671</identifier>
+          <identifier>RP-P-1961-30</identifier>
+          <title>Bewonderen van bloemstukken</title>
+          <creator>Hokusai, Katsushika</creator>
+          <date>ca. 1800 - ca. 1810</date>
+          <type>prent</type>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNDYyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

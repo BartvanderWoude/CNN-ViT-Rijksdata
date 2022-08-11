@@ -1,0 +1,447 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDQ4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-285</identifier>
+        <datestamp>2021-12-10T10:54:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19775</identifier>
+          <identifier>BK-1968-285</identifier>
+          <title>Servet met pellenpatroon</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1797</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+          <coverage>Ierland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1983-88-E</identifier>
+        <datestamp>2021-08-19T16:59:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20177</identifier>
+          <identifier>BK-1983-88-E</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1717</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-736-A</identifier>
+        <datestamp>2022-03-02T15:11:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20428</identifier>
+          <identifier>BK-1980-736-A</identifier>
+          <title>Lendensloop</title>
+          <date>1728</date>
+          <type>lendensloop</type>
+          <format>linnen</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1983-95-C</identifier>
+        <datestamp>2021-08-19T16:59:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20191</identifier>
+          <identifier>BK-1983-95-C</identifier>
+          <title>Fragment bedrukte zijde met dessin 'Boston'</title>
+          <creator>Schaschl-Schuster, Irene</creator>
+          <creator>Wiener Werkstätte</creator>
+          <date>1912 - 1917</date>
+          <type>bedrukte zijde</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Wenen</coverage>
+          <coverage>Wenen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15781-A</identifier>
+        <datestamp>2021-10-02T00:42:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18342</identifier>
+          <identifier>BK-15781-A</identifier>
+          <title>Terrine van zilver, met deksel en onderschotel</title>
+          <creator>Sondagh, Rudolphus</creator>
+          <date>1786</date>
+          <type>terrine</type>
+          <type>schotel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-162</identifier>
+        <datestamp>2021-12-15T11:55:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19814</identifier>
+          <identifier>BK-1967-162</identifier>
+          <title>Servet met bloemenpatroon en wapens van "Ten Hove en Van Bebber"</title>
+          <creator>anoniem</creator>
+          <date>1672</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1966-145-D</identifier>
+        <datestamp>2021-08-19T16:58:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19821</identifier>
+          <identifier>BK-1966-145-D</identifier>
+          <title>Servet van linnendamast met de boom van Jesse</title>
+          <date>1600 - 1625</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Holland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-537-B</identifier>
+        <datestamp>2021-08-19T16:59:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20134</identifier>
+          <identifier>BK-1980-537-B</identifier>
+          <title>Servet van wit linnendamast</title>
+          <creator>Spanjaard, S.J.</creator>
+          <date>1859</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Borne</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7944-1</identifier>
+        <datestamp>2021-11-03T23:48:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17996</identifier>
+          <identifier>BK-NM-7944-1</identifier>
+          <title>Zilveren broekgesp</title>
+          <creator>Kuypers, Johannes</creator>
+          <date>ca. 1731</date>
+          <type>sieraad</type>
+          <type>broekgesp</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Middelburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-730</identifier>
+        <datestamp>2021-08-19T17:01:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20486</identifier>
+          <identifier>BK-1980-730</identifier>
+          <title>Lendensloop</title>
+          <date>1820 - 1870</date>
+          <type>lendensloop</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15584</identifier>
+        <datestamp>2021-11-03T16:55:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20537</identifier>
+          <identifier>BK-15584</identifier>
+          <title>Kist</title>
+          <date>ca. 1700</date>
+          <type>kist</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-280-B</identifier>
+        <datestamp>2021-08-19T16:58:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19769</identifier>
+          <identifier>BK-1968-280-B</identifier>
+          <title>Servet met pre-bizar patroon van gestileerde bloem- en bladranken</title>
+          <creator>anoniem</creator>
+          <date>1685 - 1700</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1983-92-A</identifier>
+        <datestamp>2021-12-10T09:19:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20183</identifier>
+          <identifier>BK-1983-92-A</identifier>
+          <title>Servet van linnendamast met een historisch tafereel</title>
+          <date>1717</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-740</identifier>
+        <datestamp>2021-08-19T17:01:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20434</identifier>
+          <identifier>BK-1980-740</identifier>
+          <title>Lendensloop</title>
+          <date>1700 - 1750</date>
+          <type>lendensloop</type>
+          <format>linnen</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1959-59-C</identifier>
+        <datestamp>2021-10-02T01:10:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20689</identifier>
+          <identifier>BK-1959-59-C</identifier>
+          <title>Bacchus en Ariadne</title>
+          <creator>Manufacture Royale des Gobelins</creator>
+          <contributor>Janss, Jan</contributor>
+          <contributor>Lafosse, Charles de</contributor>
+          <description>Ariadne, de dochter van koning Minos van Kreta, klaagt bij Bacchus, de god van de wijn, dat haar geliefde Theseus haar heeft achtergelaten op het eiland Naxos. Bacchus pakt Ariadnes kroon. Hij zal die in de lucht
+werpen, waar hij in een sterrenbeeld zal veranderen.</description>
+          <date>ca. 1680 - ca. 1684</date>
+          <type>wandtapijt</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-419</identifier>
+        <datestamp>2021-08-19T17:00:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20235</identifier>
+          <identifier>BK-1980-419</identifier>
+          <title>Tafellaken van pellendamast</title>
+          <creator>anoniem</creator>
+          <date>1640 - 1670</date>
+          <type>tafellaken</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17024-B</identifier>
+        <datestamp>2021-10-02T00:30:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17745</identifier>
+          <identifier>BK-17024-B</identifier>
+          <title>Theeblad, taartschalen, confituurschaal, suikerschalen, koffiekan en melkkan</title>
+          <creator>Biennais, Martin Guillaume</creator>
+          <contributor>Percier, Charles</contributor>
+          <description>Dit is niet zomaar een servies. Deze voorwerpen horen bij een groot koffie- en theeservies dat oorspronkelijk bestond uit meer dan duizend stukken. De Russische tsaar Nicolaas I kocht het in 1817 bij de Franse zilversmid Biennais. De stukken zijn dubbel verguld, zodat het massief goud lijkt. De geometrische vormen en de randen zijn typisch voor het vroege empire.</description>
+          <date>ca. 1817</date>
+          <type>schaal</type>
+          <type>dekschaal</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <format>ebbenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1514</identifier>
+        <datestamp>2021-10-02T00:33:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17858</identifier>
+          <identifier>BK-KOG-1514</identifier>
+          <title>Tabaksdoos</title>
+          <creator>Blytt, Andreas</creator>
+          <contributor>Visser Bender, Joannes Pieter</contributor>
+          <subject>ouders met hun kinderen</subject>
+          <date>ca. 1800 - 1810</date>
+          <date>ca. 1800 - 1813</date>
+          <type>tabaksdoos</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bergen</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-404-G</identifier>
+        <datestamp>2021-08-19T17:00:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20304</identifier>
+          <identifier>BK-1980-404-G</identifier>
+          <title>Servet van linnen met pellenpatroon</title>
+          <date>1620 - 1660</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-770-O</identifier>
+        <datestamp>2021-05-20T16:11:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20646</identifier>
+          <identifier>BK-1980-770-O</identifier>
+          <title>Gordijn, geel, geborduurd met vazen, bloemranken, hoorns van overvloed, pauwen en vlinders.</title>
+          <creator>anoniem</creator>
+          <date>1720 - 1740</date>
+          <type>bedgordijn</type>
+          <type>beddengoed</type>
+          <type>zijdeweefsel</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kanton</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDUwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

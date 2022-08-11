@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODM2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-344-D</identifier>
+        <datestamp>2021-08-19T16:52:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13445</identifier>
+          <identifier>BK-1977-344-D</identifier>
+          <title>Servet met pellenpatroon met wafelruit en bloemvorm</title>
+          <creator>anoniem</creator>
+          <date>1675 - 1725</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-202</identifier>
+        <datestamp>2021-08-19T16:53:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13571</identifier>
+          <identifier>BK-1980-202</identifier>
+          <title>Tafellaken</title>
+          <date>ca. 1700 - ca. 1799</date>
+          <type>tafellaken</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-633-A</identifier>
+        <datestamp>2021-08-19T16:53:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13694</identifier>
+          <identifier>BK-1980-633-A</identifier>
+          <title>Sloop van wit linnen</title>
+          <date>1831 - 1875</date>
+          <type>sloop</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-110</identifier>
+        <datestamp>2021-11-03T19:16:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12761</identifier>
+          <identifier>BK-1984-110</identifier>
+          <title>Handtas in een halfrond model, van bruin tuigleer, gegarneerd met slangenleer</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1940</date>
+          <type>handtas</type>
+          <format>leer</format>
+          <format>leer</format>
+          <format>metaal</format>
+          <format>touw</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Afrika</coverage>
+          <coverage>Indonesië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-300-D</identifier>
+        <datestamp>2021-08-19T16:46:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12861</identifier>
+          <identifier>BK-1980-300-D</identifier>
+          <title>Servet van linnen met pellenpatroon</title>
+          <date>1742</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1902-A-4656</identifier>
+        <datestamp>2021-10-01T23:12:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10505</identifier>
+          <identifier>RP-T-1902-A-4656</identifier>
+          <title>Staand meisje dat haar rok optilt</title>
+          <creator>Vouet, Simon</creator>
+          <date>1600 - 1659</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1978-127-4010-W</identifier>
+        <datestamp>2018-09-03T16:16:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11063</identifier>
+          <identifier>NG-1978-127-4010-W</identifier>
+          <title>Bord uit V.O.C.-schip de 'Witte Leeuw'</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <subject>bord (vaatwerk)</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>voor 1613</date>
+          <type>bord (vaatwerk)</type>
+          <format>porselein</format>
+          <format>kraakporselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+          <coverage>Jingdezhen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1070</identifier>
+        <datestamp>2021-10-01T23:23:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12072</identifier>
+          <identifier>SK-A-1070</identifier>
+          <title>Een van zin</title>
+          <creator>Kruseman, Cornelis</creator>
+          <description>Cornelis Kruseman werd wel de ‘Italiaanse Kruseman’ genoemd, vanwege zijn liefde voor de Italiaanse kunst. Na zijn verblijf in Rome (1821-1825) werkte hij ook in Nederland in de idealiserende stijl die hij uit Italië kende. Dit musicerende trio in Italiaanse volksdracht is hiervan een goed voorbeeld. In vergelijking met Godsvrucht, ook in deze zaal, is in Een van zin weinig Hollands realisme meer te bespeuren.</description>
+          <date>1830</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-11</identifier>
+        <datestamp>2021-10-19T16:22:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12390</identifier>
+          <identifier>BK-1980-11</identifier>
+          <title>Parasol met dek van crèmewitte moirézijde op een stok van hout met een knoestig handvat</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>anoniem</contributor>
+          <date>ca. 1910 - ca. 1915</date>
+          <type>parasol</type>
+          <format>zijde</format>
+          <format>gaas</format>
+          <format>hout</format>
+          <format>zijde</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4450</identifier>
+        <datestamp>2021-10-01T23:09:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10347</identifier>
+          <identifier>SK-A-4450</identifier>
+          <title>Willem V (1748-1806), prins van Oranje-Nassau</title>
+          <creator>anoniem</creator>
+          <subject>Willem V (prins van Oranje-Nassau)</subject>
+          <date>ca. 1780</date>
+          <type>miniatuur (schildering)</type>
+          <format>ivoor</format>
+          <format>zilver</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Holland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4663</identifier>
+        <datestamp>2022-06-01T13:15:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10546</identifier>
+          <identifier>SK-A-4663</identifier>
+          <title>Het beleg van Rijnberg door de Fransen, 6 juni 1672</title>
+          <creator>Hondt, Lambert de (II)</creator>
+          <subject>historiestuk</subject>
+          <subject>politieke geschiedenis</subject>
+          <subject>beleg</subject>
+          <subject>oorlog</subject>
+          <subject>Inname van Rheinberg (1672)</subject>
+          <subject>Rampjaar</subject>
+          <subject>Rijnberg</subject>
+          <date>ca. 1675</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4175</identifier>
+        <datestamp>2021-10-01T23:23:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12098</identifier>
+          <identifier>SK-A-4175</identifier>
+          <title>Allegorie op de Milddadigheid</title>
+          <creator>Lairesse, Gerard de</creator>
+          <subject>behangsel</subject>
+          <subject>Flines, Philips de</subject>
+          <date>1675 - 1683</date>
+          <type>schilderij</type>
+          <type>grisaille</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1948-209</identifier>
+        <datestamp>2019-11-20T10:07:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12164</identifier>
+          <identifier>RP-P-1948-209</identifier>
+          <title>De H. Cajetanus van Thiene neemt van Maria het Christuskind in de armen</title>
+          <title>De H. Caietanus neemt van Maria het Christuskind in de armen</title>
+          <creator>Mellan, Claude</creator>
+          <contributor>Mellan, Claude</contributor>
+          <date>1671 - 1688</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-306-L</identifier>
+        <datestamp>2021-08-19T16:47:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12918</identifier>
+          <identifier>BK-1980-306-L</identifier>
+          <title>Servet van linnen met pellenpatroon</title>
+          <date>1785</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-563</identifier>
+        <datestamp>2021-08-19T16:50:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13279</identifier>
+          <identifier>BK-1980-563</identifier>
+          <title>Laken. Merk: RVD en HW 10.</title>
+          <creator>anoniem</creator>
+          <date>1800 - 1875</date>
+          <type>laken (object)</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-567-A</identifier>
+        <datestamp>2021-08-19T16:50:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13285</identifier>
+          <identifier>BK-1980-567-A</identifier>
+          <title>Laken. Merk: HW 12.</title>
+          <creator>anoniem</creator>
+          <date>1831 - 1872</date>
+          <type>laken (object)</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-398</identifier>
+        <datestamp>2021-11-03T19:16:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12815</identifier>
+          <identifier>BK-1978-398</identifier>
+          <title>Buidel met een abstract patroon</title>
+          <creator>anoniem</creator>
+          <description>Niet het model maar het materiaal van deze buidel is interessant. De half wollen en half zijden stof werd
+waarschijnlijk omstreeks 1820–1825 in Norwich (Engeland) voor het eerst geproduceerd onder de naam challis. Challis was bij uitstek geschikt om te bedrukken en werd gebruikt voor herenvesten, japonnen en later ook sjaals uit Paisley (Schotland).</description>
+          <date>ca. 1820 - ca. 1840</date>
+          <type>tas</type>
+          <type>buidel</type>
+          <format>wol</format>
+          <format>zijde</format>
+          <format>inkt</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-353-B</identifier>
+        <datestamp>2021-10-01T23:34:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13084</identifier>
+          <identifier>BK-1980-353-B</identifier>
+          <title>Servet van linnendamast met een kantpatroon</title>
+          <date>1725 - 1730</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-338-F</identifier>
+        <datestamp>2022-01-13T17:10:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13434</identifier>
+          <identifier>BK-1977-338-F</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1680 - 1690</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-693-A</identifier>
+        <datestamp>2021-08-19T16:53:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13680</identifier>
+          <identifier>BK-1980-693-A</identifier>
+          <title>Sloop van wit linnen met Clunykant</title>
+          <date>ca. 1825 - ca. 1875</date>
+          <type>sloop</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODM4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

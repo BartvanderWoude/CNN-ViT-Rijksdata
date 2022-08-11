@@ -1,0 +1,512 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODY2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-67</identifier>
+        <datestamp>2021-12-07T09:27:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55039</identifier>
+          <identifier>RP-F-00-67</identifier>
+          <title>Gezicht op het Grote Kerkhof te Deventer</title>
+          <creator>Bosse, Johann Heinrich Martin</creator>
+          <subject>Deventer</subject>
+          <date>1875 - 1900</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Deventer</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-355</identifier>
+        <datestamp>2021-03-10T08:59:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57082</identifier>
+          <identifier>RP-F-00-355</identifier>
+          <title>Poort van het Certosa di Pavia, Italië</title>
+          <title>Poort van de Certosa bij Pavia</title>
+          <creator>Pozzi, Pompeo</creator>
+          <subject>Certosa di Pavia</subject>
+          <date>1851 - 1880</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pavia</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-5-46</identifier>
+        <datestamp>2021-11-05T03:29:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61191</identifier>
+          <identifier>RP-F-1993-5-46</identifier>
+          <title>Gezicht op het Palazzo Farnese te Rome, Italië</title>
+          <title>ROMA - Palazzo Farnese - Cominciato sotto Paolo III da A. Sangalio, Michelangelo e G. Della Porta (XVI Secolo)</title>
+          <creator>Brogi, Giacomo</creator>
+          <subject>Palazzo Farnese</subject>
+          <date>1860 - 1881</date>
+          <type>foto</type>
+          <type>albumblad</type>
+          <format>fotodrager</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-12</identifier>
+        <datestamp>2021-10-02T12:29:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.53567</identifier>
+          <identifier>RP-F-00-12</identifier>
+          <title>Zelfportret van Maurits Verveer</title>
+          <creator>Verveer, Maurits</creator>
+          <subject>Verveer, Maurits</subject>
+          <date>1850 - 1875</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-525</identifier>
+        <datestamp>2021-03-10T09:00:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60228</identifier>
+          <identifier>RP-F-00-525</identifier>
+          <title>Sarcofaag met voorstelling van de jacht van Diana in de Capitolijnse Musea te Rome, Italië</title>
+          <title>Museo Capitolino. Sarcofago rappresentante la Caccia del Cintha. (Scultura Antica)</title>
+          <title>Roma</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>anoniem</contributor>
+          <subject>Capitolijnse Musea</subject>
+          <date>1852 - 1900</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-531</identifier>
+        <datestamp>2021-04-23T12:04:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60248</identifier>
+          <identifier>RP-F-00-531</identifier>
+          <title>Fotoreproductie van een deel van het fresco Kruisiging door Buffalmacco in het Camposanto te Pisa, Italië</title>
+          <title>Camposanto. Una Parte della Crocifissione. (Bonamico Buffalmacco)</title>
+          <title>Pisa</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>Buffalmacco, Buonamico</contributor>
+          <subject>Camposanto</subject>
+          <date>1852 - 1900</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pisa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-667</identifier>
+        <datestamp>2021-01-11T15:30:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60845</identifier>
+          <identifier>RP-F-00-667</identifier>
+          <title>Portret van een onbekende vrouw</title>
+          <creator>anoniem</creator>
+          <date>1880 - 1900</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-35</identifier>
+        <datestamp>2021-04-02T17:12:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.53879</identifier>
+          <identifier>RP-F-00-35</identifier>
+          <title>Patio de los Evangelistas in het Escorial</title>
+          <title>El Escorial, vista del patio de los Evangelistas</title>
+          <creator>Laurent, Juan</creator>
+          <subject>Escorial</subject>
+          <date>1856 - 1863</date>
+          <type>foto</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>San Lorenzo de El Escorial</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-502</identifier>
+        <datestamp>2021-03-10T09:00:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60166</identifier>
+          <identifier>RP-F-00-502</identifier>
+          <title>Sculptuur van Ganymedes en Jupiter als adelaar in de Galleria degli Uffizi te Florence, Italië</title>
+          <title>R. Galleria Uffizi. Ganimede. (Scultura Antica restaurata da B. Cellini)</title>
+          <title>Firenze</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>Fratelli Alinari</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Galleria degli Uffizi</subject>
+          <date>1857 - 1900</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-508</identifier>
+        <datestamp>2021-03-10T09:00:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60186</identifier>
+          <identifier>RP-F-00-508</identifier>
+          <title>Sculptuur van Bacchus naar Michelangelo in het Museo Nazionale te Florence, Italië</title>
+          <title>R. Museo Nazionale. Bacco col Satiro. (Michelangiolo)</title>
+          <title>Firenze</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>Fratelli Alinari</contributor>
+          <subject>Museo Nazionale</subject>
+          <date>1857 - 1900</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-5</identifier>
+        <datestamp>2022-01-28T00:21:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61039</identifier>
+          <identifier>RP-F-1993-5</identifier>
+          <title>Fotoalbum met 51 topografische foto's en fotoreproducties van kunstwerken uit Italië</title>
+          <creator>anoniem</creator>
+          <contributor>diverse vervaardigers</contributor>
+          <subject>Pisa</subject>
+          <subject>Rome</subject>
+          <subject>Pisano, Nicola</subject>
+          <date>1860 - 1890</date>
+          <type>fotoalbum</type>
+          <type>plakboek</type>
+          <format>papier</format>
+          <format>karton</format>
+          <format>fotodrager</format>
+          <format>linnen</format>
+          <format>leer</format>
+          <format>imitatieleer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-580</identifier>
+        <datestamp>2022-03-15T17:37:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1243</identifier>
+          <identifier>AK-MAK-580</identifier>
+          <title>Schaal met een gracraqueleerd rood glazuur</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>schaal</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-327</identifier>
+        <datestamp>2022-01-24T09:07:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56983</identifier>
+          <identifier>RP-F-00-327</identifier>
+          <title>Boulevard de la Croisette te Cannes</title>
+          <title>Cannes. - Le Boulevard de la Croizette</title>
+          <creator>Neurdein Frères</creator>
+          <subject>Cannes</subject>
+          <date>1863 - 1891</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Cannes</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-479</identifier>
+        <datestamp>2021-03-10T09:00:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60103</identifier>
+          <identifier>RP-F-00-479</identifier>
+          <title>Gezicht op Florence, Italië</title>
+          <title>Panorama della Città visto da S. Miniato al Monte</title>
+          <title>Firenze</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>Fratelli Alinari</contributor>
+          <subject>Florence</subject>
+          <date>1857 - 1900</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-881</identifier>
+        <datestamp>2021-03-10T08:39:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63948</identifier>
+          <identifier>RP-F-00-881</identifier>
+          <title>Gezicht op de kerk in Weissenkirchen in der Wachau</title>
+          <creator>Prandtstetter, Franz von</creator>
+          <subject>Weissenkirchen in der Wachau</subject>
+          <date>1866 - 1900</date>
+          <type>kabinetfoto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Weissenkirchen in der Wachau</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1226</identifier>
+        <datestamp>2021-10-01T20:05:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1266</identifier>
+          <identifier>AK-MAK-1226</identifier>
+          <title>Kom met deksel</title>
+          <creator>anoniem</creator>
+          <description>Deze kom is versierd in de Bencharong-stijl (vijf kleurenstijl) met een gestileerd bladmotief in emails en goud. Het werd speciaal voor export naar de Thaise markt vormgegeven.</description>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>kom met deksel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-349</identifier>
+        <datestamp>2021-04-02T17:12:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57039</identifier>
+          <identifier>RP-F-00-349</identifier>
+          <title>Gezicht op de kathedraal en de pier van Cádiz</title>
+          <title>Cadiz, Catedral y Muelle</title>
+          <creator>Puig, Josep Esplugas</creator>
+          <subject>Kathedraal van Cadiz</subject>
+          <date>1887 - 1890</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Cádiz</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-457</identifier>
+        <datestamp>2021-03-10T09:00:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59867</identifier>
+          <identifier>RP-F-00-457</identifier>
+          <title>Gezicht op de Engelenbrug en Engelenburcht te Rome, Italië</title>
+          <title>Ponte e Castello S. Angelo</title>
+          <title>Roma</title>
+          <creator>Brogi, Giacomo</creator>
+          <contributor>Edizione Brogi</contributor>
+          <subject>Engelenburcht</subject>
+          <subject>Engelenbrug</subject>
+          <date>1864 - 1881</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-642</identifier>
+        <datestamp>2022-03-02T15:21:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60789</identifier>
+          <identifier>RP-F-00-642</identifier>
+          <title>Koningin Wilhelmina in een rijtuig voor het Rijksmuseum, op weg naar de troonsbestijging te Amsterdam in 1898</title>
+          <creator>Greiner, Albert</creator>
+          <contributor>Steenbergh, Cornelis Johannes</contributor>
+          <subject>Rijksmuseum Amsterdam</subject>
+          <subject>Wilhelmina (koningin der Nederlanden)</subject>
+          <date>1898</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>fotodrager</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-78</identifier>
+        <datestamp>2017-11-02T15:12:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55079</identifier>
+          <identifier>RP-F-00-78</identifier>
+          <title>Aanleg Noordzeekanaal, 1866</title>
+          <creator>Guicherit, Rudolph</creator>
+          <subject>Noordzeekanaal</subject>
+          <date>1866</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODY4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

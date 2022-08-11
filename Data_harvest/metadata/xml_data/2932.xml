@@ -1,0 +1,527 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODYyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-831</identifier>
+        <datestamp>2020-04-08T11:38:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63678</identifier>
+          <identifier>RP-F-00-831</identifier>
+          <title>Gezicht op hotel Hof van Holland in Noordwijk-Binnen</title>
+          <title>Gezicht op een café of restaurant, vermoedelijk in Leiden</title>
+          <creator>Goedeljee, Jan</creator>
+          <subject>Noordwijk-Binnen</subject>
+          <date>ca. 1865 - ca. 1885</date>
+          <type>kabinetfoto</type>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-598-A</identifier>
+        <datestamp>2022-03-21T13:16:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1246</identifier>
+          <identifier>AK-MAK-598-A</identifier>
+          <title>Klokvormige kom met een vogel op een tak met blauwe regen tegen een gele achtergrond</title>
+          <creator>anoniem</creator>
+          <date>ca. 1875 - ca. 1894</date>
+          <type>kom</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-659</identifier>
+        <datestamp>2022-03-17T13:11:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1258</identifier>
+          <identifier>AK-MAK-659</identifier>
+          <title>Guanyin</title>
+          <creator>anoniem</creator>
+          <subject>Guanyin</subject>
+          <description>Guanyin helpt mensen in verschillende verschijningsvormen. Hier houdt zij in haar rechterhand een mand met vis, en in haar linkerhand een vliegenkwast. Naast haar op de rotsen staan een meisje met een juweel en een jongen met gevouwen handen.</description>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>beeld</type>
+          <type>figuur</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-182</identifier>
+        <datestamp>2022-01-24T09:07:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56124</identifier>
+          <identifier>RP-F-00-182</identifier>
+          <title>Fotoreproductie van het schilderij Het Sint-Nicolaasfeest door Jan Steen</title>
+          <creator>anoniem</creator>
+          <contributor>Steen, Jan Havicksz.</contributor>
+          <creator>Léon &amp; Lévy</creator>
+          <subject>Sinterklaasfeest</subject>
+          <subject>Rijksmuseum Amsterdam</subject>
+          <date>1867 - 1880</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-193</identifier>
+        <datestamp>2021-03-10T08:59:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56152</identifier>
+          <identifier>RP-F-00-193</identifier>
+          <title>Biechtstoel te Antwerpen, België</title>
+          <creator>Mol Van Loy, Van</creator>
+          <subject>Antwerpen (stad)</subject>
+          <date>1851 - 1880</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-485</identifier>
+        <datestamp>2021-03-10T09:00:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60118</identifier>
+          <identifier>RP-F-00-485</identifier>
+          <title>Fotoreproductie van een fresco met scènes uit de levens van Johannes de Doper en Maria naar Domenico Ghirlandaio in de Santa Maria Novella te Florence, Italië</title>
+          <title>Chiesa di S.M. Novella. Affreschi della Parete destra del Coro. D. Bicordi detto Ghillandajo</title>
+          <title>Firenze</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>Fratelli Alinari</contributor>
+          <contributor>Ghirlandaio, Domenico</contributor>
+          <subject>Santa Maria Novella</subject>
+          <date>1857 - 1900</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-692</identifier>
+        <datestamp>2021-10-05T15:16:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61498</identifier>
+          <identifier>RP-F-00-692</identifier>
+          <title>Fotoreproductie van detail van schilderij Presentazione door Titiaan, Academia Venezia</title>
+          <title>487 D [in negatief]</title>
+          <creator>Naya, Carlo</creator>
+          <subject>Accademia</subject>
+          <date>ca. 1860 - ca. 1880</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-133</identifier>
+        <datestamp>2022-01-24T09:07:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55751</identifier>
+          <identifier>RP-F-00-133</identifier>
+          <title>Fotoreproductie van een prent met een panorama van Parijs</title>
+          <title>Panorama de Paris</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Monogrammist AH (uitgever 19e eeuw)</contributor>
+          <subject>Parijs</subject>
+          <subject>Tuilerieën</subject>
+          <subject>Arc de Triomphe</subject>
+          <date>1860 - 1890</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-499</identifier>
+        <datestamp>2021-03-10T09:00:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60154</identifier>
+          <identifier>RP-F-00-499</identifier>
+          <title>Fotoreproductie van het schilderij Santa Famiglia naar Andrea del Sarto in de Galleria Palatina te Florence, Italië</title>
+          <title>Galleria Pitti. Santa Famiglia. (A. Vannucchi, detto Del Sarto)</title>
+          <title>Firenze</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>Fratelli Alinari</contributor>
+          <contributor>Sarto, Andrea del</contributor>
+          <subject>schilderij</subject>
+          <subject>Palazzo Pitti</subject>
+          <date>1857 - 1900</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-548</identifier>
+        <datestamp>2021-03-10T09:00:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60308</identifier>
+          <identifier>RP-F-00-548</identifier>
+          <title>Fotoreproductie van het fresco Renier van Pisa neemt het kluizenaarskleed aan naar Andrea da Firenze in het Camposanto te Pisa, Italië</title>
+          <title>Camposanto. S. Ranieri prende l'abito di Eremita. (Andrea da Firenze)</title>
+          <title>Pisa</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>Fratelli Alinari</contributor>
+          <contributor>Firenze, Andrea da</contributor>
+          <subject>Camposanto</subject>
+          <subject>Scacceri, Ranieri</subject>
+          <date>1857 - 1900</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pisa</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-228</identifier>
+        <datestamp>2022-01-24T11:04:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56303</identifier>
+          <identifier>RP-F-00-228</identifier>
+          <title>Gezicht op het Piazzetta en het eiland San Giorgio te Venetië</title>
+          <title>Piazzetta e Colonne e Isola S. Giorgio</title>
+          <creator>Salviati, Paolo</creator>
+          <subject>Piazzetta</subject>
+          <date>1860 - 1870</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-443</identifier>
+        <datestamp>2021-03-10T09:00:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59839</identifier>
+          <identifier>RP-F-00-443</identifier>
+          <title>Façade van de San Miniato al Monte te Florence, Italië</title>
+          <title>Chiesa di S. Miniato di stile greco romanzo, anteriore al mille</title>
+          <title>Firenze</title>
+          <creator>Brogi, Giacomo</creator>
+          <contributor>Edizione Brogi</contributor>
+          <subject>S. Miniato</subject>
+          <date>1864 - 1881</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-449</identifier>
+        <datestamp>2021-03-10T09:00:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59853</identifier>
+          <identifier>RP-F-00-449</identifier>
+          <title>Ponte Vecchio over de Arno te Florence, Italië</title>
+          <title>Ponte Vecchio, rifondato nel 1355 coll'opera di Taddeo Gaddi</title>
+          <title>Firenze</title>
+          <creator>Brogi, Giacomo</creator>
+          <contributor>Edizione Brogi</contributor>
+          <subject>Ponte Vecchio</subject>
+          <date>1864 - 1881</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-6-13</identifier>
+        <datestamp>2021-11-12T06:23:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61321</identifier>
+          <identifier>RP-F-1993-6-13</identifier>
+          <title>Sculptuur van Creugas, Vaticaan</title>
+          <title>Greugate di Canova</title>
+          <creator>Anderson, James</creator>
+          <contributor>anoniem</contributor>
+          <subject>Vaticaanse Musea</subject>
+          <date>ca. 1857 - ca. 1875</date>
+          <type>foto</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vaticaanse Musea</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-841</identifier>
+        <datestamp>2021-09-01T12:27:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63731</identifier>
+          <identifier>RP-F-00-841</identifier>
+          <title>Portret [ Zelfportret? ] van Carel Jacobus Behr</title>
+          <title>(...) Behr</title>
+          <creator>firma J.H. Buckmann</creator>
+          <contributor>Kruk, J.G. van der</contributor>
+          <contributor>Behr, Carel J.</contributor>
+          <contributor>Bückmann, Herman</contributor>
+          <subject>Behr, Carel J.</subject>
+          <date>1864 - 1868</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-847</identifier>
+        <datestamp>2017-09-26T01:03:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63801</identifier>
+          <identifier>RP-F-00-847</identifier>
+          <title>Gezicht op een paviljoen, mogelijk een militair wachthuis, in vermoedelijk Zeeland</title>
+          <creator>Bauer, Carl Wilhelm</creator>
+          <date>ca. 1885 - ca. 1900</date>
+          <type>kabinetfoto</type>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zeeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-310</identifier>
+        <datestamp>2021-01-11T15:27:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56870</identifier>
+          <identifier>RP-F-00-310</identifier>
+          <title>Gezicht op het stadhuis van Schaarbeek, België</title>
+          <title>Hotel communal de Schaerbeek. Province de Brabant. Façade principale, Place Colignon</title>
+          <creator>Maes, Joseph</creator>
+          <subject>Colignonplein</subject>
+          <date>1887 - 1908</date>
+          <type>fotomechanische afdruk</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Schaarbeek</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-316</identifier>
+        <datestamp>2022-01-24T09:07:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56921</identifier>
+          <identifier>RP-F-00-316</identifier>
+          <title>Gezicht op Roquebrune, Menton en Cap Martin</title>
+          <title>Route de la Corniche à Monaco. - Vue sur Roquebrune, Menton et le Cap Martin</title>
+          <creator>Neurdein Frères</creator>
+          <subject>Roquebrune-sur-Argens</subject>
+          <subject>Menton</subject>
+          <subject>Cap-Martin</subject>
+          <date>1863 - 1891</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Monaco</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-358</identifier>
+        <datestamp>2021-03-10T08:59:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57086</identifier>
+          <identifier>RP-F-00-358</identifier>
+          <title>Interieur van een zaal van het Dogepaleis te Venetië, Italië</title>
+          <creator>Ponti, Carlo</creator>
+          <subject>Dogepaleis</subject>
+          <date>1852 - 1893</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-747</identifier>
+        <datestamp>2017-09-26T00:57:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61600</identifier>
+          <identifier>RP-F-00-747</identifier>
+          <title>Gezicht op het Beursplein en Beurspoort in Amsterdam</title>
+          <creator>R., Gebr. van</creator>
+          <contributor>R., Gebr. van</contributor>
+          <subject>Beurspleintje</subject>
+          <subject>Beurspoortje</subject>
+          <date>ca. 1860 - ca. 1890</date>
+          <type>kabinetfoto</type>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODY0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

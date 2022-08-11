@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3NDAw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1960-90(R)</identifier>
+        <datestamp>2020-01-07T13:21:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24737</identifier>
+          <identifier>RP-T-1960-90(R)</identifier>
+          <title>Heer met steek spreekt een dame aan voor een tuinprieël</title>
+          <creator>Perger, Sigmund Ferdinand Ritter von</creator>
+          <subject>Literatuur</subject>
+          <date>1788 - 1841</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1954-39</identifier>
+        <datestamp>2022-06-01T08:36:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24850</identifier>
+          <identifier>BK-1954-39</identifier>
+          <title>Onderricht van Maria</title>
+          <creator>Pompe, Walter</creator>
+          <date>1750 - 1785</date>
+          <type>beeldhouwwerk</type>
+          <format>lindehout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16941-A</identifier>
+        <datestamp>2022-06-01T08:37:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25304</identifier>
+          <identifier>BK-16941-A</identifier>
+          <title>Petrus</title>
+          <date>1600 - 1650</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-680-E</identifier>
+        <datestamp>2021-10-02T11:35:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25403</identifier>
+          <identifier>BK-1973-680-E</identifier>
+          <title>Zijden lint, in mosgroen moiré</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1950</date>
+          <type>lint</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1957-9-B</identifier>
+        <datestamp>2021-10-02T11:36:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25611</identifier>
+          <identifier>BK-1957-9-B</identifier>
+          <title>Heiligenfiguur in pseudo-Romeins soldatenkostuum</title>
+          <creator>Günther, Ignaz Franz</creator>
+          <date>ca. 1765 - ca. 1770</date>
+          <type>beeldhouwwerk</type>
+          <format>lindehout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-242-10</identifier>
+        <datestamp>2022-03-29T09:29:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24720</identifier>
+          <identifier>BK-1968-242-10</identifier>
+          <title>Ronde schotel met de 'drie vrienden van de winter'</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1670 - ca. 1700</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Arita</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16444-B</identifier>
+        <datestamp>2021-10-02T02:00:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24922</identifier>
+          <identifier>BK-16444-B</identifier>
+          <title>Twee tuinvazen met de vier seizoenen</title>
+          <creator>Cressant, Jacobus</creator>
+          <description>De twee vazen zijn vrijwel zeker gemaakt voor de buitenplaats Elsenburg in Maarssen, eigendom van de Amsterdamse koopman Theodoor de Leeuw. De klassieke vorm is op verschillende plaatsen opgesierd met asymmetrische ornamenten die de rococostijl aankondigen. Voorbeelden zijn de grote kuiven boven de reliëfs die de seizoenen verbeelden.</description>
+          <date>1714</date>
+          <type>tuinvaas</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12088</identifier>
+        <datestamp>2021-11-29T22:59:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25281</identifier>
+          <identifier>BK-NM-12088</identifier>
+          <title>Venus</title>
+          <creator>Witte, Elias de</creator>
+          <contributor>anoniem</contributor>
+          <description>In de 18de eeuw bevond deze kleine Venus zich in het Museo Ridolfini-Corazzi in Cortona (Italië), een befaamde verzameling Etruskische en Romeinse kunst. Toen werd het als Romeins beschouwd, maar nu wordt dit beeldje toegeschreven aan de Vlaming Elias de Witte, die in
+Florence werkte. Door de ontbrekende armen en het ruwe oppervlak gaf hij Venus bewust het uiterlijk van een opgegraven Romeins bronsje.</description>
+          <date>ca. 1570</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11965</identifier>
+        <datestamp>2022-06-01T08:37:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25484</identifier>
+          <identifier>BK-NM-11965</identifier>
+          <title>Maria met kind</title>
+          <date>ca. 1400</date>
+          <type>beeldhouwwerk</type>
+          <format>beukenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Oost-Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11363-A</identifier>
+        <datestamp>2022-05-16T12:45:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25490</identifier>
+          <identifier>BK-NM-11363-A</identifier>
+          <title>St. Joris met de draak</title>
+          <creator>Klocker, Hans</creator>
+          <date>ca. 1500</date>
+          <type>beeldhouwwerk</type>
+          <format>lindehout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bressanone</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1970-37-B</identifier>
+        <datestamp>2021-10-02T01:59:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24899</identifier>
+          <identifier>BK-1970-37-B</identifier>
+          <title>Cleopatra en Lucretia</title>
+          <creator>Xavery, Jan Baptist</creator>
+          <description>De Haagse hofbeeldhouwer Xavery was bijzonder veelzijdig. Naast grafmonumenten, portretbustes, marmeren schouwen en zelfs meubilair maakte hij ook verfijnde beeldjes in hout en ivoor, zoals deze klassieke vrouwenkopjes. Ze stellen twee mooie vrouwen voor uit de klassieke oudheid, Cleopatra en Lucretia, die zich beiden uit schaamte of verdriet het leven benamen.</description>
+          <date>1734</date>
+          <type>beeldhouwwerk</type>
+          <format>ivoor</format>
+          <format>palmhout</format>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15395-A</identifier>
+        <datestamp>2021-10-02T11:34:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25255</identifier>
+          <identifier>BK-15395-A</identifier>
+          <title>Vaasvormig onderdeel</title>
+          <date>1575 - 1600</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18771-B</identifier>
+        <datestamp>2021-10-02T11:35:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25461</identifier>
+          <identifier>BK-18771-B</identifier>
+          <title>Deense dog</title>
+          <creator>Gardet, George</creator>
+          <contributor>Siot-Decauville</contributor>
+          <date>in of voor 1904</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1966-26</identifier>
+        <datestamp>2021-10-02T11:36:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25662</identifier>
+          <identifier>BK-1966-26</identifier>
+          <title>Beeldje, fragment van de kleding</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <date>ca. 1425 - ca. 1550</date>
+          <type>beeldhouwwerk</type>
+          <format>pijpaarde</format>
+          <format>terracotta</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1272-D</identifier>
+        <datestamp>2021-10-02T11:36:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25639</identifier>
+          <identifier>BK-KOG-1272-D</identifier>
+          <title>Maria met kind</title>
+          <creator>anoniem</creator>
+          <date>ca. 1425 - ca. 1450</date>
+          <type>beeldhouwwerk</type>
+          <format>pijpaarde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-B-84</identifier>
+        <datestamp>2021-10-02T11:33:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25218</identifier>
+          <identifier>BK-B-84</identifier>
+          <title>David</title>
+          <creator>Magni, Pietro</creator>
+          <description>David staat op het punt een steen naar de reus Goliath te slingeren. Het beeld is een politiek statement: de Bijbelse figuur David staat hier symbool voor de Italiaanse vrijheidsstrijder Garibaldi. Hij bevrijdde Milaan uit de macht van het Habsburgse keizerrijk (‘Goliath’). Vanwege zijn vernieuwende, natuurgetrouwe stijl won Pietro Magni met deze David de prestigieuze Canonica-prijs. Trots beitelde hij dit later in de boomstronk.</description>
+          <date>1851</date>
+          <type>beeldhouwwerk</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Milaan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9174</identifier>
+        <datestamp>2021-11-03T16:57:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25789</identifier>
+          <identifier>BK-NM-9174</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16011</identifier>
+        <datestamp>2021-10-26T13:54:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24826</identifier>
+          <identifier>BK-16011</identifier>
+          <title>Borstbeeldje van een man in travestie</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1800</date>
+          <type>beeldhouwwerk</type>
+          <format>terracotta</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11922</identifier>
+        <datestamp>2021-10-02T11:34:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25324</identifier>
+          <identifier>BK-NM-11922</identifier>
+          <title>Maria met kind, omgeven door engelen</title>
+          <date>1450 - 1500</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ferrara (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1985-83-A</identifier>
+        <datestamp>2021-11-03T19:22:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25363</identifier>
+          <identifier>BK-1985-83-A</identifier>
+          <title>Hoedenspeld van metaal met druppelvormige knop van rose glas, in facet geslepen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1915</date>
+          <type>kleding</type>
+          <type>hoedenspeld</type>
+          <format>metaal</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3NDIw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

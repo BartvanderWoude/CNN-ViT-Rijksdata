@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3MjQw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15523</identifier>
+        <datestamp>2021-10-02T02:01:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25032</identifier>
+          <identifier>BK-15523</identifier>
+          <title>Symbolisch vrouwenfiguur: Gravura</title>
+          <creator>Royer, Louis</creator>
+          <date>ca. 1803 - ca. 1868</date>
+          <type>beeldhouwwerk</type>
+          <format>terracotta</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12083</identifier>
+        <datestamp>2021-10-02T11:34:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25289</identifier>
+          <identifier>BK-NM-12083</identifier>
+          <title>Naakte vrouwenfiguur</title>
+          <date>1500 - 1600</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-239-7</identifier>
+        <datestamp>2022-03-29T09:14:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24733</identifier>
+          <identifier>BK-1968-239-7</identifier>
+          <title>Kop met hoo-vogels</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1670 - ca. 1700</date>
+          <type>kop</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Arita</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1953-16-B</identifier>
+        <datestamp>2022-06-01T08:37:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25350</identifier>
+          <identifier>BK-1953-16-B</identifier>
+          <title>Elegant geklede jonge vrouw: Zomer</title>
+          <date>ca. 1640 - ca. 1645</date>
+          <type>beeldhouwwerk</type>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1974-5</identifier>
+        <datestamp>2021-11-29T11:53:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25713</identifier>
+          <identifier>BK-1974-5</identifier>
+          <title>Maria met kind</title>
+          <creator>Doorne, Jan van (III)</creator>
+          <date>ca. 1650</date>
+          <type>beeldhouwwerk</type>
+          <format>buxushout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Mechelen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13055</identifier>
+        <datestamp>2021-11-03T16:56:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25752</identifier>
+          <identifier>BK-NM-13055</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1500 - ca. 1600</date>
+          <type>pijpsleutel</type>
+          <format>staal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13162-D</identifier>
+        <datestamp>2021-10-02T02:01:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24993</identifier>
+          <identifier>BK-NM-13162-D</identifier>
+          <title>Jaargetijde, voorgesteld door kind met attribuut</title>
+          <date>1725 - 1740</date>
+          <type>beeldhouwwerk</type>
+          <format>terracotta</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18807</identifier>
+        <datestamp>2022-01-25T08:53:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25079</identifier>
+          <identifier>BK-18807</identifier>
+          <title>Drie kinderen spelend met een bok</title>
+          <creator>Lacomblé, Eugène</creator>
+          <date>ca. 18900 - ca. 1900</date>
+          <type>beeldhouwwerk</type>
+          <format>klei</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1963-23</identifier>
+        <datestamp>2021-10-02T11:34:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25336</identifier>
+          <identifier>BK-1963-23</identifier>
+          <title>Maria met Christuskind</title>
+          <creator>anoniem</creator>
+          <description>Maria zit met haar kind op schoot. Zij is hier meer dan alleen de moeder van Jezus. Zij is hier ook de symbolische troon waarop het kind, als vleesgeworden goddelijke wijs heid, is gezeten: de sedes sapientiae. Samen met de gekruisigde Christus is de voorstelling een van de vroegste onderwerpen in de vrijstaande beeldhouwkunst van de middeleeuwen.</description>
+          <date>ca. 1225</date>
+          <type>beeldhouwwerk</type>
+          <type>beeld</type>
+          <format>notenhout</format>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pyreneeën</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9029</identifier>
+        <datestamp>2021-11-03T16:57:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25811</identifier>
+          <identifier>BK-NM-9029</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2012</identifier>
+        <datestamp>2021-11-03T16:57:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25918</identifier>
+          <identifier>BK-KOG-2012</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>pijpsleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1971-270</identifier>
+        <datestamp>2021-10-02T11:35:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25422</identifier>
+          <identifier>BK-1971-270</identifier>
+          <title>Ceintuur van lichtblauwe satijn van zijde; op de geplooide ceintuur is aan een van de uiteinden een strik genaaid</title>
+          <creator>anoniem</creator>
+          <date>ca. 1910 - ca. 1920</date>
+          <type>dameskleding</type>
+          <type>ceintuur</type>
+          <format>zijde</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3207</identifier>
+        <datestamp>2021-10-02T11:35:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25544</identifier>
+          <identifier>BK-NM-3207</identifier>
+          <title>Helft van damschijf met portret: Judith, 2de vrouw van Lodewijk de Vrome</title>
+          <date>1525 - 1575</date>
+          <type>damschijf</type>
+          <format>palmhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13042</identifier>
+        <datestamp>2021-11-03T16:56:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25762</identifier>
+          <identifier>BK-NM-13042</identifier>
+          <title>Dopsleutel van staal</title>
+          <date>ca. 1300 - ca. 1500</date>
+          <type>sleutel</type>
+          <type>dopsleutel</type>
+          <format>staal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9158</identifier>
+        <datestamp>2021-11-03T16:57:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25800</identifier>
+          <identifier>BK-NM-9158</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-242-14</identifier>
+        <datestamp>2022-03-29T12:01:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24725</identifier>
+          <identifier>BK-1968-242-14</identifier>
+          <title>Schotel met de 'drie vrienden van de winter'</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1670 - ca. 1700</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Arita</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9355</identifier>
+        <datestamp>2022-03-14T14:24:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24915</identifier>
+          <identifier>BK-NM-9355</identifier>
+          <title>Beeld van een zittend kind</title>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>beeldhouwwerk</type>
+          <format>terracotta</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Holland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13130</identifier>
+        <datestamp>2022-06-01T08:36:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25196</identifier>
+          <identifier>BK-NM-13130</identifier>
+          <title>Een heilige bisschop</title>
+          <creator>anoniem</creator>
+          <date>ca. 1475 - ca. 1500</date>
+          <type>beeldhouwwerk</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7533</identifier>
+        <datestamp>2021-10-02T11:36:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25599</identifier>
+          <identifier>BK-NM-7533</identifier>
+          <title>Bedelende figuur met twee stokken</title>
+          <creator>Troger, Simon</creator>
+          <date>na 1693 - voor 1768</date>
+          <type>beeldhouwwerk</type>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7539</identifier>
+        <datestamp>2021-10-02T11:36:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25605</identifier>
+          <identifier>BK-NM-7539</identifier>
+          <title>Bedelares met kind</title>
+          <creator>Troger, Simon</creator>
+          <date>na 1693 - voor 1768</date>
+          <type>beeldhouwwerk</type>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3MjYw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

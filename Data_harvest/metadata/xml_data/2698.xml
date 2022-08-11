@@ -1,0 +1,469 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1Mzk0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1020</identifier>
+        <datestamp>2022-03-15T17:34:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1004</identifier>
+          <identifier>AK-MAK-1020</identifier>
+          <title>Zwaardmesheft</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1900</date>
+          <type>kozuka</type>
+          <format>suassa</format>
+          <format>shibuichi</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1032</identifier>
+        <datestamp>2022-03-15T17:35:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1016</identifier>
+          <identifier>AK-MAK-1032</identifier>
+          <title>Zwaardmesheft</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1900</date>
+          <type>kozuka</type>
+          <format>sentoku</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-46-C</identifier>
+        <datestamp>2022-05-09T14:05:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.271</identifier>
+          <identifier>BK-NM-5783-46-C</identifier>
+          <title>Matras van witte katoen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>matras</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-748</identifier>
+        <datestamp>2022-03-15T17:37:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1349</identifier>
+          <identifier>AK-MAK-748</identifier>
+          <title>Stoftheebus met een bruin glazuur</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1800</date>
+          <type>chaire</type>
+          <type>stoftheebus</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Shigaraki</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-233-B</identifier>
+        <datestamp>2022-05-09T14:05:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.406</identifier>
+          <identifier>BK-NM-5783-233-B</identifier>
+          <title>Laken, gemerkt BHW</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1850</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>laken (object)</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-272</identifier>
+        <datestamp>2022-05-09T14:05:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.519</identifier>
+          <identifier>BK-NM-5783-272</identifier>
+          <title>Asschep met ronde steel met ringversiering</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1799</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>asschep</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1127</identifier>
+        <datestamp>2022-03-15T17:35:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1111</identifier>
+          <identifier>AK-MAK-1127</identifier>
+          <title>Zwaardstootplaat</title>
+          <creator>Sadashichi Masayoshi</creator>
+          <contributor>Ito Masatsune</contributor>
+          <date>1750 - 1800</date>
+          <type>tsuba</type>
+          <format>ijzer</format>
+          <format>koper</format>
+          <format>goud</format>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-527</identifier>
+        <datestamp>2022-03-21T09:57:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1149</identifier>
+          <identifier>AK-MAK-527</identifier>
+          <title>Hoge vaas met een gecraqueleerd crèmekleuring glazuur</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1799</date>
+          <type>vaas</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-546</identifier>
+        <datestamp>2022-03-29T16:22:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1161</identifier>
+          <identifier>AK-MAK-546</identifier>
+          <title>Theekom met een grijsbruin glazuur en metalen rand</title>
+          <creator>anoniem</creator>
+          <date>ca. 960 - ca. 1279</date>
+          <type>theekom</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-648</identifier>
+        <datestamp>2022-03-21T09:58:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1198</identifier>
+          <identifier>AK-MAK-648</identifier>
+          <title>Eivormige pot 'Tradescant' met lotusranken in reliëf</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600</date>
+          <type>pot</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-BR-FLA-2</identifier>
+        <datestamp>2022-03-28T11:51:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.338</identifier>
+          <identifier>AK-BR-FLA-2</identifier>
+          <title>Graffiguur in de vorm van een hurkende vrouw</title>
+          <creator>anoniem</creator>
+          <date>ca. 220 - ca. 589</date>
+          <type>beeld</type>
+          <type>graffiguur</type>
+          <format>aardewerk</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-93</identifier>
+        <datestamp>2022-05-09T14:05:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.211</identifier>
+          <identifier>BK-NM-5783-93</identifier>
+          <title>Kom, geslagen uit een Gelderse munt van 1760</title>
+          <creator>anoniem</creator>
+          <date>ca. 1760</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>kom</type>
+          <format>koper</format>
+          <format>tinlegering</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-31-B</identifier>
+        <datestamp>2022-05-09T14:05:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.218</identifier>
+          <identifier>BK-NM-5783-31-B</identifier>
+          <title>Schuier, overtrokken met blauw-groene zijde, afgezet met wit band</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>schuier</type>
+          <format>zijde</format>
+          <format>varkenshaar</format>
+          <format>lak</format>
+          <format>was</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-222</identifier>
+        <datestamp>2021-10-01T19:59:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.953</identifier>
+          <identifier>AK-MAK-222</identifier>
+          <title>Hand Visnu-figuur</title>
+          <creator>anoniem</creator>
+          <date>1000 - 1100</date>
+          <type>beeldhouwwerk</type>
+          <type>Visjnoe</type>
+          <type>fragment</type>
+          <format>zandsteen</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Cambodja</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-57</identifier>
+        <datestamp>2022-05-09T14:04:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108</identifier>
+          <identifier>BK-NM-5783-57</identifier>
+          <title>Naaimand, ronde open mand met één handvat</title>
+          <creator>anoniem</creator>
+          <date>ca. 1675 - ca. 1700</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>mand</type>
+          <type>naaimand</type>
+          <format>wilgenteen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Halle</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1069</identifier>
+        <datestamp>2022-03-15T17:35:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1053</identifier>
+          <identifier>AK-MAK-1069</identifier>
+          <title>Zwaardstootplaat met heilig koord</title>
+          <creator>Katsumi Kansai</creator>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>tsuba</type>
+          <format>ijzer</format>
+          <format>goud</format>
+          <format>suassa</format>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-12</identifier>
+        <datestamp>2022-04-25T11:37:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.593</identifier>
+          <identifier>AK-MAK-12</identifier>
+          <title>Masker</title>
+          <creator>anoniem</creator>
+          <description>Menselijke gezichten komen zelden voor op voorwerpen uit de Chinese oudheid. Dit masker toont grote oren, uitpuilende ogen, een grote neus en een enorme opengesperde mond met duidelijk zichtbare tanden. Het moet een angstaanjagende indruk hebben gemaakt en diende waarschijnlijk als decoratie op een schild, om zo de vijand te intimideren.</description>
+          <date>ca. -1100 - ca. -800</date>
+          <type>masker</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1330</identifier>
+        <datestamp>2022-04-25T11:36:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.643</identifier>
+          <identifier>AK-MAK-1330</identifier>
+          <title>Ceintuur applique</title>
+          <creator>anoniem</creator>
+          <description>Een wolf grijpt met zijn scherpe tanden een hert bij de nek. Het hert buigt naar beneden onder de kracht van de aanval. Dit soort opengewerkte platen met decoraties van vechtende dieren zijn kenmerkend voor de cultuur van de Ordos. Deze ‘dierenstijl’ behoort tot de nomadische
+tradities in het steppengebied van Oost- en Centraal-Azië.</description>
+          <date>ca. -200 - ca. -100</date>
+          <type>applique</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Sarmatië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-540</identifier>
+        <datestamp>2022-05-16T09:51:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1155</identifier>
+          <identifier>AK-MAK-540</identifier>
+          <title>Schaal met een lavendelblauw glazuur</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <description>Twee borden.
+Jun-steengoed werd voornamelijk gemaakt in het Yu-district van de provincie Henan. Het lichtblauwe glazuur is dik en ondoorzichtig en bestaat uit ijzer- en koperpigmenten. Bij de juiste temperatuurregeling tijdens het bakproces, oxideert het koper, resulterend in de karmozijnrode en paarse vlekken die op deze borden zijn te zien.</description>
+          <date>ca. 1100 - ca. 1124</date>
+          <type>schaal</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+          <coverage>Henan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1212</identifier>
+        <datestamp>2022-03-30T08:26:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1204</identifier>
+          <identifier>AK-MAK-1212</identifier>
+          <title>Kom met zeslobbige wand</title>
+          <creator>anoniem</creator>
+          <date>ca. 960 - ca. 1279</date>
+          <type>kom</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1Mzk2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

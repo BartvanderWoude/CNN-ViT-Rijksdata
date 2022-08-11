@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzU0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-554A</identifier>
+        <datestamp>2018-12-06T15:21:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49875</identifier>
+          <identifier>RP-T-1948-554A</identifier>
+          <title>Jozef en de vrouw van Potifar</title>
+          <creator>Perino del Vaga</creator>
+          <date>1520 - 1547</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1956-110(V)</identifier>
+        <datestamp>2020-04-28T12:14:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50125</identifier>
+          <identifier>RP-T-1956-110(V)</identifier>
+          <title>Drie kroonlijsten, een helm en enkele ornamenten</title>
+          <title>Architectuuronderdelen</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1599</date>
+          <type>tekening</type>
+          <type>architectuurtekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1983-34</identifier>
+        <datestamp>2021-11-02T08:31:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50519</identifier>
+          <identifier>BK-1983-34</identifier>
+          <title>Plaquette met Coriolanus en de vrouwen</title>
+          <date>ca. 1580</date>
+          <type>plaquette</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.003</identifier>
+        <datestamp>2019-05-22T12:34:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50786</identifier>
+          <identifier>RP-P-OB-31.003</identifier>
+          <title>Vrede en Overvloed</title>
+          <creator>Coriolano, Bartolommeo</creator>
+          <contributor>Reni, Guido</contributor>
+          <date>1627</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1977-38(R)</identifier>
+        <datestamp>2021-10-02T12:20:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50025</identifier>
+          <identifier>RP-T-1977-38(R)</identifier>
+          <title>Dood van Absalom</title>
+          <creator>Viani, Antonio Maria</creator>
+          <date>1570 - 1629</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2177(V)</identifier>
+        <datestamp>2021-10-02T12:20:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50074</identifier>
+          <identifier>RP-T-1889-A-2177(V)</identifier>
+          <title>Schetsen van een rotslandschap, een staande man en een draperiestudie</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1640</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-30.971</identifier>
+        <datestamp>2019-05-22T12:34:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50636</identifier>
+          <identifier>RP-P-OB-30.971</identifier>
+          <title>Heilige Franciscus ontvangt de stigmata</title>
+          <creator>anoniem</creator>
+          <contributor>Titiaan</contributor>
+          <contributor>Boldrini, Nicolò</contributor>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <date>in of na ca. 1530</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1992-6-A</identifier>
+        <datestamp>2021-10-25T12:08:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50685</identifier>
+          <identifier>NG-1992-6-A</identifier>
+          <title>Honderd jaar Koninklijk Nederlands Genootschap voor munt- en penningkunde</title>
+          <creator>Letterie, Marianne</creator>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>schip</subject>
+          <subject>Amsterdam</subject>
+          <subject>Koninklijk Nederlands Genootschap voor Munt- en Penningkunde</subject>
+          <date>1992-06-12</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1977-38(V)</identifier>
+        <datestamp>2021-10-02T12:20:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50026</identifier>
+          <identifier>RP-T-1977-38(V)</identifier>
+          <title>Tobias en de engel</title>
+          <creator>Viani, Antonio Maria</creator>
+          <date>1570 - 1629</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3810-C</identifier>
+        <datestamp>2021-10-02T12:23:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50761</identifier>
+          <identifier>BK-NM-3810-C</identifier>
+          <title>Fragment complex zijdeweefsel</title>
+          <date>1750</date>
+          <type>zijdeweefsel</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1952-29</identifier>
+        <datestamp>2021-10-02T12:19:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49787</identifier>
+          <identifier>RP-T-1952-29</identifier>
+          <title>Ten Hemelopneming van Maria of van een vrouwelijke martelares</title>
+          <creator>Nebbia, Cesare</creator>
+          <date>1546 - 1614</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2171(R)</identifier>
+        <datestamp>2021-01-28T13:30:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50003</identifier>
+          <identifier>RP-T-1889-A-2171(R)</identifier>
+          <title>Maria Hemelvaart</title>
+          <creator>Tintoretto, Jacopo</creator>
+          <contributor>anoniem</contributor>
+          <date>1528 - 1620</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1956-107</identifier>
+        <datestamp>2021-10-02T12:20:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50120</identifier>
+          <identifier>RP-T-1956-107</identifier>
+          <title>Twee zijaanzichten en een onderaanzicht van een Ionisch kapiteel</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1500 - 1599</date>
+          <date>1600 - 1699</date>
+          <type>architectuurtekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12946</identifier>
+        <datestamp>2021-11-02T08:31:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50361</identifier>
+          <identifier>BK-NM-12946</identifier>
+          <title>Mes met een heft eindigend in een hoef</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1600</date>
+          <type>mes (culinair gereedschap)</type>
+          <format>koper</format>
+          <format>hout</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.821</identifier>
+        <datestamp>2022-03-02T15:19:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50737</identifier>
+          <identifier>RP-P-OB-17.821</identifier>
+          <title>Landschap met een triomfboog en druivenoogst</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1774-08-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1949-563</identifier>
+        <datestamp>2021-10-02T12:19:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49810</identifier>
+          <identifier>RP-T-1949-563</identifier>
+          <title>Siervaas met meermannen tussen dolfijnen</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1500 - 1530</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Mantua</coverage>
+          <coverage>Padua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1958-120</identifier>
+        <datestamp>2021-10-02T12:20:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50143</identifier>
+          <identifier>RP-T-1958-120</identifier>
+          <title>Ontwerp voor een monumentaal orgel</title>
+          <creator>Leoni, Leone</creator>
+          <date>1534 - 1560</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13013</identifier>
+        <datestamp>2021-11-02T08:30:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50335</identifier>
+          <identifier>BK-NM-13013</identifier>
+          <title>Vork</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1725</date>
+          <type>vork</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11355</identifier>
+        <datestamp>2021-11-02T08:31:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50531</identifier>
+          <identifier>BK-NM-11355</identifier>
+          <title>Plaquette met de stroomgod Tiber</title>
+          <creator>anoniem</creator>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>plaquette</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3806-A</identifier>
+        <datestamp>2021-10-02T12:22:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50714</identifier>
+          <identifier>BK-NM-3806-A</identifier>
+          <title>Fragment gebrocheerde zijde</title>
+          <date>1750</date>
+          <type>gebrocheerde zijde</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzU2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

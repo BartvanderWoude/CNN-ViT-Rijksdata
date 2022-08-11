@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNzU2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1960-208(R)</identifier>
+        <datestamp>2022-01-11T08:52:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64932</identifier>
+          <identifier>RP-T-1960-208(R)</identifier>
+          <title>Panorama van de stad en de baai van Anzio en Nettuno</title>
+          <creator>Wittel, Caspar van</creator>
+          <subject>Anzio</subject>
+          <date>1674 - 1736</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>grafiet</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Anzio</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-2893</identifier>
+        <datestamp>2021-01-28T13:55:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71537</identifier>
+          <identifier>RP-P-1911-2893</identifier>
+          <title>Gezicht op de binnenplaats van Paleis Honselaarsdijk</title>
+          <title>De binne-plaats en gallery, tusschen 't konings huis</title>
+          <title>Hollands Lustpark besluitende zyn Britannische majesteits hof-gebouw tot Honslaardyk</title>
+          <creator>Allard, Carel</creator>
+          <contributor>Allard, Carel</contributor>
+          <subject>Paleis Honselaarsdijk</subject>
+          <date>1689 - 1702</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1333</identifier>
+        <datestamp>2021-03-10T09:01:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65633</identifier>
+          <identifier>RP-F-00-1333</identifier>
+          <title>Portret van de schilder André Jozef Minguet, ten voeten uit</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Minguet, André-Joseph</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4017</identifier>
+        <datestamp>2021-10-20T14:39:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65895</identifier>
+          <identifier>NG-VG-1-4017</identifier>
+          <title>Bouw van het Crystal Palace voor de internationale tentoonstelling van industrie te Londen</title>
+          <creator>Heaton &amp; Sons, Ralph</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>tentoonstelling</subject>
+          <subject>internationale tentoonstelling</subject>
+          <subject>tentoonstellingsgebouw</subject>
+          <subject>industrie</subject>
+          <subject>Wereldtentoonstelling 1851 (Londen)</subject>
+          <subject>Crystal Palace</subject>
+          <date>1851</date>
+          <type>historiepenning</type>
+          <format>legering</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Birmingham</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-393</identifier>
+        <datestamp>2020-04-10T15:32:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64765</identifier>
+          <identifier>RP-T-00-393</identifier>
+          <title>Bosgezicht in het Bois de Soignes bij Brussel</title>
+          <creator>Waterloo, Anthonie</creator>
+          <subject>Forêt de Soignes</subject>
+          <subject>Brussel (stad)</subject>
+          <subject>België</subject>
+          <date>1619 - 1690</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1913-31(R)</identifier>
+        <datestamp>2020-04-09T17:43:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64848</identifier>
+          <identifier>RP-T-1913-31(R)</identifier>
+          <title>Gezicht op de stad Tripoli</title>
+          <creator>Matham, Adriaen</creator>
+          <contributor>anoniem</contributor>
+          <subject>Tripoli</subject>
+          <subject>Libië</subject>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12053</identifier>
+        <datestamp>2021-10-02T12:49:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65114</identifier>
+          <identifier>BK-NM-12053</identifier>
+          <title>Weefselfragment in tapijtwerk</title>
+          <creator>anoniem</creator>
+          <date>ca. 500 - ca. 799</date>
+          <type>tapijtwerk</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Egypte</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-330(V)</identifier>
+        <datestamp>2021-10-02T12:50:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65426</identifier>
+          <identifier>RP-T-1948-330(V)</identifier>
+          <title>Schets van vechtende figuren</title>
+          <creator>Sacchi, Andrea</creator>
+          <contributor>Diziani</contributor>
+          <contributor>anoniem</contributor>
+          <contributor>Creti, Donato</contributor>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1979-366-H</identifier>
+        <datestamp>2021-10-07T16:32:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70084</identifier>
+          <identifier>NG-1979-366-H</identifier>
+          <title>Messenheft uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>messenheft</type>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4156</identifier>
+        <datestamp>2021-10-20T14:40:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66038</identifier>
+          <identifier>NG-VG-1-4156</identifier>
+          <title>Oprichting van een standbeeld voor de kunstschilder Ary Scheffer te Dordrecht</title>
+          <creator>Kellen, Johan Philip van der</creator>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>beeldende kunst</subject>
+          <subject>schilderkunst</subject>
+          <subject>uitreiking van onderscheiding</subject>
+          <subject>standbeeld</subject>
+          <subject>Dordrecht</subject>
+          <subject>Scheffer, Ary</subject>
+          <date>1862</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-458</identifier>
+        <datestamp>2021-01-28T13:40:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70354</identifier>
+          <identifier>RP-T-1953-458</identifier>
+          <title>Het klooster van Hoboken</title>
+          <creator>Wel, H. van</creator>
+          <subject>Hoboken</subject>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Hoboken</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1944-910</identifier>
+        <datestamp>2021-01-28T13:55:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71557</identifier>
+          <identifier>RP-P-1944-910</identifier>
+          <title>Portret van dominee Ottho Gerhard Heldring</title>
+          <creator>Allebé, August</creator>
+          <subject>Heldring, Otto Gerhard</subject>
+          <date>1876</date>
+          <type>prent</type>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-5181</identifier>
+        <datestamp>2021-01-28T14:02:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.72166</identifier>
+          <identifier>RP-P-1905-5181</identifier>
+          <title>Portret van C.B. de Kruyf</title>
+          <creator>Arendzen, Petrus Johannes</creator>
+          <subject>Kruyf, C.B. de</subject>
+          <date>1856 - 1874</date>
+          <type>prent</type>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-400</identifier>
+        <datestamp>2019-01-25T14:06:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64802</identifier>
+          <identifier>RP-T-00-400</identifier>
+          <title>Zeeslag bij Terheide, 10 augustus 1653 (linkerblad)</title>
+          <title>De Vierdaagse Zeeslag (linkerblad), 1666</title>
+          <creator>Velde, Willem van de (I)</creator>
+          <contributor>Velde, Willem van de (II)</contributor>
+          <subject>maritieme geschiedenis</subject>
+          <subject>militaire geschiedenis</subject>
+          <subject>zeeslag</subject>
+          <subject>Zeeslag bij Terheide</subject>
+          <subject>Eerste Engelse Oorlog</subject>
+          <subject>Tromp, Maarten Harpertszoon</subject>
+          <subject>Monck, George (hertog van Albemarle)</subject>
+          <date>1653</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-426(R)</identifier>
+        <datestamp>2019-01-03T16:27:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65162</identifier>
+          <identifier>RP-T-1953-426(R)</identifier>
+          <title>Staande krijgsman in wapenuitrusting</title>
+          <title>Schetsbladen met figuurstudies</title>
+          <creator>anoniem</creator>
+          <subject>de soldaat; het leven van een soldaat</subject>
+          <date>1610 - 1630</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Verona</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-27.508</identifier>
+        <datestamp>2022-03-02T15:22:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71580</identifier>
+          <identifier>RP-P-OB-27.508</identifier>
+          <title>Boerin</title>
+          <title>Brabantsche boerin</title>
+          <creator>Allebé, August</creator>
+          <contributor>Spanier &amp; Zn, weduwe Elias</contributor>
+          <date>1870</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-58</identifier>
+        <datestamp>2021-08-10T16:48:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71758</identifier>
+          <identifier>RP-P-BI-58</identifier>
+          <title>Zomer</title>
+          <title>De vier jaargetijden</title>
+          <creator>Almeloveen, Jan van</creator>
+          <contributor>Hollar, Wenceslaus</contributor>
+          <contributor>Saftleven, Herman</contributor>
+          <date>1662 - 1683</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1340</identifier>
+        <datestamp>2021-03-10T09:01:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65675</identifier>
+          <identifier>RP-F-00-1340</identifier>
+          <title>Portret van de schilder en beeldhouwer Jules Pecher, halffiguur</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Pecher, Jules</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-5024</identifier>
+        <datestamp>2022-02-25T17:06:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70425</identifier>
+          <identifier>RP-P-1882-A-5024</identifier>
+          <title>Landschap met twee bomen langs een pad</title>
+          <creator>Everdingen, Adrianus van</creator>
+          <subject>landschappen</subject>
+          <date>1842 - 1882</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.446</identifier>
+        <datestamp>2021-01-28T13:44:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70675</identifier>
+          <identifier>RP-P-OB-50.446</identifier>
+          <title>Man op houten brug</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNzU4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

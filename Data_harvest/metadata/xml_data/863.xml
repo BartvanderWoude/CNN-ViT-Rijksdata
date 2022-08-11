@@ -1,0 +1,496 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNzI0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11589</identifier>
+        <datestamp>2016-10-20T19:50:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43258</identifier>
+          <identifier>RP-P-1887-A-11589</identifier>
+          <title>Portret van Isabella d'Orleans, hertogin van Guise</title>
+          <creator>Bruggen, Jan van der</creator>
+          <contributor>Mignard, Pierre (1612-1695)</contributor>
+          <contributor>Bruggen, Jan van der</contributor>
+          <subject>Orléans hertogin van Guise, Isabelle van</subject>
+          <date>1677 - 1687</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3129</identifier>
+        <datestamp>2016-10-20T19:50:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43501</identifier>
+          <identifier>RP-P-1906-3129</identifier>
+          <title>Portret van Herman Witsius</title>
+          <creator>Gillig, Michiel</creator>
+          <subject>Witsius, Herman</subject>
+          <date>1684</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3155</identifier>
+        <datestamp>2021-10-13T12:42:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43507</identifier>
+          <identifier>RP-P-1906-3155</identifier>
+          <title>Portret van Martin Luther</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Luther, Martin</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7347</identifier>
+        <datestamp>2021-08-02T14:56:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43751</identifier>
+          <identifier>RP-P-BI-7347</identifier>
+          <title>Portret van de bisschop van Meaux</title>
+          <title>L'Evesque de Meaux. Secretaire du Conseil de La ste. Ligue.</title>
+          <title>Spotprenten op Lodewijk XIV en zijn gevolg</title>
+          <title>Les Héros de la Ligue ou La Procession Monacale, conduitte par Louis XIV pour la Conversion des Protestans de son Royaume</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Herroeping van het Edict van Nantes</subject>
+          <date>1691</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1894-A-18258</identifier>
+        <datestamp>2016-10-20T19:50:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43358</identifier>
+          <identifier>RP-P-1894-A-18258</identifier>
+          <title>Verminking van de lichamen van de gebroeders De Witt, 1672</title>
+          <creator>Danckerts, Hendrick</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>moord</subject>
+          <subject>Dood van de gebroeders De Witt</subject>
+          <subject>Den Haag</subject>
+          <subject>Witt, Cornelis de</subject>
+          <subject>Witt, Johan de</subject>
+          <date>1672 - 1680</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7284</identifier>
+        <datestamp>2019-05-29T15:08:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43401</identifier>
+          <identifier>RP-P-BI-7284</identifier>
+          <title>De vrolijke patriot</title>
+          <title>Communia Gaudia</title>
+          <title>De algemene blijdschap om de inname van Namen door stadhouder Willem III, koning van Engeland, september 1695</title>
+          <creator>Dusart, Cornelis</creator>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Boogaart, A.</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Viering van de verovering van Namen</subject>
+          <subject>Namen (stad)</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1695</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7289</identifier>
+        <datestamp>2019-05-29T15:08:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43407</identifier>
+          <identifier>RP-P-BI-7289</identifier>
+          <title>De Orangiste, 1695</title>
+          <title>De algemene blijdschap om de inname van Namen door stadhouder Willem III, koning van Engeland, september 1695</title>
+          <creator>Dusart, Cornelis</creator>
+          <subject>Viering van de verovering van Namen</subject>
+          <date>1695 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3300</identifier>
+        <datestamp>2016-10-20T19:50:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43906</identifier>
+          <identifier>RP-P-1906-3300</identifier>
+          <title>Gehurkte man voor een spiegel</title>
+          <creator>Groot, Johannes de (II)</creator>
+          <date>1698 - 1776</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3042</identifier>
+        <datestamp>2016-10-20T19:50:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43307</identifier>
+          <identifier>RP-P-1906-3042</identifier>
+          <title>Schouderoperatie</title>
+          <creator>Bruggen, Jan van der</creator>
+          <contributor>Teniers, David (II)</contributor>
+          <date>1659 - 1740</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3147</identifier>
+        <datestamp>2016-10-20T19:50:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43550</identifier>
+          <identifier>RP-P-1906-3147</identifier>
+          <title>Portret van Leonardus Groenewegen</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Opoeteren, Pieter van</contributor>
+          <subject>Groenewegen, Leonardus</subject>
+          <date>1675 - 1699</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3225</identifier>
+        <datestamp>2016-10-20T19:50:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43800</identifier>
+          <identifier>RP-P-1906-3225</identifier>
+          <title>Geestelijke met een bijbel</title>
+          <title>l'Impie</title>
+          <title>Karikaturen op de Franse geestelijkheid onder Lodewijk XIV, (B)</title>
+          <title>Renversement de la Morale Chrétienne par les désordres du Monachisme</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <subject>de Bijbel</subject>
+          <date>1670 - 1724</date>
+          <date>1693 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3348</identifier>
+        <datestamp>2016-10-20T19:50:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44049</identifier>
+          <identifier>RP-P-1906-3348</identifier>
+          <title>Venus met een zwaan en een appel</title>
+          <creator>Halen, Arnoud van</creator>
+          <contributor>Pellegrini, Giovanni Antonio</contributor>
+          <date>1685 - 1732</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-3678</identifier>
+        <datestamp>2021-01-28T13:23:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43650</identifier>
+          <identifier>RP-P-1904-3678</identifier>
+          <title>Driekoningen</title>
+          <title>Le Roy boit</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <subject>Driekoningen</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.115</identifier>
+        <datestamp>2019-05-29T15:09:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43700</identifier>
+          <identifier>RP-P-OB-17.115</identifier>
+          <title>Het gezicht</title>
+          <title>De vijf zintuigen</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3410</identifier>
+        <datestamp>2016-10-20T19:51:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44214</identifier>
+          <identifier>RP-P-1906-3410</identifier>
+          <title>Portret van Samuel Story</title>
+          <creator>Hodges, Charles Howard</creator>
+          <subject>Story, Samuel</subject>
+          <date>1799 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1891-A-16326</identifier>
+        <datestamp>2016-10-20T19:50:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43267</identifier>
+          <identifier>RP-P-1891-A-16326</identifier>
+          <title>Maria aanbidt het Christuskind</title>
+          <creator>Bruggen, Jan van der</creator>
+          <contributor>Reni, Guido</contributor>
+          <date>1659 - 1740</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.058</identifier>
+        <datestamp>2021-10-26T12:03:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43528</identifier>
+          <identifier>RP-P-OB-17.058</identifier>
+          <title>Portret van Karel V van Lotharingen</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Wissing, Willem</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Karel V Leopold (hertog van Lotharingen)</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3165</identifier>
+        <datestamp>2016-10-20T19:50:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43599</identifier>
+          <identifier>RP-P-1906-3165</identifier>
+          <title>Portret van Friedrich Arnaud hertog van Schomberg</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Kneller, Gottfried</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Smids, Ludolph</contributor>
+          <subject>Schomberg, Frederik van (hertog)</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.149</identifier>
+        <datestamp>2021-11-29T15:29:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43867</identifier>
+          <identifier>RP-P-OB-17.149</identifier>
+          <title>Portret van John Wesley</title>
+          <creator>Greenwood, John</creator>
+          <contributor>Hone, Nathaniel (I)</contributor>
+          <subject>de Bijbel</subject>
+          <subject>landschappen</subject>
+          <subject>Wesley, John</subject>
+          <date>1770</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3412</identifier>
+        <datestamp>2021-12-29T17:31:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44215</identifier>
+          <identifier>RP-P-1906-3412</identifier>
+          <title>Portret van een onbekende man</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Kalichen, G.J.</contributor>
+          <contributor>Milne, A.</contributor>
+          <date>1799</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNzI2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

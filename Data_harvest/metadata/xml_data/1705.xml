@@ -1,0 +1,473 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDA4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-6464-B</identifier>
+        <datestamp>2022-03-22T10:09:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19913</identifier>
+          <identifier>AK-NM-6464-B</identifier>
+          <title>Vierkante fles met bloeiende planten, een draak, vogels, bloemenvazen en insecten</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Royer, Jean Theodore</subject>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>fles</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Arita</coverage>
+          <coverage>Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15310-D</identifier>
+        <datestamp>2021-11-11T09:35:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20395</identifier>
+          <identifier>BK-15310-D</identifier>
+          <title>De vier elementen en de tijd</title>
+          <title>De maanden, seizoenen, elementen, dag en nacht</title>
+          <creator>Leyniers, Everaert</creator>
+          <contributor>Hoecke, Jan van den</contributor>
+          <contributor>Hoecke, Jan van den</contributor>
+          <date>ca. 1650 - ca. 1680</date>
+          <type>wandtapijt</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <format>metaaldraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1950-417</identifier>
+        <datestamp>2021-10-02T01:09:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20575</identifier>
+          <identifier>RP-T-1950-417</identifier>
+          <title>Verloren Zoon als veehoeder</title>
+          <creator>Silber, Jonas</creator>
+          <date>1572 - 1589</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1953-55-A</identifier>
+        <datestamp>2021-11-11T09:35:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20651</identifier>
+          <identifier>BK-1953-55-A</identifier>
+          <title>Wandtapijt met Venus als personificatie van de Lente</title>
+          <title>Portières des dieux</title>
+          <creator>Manufacture Royale des Gobelins</creator>
+          <contributor>Janss, Jan</contributor>
+          <contributor>Lefebvre, Jean</contributor>
+          <contributor>La Tour, De</contributor>
+          <contributor>Audran, Claude (III)</contributor>
+          <contributor>Audran, Claude (III)</contributor>
+          <contributor>Boullonge, Louis de (le jeune)</contributor>
+          <contributor>Corneille, Michel (II)</contributor>
+          <contributor>Desportes, François</contributor>
+          <date>ca. 1699</date>
+          <date>ca. 1722 - ca. 1728</date>
+          <type>wandtapijt</type>
+          <type>portiere</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-270</identifier>
+        <datestamp>2022-01-17T13:35:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19756</identifier>
+          <identifier>BK-1968-270</identifier>
+          <title>Servet met bizar patroon</title>
+          <date>ca. 1705 - ca. 1710</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-6407-E</identifier>
+        <datestamp>2022-03-28T09:49:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19886</identifier>
+          <identifier>AK-NM-6407-E</identifier>
+          <title>Schotel in de vorm van een bloem</title>
+          <creator>anoniem</creator>
+          <subject>Royer, Jean Theodore</subject>
+          <date>ca. 1740 - ca. 1760</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-119-D</identifier>
+        <datestamp>2021-11-11T09:34:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20372</identifier>
+          <identifier>BK-NM-119-D</identifier>
+          <title>De terugkeer van de oogst</title>
+          <title>Het volksleven naar Teniers</title>
+          <creator>Leyniers, Urbanus</creator>
+          <contributor>Helmont, Jacob van</contributor>
+          <contributor>Coppens, Augustin</contributor>
+          <date>1729</date>
+          <type>wandtapijt</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+          <coverage>Brussel (stad)</coverage>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-701-A</identifier>
+        <datestamp>2021-08-19T17:01:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20496</identifier>
+          <identifier>BK-1980-701-A</identifier>
+          <title>Lendensloop</title>
+          <date>1765 - 1795</date>
+          <type>lendensloop</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-166-A</identifier>
+        <datestamp>2022-01-11T13:41:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20107</identifier>
+          <identifier>BK-1984-166-A</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1874</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Brabant</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-157-A</identifier>
+        <datestamp>2021-08-19T16:58:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19798</identifier>
+          <identifier>BK-1967-157-A</identifier>
+          <title>Servet van linnendamast met de verheerlijking van Karel VI van Habsburg</title>
+          <creator>anoniem</creator>
+          <date>ca. 1711</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-197-C</identifier>
+        <datestamp>2019-08-01T09:23:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20201</identifier>
+          <identifier>BK-BR-J-197-C</identifier>
+          <title>Kraag van naaldkant met niet gebonden ranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1675 - ca. 1699</date>
+          <date>ca. 1875 - ca. 1909</date>
+          <type>kraag</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1983-96-G</identifier>
+        <datestamp>2021-08-19T16:59:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20213</identifier>
+          <identifier>BK-1983-96-G</identifier>
+          <title>Staal zijde in album</title>
+          <creator>Wiener Werkstätte</creator>
+          <contributor>Wiener Werkstätte</contributor>
+          <date>1910 - 1932</date>
+          <type>staal</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Wenen</coverage>
+          <coverage>Wenen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-213-B</identifier>
+        <datestamp>2019-08-01T09:23:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20418</identifier>
+          <identifier>BK-BR-J-213-B</identifier>
+          <title>Strook naaldkant met veermotief</title>
+          <creator>anoniem</creator>
+          <date>ca. 1875 - ca. 1909</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Burano</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8842</identifier>
+        <datestamp>2022-06-01T08:35:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20551</identifier>
+          <identifier>BK-NM-8842</identifier>
+          <title>Geldkist van ijzer, beschilderd</title>
+          <date>1700 - 1800</date>
+          <type>kist</type>
+          <type>geldkist</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-15</identifier>
+        <datestamp>2019-08-01T09:24:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20764</identifier>
+          <identifier>BK-BR-J-15</identifier>
+          <title>Sjaal van naaldkant met peervormige medaillons</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1860</date>
+          <type>sjaal</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1971-147-B</identifier>
+        <datestamp>2021-12-09T14:40:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19739</identifier>
+          <identifier>BK-1971-147-B</identifier>
+          <title>Wandbespanning</title>
+          <creator>Lebeau, Chris</creator>
+          <date>1911 - 1915</date>
+          <type>wandbespanning</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Eindhoven</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-547-A</identifier>
+        <datestamp>2021-08-19T16:59:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20153</identifier>
+          <identifier>BK-1980-547-A</identifier>
+          <title>Servet van wit linnendamast</title>
+          <creator>Spanjaard, S.J.</creator>
+          <date>1859</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Borne</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-556</identifier>
+        <datestamp>2021-08-19T16:59:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20167</identifier>
+          <identifier>BK-1980-556</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1890 - 1914</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bielefeld</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-715</identifier>
+        <datestamp>2021-08-19T17:01:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20465</identifier>
+          <identifier>BK-1980-715</identifier>
+          <title>Lendensloop</title>
+          <date>1850 - 1870</date>
+          <type>lendensloop</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-705</identifier>
+        <datestamp>2021-08-19T17:02:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20502</identifier>
+          <identifier>BK-1980-705</identifier>
+          <title>Lendensloop</title>
+          <date>1852 - 1872</date>
+          <type>lendensloop</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDEwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

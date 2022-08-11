@@ -1,0 +1,499 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzE2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11736</identifier>
+        <datestamp>2021-10-02T12:46:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61369</identifier>
+          <identifier>BK-NM-11736</identifier>
+          <title>Kom op vier poten, beschilderd met bloem- en bladranken</title>
+          <creator>Clérissy, Pierre</creator>
+          <date>ca. 1700 - ca. 1730</date>
+          <type>kom</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Moustiers-Sainte-Marie</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1951-283E</identifier>
+        <datestamp>2021-02-09T12:51:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45834</identifier>
+          <identifier>RP-P-1951-283E</identifier>
+          <title>Vrouw met sake kopje</title>
+          <title>Vijfluik over het bewonderen van bloemen</title>
+          <title>Hanami gobantsuzuki</title>
+          <creator>Hokkei, Totoya</creator>
+          <contributor>Sajubô, Asahi</contributor>
+          <date>1823</date>
+          <type>prent</type>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-304</identifier>
+        <datestamp>2021-10-02T12:15:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45692</identifier>
+          <identifier>RP-P-1958-304</identifier>
+          <title>Twee vrouwen en een jongetje bij komfoor</title>
+          <creator>Hokusai, Katsushika</creator>
+          <contributor>Tokuma, Tôrintei</contributor>
+          <contributor>Takarama, Rokuzôtei</contributor>
+          <contributor>Enba, Danjûrô</contributor>
+          <date>1816</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-398</identifier>
+        <datestamp>2021-10-02T12:16:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45944</identifier>
+          <identifier>RP-P-1958-398</identifier>
+          <title>Inkt: de Chinese keizer Gensô</title>
+          <title>Sumi - Gensô kôtei</title>
+          <title>De vier kameraden van de schrijftafel van de Ichiyôren</title>
+          <title>Ichiyôren bunbô shiyû</title>
+          <creator>Gakutei, Yashima</creator>
+          <contributor>Manari, Bunensha</contributor>
+          <contributor>Konomi, Bunshien</contributor>
+          <date>ca. 1827</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-JAP-7</identifier>
+        <datestamp>2021-10-02T12:16:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46029</identifier>
+          <identifier>RP-P-OB-JAP-7</identifier>
+          <title>Kumagae Jiro Naozane bij de zee</title>
+          <title>Minamoto no Kanemasa</title>
+          <title>Decoratief papier beschreven volgens de honderd dichters</title>
+          <title>Ogura nazorae Hyakunin isshu</title>
+          <creator>Hiroshige (I), Utagawa</creator>
+          <contributor>Minamoto no Kanemasa</contributor>
+          <contributor>Ryukatei Tanekazu</contributor>
+          <contributor>Choko Take</contributor>
+          <contributor>Ibaya Senzaburô</contributor>
+          <contributor>Murata Heiemon</contributor>
+          <date>1846</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-17</identifier>
+        <datestamp>2021-10-02T12:46:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61282</identifier>
+          <identifier>BK-1977-17</identifier>
+          <title>Bord, veelkleurig beschilderd met een tulp</title>
+          <creator>Hannonge, Joseph</creator>
+          <date>ca. 1765 - ca. 1770</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Straatsburg (Frankrijk)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1991-7</identifier>
+        <datestamp>2021-10-02T12:46:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61289</identifier>
+          <identifier>BK-1991-7</identifier>
+          <title>Lampetstel, beschilderd met een waterlandschap</title>
+          <creator>Kerkhoff, Johan van</creator>
+          <date>ca. 1760 - ca. 1770</date>
+          <type>lampetstel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Arnhem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2306</identifier>
+        <datestamp>2021-10-20T09:55:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61761</identifier>
+          <identifier>NG-VG-1-2306</identifier>
+          <title>Derde eeuwfeest van de uitvinding van de boekdrukkunst</title>
+          <creator>Marshoorn, Gerrit</creator>
+          <subject>ambacht en industrie</subject>
+          <subject>boekdrukkunst</subject>
+          <subject>Haarlem</subject>
+          <subject>Coster, Laurens Janszoon</subject>
+          <date>1740</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1919-20(V)</identifier>
+        <datestamp>2016-10-20T20:06:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61149</identifier>
+          <identifier>RP-T-1919-20(V)</identifier>
+          <title>Drie boeren aan een tafel en een man met een hond begeleid door een jongen</title>
+          <creator>Velde, Esaias van de</creator>
+          <date>1600 - 1630</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1886-A-569</identifier>
+        <datestamp>2021-10-02T12:46:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61159</identifier>
+          <identifier>RP-T-1886-A-569</identifier>
+          <title>Staand paar van opzij, gekleed volgens de Hollandse mode van circa 1610-1620</title>
+          <creator>Velde, Esaias van de</creator>
+          <subject>kostuum</subject>
+          <date>1612 - 1617</date>
+          <type>tekening</type>
+          <type>kostuumstudie</type>
+          <format>papier</format>
+          <format>dekverf</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2460</identifier>
+        <datestamp>2021-10-20T09:57:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61910</identifier>
+          <identifier>NG-VG-1-2460</identifier>
+          <title>Verheffing van de prins van Oranje tot stadhouder, penning uitgedeeld aan de schutters van de stad Haarlem ter ere van de doortocht van de prins door de stad</title>
+          <creator>Marshoorn, Gerrit</creator>
+          <subject>landmacht</subject>
+          <subject>schutterij</subject>
+          <subject>Haarlem</subject>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <date>1747</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-359</identifier>
+        <datestamp>2021-01-12T13:18:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61363</identifier>
+          <identifier>RP-T-00-359</identifier>
+          <title>De tocht van de Engelse koning Karel II over de Thames naar Sheerness en Chatham op 27 Augustus 1681</title>
+          <creator>Velde, Willem van de (I)</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Theems</subject>
+          <subject>Karel II (koning van Engeland)</subject>
+          <date>1681-08-27 - 1681-12-31</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2355</identifier>
+        <datestamp>2021-10-20T09:56:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61810</identifier>
+          <identifier>NG-VG-1-2355</identifier>
+          <title>Pieter van der Camer, voor de twintigste maal burgemeester van Haarlem</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>burgemeester</subject>
+          <subject>Haarlem</subject>
+          <subject>Camer, Pieter van der</subject>
+          <date>1743</date>
+          <type>historiepenning</type>
+          <type>erepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2605</identifier>
+        <datestamp>2021-10-20T09:58:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62053</identifier>
+          <identifier>NG-VG-1-2605</identifier>
+          <title>Anna van Hannover, prinses van Oranje-Nassau, penning geslagen op last van de stad Sneek</title>
+          <creator>Swinderen, Nicolaas van</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>stad Sneek</subject>
+          <subject>Sneek</subject>
+          <subject>Anna van Hannover</subject>
+          <date>1752 - 1759</date>
+          <type>erepenning</type>
+          <type>magistraatspenning</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2863</identifier>
+        <datestamp>2021-10-20T10:01:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62305</identifier>
+          <identifier>NG-VG-1-2863</identifier>
+          <title>Harlingen, Stavoren en Workum blijven stadhouder Willem V trouw, penning geschonken aan de leden van de regeringen der drie steden</title>
+          <creator>Schepp, Johann Heinrich</creator>
+          <subject>Harlingen</subject>
+          <subject>Stavoren</subject>
+          <subject>Workum</subject>
+          <subject>Willem V (prins van Oranje-Nassau)</subject>
+          <date>1783</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2964-A</identifier>
+        <datestamp>2021-10-20T10:02:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62403</identifier>
+          <identifier>NG-VG-1-2964-A</identifier>
+          <title>Bezoek van George III, koning van Engeland aan St. Paul's Cathedral</title>
+          <creator>Monogrammist CI (medailleur)</creator>
+          <subject>Saint Paul's Cathedral</subject>
+          <subject>George III (koning van het Verenigd Koninkrijk)</subject>
+          <date>1788</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1963-5</identifier>
+        <datestamp>2021-10-02T12:16:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45983</identifier>
+          <identifier>RP-P-1963-5</identifier>
+          <title>Hakone, gezicht op het meer</title>
+          <title>Hakone, kosui zu</title>
+          <title>De 53 stations van de Tokaido</title>
+          <title>Tokaido gojusan tsugi no uchi</title>
+          <creator>Hiroshige (I), Utagawa</creator>
+          <contributor>Takenouchi Magohachi (Hoeido)</contributor>
+          <date>1828 - 1835</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Tokyo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15447</identifier>
+        <datestamp>2016-10-20T19:53:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46314</identifier>
+          <identifier>RP-P-1890-A-15447</identifier>
+          <title>Gezelschap rond een tafel</title>
+          <creator>Somer, Jan van</creator>
+          <contributor>Zijl, Gerard Pietersz. van</contributor>
+          <date>1655 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.317</identifier>
+        <datestamp>2016-10-20T19:53:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46320</identifier>
+          <identifier>RP-P-OB-17.317</identifier>
+          <title>Drie musicerende figuren</title>
+          <creator>Somer, Jan van</creator>
+          <date>1655 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-36</identifier>
+        <datestamp>2019-05-23T15:53:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45285</identifier>
+          <identifier>RP-P-1909-36</identifier>
+          <title>Portret van paus Alexander VIII</title>
+          <creator>anoniem</creator>
+          <contributor>Schoonebeek, Adriaen</contributor>
+          <contributor>Alexander VIII</contributor>
+          <subject>Alexander VIII</subject>
+          <date>1689 - 1714</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzE4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

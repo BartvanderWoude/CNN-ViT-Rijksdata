@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjg4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14367-136</identifier>
+        <datestamp>2021-10-02T12:34:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56654</identifier>
+          <identifier>BK-NM-14367-136</identifier>
+          <title>Strook kant gemaakt als meubelbekleding met lelie</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900</date>
+          <type>meubelbekleding</type>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Napels</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-271</identifier>
+        <datestamp>2021-10-20T13:41:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57423</identifier>
+          <identifier>NG-VG-1-271</identifier>
+          <title>Schilder Antonius Moor</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>kunsten en tentoonstellingen</subject>
+          <subject>schilder</subject>
+          <subject>Moor, Antonius</subject>
+          <date>1550</date>
+          <type>historiepenning</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-323</identifier>
+        <datestamp>2021-10-20T13:41:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57472</identifier>
+          <identifier>NG-VG-1-323</identifier>
+          <title>Antoine Perrenot, kardinaal van Granvelle, bisschop van Atrecht</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>Granvelle, Antoine Perrenot de</subject>
+          <date>1560</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1891-A-2484</identifier>
+        <datestamp>2021-10-02T12:33:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56179</identifier>
+          <identifier>RP-T-1891-A-2484</identifier>
+          <title>Landschap met twee figuren voor een boerderij</title>
+          <creator>Molijn, Pieter de</creator>
+          <date>1638</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1893-A-2761</identifier>
+        <datestamp>2021-10-02T12:33:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56191</identifier>
+          <identifier>RP-T-1893-A-2761</identifier>
+          <title>Hellende landweg met een ruiter</title>
+          <creator>Molijn, Pieter de</creator>
+          <date>1610 - 1660</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-505</identifier>
+        <datestamp>2021-10-20T13:43:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57683</identifier>
+          <identifier>NG-VG-1-505</identifier>
+          <title>Aansporing tot eenheid in West-Friesland</title>
+          <creator>Wtewael, Paulus van</creator>
+          <subject>Enkhuizen</subject>
+          <subject>Medemblik</subject>
+          <date>1596</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Friesland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1885-A-493</identifier>
+        <datestamp>2021-10-02T12:32:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55624</identifier>
+          <identifier>RP-T-1885-A-493</identifier>
+          <title>Heuvellandschap met jagers te paard</title>
+          <creator>Maas, Dirk</creator>
+          <date>ca. 1680 - ca. 1690</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1937-72(R)</identifier>
+        <datestamp>2021-06-24T16:22:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55833</identifier>
+          <identifier>RP-T-1937-72(R)</identifier>
+          <title>Lucius Quintius Cincinnatus wordt van de ploeg gehaald</title>
+          <creator>Moeyaert, Nicolaes</creator>
+          <subject>ploegen</subject>
+          <subject>ploeg</subject>
+          <subject>Cincinnatus, Lucius Quintius</subject>
+          <description>De Romeinse veldheer Cincinnatus wordt hier door een senator overgehaald om zijn ploeg te verlaten en Rome te hulp te schieten bij een uit de hand gelopen oorlog. Volgens de Romeinse historicus Livius besloot Cincinnatus – toonbeeld van een deugdzaam leider – zijn nieuwverworven macht direct na de overwinning op te geven om terug te keren naar zijn ploeg.</description>
+          <date>1628 - 1632</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1924-1</identifier>
+        <datestamp>2020-03-27T11:03:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56273</identifier>
+          <identifier>RP-T-1924-1</identifier>
+          <title>Portret van Petrus van Staveren</title>
+          <creator>Munnickhuysen, Johannes Willemsz.</creator>
+          <contributor>Mieris, Willem van</contributor>
+          <subject>Staveren, Petrus van</subject>
+          <date>ca. 1664 - ca. 1710</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1898-A-3520</identifier>
+        <datestamp>2019-01-03T16:40:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56416</identifier>
+          <identifier>RP-T-1898-A-3520</identifier>
+          <title>Bebost rivierlandschap met twee hengelaars</title>
+          <creator>Naiwincx, Herman</creator>
+          <date>1634 - 1654</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-397</identifier>
+        <datestamp>2021-10-20T13:42:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57539</identifier>
+          <identifier>NG-VG-1-397</identifier>
+          <title>Margaretha van Calslagen, echtgenote van Joachim Polites</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>Calslagen, Margaretha van</subject>
+          <subject>Polites, Joachim</subject>
+          <date>1559</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-481</identifier>
+        <datestamp>2021-10-20T13:42:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57616</identifier>
+          <identifier>NG-VG-1-481</identifier>
+          <title>Dubbele thaler van Maximiliaan I, Karel V en Ferdinand I, Duits keizers</title>
+          <creator>anoniem</creator>
+          <subject>Maximiliaan I van Habsburg (keizer van het Heilige Roomse Rijk)</subject>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <subject>Ferdinand I van Habsburg (Duits keizer)</subject>
+          <date>1590</date>
+          <type>munt</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-539</identifier>
+        <datestamp>2021-12-20T13:45:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57714</identifier>
+          <identifier>NG-VG-1-539</identifier>
+          <title>Slag bij Nieuwpoort</title>
+          <creator>Vogelaer, Claes Petersz. van de</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>institutionele geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>veldslag</subject>
+          <subject>Slag bij Nieuwpoort</subject>
+          <subject>Nieuwpoort (België)</subject>
+          <subject>Staten van Utrecht</subject>
+          <date>1600</date>
+          <type>historiepenning</type>
+          <type>triomfpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1887-A-1130</identifier>
+        <datestamp>2021-10-02T12:33:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56249</identifier>
+          <identifier>RP-T-1887-A-1130</identifier>
+          <title>Kar met twee figuren op een landweg langs een bos</title>
+          <creator>Molijn, Pieter de</creator>
+          <date>1610 - 1660</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-7068</identifier>
+        <datestamp>2021-11-03T21:17:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56304</identifier>
+          <identifier>AK-NM-7068</identifier>
+          <title>Ring</title>
+          <creator>anoniem</creator>
+          <description>Dergelijke grote ringen werden gedragen door de koning en andere hoogwaardigheidsbekleders van Kandy en werden vaak cadeau gedaan, bijvoorbeeld aan Europese gezanten die bij de koning op audiëntie kwamen. Deze ring zou dus ook een koninklijk geschenk kunnen zijn.</description>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>sieraad</type>
+          <type>ring (sieraad)</type>
+          <format>goud</format>
+          <format>saffier</format>
+          <format>robijn</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Sri Lanka</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-318</identifier>
+        <datestamp>2021-10-20T13:41:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57466</identifier>
+          <identifier>NG-VG-1-318</identifier>
+          <title>Viglius ab Aytta Zuichemus, voorzitter van de Geheime Raad te Brussel</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>Brussel (stad)</subject>
+          <subject>Viglius Zuichemus Ab Aytta</subject>
+          <subject>Geheime Raad</subject>
+          <date>1556 - 1559</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-374</identifier>
+        <datestamp>2021-10-20T13:42:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57515</identifier>
+          <identifier>NG-VG-1-374</identifier>
+          <title>Ferdinand van Toledo, hertog van Alva</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>Álvarez de Toledo, Fernando (3e hertog van Alva)</subject>
+          <date>1571</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-449</identifier>
+        <datestamp>2021-10-20T13:42:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57590</identifier>
+          <identifier>NG-VG-1-449</identifier>
+          <title>Vrije hertogdom Brabant</title>
+          <creator>anoniem</creator>
+          <subject>Brabant</subject>
+          <date>1584</date>
+          <type>munt</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brabant</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-82</identifier>
+        <datestamp>2021-10-02T12:36:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57650</identifier>
+          <identifier>BK-1955-82</identifier>
+          <title>Hemelbed van palissanderhout, versierd met inlegwerk van ivoor</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1625</date>
+          <date>ca. 1685 - ca. 1699</date>
+          <type>meubilair</type>
+          <type>bed</type>
+          <type>ledikant</type>
+          <type>hemelbed</type>
+          <format>hout</format>
+          <format>palissanderhout</format>
+          <format>vurenhout</format>
+          <format>ivoor</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1912-3</identifier>
+        <datestamp>2021-10-02T12:33:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55884</identifier>
+          <identifier>RP-T-1912-3</identifier>
+          <title>Ontwerp voor een rouwbord met het wapen van Hardenbroek</title>
+          <creator>Marot, Daniël (I)</creator>
+          <contributor>Marot, Daniël (II)</contributor>
+          <subject>Kasteel Hardenbroek</subject>
+          <date>1672 - 1752</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjkwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

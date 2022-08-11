@@ -1,0 +1,485 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjc2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1946-73</identifier>
+        <datestamp>2021-11-29T23:40:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55730</identifier>
+          <identifier>RP-T-1946-73</identifier>
+          <title>Gedaanteverwisseling van de nachtpauwoog</title>
+          <creator>Merian, Maria Sibylla</creator>
+          <contributor>Gsell, Dorothea Maria</contributor>
+          <date>na 1679</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>waterverf</format>
+          <format>gouache (waterverf)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14365-3</identifier>
+        <datestamp>2021-10-02T12:34:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56708</identifier>
+          <identifier>BK-NM-14365-3</identifier>
+          <title>Staal linnen met kantborduurwerk met uitgetrokken draden in één hoek met een vierkant raster</title>
+          <creator>anoniem</creator>
+          <date>ca. 1925 - ca. 1929</date>
+          <type>staal</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-298</identifier>
+        <datestamp>2021-10-20T13:41:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57449</identifier>
+          <identifier>NG-VG-1-298</identifier>
+          <title>Viglius ab Aytta Zuichemus, voorzitter van de Geheime Raad te Brussel</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>Brussel (stad)</subject>
+          <subject>Viglius Zuichemus Ab Aytta</subject>
+          <subject>Geheime Raad</subject>
+          <date>1556</date>
+          <type>rekenpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-190</identifier>
+        <datestamp>2019-01-03T16:53:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55635</identifier>
+          <identifier>RP-T-00-190</identifier>
+          <title>De intocht van Maria de' Medici te Amsterdam in 1638 (plaat 1)</title>
+          <title>Ontwerptekeningen voor de prentreeks van de intocht van Maria de' Medici te Amsterdam in 1638</title>
+          <creator>Martszen de Jonge, Jan</creator>
+          <subject>Bezoek van Maria de' Medici aan Amsterdam (1638)</subject>
+          <subject>Haarlemmerpoort</subject>
+          <subject>Medici, Maria de'</subject>
+          <date>1638 - 1639</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <type>historieplaat</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1957-331</identifier>
+        <datestamp>2021-10-02T12:32:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55846</identifier>
+          <identifier>RP-T-1957-331</identifier>
+          <title>Tarquinius bedreigt Lucretia</title>
+          <creator>Mieris, Willem van</creator>
+          <date>1672 - 1747</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-15</identifier>
+        <datestamp>2021-10-02T12:33:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55890</identifier>
+          <identifier>BK-NM-15</identifier>
+          <title>Commode met drie laden, met marketerieversiering waaronder een medaillon met vaas, ramskoppen en festoenen</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <date>1775 - 1800</date>
+          <type>meubilair</type>
+          <type>kast</type>
+          <type>commode</type>
+          <format>hout</format>
+          <format>eikenhout</format>
+          <format>esdoornhout</format>
+          <format>rozenhout</format>
+          <format>purperharthout</format>
+          <format>hulsthout</format>
+          <format>marmer</format>
+          <format>metaal</format>
+          <format>verguldsel</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-738</identifier>
+        <datestamp>2020-04-08T12:35:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56356</identifier>
+          <identifier>RP-T-00-738</identifier>
+          <title>Gezicht op de stad Pavia</title>
+          <creator>Nieulandt, Willem van (II)</creator>
+          <subject>Pavia</subject>
+          <date>1599 - 1604</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1980-15</identifier>
+        <datestamp>2021-10-02T12:34:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56541</identifier>
+          <identifier>RP-T-1980-15</identifier>
+          <title>Zittende man met pijp</title>
+          <creator>Ostade, Adriaen van</creator>
+          <contributor>Bega, Cornelis Pietersz.</contributor>
+          <date>1658 - 1663</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-345</identifier>
+        <datestamp>2021-10-20T13:41:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57492</identifier>
+          <identifier>NG-VG-1-345</identifier>
+          <title>Watergeuzen</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>politieke groepering</subject>
+          <subject>geuzen</subject>
+          <subject>Verbond der Edelen</subject>
+          <subject>Filips II (koning van Spanje)</subject>
+          <date>1566</date>
+          <type>draagteken</type>
+          <type>geuzenpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-429</identifier>
+        <datestamp>2021-10-20T13:42:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57570</identifier>
+          <identifier>NG-VG-1-429</identifier>
+          <title>Willem van Oranje ingehuldigd als heer van Vlissingen</title>
+          <creator>anoniem</creator>
+          <subject>Vlissingen</subject>
+          <subject>Willem I (prins van Oranje)</subject>
+          <date>1581</date>
+          <type>strooipenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlissingen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-KOG-1515</identifier>
+        <datestamp>2021-10-26T08:24:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57760</identifier>
+          <identifier>NG-KOG-1515</identifier>
+          <title>Verheffing van prins Maurits tot ridder van de Kouseband ?</title>
+          <creator>Passe, Simon van de</creator>
+          <subject>Koninklijk Huis</subject>
+          <subject>uitreiking van onderscheiding</subject>
+          <subject>orde</subject>
+          <subject>Maurits (prins van Oranje)</subject>
+          <subject>Orde van de Kouseband</subject>
+          <date>1613</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1887-A-1143</identifier>
+        <datestamp>2021-10-02T12:33:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56243</identifier>
+          <identifier>RP-T-1887-A-1143</identifier>
+          <title>Waterrijk landschap met molen</title>
+          <creator>Molijn, Pieter de</creator>
+          <contributor>Croos, Adam van der</contributor>
+          <subject>windmolen</subject>
+          <date>1650 - 1660</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1941-10</identifier>
+        <datestamp>2021-10-02T12:33:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56253</identifier>
+          <identifier>RP-T-1941-10</identifier>
+          <title>Staande Bacchus</title>
+          <creator>Moor, Abraham de</creator>
+          <contributor>Matham, Jacob</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <date>1679</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-201</identifier>
+        <datestamp>2019-01-03T16:40:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56298</identifier>
+          <identifier>RP-T-00-201</identifier>
+          <title>Fantasielandschap met classicistische architectuur</title>
+          <creator>Moucheron, Frederik de</creator>
+          <date>1643 - 1686</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5863</identifier>
+        <datestamp>2022-03-14T14:28:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56684</identifier>
+          <identifier>BK-NM-5863</identifier>
+          <title>Tegeltableau van 96 tegels, versierd met geometrische patronen</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1840 - 1860</date>
+          <type>tegel</type>
+          <type>tegeltableau</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Tunesië</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-268</identifier>
+        <datestamp>2021-10-20T14:35:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57420</identifier>
+          <identifier>NG-VG-1-268</identifier>
+          <title>Anne de Montmorency, maarschalk van het Franse leger</title>
+          <creator>Regnier, Pierre</creator>
+          <subject>Montmorency, Anne de, Marechal de France</subject>
+          <date>1550</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-320-A</identifier>
+        <datestamp>2021-10-20T14:35:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57469</identifier>
+          <identifier>NG-VG-1-320-A</identifier>
+          <title>Catharina de' Medici en Frans II, koning van Frankrijk</title>
+          <creator>Héry, Claude de</creator>
+          <subject>Frans II (koning van Frankrijk)</subject>
+          <subject>Catharina de'Medici (koningin van Frankrijk)</subject>
+          <date>1559</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-446</identifier>
+        <datestamp>2021-10-20T14:35:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57587</identifier>
+          <identifier>NG-VG-1-446</identifier>
+          <title>Francois, hertog van Anjou en Alençon</title>
+          <creator>anoniem</creator>
+          <subject>Valois, François-Hercule de (hertog van Anjou)</subject>
+          <date>1582</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-452</identifier>
+        <datestamp>2021-10-20T13:42:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57593</identifier>
+          <identifier>NG-VG-1-452</identifier>
+          <title>Erezuil opgericht voor de hertog van Parma</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>Farnese, Alessandro (landvoogd van de Nederlanden en hertog van Parma en Piacenza)</subject>
+          <subject>Saksen-Teschen, Albert Casimir van</subject>
+          <date>1585</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14559-M-C</identifier>
+        <datestamp>2020-03-02T15:50:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57653</identifier>
+          <identifier>BK-14559-M-C</identifier>
+          <title>Theebus met een veelkleurig landschap in een medaillon uitgespaard in een geometrisch patroon</title>
+          <creator>Weesper porseleinfabriek</creator>
+          <date>ca. 1759 - ca. 1771</date>
+          <type>theebus</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Weesp</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjc4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

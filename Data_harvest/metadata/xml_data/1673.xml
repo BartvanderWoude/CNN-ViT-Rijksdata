@@ -1,0 +1,473 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzQ0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-7</identifier>
+        <datestamp>2021-10-02T00:45:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18503</identifier>
+          <identifier>BK-1967-7</identifier>
+          <title>Wierookvat met gedreven bladversiering</title>
+          <creator>Luyting, Jan</creator>
+          <date>1754</date>
+          <type>wierookvat</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17172</identifier>
+        <datestamp>2021-10-02T00:26:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17463</identifier>
+          <identifier>BK-17172</identifier>
+          <title>Notitieboek van schildpad met opgelegde versieringen van goud, email en edelstenen. In de sluiting een potlood, versierd met geëmailleerde buste</title>
+          <creator>anoniem</creator>
+          <contributor>Kohler</contributor>
+          <contributor>Dinglinger, Johann Melchior</contributor>
+          <date>ca. 1710 - ca. 1730</date>
+          <type>schrijfbenodigdheden</type>
+          <type>notitieboek</type>
+          <type>potlood</type>
+          <format>goud</format>
+          <format>email</format>
+          <format>schildpad</format>
+          <format>edelsteen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dresden</coverage>
+          <coverage>Dresden</coverage>
+          <coverage>Dresden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9100-A</identifier>
+        <datestamp>2021-11-03T16:54:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17503</identifier>
+          <identifier>BK-NM-9100-A</identifier>
+          <title>Hengsel van vertind ijzer</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1800</date>
+          <type>hengsel</type>
+          <format>ijzer</format>
+          <format>tin</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11522</identifier>
+        <datestamp>2021-10-02T00:29:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17694</identifier>
+          <identifier>BK-NM-11522</identifier>
+          <title>Avondmaalsbeker van de Nederlandse protestantse gemeenschap in Norwich</title>
+          <creator>Petersen, Peter</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>protestantisme</subject>
+          <subject>Norwich</subject>
+          <description>Gereformeerde gelovigen drinken tijdens de avondmaalsviering een slokje wijn uit een beker. In hun kerkelijke gemeenschap is dit hét moment van onderlinge verbondenheid en van verbinding met Christus. Deze beker is gebruikt tijdens de diensten van de Nederlandse  gereformeerde kerk in de Engelse stad Norwich, een textielstad waar duizenden protestantse vluchtelingen uit de Nederlanden woonden.</description>
+          <date>ca. 1580</date>
+          <type>beker</type>
+          <type>avondmaalskelk</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Norwich</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-117</identifier>
+        <datestamp>2021-10-02T00:46:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18553</identifier>
+          <identifier>BK-1979-117</identifier>
+          <title>Strohoed van zwart opengewerkt stroband</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - 1920</date>
+          <type>dameskleding</type>
+          <type>strohoed</type>
+          <format>strohalm</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16973</identifier>
+        <datestamp>2022-06-01T08:35:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18561</identifier>
+          <identifier>BK-16973</identifier>
+          <title>Zonnewijzer</title>
+          <date>ca. 1699 - ca. 1749</date>
+          <type>zonnewijzer</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-584</identifier>
+        <datestamp>2021-10-02T00:26:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17448</identifier>
+          <identifier>BK-NM-584</identifier>
+          <title>Druivenbeker van verguld zilver</title>
+          <creator>Mack, Heinrich</creator>
+          <date>1600 - 1625</date>
+          <type>decoratief object</type>
+          <type>drinkgerei</type>
+          <type>druivenbeker</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14990</identifier>
+        <datestamp>2021-11-02T08:24:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17797</identifier>
+          <identifier>BK-14990</identifier>
+          <title>Ronde gouden snuif- of poederdoos</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1775 - 1800</date>
+          <type>snuifdoos</type>
+          <type>poederdoos</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Groot-Brittannië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-VBR-366</identifier>
+        <datestamp>2021-11-02T08:24:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17803</identifier>
+          <identifier>BK-VBR-366</identifier>
+          <title>Snuifdoos van goud, ovaal, op het deksel in een ovaal medaillon muziekinstrumenten en bloemen</title>
+          <creator>Lemoyne, René-Jean</creator>
+          <date>ca. 1782 - ca. 1783</date>
+          <type>snuifdoos</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15773-B</identifier>
+        <datestamp>2021-10-02T00:44:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18438</identifier>
+          <identifier>BK-15773-B</identifier>
+          <title>Zoutvat, spitsovaal, met opengewerkte wand en parellijsten</title>
+          <creator>Mensink, Christiaan</creator>
+          <date>1803</date>
+          <type>zoutvat</type>
+          <format>zilver</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11959-S2</identifier>
+        <datestamp>2021-11-03T16:55:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17919</identifier>
+          <identifier>BK-NM-11959-S2</identifier>
+          <title>Theeblad</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1900</date>
+          <type>theeblad</type>
+          <format>zilver</format>
+          <format>teakhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Indonesië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11561</identifier>
+        <datestamp>2021-11-02T08:25:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18230</identifier>
+          <identifier>BK-NM-11561</identifier>
+          <title>Beeld op console van gegoten zilver, voorstellende een gekroonde Madonna met Kind</title>
+          <creator>anoniem</creator>
+          <date>ca. 1480 - ca. 1500</date>
+          <type>beeld</type>
+          <type>onderdeel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8338-A</identifier>
+        <datestamp>2021-10-02T00:26:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17457</identifier>
+          <identifier>BK-NM-8338-A</identifier>
+          <title>Globebeker</title>
+          <creator>anoniem</creator>
+          <contributor>Jamnitzer, Christoph</contributor>
+          <contributor>Grill, Anthonie</contributor>
+          <contributor>Vianen, Paulus Willemsz. van</contributor>
+          <description>De figuur Hercules is gemodelleerd door de Duitse kunstenaar Christoph Jamnitzer, een beroemde beeldhouwer in zilver. Enkele decennia later is zijn model toegepast door een vakgenoot, die voor de rijk versierde voet en de beker zijn eigen ideeën volgde. Omdat de beker Venetiaanse stadskeuren draagt, is deze versie mogelijk daar ontstaan.</description>
+          <date>ca. 1650</date>
+          <type>bokaal</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+          <coverage>Duitsland</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Praag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17021-B</identifier>
+        <datestamp>2021-10-02T00:31:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17749</identifier>
+          <identifier>BK-17021-B</identifier>
+          <title>Sauskom met op de korte zijde kinderfiguren, waarvan de armen handvatten vormen</title>
+          <creator>Auguste, Robert Joseph</creator>
+          <subject>Tsjernitsjov, Ivan Grigorjevitsj</subject>
+          <date>ca. 1768 - ca. 1769</date>
+          <type>sauskom</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-4654</identifier>
+        <datestamp>2021-11-02T08:25:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18176</identifier>
+          <identifier>BK-NM-4654</identifier>
+          <title>Knottedoos</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1600 - ca. 1625</date>
+          <type>doos</type>
+          <type>trouwdoos</type>
+          <type>knottedoos</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10902</identifier>
+        <datestamp>2021-10-02T00:26:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17481</identifier>
+          <identifier>BK-NM-10902</identifier>
+          <title>Miskelk</title>
+          <creator>Kipfinger, Johann Sebastian</creator>
+          <date>ca. 1725</date>
+          <type>miskelk</type>
+          <format>zilver</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Freising</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7262</identifier>
+        <datestamp>2021-11-02T08:25:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17891</identifier>
+          <identifier>BK-NM-7262</identifier>
+          <title>Reukfles van hoorn gemonteerd in goud</title>
+          <creator>anoniem</creator>
+          <date>1685 - 1715</date>
+          <type>reukfles</type>
+          <format>goud</format>
+          <format>hoorn (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-537-F</identifier>
+        <datestamp>2021-10-02T00:38:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18127</identifier>
+          <identifier>BK-BR-537-F</identifier>
+          <title>Kandelaber</title>
+          <creator>Knuysting, Cornelis</creator>
+          <date>1789 - 1791</date>
+          <type>kandelaber</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3083</identifier>
+        <datestamp>2021-10-02T00:39:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18179</identifier>
+          <identifier>BK-NM-3083</identifier>
+          <title>Knottekist</title>
+          <creator>Bel, Reyndert</creator>
+          <contributor>Bel, Claes</contributor>
+          <contributor>Klock, Jan Jacobs</contributor>
+          <date>1667</date>
+          <type>knottekist</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Hoorn</coverage>
+          <coverage>Hoorn</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-223</identifier>
+        <datestamp>2021-10-02T00:46:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18544</identifier>
+          <identifier>BK-1979-223</identifier>
+          <title>Amazonehoed van zwart vilt</title>
+          <creator>Pauwels, Fa. Frans</creator>
+          <date>ca. 1890 - ca. 1900</date>
+          <type>kleding</type>
+          <type>bolhoed</type>
+          <type>amazonehoed</type>
+          <format>vilt</format>
+          <format>leer</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzQ2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

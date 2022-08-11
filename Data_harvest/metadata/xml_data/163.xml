@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjQw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.783</identifier>
+        <datestamp>2019-05-09T15:35:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34519</identifier>
+          <identifier>RP-P-OB-11.783</identifier>
+          <title>Apostel Mattias met speer</title>
+          <title>Christus en de Apostelen</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Rafaël</contributor>
+          <date>1517 - 1527</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.002</identifier>
+        <datestamp>2019-05-29T14:39:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34768</identifier>
+          <identifier>RP-P-OB-12.002</identifier>
+          <title>Verzoening van Minerva en Amor</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Rafaël</contributor>
+          <date>1517 - 1520</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.158</identifier>
+        <datestamp>2019-05-09T15:38:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34955</identifier>
+          <identifier>RP-P-OB-12.158</identifier>
+          <title>Vlucht naar Egypte</title>
+          <creator>Castiglione, Giovanni Benedetto</creator>
+          <contributor>Castiglione, Giovanni Benedetto</contributor>
+          <contributor>Rossi, Giovanni Domenico de'</contributor>
+          <contributor>Pio, Luigi</contributor>
+          <contributor>Rossi, Giovanni Domenico de'</contributor>
+          <date>1645 - 1649</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1950-531</identifier>
+        <datestamp>2021-01-28T13:07:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.35204</identifier>
+          <identifier>RP-P-1950-531</identifier>
+          <title>Heilige Hieronymus Aemilianus deelt voedsel uit aan wezen</title>
+          <title>B. Hieronymus Aemilianus</title>
+          <creator>Tiepolo, Giovanni Domenico</creator>
+          <contributor>Tiepolo, Giovanni Domenico</contributor>
+          <subject>heiligen</subject>
+          <date>1748 - 1752</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-1961-168-99</identifier>
+        <datestamp>2022-03-02T15:16:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37214</identifier>
+          <identifier>BI-1961-168-99</identifier>
+          <title>Portret van de prentverkoper Clement de Jonghe</title>
+          <title>Recueil de quatre-vingt-cinq estampes originales</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Basan, Henry Louis</contributor>
+          <subject>Jonghe, Clement de</subject>
+          <date>1651</date>
+          <date>1807 - 1808</date>
+          <type>prent</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12940-M-7</identifier>
+        <datestamp>2021-11-10T16:14:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34306</identifier>
+          <identifier>BK-NM-12940-M-7</identifier>
+          <title>Fontaneldoek van linnen met kant</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1900</date>
+          <type>kinderkleding</type>
+          <type>fontaneldoek</type>
+          <format>linnen</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.833</identifier>
+        <datestamp>2021-07-13T14:40:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34568</identifier>
+          <identifier>RP-P-OB-11.833</identifier>
+          <title>Apostel Judas Taddeüs met hellebaard</title>
+          <title>Christus en de Apostelen</title>
+          <creator>anoniem</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <contributor>Rafaël</contributor>
+          <date>1517 - 1577</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.441</identifier>
+        <datestamp>2021-10-02T12:07:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36493</identifier>
+          <identifier>RP-P-OB-12.441</identifier>
+          <title>Huis verscholen tussen bomen</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1961-70</identifier>
+        <datestamp>2019-09-09T16:22:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36836</identifier>
+          <identifier>RP-T-1961-70</identifier>
+          <title>Gezicht op Rhenen</title>
+          <title>Rhenen.</title>
+          <creator>Cuyp, Aelbert</creator>
+          <subject>Rhenen</subject>
+          <date>1630 - 1691</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-1961-168-54</identifier>
+        <datestamp>2022-03-02T15:16:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37169</identifier>
+          <identifier>BI-1961-168-54</identifier>
+          <title>Christus en de schriftgeleerden</title>
+          <title>Recueil de quatre-vingt-cinq estampes originales</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Basan, Henry Louis</contributor>
+          <date>1654</date>
+          <date>1807 - 1808</date>
+          <type>prent</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.367</identifier>
+        <datestamp>2020-07-28T21:29:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36518</identifier>
+          <identifier>RP-P-OB-12.367</identifier>
+          <title>Boerderijen aan de Amstel met een gezicht op Ouderkerk</title>
+          <creator>Vivares, François</creator>
+          <creator>Rijn, Rembrandt van</creator>
+          <subject>Ouderkerk aan de Amstel</subject>
+          <date>1719 - 1780</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.818</identifier>
+        <datestamp>2021-07-13T15:00:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34554</identifier>
+          <identifier>RP-P-OB-11.818</identifier>
+          <title>Apostel Filippus met kruis</title>
+          <title>S Philippvs</title>
+          <title>Christus en de Apostelen</title>
+          <creator>anoniem</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <contributor>Rafaël</contributor>
+          <date>1517 - 1577</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.172</identifier>
+        <datestamp>2019-05-29T14:40:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34969</identifier>
+          <identifier>RP-P-OB-12.172</identifier>
+          <title>Hoofd van een jonge man met tulband</title>
+          <title>Kleine studie van hoofden met oosterse hoofddeksels</title>
+          <creator>Castiglione, Giovanni Benedetto</creator>
+          <contributor>Castiglione, Giovanni Benedetto</contributor>
+          <date>1645 - 1650</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1916</identifier>
+        <datestamp>2019-05-09T15:34:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34362</identifier>
+          <identifier>RP-P-OB-1916</identifier>
+          <title>Allegorie op de triomf van de maan (Luna)</title>
+          <creator>Monogrammist PP (graveur)</creator>
+          <contributor>Monogrammist PP (graveur)</contributor>
+          <subject>allegorische representatie van de hemel (hemellichamen)</subject>
+          <date>1500 - 1520</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.865</identifier>
+        <datestamp>2019-05-09T15:36:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34611</identifier>
+          <identifier>RP-P-OB-11.865</identifier>
+          <title>Heilige Leonardus als diaken met boeien</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <date>1500 - 1527</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-1117</identifier>
+        <datestamp>2021-10-02T12:07:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36469</identifier>
+          <identifier>RP-P-1961-1117</identifier>
+          <title>Landschap met schaapsherder en honden (‘Het jagertje’)</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <description>Hier gebeurt iets ongewoons. Het dorp in dit Hollandse landschap is Diemen, maar Rembrandt plaatst het aan de voet van een imaginair gebergte. Met de bergen in zijn rug loopt een jager met twee windhonden op het pad. Over zijn schouder heeft hij een lange stok om hazen uit hun leger te porren. Er is nog geen buit te zien; waarschijnlijk moet de jacht nog beginnen.</description>
+          <date>ca. 1648</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1911-103</identifier>
+        <datestamp>2021-10-02T12:08:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36810</identifier>
+          <identifier>RP-T-1911-103</identifier>
+          <title>Slot Rheinfels bij St. Goar aan de Rijn</title>
+          <creator>Doomer, Lambert</creator>
+          <subject>Schloss Rheinfels</subject>
+          <date>1670 - 1675</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-1961-168-31</identifier>
+        <datestamp>2022-03-02T15:15:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37146</identifier>
+          <identifier>BI-1961-168-31</identifier>
+          <title>Besnijdenis in de stal</title>
+          <title>Recueil de quatre-vingt-cinq estampes originales</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Basan, Henry Louis</contributor>
+          <date>1654</date>
+          <date>1807 - 1808</date>
+          <type>prent</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1982-46-A</identifier>
+        <datestamp>2021-10-02T12:03:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34245</identifier>
+          <identifier>BK-1982-46-A</identifier>
+          <title>Wit linnen babyhemdje met gefestonneerde gegolfde hals en armsgaten, afgezet met een strookje machinale kant</title>
+          <creator>anoniem</creator>
+          <date>ca. 1922 - ca. 1923</date>
+          <type>kinderkleding</type>
+          <type>hemd</type>
+          <format>linnen</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Indonesië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.953</identifier>
+        <datestamp>2019-05-29T14:39:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34711</identifier>
+          <identifier>RP-P-OB-11.953</identifier>
+          <title>Sater begluurt een nimf tijdens haar toilet</title>
+          <title>Pan en Syrinx</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Dente, Marco</contributor>
+          <contributor>Romano, Giulio</contributor>
+          <contributor>Paluzzi, Giovanni Marco</contributor>
+          <date>1514 - 1518</date>
+          <date>1550 - 1650</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjYw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

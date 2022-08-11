@@ -1,0 +1,456 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw5NTAw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1024</identifier>
+        <datestamp>2019-05-09T15:09:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30112</identifier>
+          <identifier>RP-P-OB-1024</identifier>
+          <title>Apostel Andreas</title>
+          <title>De twaalf apostelen</title>
+          <creator>Schongauer, Martin</creator>
+          <date>1470 - 1490</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1962-135</identifier>
+        <datestamp>2021-01-28T13:02:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30186</identifier>
+          <identifier>RP-P-1962-135</identifier>
+          <title>Aankondiging aan de herders</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1600</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-3103</identifier>
+        <datestamp>2019-05-29T14:32:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30236</identifier>
+          <identifier>RP-P-OB-3103</identifier>
+          <title>Verloren zoon als zwijnenhoeder</title>
+          <title>Parabel van de verloren zoon</title>
+          <creator>Monogrammist MT</creator>
+          <date>1543</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-3049</identifier>
+        <datestamp>2019-05-09T15:13:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30778</identifier>
+          <identifier>RP-P-OB-3049</identifier>
+          <title>Madonna met kind in een kerkinterieur</title>
+          <title>Schöne Maria von Regensburg in een kerk</title>
+          <creator>Altdorfer, Albrecht</creator>
+          <date>ca. 1506 - 1538</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-3117</identifier>
+        <datestamp>2021-10-02T11:53:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30207</identifier>
+          <identifier>RP-P-OB-3117</identifier>
+          <title>Ornament met bladranken</title>
+          <creator>Monogrammist DVE</creator>
+          <date>1510 - 1530</date>
+          <type>prent</type>
+          <type>ornamentprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1954-82</identifier>
+        <datestamp>2019-01-03T16:47:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30374</identifier>
+          <identifier>RP-T-1954-82</identifier>
+          <title>Prudentia</title>
+          <creator>Breckerveld, Jozua</creator>
+          <contributor>Matham, Jacob</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <date>1658</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-Z-232</identifier>
+        <datestamp>2019-05-13T11:38:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30872</identifier>
+          <identifier>RP-P-H-Z-232</identifier>
+          <title>Maximiliaan en Maria van Bourgondië leren elkaar hun taal</title>
+          <title>Weißkunig</title>
+          <creator>Beck, Leonhard</creator>
+          <subject>Maximiliaan I van Habsburg (keizer van het Heilige Roomse Rijk)</subject>
+          <subject>Maria (hertogin van Bourgondië)</subject>
+          <date>1512 - 1516</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2234</identifier>
+        <datestamp>2019-05-09T15:10:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30307</identifier>
+          <identifier>RP-P-1906-2234</identifier>
+          <title>Landschap met een slot op rotsen</title>
+          <creator>Lautensack, Hans</creator>
+          <contributor>Lautensack, Hans</contributor>
+          <date>1553</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1950-317B</identifier>
+        <datestamp>2019-05-09T15:10:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30350</identifier>
+          <identifier>RP-P-1950-317B</identifier>
+          <title>Amelius en Amicus</title>
+          <creator>anoniem</creator>
+          <date>1486 - 1493</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-12</identifier>
+        <datestamp>2021-01-28T13:03:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30356</identifier>
+          <identifier>RP-P-1956-12</identifier>
+          <title>Draak met het wapen van Basel</title>
+          <creator>Monogrammist DS (graveur)</creator>
+          <subject>Bazel</subject>
+          <date>1500 - 1520</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2659</identifier>
+        <datestamp>2022-03-02T15:14:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30474</identifier>
+          <identifier>RP-P-OB-2659</identifier>
+          <title>De rijke man in de hel ziet Abraham met Lazarus</title>
+          <title>Parabel van Lazarus en de rijke man</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>Aldegrever, Heinrich</contributor>
+          <date>1554</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2706</identifier>
+        <datestamp>2021-10-02T11:53:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30523</identifier>
+          <identifier>RP-P-OB-2706</identifier>
+          <title>Hercules vecht tegen de riviergod Achelus</title>
+          <title>Werken van Hercules</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>anoniem</contributor>
+          <date>1550</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1965-321</identifier>
+        <datestamp>2021-01-28T13:03:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30849</identifier>
+          <identifier>RP-P-1965-321</identifier>
+          <title>Anna te drieën met Jozef en Joachim</title>
+          <creator>Burgkmair, Hans (I)</creator>
+          <date>1512</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-1051</identifier>
+        <datestamp>2021-10-02T11:53:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30256</identifier>
+          <identifier>RP-P-H-1051</identifier>
+          <title>Jupiter</title>
+          <title>Ivpidter</title>
+          <title>Goden die op de zeven planeten zetelen</title>
+          <creator>Monogrammist IB (16e eeuw)</creator>
+          <contributor>Pencz, Georg</contributor>
+          <date>1528</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4033</identifier>
+        <datestamp>2019-05-13T10:38:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30330</identifier>
+          <identifier>RP-P-OB-4033</identifier>
+          <title>Tempel met graf van Christus in Jerusalem</title>
+          <creator>Reuwich, Erhard</creator>
+          <date>1486 - 1488</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2683</identifier>
+        <datestamp>2021-10-02T11:53:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30500</identifier>
+          <identifier>RP-P-OB-2683</identifier>
+          <title>Rhea Silvia</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>Leonardo da Vinci</contributor>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <date>1512 - 1560</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4194</identifier>
+        <datestamp>2019-05-29T14:33:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30921</identifier>
+          <identifier>RP-P-OB-4194</identifier>
+          <title>Naakte vrouw zittend op wapenrusting</title>
+          <creator>Beham, Barthel</creator>
+          <contributor>Beham, Barthel</contributor>
+          <subject>het (naakte) menselijke figuur; 'Corpo humano' (Ripa)</subject>
+          <date>1512 - 1540</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1952-338</identifier>
+        <datestamp>2021-01-28T13:02:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30230</identifier>
+          <identifier>RP-P-1952-338</identifier>
+          <title>Schepping van Eva en de zondeval</title>
+          <title>Oude Testament</title>
+          <creator>Monogrammist HS (Duitsland)</creator>
+          <date>1550 - 1600</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1948-539</identifier>
+        <datestamp>2019-05-09T15:10:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30279</identifier>
+          <identifier>RP-P-1948-539</identifier>
+          <title>Paris oordeelt of Venus, Minerva of Juno de mooiste is</title>
+          <title>Paris oordeel</title>
+          <creator>Brosamer, Hans</creator>
+          <contributor>Brosamer, Hans</contributor>
+          <date>1510 - 1552</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1130</identifier>
+        <datestamp>2019-05-09T15:08:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30036</identifier>
+          <identifier>RP-P-OB-1130</identifier>
+          <title>De vier evangelistensymbolen</title>
+          <title>Ronde ontwerpen voor goudsmeden</title>
+          <creator>Meckenem, Israhel van</creator>
+          <contributor>Schongauer, Martin</contributor>
+          <date>1455 - 1503</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bocholt (Duitsland)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw5NTIw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

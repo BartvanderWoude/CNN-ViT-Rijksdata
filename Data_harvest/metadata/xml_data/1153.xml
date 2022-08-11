@@ -1,0 +1,506 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzA0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1961-109</identifier>
+        <datestamp>2020-05-12T14:00:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61279</identifier>
+          <identifier>RP-T-1961-109</identifier>
+          <title>Spiegel van een jacht met een staande putto en een wapen in schild</title>
+          <creator>Velde, Willem van de (II)</creator>
+          <subject>maritieme geschiedenis</subject>
+          <date>1643 - 1707</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2304-B</identifier>
+        <datestamp>2021-10-20T09:55:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61758</identifier>
+          <identifier>NG-VG-1-2304-B</identifier>
+          <title>Inname van Carthagena door admiraal Vernon</title>
+          <creator>Pinchbeck, Edward</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Engels-Spaanse oorlog</subject>
+          <subject>Inname van Carthagena</subject>
+          <subject>Cartagena</subject>
+          <subject>Colombia</subject>
+          <subject>Vernon, Sir Edward</subject>
+          <subject>Blas de Leso, Don</subject>
+          <date>1741</date>
+          <type>historiepenning</type>
+          <format>legering</format>
+          <format>pinsbek</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2548</identifier>
+        <datestamp>2021-10-20T09:58:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61995</identifier>
+          <identifier>NG-VG-1-2548</identifier>
+          <title>Aanvang van het jaar 1751</title>
+          <creator>Holtzhey, Johan George</creator>
+          <date>1751</date>
+          <type>nieuwjaarspenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2559</identifier>
+        <datestamp>2021-10-20T09:58:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62007</identifier>
+          <identifier>NG-VG-1-2559</identifier>
+          <title>Overlijden van Willem IV</title>
+          <creator>Swinderen, Nicolaas van</creator>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <date>1751</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2810-A</identifier>
+        <datestamp>2021-10-20T10:00:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62259</identifier>
+          <identifier>NG-VG-1-2810-A</identifier>
+          <title>Vrede van Teschen, ter ere van Frederik II de Grote, koning van Pruisen</title>
+          <creator>Abramson, Abraham</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>vrede</subject>
+          <subject>Vrede van Teschen</subject>
+          <subject>Teschen</subject>
+          <subject>Frederik de Grote</subject>
+          <date>1779</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Berlijn</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-381</identifier>
+        <datestamp>2021-10-02T12:46:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61405</identifier>
+          <identifier>BK-NM-12400-381</identifier>
+          <title>Plaat</title>
+          <creator>anoniem</creator>
+          <date>ca. 1725 - ca. 1750</date>
+          <type>plaat</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13264-A</identifier>
+        <datestamp>2021-10-02T12:46:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61457</identifier>
+          <identifier>BK-NM-13264-A</identifier>
+          <title>Tegel</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1600 - 1800</date>
+          <type>tegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Marokko</coverage>
+          <coverage>Tunesië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2653</identifier>
+        <datestamp>2021-10-20T09:59:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62101</identifier>
+          <identifier>NG-VG-1-2653</identifier>
+          <title>Overlijden van Abraham Pierre Bobineau, Waals predikant te 's-Gravenhage</title>
+          <creator>Swinderen, Nicolaas van</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>protestantisme</subject>
+          <subject>Waalse gemeente</subject>
+          <subject>predikant</subject>
+          <subject>Den Haag</subject>
+          <subject>Londen</subject>
+          <subject>Bobineau, Abraham Pierre</subject>
+          <date>1765</date>
+          <type>familiepenning</type>
+          <type>overlijdenspenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2665</identifier>
+        <datestamp>2021-10-20T09:59:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62113</identifier>
+          <identifier>NG-VG-1-2665</identifier>
+          <title>Inhuldiging van Willem V, prins van Oranje-Nassau, als erfelijk stadhouder van Utrecht, penning geschonken aan de manschappen van de compagnie "'t Fortuin"</title>
+          <creator>Meijer, Hendrik de</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>erfelijk stadhouder</subject>
+          <subject>landmacht</subject>
+          <subject>Utrecht</subject>
+          <subject>Willem V (prins van Oranje-Nassau)</subject>
+          <date>1766</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2702</identifier>
+        <datestamp>2021-10-20T09:59:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62150</identifier>
+          <identifier>NG-VG-1-2702</identifier>
+          <title>Verblijf van Willem V en Wilhelmina van Pruisen te Amsterdam, penning door de raad uitgereikt aan de wachthebbende burgers</title>
+          <creator>Holtzhey, Johan George</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>landmacht</subject>
+          <subject>wachthebbende burgers</subject>
+          <subject>stadsraad</subject>
+          <subject>Bezoek van Willem V en Wilhelmina aan Amsterdam (1768)</subject>
+          <subject>Amsterdam</subject>
+          <subject>Willem V (prins van Oranje-Nassau)</subject>
+          <subject>Wilhelmina van Pruisen (1751-1820)</subject>
+          <date>1768</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1964-33</identifier>
+        <datestamp>2021-10-02T12:46:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61222</identifier>
+          <identifier>RP-T-1964-33</identifier>
+          <title>De gestrande potvis te Noordwijk in 1629</title>
+          <creator>Velde, Esaias van de</creator>
+          <subject>historische gebeurtenissen en situaties</subject>
+          <subject>potvis</subject>
+          <subject>Noordwijk</subject>
+          <date>1629-01</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2763</identifier>
+        <datestamp>2021-10-20T10:00:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62208</identifier>
+          <identifier>NG-VG-1-2763</identifier>
+          <title>Tweehonderdste verjaardag van het ontzet van Leiden</title>
+          <creator>Konsé, Carel Frederik</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>200-jarig jubileum</subject>
+          <subject>Ontzet van Leiden</subject>
+          <subject>Leiden</subject>
+          <subject>Werff, Pieter Adriaansz. van der</subject>
+          <subject>Does, Jan van der (heer van Noordwijk en Kattendijke)</subject>
+          <subject>Hout, Jan van</subject>
+          <date>1774</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2851</identifier>
+        <datestamp>2021-10-20T10:01:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62296</identifier>
+          <identifier>NG-VG-1-2851</identifier>
+          <title>Marten Hendrik Lohse, aangesteld als muntmeester van de munt van Gelderland en Zutphen</title>
+          <creator>Lohse, Marten Hendrik</creator>
+          <subject>muntwezen</subject>
+          <subject>muntmeester</subject>
+          <subject>Gelderland</subject>
+          <subject>Lohse, Marten Hendrik</subject>
+          <date>1782</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Harderwijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1976-154</identifier>
+        <datestamp>2021-10-02T12:15:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45649</identifier>
+          <identifier>BK-1976-154</identifier>
+          <title>Babyschort van linnenbatist, versierd met broderie Anglaise, wit- en ajourwerk, afgezet met Valenciennes</title>
+          <creator>anoniem</creator>
+          <date>ca. 1920</date>
+          <type>babykleding</type>
+          <type>beschermende kleding</type>
+          <type>schort</type>
+          <format>linnen</format>
+          <format>parelmoer</format>
+          <format>kant (materiaal)</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2399-A</identifier>
+        <datestamp>2021-10-20T09:56:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61852</identifier>
+          <identifier>NG-VG-1-2399-A</identifier>
+          <title>Vrede van Dresden</title>
+          <creator>Öxlein, Johann Leonhard</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>vrede</subject>
+          <subject>Oostenrijkse successieoorlog</subject>
+          <subject>Vrede van Dresden (1745)</subject>
+          <subject>Dresden</subject>
+          <subject>Saksen</subject>
+          <date>1745</date>
+          <type>historiepenning</type>
+          <type>penning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2409</identifier>
+        <datestamp>2021-10-20T09:56:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61864</identifier>
+          <identifier>NG-VG-1-2409</identifier>
+          <title>Aanvang van het jaar 1749, op de vrede</title>
+          <creator>anoniem</creator>
+          <date>1748</date>
+          <type>nieuwjaarspenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2451</identifier>
+        <datestamp>2021-10-20T09:57:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61901</identifier>
+          <identifier>NG-VG-1-2451</identifier>
+          <title>Verheffing van de prins van Oranje tot stadhouder</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <subject>Anna van Hannover</subject>
+          <date>1747</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-176-D-10</identifier>
+        <datestamp>2019-08-01T09:41:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61158</identifier>
+          <identifier>BK-BR-J-176-D-10</identifier>
+          <title>Mutsenstrook van kloskant met zigzag-rivière</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1760</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-290(R)</identifier>
+        <datestamp>2019-01-03T16:45:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61486</identifier>
+          <identifier>RP-T-00-290(R)</identifier>
+          <title>Zeilschepen op stil water bij de kust</title>
+          <creator>Verwer, Abraham de</creator>
+          <date>1600 - 1650</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-283</identifier>
+        <datestamp>2021-01-12T13:21:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61288</identifier>
+          <identifier>RP-T-00-283</identifier>
+          <title>De jachten Kitchen (kroo) en Cleveland (klevelant) tijdens de tocht van de Engelse koning Karel II over de Thames naar Sheerness en Chatham op 27 Augustus 1681</title>
+          <creator>Velde, Willem van de (I)</creator>
+          <subject>historische gebeurtenissen en situaties</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Theems</subject>
+          <subject>Karel II (koning van Engeland)</subject>
+          <date>1681-08-17 - 1681-08-27</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzA2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

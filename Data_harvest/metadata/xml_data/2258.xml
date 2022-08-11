@@ -1,0 +1,508 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NTE0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-978</identifier>
+        <datestamp>2020-04-09T17:51:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64391</identifier>
+          <identifier>RP-F-00-978</identifier>
+          <title>Gezicht op het Monte dei Cappuccini in Turijn</title>
+          <title>Convento dei Cappuccini</title>
+          <creator>Maggi, Giovanni Battista</creator>
+          <subject>Monte dei Cappuccini</subject>
+          <date>ca. 1870 - ca. 1885</date>
+          <type>kabinetfoto</type>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Turijn</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1891-A-2428</identifier>
+        <datestamp>2020-04-20T16:47:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64662</identifier>
+          <identifier>RP-T-1891-A-2428</identifier>
+          <title>Gezicht op Onder de Linden (Nieuwe Gracht) te Utrecht</title>
+          <creator>Saftleven, Herman</creator>
+          <subject>Onder de Linden</subject>
+          <subject>Nieuwegracht</subject>
+          <subject>Utrecht</subject>
+          <date>1619 - 1685</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3992</identifier>
+        <datestamp>2021-10-20T14:39:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63480</identifier>
+          <identifier>NG-VG-1-3992</identifier>
+          <title>E. Kramers en P. Heinsbroek, vijfentwintig jaar collectant van de roomskatholieke kerk van Schiedam</title>
+          <creator>anoniem</creator>
+          <subject>collecteren</subject>
+          <subject>religieuze geschiedenis</subject>
+          <subject>katholicisme</subject>
+          <subject>25-jarig jubileum</subject>
+          <subject>Schiedam</subject>
+          <subject>Kramers, E.</subject>
+          <subject>Heinsbroek, P.</subject>
+          <date>1849</date>
+          <type>erepenning</type>
+          <format>legering</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-315-E</identifier>
+        <datestamp>2019-08-01T09:42:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63870</identifier>
+          <identifier>BK-BR-J-315-E</identifier>
+          <title>Strook naaldkant met gepluimde ranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1875 - ca. 1895</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Burano</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1979-508-H</identifier>
+        <datestamp>2021-10-02T13:03:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69272</identifier>
+          <identifier>NG-1979-508-H</identifier>
+          <title>Buik van een wijnfles uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>wijnfles</type>
+          <format>groen glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1966-21(R)</identifier>
+        <datestamp>2020-05-13T09:49:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64025</identifier>
+          <identifier>RP-T-1966-21(R)</identifier>
+          <title>Hoenderhof met een pauw en twee kalkoenen</title>
+          <creator>Weenix, Jan</creator>
+          <date>1650 - 1719</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-979</identifier>
+        <datestamp>2017-09-29T01:22:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64429</identifier>
+          <identifier>RP-F-00-979</identifier>
+          <title>Gezicht op het Koninklijk Paleis van Turijn</title>
+          <creator>Maggi, Giovanni Battista</creator>
+          <subject>Palazzo Reale</subject>
+          <date>ca. 1870 - ca. 1885</date>
+          <type>kabinetfoto</type>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Turijn</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-984</identifier>
+        <datestamp>2021-03-10T09:01:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64441</identifier>
+          <identifier>RP-F-00-984</identifier>
+          <title>Gezicht op Graz vanaf de Schlossberg, Oostenrijk</title>
+          <title>Panorama vom Schlossberg gesehen</title>
+          <title>Graz</title>
+          <creator>Weingartshofer, Karl</creator>
+          <subject>Graz</subject>
+          <date>1867 - 1900</date>
+          <type>kabinetfoto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Graz</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-CLXIII-D</identifier>
+        <datestamp>2021-10-19T16:26:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63553</identifier>
+          <identifier>BK-CLXIII-D</identifier>
+          <title>Ruit met tulp</title>
+          <creator>anoniem</creator>
+          <date>1550 - 1600</date>
+          <type>ruit</type>
+          <format>glas</format>
+          <format>glas-in-lood</format>
+          <format>lood</format>
+          <format>grisailleverf</format>
+          <format>zilvergeel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-CLXIII-R</identifier>
+        <datestamp>2021-10-19T16:26:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63565</identifier>
+          <identifier>BK-CLXIII-R</identifier>
+          <title>Ruit met bloem (anjer?)</title>
+          <creator>anoniem</creator>
+          <date>1575 - 1600</date>
+          <type>ruit</type>
+          <format>glas</format>
+          <format>glas-in-lood</format>
+          <format>lood</format>
+          <format>grisailleverf</format>
+          <format>zilvergeel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-166</identifier>
+        <datestamp>2021-01-28T13:37:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64014</identifier>
+          <identifier>RP-T-1953-166</identifier>
+          <title>Hooimaand</title>
+          <creator>Wyntgis, Evert</creator>
+          <date>1630</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>grafiet</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1888-A-1807</identifier>
+        <datestamp>2020-04-29T09:28:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63743</identifier>
+          <identifier>RP-T-1888-A-1807</identifier>
+          <title>Gezicht op de Sint Bavo te Haarlem</title>
+          <creator>Vinne, Laurens Vincentsz. van der</creator>
+          <subject>Sint-Bavokerk</subject>
+          <subject>Haarlem</subject>
+          <date>1668 - 1729</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-108</identifier>
+        <datestamp>2019-09-09T16:24:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63750</identifier>
+          <identifier>RP-T-1948-108</identifier>
+          <title>Bloeiende Mesembryanthemum uit de familie der Aizoaceae</title>
+          <creator>Vinne, Laurens Vincentsz. van der</creator>
+          <date>1668 - 1729</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-230</identifier>
+        <datestamp>2021-10-19T15:38:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69569</identifier>
+          <identifier>NG-1980-27-H-230</identifier>
+          <title>Scherf van een kan uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>steengoed</type>
+          <type>kan</type>
+          <type>scherf</type>
+          <format>steengoed</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Keulen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2379</identifier>
+        <datestamp>2021-10-02T13:06:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69878</identifier>
+          <identifier>NG-1980-27-H-2379</identifier>
+          <title>Meetlat uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>maatstok</type>
+          <type>meetinstrument</type>
+          <format>hout</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1979-507-H</identifier>
+        <datestamp>2021-10-02T13:03:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69281</identifier>
+          <identifier>NG-1979-507-H</identifier>
+          <title>Bodemfragment wijnfles uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>wijnfles</type>
+          <type>scherf</type>
+          <format>groen glas</format>
+          <format>concretie</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-934</identifier>
+        <datestamp>2016-10-20T20:10:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64230</identifier>
+          <identifier>RP-F-00-934</identifier>
+          <title>Ontvangstzaal in Station Rijnspoor, 1879</title>
+          <title>Versieringen ter gelegenheid van het bezoek van koning Willem III en koningin Emma aan Amsterdam, 1879</title>
+          <creator>Greiner, Albert</creator>
+          <subject>Station Rijnspoor</subject>
+          <subject>Willem III (koning der Nederlanden)</subject>
+          <subject>Emma (koningin-regentes der Nederlanden)</subject>
+          <date>1879-04-21</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1894-A-2839</identifier>
+        <datestamp>2021-10-02T12:48:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64593</identifier>
+          <identifier>RP-T-1894-A-2839</identifier>
+          <title>Ontwerp voor glasraam 10 geschonken door het hoogheemraadschap Rijnland</title>
+          <creator>Jansz., Pieter</creator>
+          <contributor>Bray, Jan de</contributor>
+          <subject>hoogheemraadschap</subject>
+          <subject>Rijnland</subject>
+          <subject>Hoogheemraadschap van Rijnland</subject>
+          <date>1667</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <type>vidimus</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-1075</identifier>
+        <datestamp>2021-10-07T16:30:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69377</identifier>
+          <identifier>NG-1980-27-H-1075</identifier>
+          <title>Fragment balustervormige steel van een fluitglas uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>glas</type>
+          <type>fluitglas</type>
+          <type>steel</type>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-1495</identifier>
+        <datestamp>2021-10-07T16:30:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69383</identifier>
+          <identifier>NG-1980-27-H-1495</identifier>
+          <title>Fragment gefacetteerde steel van een fluitglas uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>glas</type>
+          <type>fluitglas</type>
+          <type>steel</type>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NTE2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

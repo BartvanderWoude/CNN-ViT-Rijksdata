@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjUyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-126</identifier>
+        <datestamp>2021-10-19T16:24:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16375</identifier>
+          <identifier>BK-NM-12400-126</identifier>
+          <title>Plaat, ovaal, veelkleurig beschilderd met een boer zittend binnen lambrequinrand</title>
+          <creator>anoniem</creator>
+          <contributor>Saftleven, Cornelis</contributor>
+          <date>ca. 1750 - ca. 1775</date>
+          <type>plaat</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-180</identifier>
+        <datestamp>2022-01-26T11:23:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16427</identifier>
+          <identifier>BK-NM-12400-180</identifier>
+          <title>Schotel van veelkleurig beschilderde faïence</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1770</date>
+          <type>schotel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-17-L</identifier>
+        <datestamp>2016-10-20T19:29:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17254</identifier>
+          <identifier>BK-1984-17-L</identifier>
+          <title>Lepel</title>
+          <creator>Knuysting, Cornelis</creator>
+          <date>1802</date>
+          <type>theelepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11362</identifier>
+        <datestamp>2022-01-27T16:59:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16121</identifier>
+          <identifier>BK-NM-11362</identifier>
+          <title>Theebus</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Rijsselbergh, Adriaan van</contributor>
+          <date>1710 - 1725</date>
+          <type>theebus</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-279</identifier>
+        <datestamp>2021-10-02T00:10:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16127</identifier>
+          <identifier>BK-NM-12400-279</identifier>
+          <title>Inktstel van veelkleurig beschilderde faïence</title>
+          <creator>anoniem</creator>
+          <date>ca. 1705 - ca. 1725</date>
+          <type>inktstel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2415-B</identifier>
+        <datestamp>2018-10-01T11:03:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16351</identifier>
+          <identifier>BK-KOG-2415-B</identifier>
+          <title>Dekselpot</title>
+          <creator>anoniem</creator>
+          <date>1740 - 1780</date>
+          <type>kaststel</type>
+          <type>dekselpot</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-203(R)</identifier>
+        <datestamp>2022-04-20T22:25:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16805</identifier>
+          <identifier>RP-T-1963-203(R)</identifier>
+          <title>Begroeide helling</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <type>brief</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-120</identifier>
+        <datestamp>2019-12-12T13:54:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16982</identifier>
+          <identifier>RP-T-1963-120</identifier>
+          <title>Landerijen op de Butte</title>
+          <creator>Michel, Georges</creator>
+          <subject>Butte Montmartre</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1963-45</identifier>
+        <datestamp>2021-10-02T00:10:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16146</identifier>
+          <identifier>BK-1963-45</identifier>
+          <title>Drie borden met wapens van Europese edellieden</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Kocx-Van der Heul, weduwe Pieter Adriaensz.</contributor>
+          <subject>Pruisen, Frederik I koning van</subject>
+          <description>Deze drie borden dragen de wapens van verschillende Europese edellieden. De opzet van de decoraties is hetzelfde, maar de randversieringen zijn telkens aangepast aan de specifieke wapens. De edellieden bestelden de borden in Delft, waar een aantal fabrieken zich gespecialiseerd
+had in het imiteren van Japans porselein met meerdere kleuren.</description>
+          <date>ca. 1702 - ca. 1722</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1956-14-A</identifier>
+        <datestamp>2022-01-27T17:00:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16152</identifier>
+          <identifier>BK-1956-14-A</identifier>
+          <title>Mes met een heft van faience</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1695 - 1720</date>
+          <type>tafelmes</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-29</identifier>
+        <datestamp>2021-11-03T19:20:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16209</identifier>
+          <identifier>BK-KOG-29</identifier>
+          <title>Beurs van groen fluweel met trekkoord en afgezet met gouddraad op een doosje in de vorm van een schaar (fallus?) van dito fluweel en passement, voorzien van twee metalen ogen</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>na 1580</date>
+          <type>beurs</type>
+          <type>buidel</type>
+          <type>foedraal</type>
+          <format>fluweel</format>
+          <format>karton</format>
+          <format>gouddraad</format>
+          <format>gouddraad</format>
+          <format>leer</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7988</identifier>
+        <datestamp>2021-11-03T23:47:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16828</identifier>
+          <identifier>BK-NM-7988</identifier>
+          <title>Oorijzer bestaande uit een platte band van zilver met gouden knoppen</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1699</date>
+          <type>sieraad</type>
+          <type>streeksieraad</type>
+          <type>oorijzer</type>
+          <format>goud</format>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-227(V)</identifier>
+        <datestamp>2019-12-11T10:07:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16880</identifier>
+          <identifier>RP-T-1963-227(V)</identifier>
+          <title>Bruggetje</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13000-C</identifier>
+        <datestamp>2021-10-02T00:12:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16297</identifier>
+          <identifier>BK-NM-13000-C</identifier>
+          <title>Bord, beschilderd met een onbekend wapen, mogelijk Van Egmond</title>
+          <creator>anoniem</creator>
+          <date>1718</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15232-B</identifier>
+        <datestamp>2021-10-02T00:14:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16407</identifier>
+          <identifier>BK-15232-B</identifier>
+          <title>Druiventros</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1775</date>
+          <type>decoratief object</type>
+          <type>kunstfruit</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-136(R)</identifier>
+        <datestamp>2019-12-12T14:14:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17034</identifier>
+          <identifier>RP-T-1963-136(R)</identifier>
+          <title>Groep huizen tussen bomen</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>potlood</format>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5442-B</identifier>
+        <datestamp>2021-11-02T08:23:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17115</identifier>
+          <identifier>BK-NM-5442-B</identifier>
+          <title>Heft van verguld zilver met bekroning van ronde knop. Versierin in email-cloisonné. Op zijkant gegraveerd: Endrickie Verbeeck/Rein van harten ; traech in tooren.</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1625</date>
+          <type>heft</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-4166</identifier>
+        <datestamp>2021-10-02T00:13:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16328</identifier>
+          <identifier>BK-NM-4166</identifier>
+          <title>Schotel, beschilderd met de tekst: 'K heb slaa dat ... al van boove</title>
+          <creator>anoniem</creator>
+          <date>1785</date>
+          <type>schotel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-253</identifier>
+        <datestamp>2022-01-27T14:06:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16381</identifier>
+          <identifier>BK-NM-12400-253</identifier>
+          <title>Vaas in de vorm van een haan van veelkleurig beschilderde faïence</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Dextra, Jan Theunis</contributor>
+          <date>ca. 1757 - ca. 1765</date>
+          <type>vaas</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-121(V)</identifier>
+        <datestamp>2019-12-12T14:00:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17011</identifier>
+          <identifier>RP-T-1963-121(V)</identifier>
+          <title>Gezicht op de Butte</title>
+          <creator>Michel, Georges</creator>
+          <subject>Butte Montmartre</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjU0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

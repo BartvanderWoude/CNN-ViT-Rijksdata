@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjQ4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1890-A-2375</identifier>
+        <datestamp>2021-10-02T12:34:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56449</identifier>
+          <identifier>RP-T-1890-A-2375</identifier>
+          <title>Studies van twee armen</title>
+          <creator>Netscher, Caspar</creator>
+          <date>1675</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-178</identifier>
+        <datestamp>2021-10-20T13:40:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57334</identifier>
+          <identifier>NG-VG-1-178</identifier>
+          <title>Ter ere van Karel V</title>
+          <creator>anoniem</creator>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <date>1532</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-217</identifier>
+        <datestamp>2021-10-20T13:41:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57371</identifier>
+          <identifier>NG-VG-1-217</identifier>
+          <title>David Jorisz, leider der wederdopers</title>
+          <creator>anoniem</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>protestantisme</subject>
+          <subject>wederdopers</subject>
+          <subject>Jorisz., David</subject>
+          <date>1538</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-341</identifier>
+        <datestamp>2021-10-20T14:35:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57488</identifier>
+          <identifier>NG-VG-1-341</identifier>
+          <title>Filips van Montmorency, graaf van Horne, admiraal der Nederlanden</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>marine</subject>
+          <subject>Montmorency, Philips van (graaf van Horne)</subject>
+          <date>1565</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-513</identifier>
+        <datestamp>2021-10-20T14:35:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57691</identifier>
+          <identifier>NG-VG-1-513</identifier>
+          <title>Stad Kampen</title>
+          <creator>Wijntgens, Hendrik</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>stad Kampen</subject>
+          <subject>Kampen</subject>
+          <date>1597</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <type>triomfpenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kampen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10157</identifier>
+        <datestamp>2021-10-19T16:26:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56021</identifier>
+          <identifier>BK-NM-10157</identifier>
+          <title>Ruit met fragmenten van kwab cartouches en wapenschilden.</title>
+          <creator>anoniem</creator>
+          <date>ca. 1660 - ca. 1680</date>
+          <type>ruit</type>
+          <type>wapenruit</type>
+          <format>glas</format>
+          <format>lood</format>
+          <format>glas-in-lood</format>
+          <format>grisailleverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1933-69(V)</identifier>
+        <datestamp>2017-08-22T11:54:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56258</identifier>
+          <identifier>RP-T-1933-69(V)</identifier>
+          <title>Het oordeel van Salomo</title>
+          <creator>Moreelse, Paulus</creator>
+          <date>1581 - 1638</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>kardoespapier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3</identifier>
+        <datestamp>2021-10-20T13:39:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57177</identifier>
+          <identifier>NG-VG-1-3</identifier>
+          <title>Elisabeth, dochter van Andreas, koning van Hongarije sticht de gasthuiskerk te Marburg en wordt daar begraven</title>
+          <creator>anoniem</creator>
+          <subject>katholicisme</subject>
+          <subject>stichting van kerk</subject>
+          <subject>Marburg</subject>
+          <subject>Elisabeth (prinses van Thüringen)</subject>
+          <date>ca. 1700 - ca. 1850</date>
+          <type>vervalsing</type>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Praag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-530</identifier>
+        <datestamp>2021-10-20T13:43:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57705</identifier>
+          <identifier>NG-VG-1-530</identifier>
+          <title>De inkomst van Albertus en Isabella te Leuven</title>
+          <creator>anoniem</creator>
+          <subject>Leuven</subject>
+          <subject>Oostenrijk, Albrecht aartshertog van</subject>
+          <subject>Isabella Clara Eugenia, infante van Spanje</subject>
+          <date>1599</date>
+          <type>strooipenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-7064</identifier>
+        <datestamp>2021-11-03T21:17:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56351</identifier>
+          <identifier>AK-NM-7064</identifier>
+          <title>Voorhoofdsieraad (damini)</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750</date>
+          <type>voorhoofdsieraad</type>
+          <type>damini</type>
+          <format>goud</format>
+          <format>parel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Surat</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-130</identifier>
+        <datestamp>2021-12-20T13:45:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57288</identifier>
+          <identifier>NG-VG-1-130</identifier>
+          <title>Keizer Karel V (1500-1558)</title>
+          <creator>Leoni, Leone</creator>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <subject>Isabella van Portugal (keizerin van het Heilige Roomse Rijk, koningin van Spanje)</subject>
+          <description>De meeste munten hebben een zijde waarop een portret staat, meestal van een vorst of vorstin. Daarnaast zijn er altijd ook portretpenningen gemaakt, als eerbetoon, ter opluistering van een belangrijke gebeurtenis of als herinnering. Vaak waren ze bestemd voor een algemeen publiek, soms bleven ze binnen de familie. Hoe dan ook probeerden de medailleurs de portretten zo goed mogelijk te laten lijken. Daarom worden ze als apart genre gezien.</description>
+          <date>1526 - 1546</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-168</identifier>
+        <datestamp>2021-10-20T14:34:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57325</identifier>
+          <identifier>NG-VG-1-168</identifier>
+          <title>Het katholieke geloof ?</title>
+          <creator>anoniem</creator>
+          <subject>katholicisme</subject>
+          <subject>Reformatie</subject>
+          <date>1531</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-393</identifier>
+        <datestamp>2021-10-20T13:42:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57534</identifier>
+          <identifier>NG-VG-1-393</identifier>
+          <title>Inname van Tunis door don Juan van Oostenrijk</title>
+          <creator>Melon, Giovanni V.</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Strijd tegen de Turken</subject>
+          <subject>Tunis</subject>
+          <subject>Tunesië</subject>
+          <subject>Juan van Oostenrijk, Don</subject>
+          <date>1572</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-487</identifier>
+        <datestamp>2021-10-20T13:42:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57621</identifier>
+          <identifier>NG-VG-1-487</identifier>
+          <title>Wantrouwen jegens de Spaanse vredesvoorstellen</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Spaanse vredesvoorstellen</subject>
+          <subject>Tachtigjarige Oorlog</subject>
+          <date>1592</date>
+          <type>historiepenning</type>
+          <type>triomfpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1898-A-3984</identifier>
+        <datestamp>2021-10-02T12:33:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56154</identifier>
+          <identifier>RP-T-1898-A-3984</identifier>
+          <title>Gezicht aan de rand van de duinen, links een groepje personen</title>
+          <creator>Molijn, Pieter de</creator>
+          <date>1650 - 1660</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1879-A-29</identifier>
+        <datestamp>2021-10-02T12:33:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56166</identifier>
+          <identifier>RP-T-1879-A-29</identifier>
+          <title>Herder met vee op een landweg</title>
+          <creator>Molijn, Pieter de</creator>
+          <date>1656</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-325</identifier>
+        <datestamp>2021-10-20T13:41:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57474</identifier>
+          <identifier>NG-VG-1-325</identifier>
+          <title>Antoine Perrenot, kardinaal van Granvelle, benoemd tot aartsbisschop van Mechelen</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>Granvelle, Antoine Perrenot de</subject>
+          <date>1561</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-331</identifier>
+        <datestamp>2021-10-20T13:41:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57480</identifier>
+          <identifier>NG-VG-1-331</identifier>
+          <title>Antoine Perrenot, kardinaal van Granvelle, benoemd tot aartsbisschop van Mechelen</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>Granvelle, Antoine Perrenot de</subject>
+          <date>1561</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1886-A-601</identifier>
+        <datestamp>2019-01-03T16:40:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55746</identifier>
+          <identifier>RP-T-1886-A-601</identifier>
+          <title>Landschap met koeien en wandelaars</title>
+          <creator>Matthysz., Jan</creator>
+          <date>1649</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1879-A-48</identifier>
+        <datestamp>2021-10-02T12:32:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55809</identifier>
+          <identifier>RP-T-1879-A-48</identifier>
+          <title>Berglandschap met geboomte bij een rivier</title>
+          <creator>Meer, Jan van der (II)</creator>
+          <contributor>Both, Jan</contributor>
+          <date>ca. 1700 - ca. 1705</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjUwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

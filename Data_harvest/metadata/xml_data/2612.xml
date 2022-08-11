@@ -1,0 +1,525 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MjIyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1938-1087</identifier>
+        <datestamp>2019-05-23T13:33:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111007</identifier>
+          <identifier>RP-P-1938-1087</identifier>
+          <title>Echtpaar bij de dorpsrechtbank van Puiterveen</title>
+          <title>De Boeren Rechtbank te Puiterveen</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Troost, Cornelis</contributor>
+          <contributor>Monogrammist LP (schrijver, 18e eeuw)</contributor>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.535</identifier>
+        <datestamp>2016-10-20T20:57:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108747</identifier>
+          <identifier>RP-P-OB-50.535</identifier>
+          <title>Koe en schaap</title>
+          <creator>Faber, Frédéric Théodore</creator>
+          <date>1828</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-1027</identifier>
+        <datestamp>2020-01-27T15:06:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.109695</identifier>
+          <identifier>RP-T-00-1027</identifier>
+          <title>Portret van onbekende man, in ovaal</title>
+          <creator>Andriessen, Jurriaan</creator>
+          <date>ca. 1752 - ca. 1819</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <format>dekverf</format>
+          <format>inkt</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-12535</identifier>
+        <datestamp>2016-10-20T20:58:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110165</identifier>
+          <identifier>RP-P-1888-A-12535</identifier>
+          <title>Dolfijn in een visnet</title>
+          <title>Delphinus Le Dauphin.</title>
+          <title>Vissen en andere zeedieren  - zoutwater derde reeks</title>
+          <title>Poissons de mer</title>
+          <creator>Flamen, Albert</creator>
+          <contributor>Merlen, Jacques van</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-12512</identifier>
+        <datestamp>2016-10-20T20:58:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110142</identifier>
+          <identifier>RP-P-1888-A-12512</identifier>
+          <title>Twee platvissen op het strand</title>
+          <title>Psetta. La Plye.</title>
+          <title>Vissen en andere zeedieren  - zoutwater tweede reeks</title>
+          <title>Poissons de mer</title>
+          <creator>Flamen, Albert</creator>
+          <contributor>Flamen, Albert</contributor>
+          <contributor>Merlen, Jacques van</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-6556</identifier>
+        <datestamp>2016-10-20T20:58:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110679</identifier>
+          <identifier>RP-P-1882-A-6556</identifier>
+          <title>Landschap met schuitje</title>
+          <creator>Fock, Hermanus</creator>
+          <date>1781 - 1822</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1926-394</identifier>
+        <datestamp>2016-10-20T20:58:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110042</identifier>
+          <identifier>RP-P-1926-394</identifier>
+          <title>Parfumbrander</title>
+          <title>Moraliserende liefdesemblemen</title>
+          <title>Devises et emblesmes d'amovr moralisez</title>
+          <creator>Flamen, Albert</creator>
+          <contributor>Loyson, Etienne</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1672</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17532</identifier>
+        <datestamp>2016-10-20T20:48:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98362</identifier>
+          <identifier>RP-P-1892-A-17532</identifier>
+          <title>Onderwerping van zes Duitse steden, 1547</title>
+          <title>Overwinningen van Karel V</title>
+          <title>Divi Caroli. V. imp. opt. max. victoriae, ex multis praecipuae</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>Cock, weduwe Hieronymus</contributor>
+          <subject>Slag bij Mühlberg</subject>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <date>1555 - 1556</date>
+          <date>1570 - 1640</date>
+          <type>prent</type>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-4185</identifier>
+        <datestamp>2020-03-19T11:54:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111027</identifier>
+          <identifier>RP-P-1911-4185</identifier>
+          <title>Portret van Frederik VI, markies van Baden-Durlach</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Bernigeroth, Martin</contributor>
+          <contributor>Walle, Pieter van de</contributor>
+          <subject>Baden-Durlach, Frederik VI markgraaf van</subject>
+          <date>1739</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1926-368</identifier>
+        <datestamp>2016-10-20T20:58:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110016</identifier>
+          <identifier>RP-P-1926-368</identifier>
+          <title>Landschap met boom in de wind</title>
+          <title>Moraliserende liefdesemblemen</title>
+          <title>Devises et emblesmes d'amovr moralisez</title>
+          <creator>Flamen, Albert</creator>
+          <contributor>Loyson, Etienne</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1672</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6609</identifier>
+        <datestamp>2018-09-05T10:08:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98339</identifier>
+          <identifier>RP-P-BI-6609</identifier>
+          <title>Belegering van de Engelenburcht, 1527</title>
+          <title>Overwinningen van Karel V</title>
+          <title>Divi Caroli. V. imp. opt. max. victoriae, ex multis praecipuae</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <subject>beleg, stellingoorlog</subject>
+          <subject>Inname van Rome</subject>
+          <subject>Engelenbrug</subject>
+          <subject>Engelenburcht</subject>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <subject>Clemens VII</subject>
+          <date>1555 - 1556</date>
+          <date>1570 - 1640</date>
+          <type>prent</type>
+          <type>propagandaprent</type>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1883-A-7280</identifier>
+        <datestamp>2016-10-20T20:57:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.109288</identifier>
+          <identifier>RP-P-1883-A-7280</identifier>
+          <title>Mannen in een klaslokaal</title>
+          <title>Wonderlijcken Droom Vande School houdinghe van Mr Ian van Olden-barnevelt</title>
+          <creator>Feddes van Harlingen, Pieter</creator>
+          <subject>Oldenbarnevelt, Johan van</subject>
+          <date>1611 - 1623</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Friesland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6195</identifier>
+        <datestamp>2021-01-28T19:58:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97831</identifier>
+          <identifier>RP-P-BI-6195</identifier>
+          <title>Romeinse soldaat met fasces op zijn rug gezien</title>
+          <creator>Cooghen, Leendert van der</creator>
+          <contributor>Cooghen, Leendert van der</contributor>
+          <subject>de soldaat; het leven van een soldaat</subject>
+          <date>1666</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-6569</identifier>
+        <datestamp>2016-10-20T20:58:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110705</identifier>
+          <identifier>RP-P-1882-A-6569</identifier>
+          <title>Roeiboot met twee mannen</title>
+          <creator>Fock, Hermanus</creator>
+          <date>1781 - 1822</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-7132</identifier>
+        <datestamp>2021-01-28T20:12:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98875</identifier>
+          <identifier>RP-P-OB-7132</identifier>
+          <title>Aanbiding door de herders</title>
+          <creator>Cort, Cornelis</creator>
+          <contributor>Pino, Marco</contributor>
+          <contributor>Orlandi, Giovanni</contributor>
+          <date>1568</date>
+          <date>1602</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5979</identifier>
+        <datestamp>2021-01-28T19:57:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97795</identifier>
+          <identifier>RP-P-BI-5979</identifier>
+          <title>Jan Pottagie</title>
+          <creator>Conradus, Abraham J.</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <date>ca. 1640 - ca. 1661</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-6716</identifier>
+        <datestamp>2021-01-28T20:04:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98386</identifier>
+          <identifier>RP-P-1882-A-6716</identifier>
+          <title>Rokende boer met pijp</title>
+          <creator>Cootwijck, Jurriaan</creator>
+          <date>1724 - 1798</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-36.059</identifier>
+        <datestamp>2016-10-20T20:57:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.109117</identifier>
+          <identifier>RP-P-OB-36.059</identifier>
+          <title>De Muzen aan de voet van de Parnassus</title>
+          <creator>Fantuzzi, Antonio</creator>
+          <contributor>Fantuzzi, Antonio</contributor>
+          <contributor>Fiorentino, Rosso</contributor>
+          <contributor>Fiorentino, Rosso</contributor>
+          <date>ca. 1542 - ca. 1543</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Fontainebleau</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Fontainebleau</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-B-73-2-40</identifier>
+        <datestamp>2022-01-24T09:09:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.109560</identifier>
+          <identifier>BI-B-73-2-40</identifier>
+          <title>Gezicht op de weg naar Bethlehem</title>
+          <title>Jérusalem. Chemin de Beit-Lehem</title>
+          <creator>Salzmann, Auguste</creator>
+          <contributor>Blanquart-Evrard, Louis-Désiré</contributor>
+          <contributor>Gide et J. Baudry</contributor>
+          <subject>Bethlehem</subject>
+          <subject>Palestina</subject>
+          <date>1854 - 1856</date>
+          <type>foto</type>
+          <type>bladzijde</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Palestina</coverage>
+          <coverage>Lille</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-15025</identifier>
+        <datestamp>2021-01-28T19:52:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97345</identifier>
+          <identifier>RP-P-1889-A-15025</identifier>
+          <title>Gezicht op de omgeving van Schaarbeek</title>
+          <title>Achter Schaerbeecke</title>
+          <title>Gezichten uit de omgeving van Brussel</title>
+          <creator>Collaert, Hans (I)</creator>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Grimmer, Jacob</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <subject>Schaarbeek</subject>
+          <date>1530 - 1580</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MjI0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

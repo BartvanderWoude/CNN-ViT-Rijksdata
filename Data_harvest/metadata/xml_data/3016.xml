@@ -1,0 +1,504 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MDMwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1916-218</identifier>
+        <datestamp>2019-03-21T22:29:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48560</identifier>
+          <identifier>RP-P-1916-218</identifier>
+          <title>Portret van Johann Fabricius</title>
+          <creator>Lucius, Jakob (der Ältere)</creator>
+          <subject>Fabricius, Johann (IV)</subject>
+          <date>1555</date>
+          <date>1685</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.973</identifier>
+        <datestamp>2019-03-21T23:17:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48623</identifier>
+          <identifier>RP-P-OB-21.973</identifier>
+          <title>Hellevaart van Christus</title>
+          <creator>anoniem</creator>
+          <creator>Schäufelein, Hans</creator>
+          <contributor>Pinder, Ulrich</contributor>
+          <date>1506 - 1507</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.038(R)</identifier>
+        <datestamp>2020-04-20T12:01:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48697</identifier>
+          <identifier>RP-P-OB-22.038(R)</identifier>
+          <title>Zilveren Eeuw</title>
+          <title>Aetas argentea</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.345</identifier>
+        <datestamp>2019-05-09T13:51:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47765</identifier>
+          <identifier>RP-P-OB-21.345</identifier>
+          <title>Festa della Sensa (achtste gedeelte)</title>
+          <title>Ankunfft Und herkommen der weitberümbten herrlichen Statt Venedig Sambt derselben gewaltigen Herrschafft</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Schäller, Johann Valentin</contributor>
+          <subject>Torre dell'Orologio</subject>
+          <subject>Dogepaleis</subject>
+          <subject>Basiliek van San Marco</subject>
+          <subject>San Marcoplein</subject>
+          <subject>Venetië</subject>
+          <date>1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.428(R)</identifier>
+        <datestamp>2020-05-12T09:48:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47836</identifier>
+          <identifier>RP-P-OB-21.428(R)</identifier>
+          <title>Houthakker</title>
+          <title>Der Schneller</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <subject>oorlogsvoering; militaire zaken</subject>
+          <subject>de soldaat; het leven van een soldaat</subject>
+          <date>1573</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.529</identifier>
+        <datestamp>2019-03-07T12:08:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48025</identifier>
+          <identifier>RP-P-OB-21.529</identifier>
+          <title>Kenan met zijn vrouw en kinderen</title>
+          <title>Patriarchen van het Oude Testament met hun vrouwen en kinderen</title>
+          <creator>anoniem</creator>
+          <contributor>Beham, Hans Sebald</contributor>
+          <date>1530</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23280</identifier>
+        <datestamp>2019-10-16T04:31:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48288</identifier>
+          <identifier>RP-P-1903-A-23280</identifier>
+          <title>Hemelvaart</title>
+          <title>Leven van Christus, evangeslisten en heiligen</title>
+          <creator>Hannas, Marx Anton</creator>
+          <date>1610 - 1676</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.920(R)</identifier>
+        <datestamp>2020-04-20T11:59:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48546</identifier>
+          <identifier>RP-P-OB-21.920(R)</identifier>
+          <title>Twee passages uit het verhaal van Samson</title>
+          <creator>Lemberger, Georg</creator>
+          <creator>Lemberger, Georg</creator>
+          <contributor>Wolrab, Nikolaus</contributor>
+          <date>1524</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.330</identifier>
+        <datestamp>2019-05-09T13:51:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47730</identifier>
+          <identifier>RP-P-OB-21.330</identifier>
+          <title>Titel van de Festa della Sensa (tweede gedeelte)</title>
+          <title>Ankunfft Und herkommen der weitberümbten herrlichen Statt Venedig Sambt derselben gewaltigen Herrschafft</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Schäller, Johann Valentin</contributor>
+          <subject>Torre dell'Orologio</subject>
+          <subject>Dogepaleis</subject>
+          <subject>Basiliek van San Marco</subject>
+          <subject>San Marcoplein</subject>
+          <subject>Venetië</subject>
+          <date>1697</date>
+          <type>prent</type>
+          <type>tekstblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.798</identifier>
+        <datestamp>2019-10-16T06:45:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48383</identifier>
+          <identifier>RP-P-OB-21.798</identifier>
+          <title>Letter O: David met harp vooraan een stoet</title>
+          <title>Versierde initialen</title>
+          <creator>anoniem</creator>
+          <creator>Holbein, Hans (II)</creator>
+          <contributor>Froschauer, Johann</contributor>
+          <date>1556</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zürich (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.810</identifier>
+        <datestamp>2019-10-16T04:31:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48395</identifier>
+          <identifier>RP-P-OB-21.810</identifier>
+          <title>Letter E: ornament</title>
+          <title>Versierde initialen</title>
+          <creator>anoniem</creator>
+          <creator>Holbein, Hans (II)</creator>
+          <contributor>Froschauer, Johann</contributor>
+          <date>1556</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zürich (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.848</identifier>
+        <datestamp>2019-10-16T22:15:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48432</identifier>
+          <identifier>RP-P-OB-21.848</identifier>
+          <title>Heilige Bernardus met een kruik met olie</title>
+          <title>Illustraties uit de Lof der Zotheid</title>
+          <creator>Merian, Caspar</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <contributor>Holbein, Ambrosius</contributor>
+          <contributor>Genath, Johann Rudolf</contributor>
+          <subject>Erasmus, Desiderius</subject>
+          <date>1516</date>
+          <date>1676</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.486(R)</identifier>
+        <datestamp>2019-07-03T01:33:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47976</identifier>
+          <identifier>RP-P-OB-21.486(R)</identifier>
+          <title>Dood van Absalom</title>
+          <title>Absolonis fugientis Interitus miserabilis</title>
+          <creator>anoniem</creator>
+          <contributor>Beham, Hans Sebald</contributor>
+          <contributor>Egenollf, Christian</contributor>
+          <date>1530 - 1533</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.683</identifier>
+        <datestamp>2020-09-10T22:50:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48235</identifier>
+          <identifier>RP-P-OB-21.683</identifier>
+          <title>Triomfwagen van keizer Maximiliaan I</title>
+          <title>Dürers Triomfwagen voor keizer Maximiliaan I</title>
+          <creator>anoniem</creator>
+          <contributor>Dürer, Albrecht</contributor>
+          <contributor>Pirckheimer, Willibald</contributor>
+          <contributor>Chinig, Jacobus</contributor>
+          <date>1522</date>
+          <date>1589</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.543</identifier>
+        <datestamp>2019-03-07T12:08:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48039</identifier>
+          <identifier>RP-P-OB-21.543</identifier>
+          <title>Kruisdraging</title>
+          <title>Passie van Christus</title>
+          <creator>anoniem</creator>
+          <contributor>Beham, Hans Sebald</contributor>
+          <date>1521</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.967</identifier>
+        <datestamp>2019-03-21T23:16:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48617</identifier>
+          <identifier>RP-P-OB-21.967</identifier>
+          <title>Ecce Homo</title>
+          <creator>anoniem</creator>
+          <creator>Schäufelein, Hans</creator>
+          <contributor>Pinder, Ulrich</contributor>
+          <date>1506 - 1507</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.001</identifier>
+        <datestamp>2019-03-21T23:23:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48654</identifier>
+          <identifier>RP-P-OB-22.001</identifier>
+          <title>Belening van een vorst</title>
+          <creator>anoniem</creator>
+          <creator>Schäufelein, Hans</creator>
+          <contributor>Otmar, Johann</contributor>
+          <contributor>Rynmann, J.</contributor>
+          <date>1511</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.012</identifier>
+        <datestamp>2019-03-21T23:25:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48666</identifier>
+          <identifier>RP-P-OB-22.012</identifier>
+          <title>Familiewapen van Lazarus Spengler</title>
+          <creator>anoniem</creator>
+          <creator>Schön, Erhard</creator>
+          <subject>Spengler, Lazarus</subject>
+          <date>1520 - 1525</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.041(R)</identifier>
+        <datestamp>2020-04-20T12:10:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48703</identifier>
+          <identifier>RP-P-OB-22.041(R)</identifier>
+          <title>Neptunus bedreigt de aarde met zijn drietand</title>
+          <title>Diliuuium cessat</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1984-15</identifier>
+        <datestamp>2021-03-19T13:23:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47673</identifier>
+          <identifier>RP-P-1984-15</identifier>
+          <title>School forellen</title>
+          <creator>Hiroshige (I), Utagawa</creator>
+          <contributor>Nishimura Yohachi</contributor>
+          <date>1830 - 1840</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>mica</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Tokyo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MDMyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

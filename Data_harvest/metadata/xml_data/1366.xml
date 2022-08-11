@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNzMwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-40</identifier>
+        <datestamp>2019-05-29T15:12:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71324</identifier>
+          <identifier>RP-P-BI-40</identifier>
+          <title>Beleg van Damiate, 1219</title>
+          <creator>Akersloot, Willem Outgertsz.</creator>
+          <contributor>Bouckhorst, Jan Philipsz. van</contributor>
+          <subject>Verovering van Damiate</subject>
+          <subject>Haarlem</subject>
+          <subject>Damiate</subject>
+          <date>1626 - 1628</date>
+          <type>prent</type>
+          <type>historieprent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-78</identifier>
+        <datestamp>2021-01-28T13:58:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71797</identifier>
+          <identifier>RP-P-BI-78</identifier>
+          <title>Stenen brug bij een riviersplitsing</title>
+          <title>Vier rivierlandschappen</title>
+          <creator>Almeloveen, Jan van</creator>
+          <contributor>Almeloveen, Jan van</contributor>
+          <date>1662 - 1683</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-718</identifier>
+        <datestamp>2021-10-07T16:32:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70115</identifier>
+          <identifier>NG-1980-27-H-718</identifier>
+          <title>Messenheft uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>messenheft</type>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.385</identifier>
+        <datestamp>2021-01-28T13:43:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70600</identifier>
+          <identifier>RP-P-OB-50.385</identifier>
+          <title>Landschap met twee ruiters op een rotspad</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1233</identifier>
+        <datestamp>2021-03-10T09:01:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65288</identifier>
+          <identifier>RP-F-00-1233</identifier>
+          <title>Standbeeld van Leonardo da Vinci te Milaan, Italië</title>
+          <title>Leonardo da Vinci</title>
+          <title>Milano</title>
+          <creator>Sommer, Giorgio</creator>
+          <contributor>Magni, Pietro</contributor>
+          <subject>Milaan</subject>
+          <subject>Leonardo da Vinci</subject>
+          <date>1872 - 1914</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Milaan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4036</identifier>
+        <datestamp>2021-10-20T14:39:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65919</identifier>
+          <identifier>NG-VG-1-4036</identifier>
+          <title>Oprichting van een standbeeld te 's-Gravenhage voor Willem II, koning der Nederlanden</title>
+          <creator>Menger, Johan Philip</creator>
+          <contributor>Vermaes</contributor>
+          <subject>onderscheiding</subject>
+          <subject>standbeeld</subject>
+          <subject>Den Haag</subject>
+          <subject>Willem II (koning der Nederlanden)</subject>
+          <date>1854</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RAK-1991-11-G</identifier>
+        <datestamp>2021-10-02T12:49:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64750</identifier>
+          <identifier>AK-RAK-1991-11-G</identifier>
+          <title>Een schip op volle zee</title>
+          <title>De wonderen van Mazu</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1800</date>
+          <type>albumblad</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-453-B</identifier>
+        <datestamp>2021-10-02T12:50:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65401</identifier>
+          <identifier>BK-BR-453-B</identifier>
+          <title>Weefselfragment met orbiculus en clavus</title>
+          <creator>anoniem</creator>
+          <date>ca. 300 - ca. 499</date>
+          <type>orbiculus</type>
+          <type>clavus</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Egypte</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-16</identifier>
+        <datestamp>2021-01-28T13:50:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71277</identifier>
+          <identifier>RP-P-BI-16</identifier>
+          <title>Heuvelachtig landschap met twee jagers</title>
+          <title>Tien landschappen</title>
+          <creator>Aken, Jan van</creator>
+          <contributor>Jonghe, Clement de</contributor>
+          <date>1624 - 1661</date>
+          <date>1640 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.341</identifier>
+        <datestamp>2018-06-19T17:02:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.72151</identifier>
+          <identifier>RP-P-OB-26.341</identifier>
+          <title>Dubbelportret van Josephus Albertus Alberdingk Thijm en zijn dochter</title>
+          <creator>Arendzen, Petrus Johannes</creator>
+          <subject>Alberdingk Thijm, Josephus Albertus</subject>
+          <date>1856 - 1889</date>
+          <type>prent</type>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.382</identifier>
+        <datestamp>2021-07-06T13:54:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70597</identifier>
+          <identifier>RP-P-OB-50.382</identifier>
+          <title>Vaten en planken aan de oever van de rivier</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.424</identifier>
+        <datestamp>2021-01-28T13:44:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70646</identifier>
+          <identifier>RP-P-OB-50.424</identifier>
+          <title>Twee reizigers voor vervallen houten huizen</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-3865</identifier>
+        <datestamp>2021-01-28T13:55:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71568</identifier>
+          <identifier>RP-P-1911-3865</identifier>
+          <title>Portret van uitgever Gualtherus Kolff</title>
+          <creator>Allebé, August</creator>
+          <subject>Kolff, Gualtherus</subject>
+          <date>1860</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1245</identifier>
+        <datestamp>2021-03-10T16:38:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65368</identifier>
+          <identifier>RP-F-00-1245</identifier>
+          <title>Toegangsweg tot het Kapucijnerklooster te Amalfi, Italië</title>
+          <title>Convento dei Capuccini</title>
+          <title>(Amalfi)</title>
+          <creator>Sommer, Giorgio</creator>
+          <subject>Cappuccini Convento Hotel</subject>
+          <date>1857 - 1914</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amalfi</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1938-821</identifier>
+        <datestamp>2021-01-28T13:41:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70374</identifier>
+          <identifier>RP-P-1938-821</identifier>
+          <title>Groep blinden in een landschap</title>
+          <creator>Boel, Quirin</creator>
+          <contributor>Feti, Domenico</contributor>
+          <date>1650 - 1660</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1938-1055</identifier>
+        <datestamp>2021-07-06T13:54:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70669</identifier>
+          <identifier>RP-P-1938-1055</identifier>
+          <title>Beekje in het bos</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-750</identifier>
+        <datestamp>2022-04-25T11:19:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70740</identifier>
+          <identifier>RP-P-1904-750</identifier>
+          <title>Bruun de beer in de val</title>
+          <title>Reinaert de vos</title>
+          <title>Illustraties voor Reijntje de Vos</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1665 - 1675</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-6512</identifier>
+        <datestamp>2021-01-28T13:55:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71582</identifier>
+          <identifier>RP-P-1909-6512</identifier>
+          <title>Medea</title>
+          <creator>Allebé, August</creator>
+          <date>1859 - 1860</date>
+          <date>1848 - 1927</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1885-A-9835</identifier>
+        <datestamp>2021-01-28T13:43:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70526</identifier>
+          <identifier>RP-P-1885-A-9835</identifier>
+          <title>Landschap met hut bij waterval</title>
+          <title>De hutten aan de oever van de stroom</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1920-1587</identifier>
+        <datestamp>2021-01-28T14:01:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.72068</identifier>
+          <identifier>RP-P-1920-1587</identifier>
+          <title>Portret van Thomas Bartholinus op 61 jarige leeftijd</title>
+          <creator>Appelmans, Gonsales</creator>
+          <date>ca. 1670 - ca. 1680</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNzMyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

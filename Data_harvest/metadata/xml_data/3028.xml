@@ -1,0 +1,493 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MDU0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1950-316-7</identifier>
+        <datestamp>2019-03-19T23:24:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47863</identifier>
+          <identifier>RP-P-1950-316-7</identifier>
+          <title>Leeg wapenschild</title>
+          <creator>anoniem</creator>
+          <creator>Amman, Jost</creator>
+          <contributor>Raben, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <date>1579</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.467</identifier>
+        <datestamp>2019-07-02T07:45:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47945</identifier>
+          <identifier>RP-P-OB-21.467</identifier>
+          <title>Zesde plaag</title>
+          <title>Poena ulcerum</title>
+          <creator>anoniem</creator>
+          <contributor>Beham, Hans Sebald</contributor>
+          <contributor>Egenollf, Christian</contributor>
+          <date>1530 - 1533</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.470(V)</identifier>
+        <datestamp>2019-07-02T07:46:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47951</identifier>
+          <identifier>RP-P-OB-21.470(V)</identifier>
+          <title>Mozes staande bij een boom met zingende en dansende vrouwen</title>
+          <creator>anoniem</creator>
+          <contributor>Beham, Hans Sebald</contributor>
+          <contributor>Egenollf, Christian</contributor>
+          <date>1530 - 1533</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.592</identifier>
+        <datestamp>2019-07-03T01:42:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48117</identifier>
+          <identifier>RP-P-OB-21.592</identifier>
+          <title>Monnik van de orde der Johannieters</title>
+          <title>Kostuums van geestelijken</title>
+          <creator>anoniem</creator>
+          <contributor>Beham, Hans Sebald</contributor>
+          <date>na 1526</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.873</identifier>
+        <datestamp>2019-10-16T07:22:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48458</identifier>
+          <identifier>RP-P-OB-21.873</identifier>
+          <title>Turkse man aanbidt een beeld</title>
+          <title>Illustraties uit de Lof der Zotheid</title>
+          <creator>Merian, Caspar</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <contributor>Holbein, Ambrosius</contributor>
+          <contributor>Genath, Johann Rudolf</contributor>
+          <subject>Erasmus, Desiderius</subject>
+          <date>1516</date>
+          <date>1676</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.999</identifier>
+        <datestamp>2019-03-21T23:23:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48652</identifier>
+          <identifier>RP-P-OB-21.999</identifier>
+          <title>Ruiters en soldaten te voet</title>
+          <title>Triomfoptocht van keizer Karel V</title>
+          <creator>anoniem</creator>
+          <creator>Schäufelein, Hans</creator>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <date>1537 - 1551</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.397(R)</identifier>
+        <datestamp>2020-05-12T09:36:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47791</identifier>
+          <identifier>RP-P-OB-21.397(R)</identifier>
+          <title>Officier te paard</title>
+          <title>Der Profoss der Rensigen</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <subject>oorlogsvoering; militaire zaken</subject>
+          <date>1573</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.430(R)</identifier>
+        <datestamp>2020-05-12T09:49:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47840</identifier>
+          <identifier>RP-P-OB-21.430(R)</identifier>
+          <title>Beul</title>
+          <title>Der Nachrichter</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <date>1573</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.480(R)</identifier>
+        <datestamp>2019-07-03T01:31:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47968</identifier>
+          <identifier>RP-P-OB-21.480(R)</identifier>
+          <title>Gideon kiest zijn manschappen</title>
+          <title>Delectus habetur à Gedeone</title>
+          <creator>anoniem</creator>
+          <contributor>Beham, Hans Sebald</contributor>
+          <contributor>Egenollf, Christian</contributor>
+          <date>1530 - 1533</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.485(R)</identifier>
+        <datestamp>2019-07-03T01:32:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47974</identifier>
+          <identifier>RP-P-OB-21.485(R)</identifier>
+          <title>Dood van Saul</title>
+          <title>Saul in fuga seipsum interficit una cum Armigero</title>
+          <creator>anoniem</creator>
+          <contributor>Beham, Hans Sebald</contributor>
+          <contributor>Egenollf, Christian</contributor>
+          <date>1530 - 1533</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.521</identifier>
+        <datestamp>2019-07-02T07:49:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48017</identifier>
+          <identifier>RP-P-OB-21.521</identifier>
+          <title>Annunciatie</title>
+          <creator>anoniem</creator>
+          <contributor>Beham, Hans Sebald</contributor>
+          <contributor>Andreae, Hieronymus</contributor>
+          <date>1527</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.896</identifier>
+        <datestamp>2019-10-16T21:40:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48481</identifier>
+          <identifier>RP-P-OB-21.896</identifier>
+          <title>Wijze oude man met een jonge nar</title>
+          <title>Illustraties uit de Lof der Zotheid</title>
+          <creator>Merian, Caspar</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <contributor>Holbein, Ambrosius</contributor>
+          <contributor>Genath, Johann Rudolf</contributor>
+          <date>1516</date>
+          <date>1676</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-30.912</identifier>
+        <datestamp>2019-05-22T12:32:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48531</identifier>
+          <identifier>RP-P-OB-30.912</identifier>
+          <title>Maria met Kind en Johannes de Doper</title>
+          <creator>Andreani, Andrea</creator>
+          <contributor>Casolani, Alessandro</contributor>
+          <date>1591</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.415</identifier>
+        <datestamp>2019-05-09T13:51:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47814</identifier>
+          <identifier>RP-P-OB-21.415</identifier>
+          <title>Fluitspeler en tamboer</title>
+          <title>Patenten umbzuschlagen</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <subject>oorlogsvoering; militaire zaken</subject>
+          <subject>de soldaat; het leven van een soldaat</subject>
+          <date>1573</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.499</identifier>
+        <datestamp>2019-07-03T01:36:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47994</identifier>
+          <identifier>RP-P-OB-21.499</identifier>
+          <title>Jona wordt overboord gegooid in de mond van de walvis</title>
+          <title>Historia Ionae prophetae</title>
+          <creator>anoniem</creator>
+          <contributor>Beham, Hans Sebald</contributor>
+          <contributor>Egenollf, Christian</contributor>
+          <date>1530 - 1533</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-476</identifier>
+        <datestamp>2019-03-07T12:09:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48166</identifier>
+          <identifier>RP-P-1988-476</identifier>
+          <title>Profeet Hosea predikend</title>
+          <creator>anoniem</creator>
+          <creator>Cranach, Lucas (II)</creator>
+          <date>1534 - 1600</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.037(R)</identifier>
+        <datestamp>2021-10-02T12:18:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48695</identifier>
+          <identifier>RP-P-OB-22.037(R)</identifier>
+          <title>Schepping van de mens</title>
+          <title>Creatio hominis</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1950-414K(V)</identifier>
+        <datestamp>2020-04-28T09:21:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48094</identifier>
+          <identifier>RP-P-1950-414K(V)</identifier>
+          <title>Modellen voor vier gezichten van mannen met raster</title>
+          <creator>anoniem</creator>
+          <creator>Beham, Hans Sebald</creator>
+          <contributor>Egenolff, erven Christian</contributor>
+          <date>1565</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.616</identifier>
+        <datestamp>2019-03-07T12:09:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48143</identifier>
+          <identifier>RP-P-OB-21.616</identifier>
+          <title>Letter L: kinderen nemen het lichaam van een vrouw van een galg</title>
+          <title>Versierde initialen</title>
+          <creator>anoniem</creator>
+          <creator>Calcar, Jan Stefan van</creator>
+          <contributor>Herpst, Jan</contributor>
+          <date>1543</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1950-410B(R)</identifier>
+        <datestamp>2020-09-13T00:49:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48672</identifier>
+          <identifier>RP-P-1950-410B(R)</identifier>
+          <title>Drie Turkse muzikanten te paard</title>
+          <creator>anoniem</creator>
+          <contributor>Swart van Groningen, Jan</contributor>
+          <date>1530</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MDU2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

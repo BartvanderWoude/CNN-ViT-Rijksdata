@@ -1,0 +1,508 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MzgwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1160</identifier>
+        <datestamp>2022-01-24T11:04:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65019</identifier>
+          <identifier>RP-F-00-1160</identifier>
+          <title>Kathedraal van Milaan</title>
+          <title>La Cattedrale</title>
+          <title>Milano</title>
+          <creator>Brogi, Giacomo</creator>
+          <contributor>Brogi, Giacomo</contributor>
+          <subject>Dom</subject>
+          <date>1890 - 1920</date>
+          <type>foto</type>
+          <format>barietpapier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Milaan</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1227</identifier>
+        <datestamp>2021-11-17T14:35:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65270</identifier>
+          <identifier>RP-F-00-1227</identifier>
+          <title>Gezicht op Palazzo Cà d'Oro te Venetië, Italië</title>
+          <title>Palazzo Cà Doro. (Venezia)</title>
+          <creator>Sommer, Giorgio</creator>
+          <subject>Ca' d'Oro</subject>
+          <subject>Venetië</subject>
+          <date>1857 - 1914</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1368</identifier>
+        <datestamp>2021-03-10T09:01:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65780</identifier>
+          <identifier>RP-F-00-1368</identifier>
+          <title>Portret van de medailleur en ciseleur Joannes Petrus Antonius Verschuylen, ten voeten uit</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Verschuylen, Joannes Petrus Antonius</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1103</identifier>
+        <datestamp>2022-01-24T09:08:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64735</identifier>
+          <identifier>RP-F-00-1103</identifier>
+          <title>Sculptuur van een onbekende Romeinse vrouw, mogelijk Ulpia Marciana</title>
+          <title>Marciana</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Dulfer, Willem Eduard Coenraad</contributor>
+          <subject>Capitolijnse Musea</subject>
+          <date>1885 - 1895</date>
+          <type>kabinetfoto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Capitolijnse Musea</coverage>
+          <coverage>Nieuwediep</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1221</identifier>
+        <datestamp>2021-03-10T09:01:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65253</identifier>
+          <identifier>RP-F-00-1221</identifier>
+          <title>Frontaal zicht op de Tempel van Neptunus te Paestum, Italië</title>
+          <title>Tempio di Nettuno. Pesto</title>
+          <creator>Sommer, Giorgio</creator>
+          <subject>Tempel van Neptunus</subject>
+          <subject>Paestum</subject>
+          <date>1857 - 1914</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Paestum</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.373</identifier>
+        <datestamp>2021-01-28T13:43:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70580</identifier>
+          <identifier>RP-P-OB-50.373</identifier>
+          <title>Berglandschap met kerk</title>
+          <title>Naaldbomen in een nauwe doorgang</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1905-17</identifier>
+        <datestamp>2022-03-21T10:36:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64878</identifier>
+          <identifier>RP-T-1905-17</identifier>
+          <title>De zalving van David tussen ruïnes van het Forum Romanum</title>
+          <creator>Breenbergh, Bartholomeus</creator>
+          <subject>Forum Romanum</subject>
+          <subject>Rome</subject>
+          <date>1642</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2409-A</identifier>
+        <datestamp>2021-10-07T16:33:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70152</identifier>
+          <identifier>NG-1980-27-H-2409-A</identifier>
+          <title>Messenheften uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>messenheft</type>
+          <format>hout</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-863-E</identifier>
+        <datestamp>2021-10-07T16:33:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70190</identifier>
+          <identifier>NG-1980-27-H-863-E</identifier>
+          <title>Messenheftring uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>messenheft</type>
+          <type>beslagring</type>
+          <format>koper</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.493</identifier>
+        <datestamp>2022-04-25T11:18:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70723</identifier>
+          <identifier>RP-P-OB-50.493</identifier>
+          <title>Reinaert de vos en een konijn</title>
+          <title>Reinaert de vos</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1665 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1991-22</identifier>
+        <datestamp>2021-10-02T12:50:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65302</identifier>
+          <identifier>NG-1991-22</identifier>
+          <title>Patriotse visie op slavernij</title>
+          <creator>Ommeren-Hengevelt, Louise van</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>sociale geschiedenis</subject>
+          <subject>patriotten</subject>
+          <subject>slavernij</subject>
+          <subject>verlichting</subject>
+          <subject>allegorie</subject>
+          <subject>muis</subject>
+          <subject>kooi</subject>
+          <subject>Rousseau, Jean-Jacques</subject>
+          <subject>Ommeren, Jacob Jan van</subject>
+          <date>1794</date>
+          <type>borduurwerk</type>
+          <format>zijde</format>
+          <format>garen</format>
+          <format>hout</format>
+          <format>garen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Arnhem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4058</identifier>
+        <datestamp>2021-10-20T14:39:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65936</identifier>
+          <identifier>NG-VG-1-4058</identifier>
+          <title>Baron J. de Pelichy-van Huerne, veertien jaar burgemeester van Brugge, penning aangeboden door zijn medeburgers</title>
+          <creator>Hart, Laurent Joseph</creator>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>lokaal bestuur</subject>
+          <subject>burgemeester</subject>
+          <subject>Brugge</subject>
+          <subject>Pelichy-van Huerne, J. baron de</subject>
+          <date>1854</date>
+          <type>erepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1981-61(R)</identifier>
+        <datestamp>2019-01-31T08:11:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65276</identifier>
+          <identifier>RP-T-1981-61(R)</identifier>
+          <title>Studie voor plafondschildering met kinderfiguren op wolken</title>
+          <creator>Franceschini, Baldassare</creator>
+          <date>1621 - 1698</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1239</identifier>
+        <datestamp>2021-03-10T09:01:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65359</identifier>
+          <identifier>RP-F-00-1239</identifier>
+          <title>Triomfboog van Constantijn te Rome, Italië</title>
+          <title>Arco di Costantino preso dal Colosseo (Roma)</title>
+          <creator>Sommer &amp; Behles</creator>
+          <subject>Boog van Constantijn</subject>
+          <subject>Rome</subject>
+          <date>1867 - 1874</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4027</identifier>
+        <datestamp>2021-10-20T14:39:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65905</identifier>
+          <identifier>NG-VG-1-4027</identifier>
+          <title>Eerste eeuwfeest van de Hollandsche Maatschappij der Wetenschappen te Haarlem</title>
+          <creator>Holtzhey, Johan George</creator>
+          <subject>genootschap</subject>
+          <subject>feest</subject>
+          <subject>Haarlem</subject>
+          <subject>Hollandsche Maatschappij der Wetenschappen</subject>
+          <date>1852</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4089</identifier>
+        <datestamp>2021-10-20T14:40:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65970</identifier>
+          <identifier>NG-VG-1-4089</identifier>
+          <title>Leopold I, vijfentwintig jaar koning van België</title>
+          <creator>Jouvenel, Adolphe</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>regeringsjubileum</subject>
+          <subject>25-jarig jubileum</subject>
+          <subject>België</subject>
+          <subject>Leopold I (koning der Belgen)</subject>
+          <date>1856</date>
+          <type>rekenpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1906-17</identifier>
+        <datestamp>2020-04-29T11:13:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64913</identifier>
+          <identifier>RP-T-1906-17</identifier>
+          <title>Ontwerp voor het timpaan aan de voorzijde van het Amsterdamse Stadhuis</title>
+          <creator>Campen, Jacob van</creator>
+          <contributor>Stalpaert, Daniel</contributor>
+          <subject>Stadhuis van Amsterdam (1655-1808)</subject>
+          <subject>Amsterdam</subject>
+          <date>1646 - 1650</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1967-107(R)</identifier>
+        <datestamp>2021-10-02T12:49:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65081</identifier>
+          <identifier>RP-T-1967-107(R)</identifier>
+          <title>De bevrijding van Petrus uit de gevangenis</title>
+          <creator>Panza, Federico</creator>
+          <date>1653 - 1703</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-5530</identifier>
+        <datestamp>2021-01-28T14:01:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.72065</identifier>
+          <identifier>RP-P-1882-A-5530</identifier>
+          <title>Gezicht op de Schelde met zeilschepen</title>
+          <title>Gezigt van de Schelde</title>
+          <creator>Apostool, Cornelis</creator>
+          <contributor>Kleyne, David</contributor>
+          <subject>Schelde</subject>
+          <date>1772 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.438</identifier>
+        <datestamp>2021-01-28T13:44:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70666</identifier>
+          <identifier>RP-P-OB-50.438</identifier>
+          <title>Landschap met drie personen bij een rots</title>
+          <title>De heuvel</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MzgyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

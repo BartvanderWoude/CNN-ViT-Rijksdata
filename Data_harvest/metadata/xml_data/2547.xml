@@ -1,0 +1,495 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MDkyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23101</identifier>
+        <datestamp>2016-10-20T20:56:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108337</identifier>
+          <identifier>RP-P-1903-A-23101</identifier>
+          <title>Landschap met ruïne</title>
+          <creator>Emaus de Micault, Gerardus</creator>
+          <date>1813 - 1863</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7169B</identifier>
+        <datestamp>2016-10-20T20:55:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106479</identifier>
+          <identifier>RP-P-BI-7169B</identifier>
+          <title>Landschap met een schaapherder</title>
+          <creator>Drift, Johannes Adrianus van der</creator>
+          <date>1823 - 1883</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7476</identifier>
+        <datestamp>2019-05-29T15:32:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107388</identifier>
+          <identifier>RP-P-BI-7476</identifier>
+          <title>Portret van Philippe de Champaigne</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Champaigne, Philippe de</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Champaigne, Philippe de</subject>
+          <date>1676</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>onbekend</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-3257</identifier>
+        <datestamp>2021-01-28T19:50:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97258</identifier>
+          <identifier>RP-P-1904-3257</identifier>
+          <title>Susanna en de ouderlingen</title>
+          <title>Het verhaal van Susanna</title>
+          <creator>Collaert, Hans (I)</creator>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Jode, Gerard de</contributor>
+          <date>1579</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-4385</identifier>
+        <datestamp>2021-01-28T19:33:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96077</identifier>
+          <identifier>RP-P-1909-4385</identifier>
+          <title>Portret van kardinaal Carlo Rossetti</title>
+          <title>Portretten van kardinalen</title>
+          <title>Effigies cardinalium nunc viventium</title>
+          <creator>Clouwet, Albertus</creator>
+          <contributor>Clouwet, Albertus</contributor>
+          <contributor>Rossi, Giovanni Giacomo de'</contributor>
+          <subject>Rossetti, Carlo</subject>
+          <date>1646 - 1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-7413</identifier>
+        <datestamp>2016-10-20T20:46:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96148</identifier>
+          <identifier>RP-P-OB-7413</identifier>
+          <title>Portret van Michiel Boudewijns</title>
+          <creator>Clouwet, Petrus</creator>
+          <contributor>Diepenbeeck, Abraham van</contributor>
+          <contributor>Diepenbeeck, Abraham van</contributor>
+          <subject>Boudewijns, Michiel</subject>
+          <date>1639 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-10953</identifier>
+        <datestamp>2021-01-28T19:39:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96511</identifier>
+          <identifier>RP-P-1886-A-10953</identifier>
+          <title>Dienstmeid met stoof</title>
+          <creator>Coclers, Marie Lambertine</creator>
+          <date>1776 - 1815</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1981-163</identifier>
+        <datestamp>2021-01-28T19:41:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96704</identifier>
+          <identifier>RP-P-1981-163</identifier>
+          <title>David en Batseba: het negende Gebod</title>
+          <title>Tien Geboden</title>
+          <title>Decalogvs cvm acerbissimis</title>
+          <creator>Collaert, Jan (II)</creator>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Galle, Philips</contributor>
+          <date>1585 - 1589</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1990-166</identifier>
+        <datestamp>2020-06-19T16:02:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108437</identifier>
+          <identifier>RP-P-1990-166</identifier>
+          <title>Boslandschap met de rustende kunstenaar en zijn reisgezelschap</title>
+          <title>Salzburgse landschappen met figuren</title>
+          <creator>Erhard, Johann Christoph</creator>
+          <subject>Erhard, Johann Christoph</subject>
+          <date>1814</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-4301</identifier>
+        <datestamp>2016-10-20T20:57:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108599</identifier>
+          <identifier>RP-P-1910-4301</identifier>
+          <title>Portret van Riqueti de Mirabeau</title>
+          <title>M.Riquettide Mirabeau</title>
+          <creator>Evans, Sophia Wilhelmina</creator>
+          <contributor>Loosjes, Adriaan Pietersz.</contributor>
+          <subject>Riqueti, Honoré-Gabriel de (graaf van Mirabeau)</subject>
+          <date>1782 - 1816</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-866</identifier>
+        <datestamp>2018-03-09T03:43:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106602</identifier>
+          <identifier>RP-P-1878-A-866</identifier>
+          <title>Een jonge man vlucht voor Bacchus, Venus en Amor</title>
+          <creator>Dubourg, Louis Fabritius</creator>
+          <contributor>Dubourg, Louis Fabritius</contributor>
+          <date>1720</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7452X</identifier>
+        <datestamp>2019-05-29T15:34:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107573</identifier>
+          <identifier>RP-P-BI-7452X</identifier>
+          <title>Penning met buste van Lodewijk XIV</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Coypel, Antoine</contributor>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1702</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-338</identifier>
+        <datestamp>2019-05-23T16:01:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108533</identifier>
+          <identifier>RP-P-1907-338</identifier>
+          <title>Portret van Joseph Werner</title>
+          <creator>Ertinger, Franz</creator>
+          <contributor>Le Poutre, Jean A.</contributor>
+          <contributor>Werner, Joseph (II)</contributor>
+          <subject>Werner, Joseph (II)</subject>
+          <date>1662 - 1710</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1952-409</identifier>
+        <datestamp>2016-10-20T20:55:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106884</identifier>
+          <identifier>RP-P-1952-409</identifier>
+          <title>Nederigheid overwint de Hoogmoed</title>
+          <title>Zeven deugden en zeven ondeugden</title>
+          <creator>Furnius, Pieter Jalhea</creator>
+          <contributor>Furnius, Pieter Jalhea</contributor>
+          <date>1550 - 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-3253</identifier>
+        <datestamp>2021-01-28T19:50:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97253</identifier>
+          <identifier>RP-P-1904-3253</identifier>
+          <title>Dood van de zoon van de Sunnemitische vrouw</title>
+          <title>Het verhaal van Elisa en de Sunnemitische vrouw</title>
+          <creator>Collaert, Hans (I)</creator>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <date>1643</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-11251</identifier>
+        <datestamp>2021-01-28T19:33:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96051</identifier>
+          <identifier>RP-P-1886-A-11251</identifier>
+          <title>Vuur</title>
+          <title>Ignis</title>
+          <title>De vier elementen</title>
+          <creator>Clock, Nicolaes Jansz.</creator>
+          <contributor>Clock, Nicolaes Jansz.</contributor>
+          <contributor>Clock, Nicolaes Jansz.</contributor>
+          <subject>vuur (een van de vier elementen)</subject>
+          <date>1597</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-13784</identifier>
+        <datestamp>2021-01-28T19:39:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96488</identifier>
+          <identifier>RP-P-1888-A-13784</identifier>
+          <title>De ketelschuurster</title>
+          <creator>Coclers, Louis Bernard</creator>
+          <contributor>Coclers, Louis Bernard</contributor>
+          <date>1780</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17539</identifier>
+        <datestamp>2021-10-02T13:11:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96942</identifier>
+          <identifier>RP-P-1892-A-17539</identifier>
+          <title>Mozes wordt gevonden door de dochter van farao</title>
+          <title>Landschappen met Bijbelse, mythologische scènes en jachttaferelen</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Hoeswinckel, Eduwart van</contributor>
+          <date>1582 - 1586</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23134</identifier>
+        <datestamp>2020-04-28T12:48:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107326</identifier>
+          <identifier>RP-P-1903-A-23134</identifier>
+          <title>De deïficatie van Aeneas</title>
+          <creator>Dyck, Daniël van den</creator>
+          <contributor>Dyck, Daniël van den</contributor>
+          <contributor>onbekend</contributor>
+          <date>ca. 1635 - ca. 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7506</identifier>
+        <datestamp>2019-05-29T15:32:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107426</identifier>
+          <identifier>RP-P-BI-7506</identifier>
+          <title>Portret van Ferdinand von Fürstenberg</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Michelin, Jean</contributor>
+          <subject>Fürstenberg, Ferdinand van</subject>
+          <date>1652 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MDk0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

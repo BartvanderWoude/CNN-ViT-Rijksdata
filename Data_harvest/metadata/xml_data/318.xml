@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MzQw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-NM-4777</identifier>
+        <datestamp>2021-12-09T11:45:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33776</identifier>
+          <identifier>NG-NM-4777</identifier>
+          <title>Jas prins Willem V</title>
+          <creator>anoniem</creator>
+          <subject>Willem V (prins van Oranje-Nassau)</subject>
+          <date>1700 - 1800</date>
+          <type>kinderkleding</type>
+          <type>jongenskleding</type>
+          <type>bovenkleding</type>
+          <type>jas</type>
+          <format>zijde</format>
+          <format>zilvergalon</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1644</identifier>
+        <datestamp>2022-03-02T15:15:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34054</identifier>
+          <identifier>RP-P-OB-1644</identifier>
+          <title>De kruisiging</title>
+          <title>De Ronde Passie</title>
+          <creator>Leyden, Lucas van</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1509</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1426</identifier>
+        <datestamp>2019-05-09T15:28:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33345</identifier>
+          <identifier>RP-P-OB-1426</identifier>
+          <title>Sterfbed van Maria</title>
+          <title>Leven van Maria</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1510</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1483</identifier>
+        <datestamp>2021-11-23T17:05:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33394</identifier>
+          <identifier>RP-P-OB-1483</identifier>
+          <title>Het Weense dubbelhuwelijk: Maximiliaan bespreekt met de koning van Hongarije en zijn broer de huwelijken tussen hun (klein)kinderen</title>
+          <title>Triomfboog van keizer Maximiliaan I</title>
+          <creator>Dürer, Albrecht</creator>
+          <subject>verloving</subject>
+          <subject>Maximiliaan I van Habsburg (keizer van het Heilige Roomse Rijk)</subject>
+          <subject>Vladislav Jagiello III (koning van Bohemen en Hongarije)</subject>
+          <subject>Maria van Hongarije (landvoogdes der Nederlanden)</subject>
+          <subject>Ferdinand I van Habsburg (Duits keizer)</subject>
+          <subject>Anna van Bohemen en Hongarije</subject>
+          <subject>Lodewijk II (koning van Bohemen en Hongarije)</subject>
+          <date>1515</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1804</identifier>
+        <datestamp>2020-05-06T11:47:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34002</identifier>
+          <identifier>RP-P-OB-1804</identifier>
+          <title>Jaël doodt Sisera</title>
+          <title>Kleine serie Vrouwenlisten</title>
+          <creator>Leyden, Lucas van</creator>
+          <date>1515 - 1519</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6236A</identifier>
+        <datestamp>2020-05-06T11:47:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34077</identifier>
+          <identifier>RP-P-BI-6236A</identifier>
+          <title>Koningen David, Salomo en Jerobeam</title>
+          <title>De twaalf koningen van Israël</title>
+          <creator>Leyden, Lucas van</creator>
+          <contributor>Cornelisz. van Oostsanen, Jacob</contributor>
+          <date>1518 - 1522</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-893</identifier>
+        <datestamp>2019-05-09T15:32:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34126</identifier>
+          <identifier>RP-P-OB-893</identifier>
+          <title>De bekering van de H. Paulus</title>
+          <creator>Meester van het Amsterdamse Kabinet</creator>
+          <contributor>Meester van het Amsterdamse Kabinet</contributor>
+          <date>1473 - 1477</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12788</identifier>
+        <datestamp>2021-10-02T12:02:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33841</identifier>
+          <identifier>BK-NM-12788</identifier>
+          <title>Kindermuts van Clunykant en witte batist</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1900</date>
+          <type>kinderkleding</type>
+          <type>muts</type>
+          <format>kant (materiaal)</format>
+          <format>batist</format>
+          <format>lint</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-879</identifier>
+        <datestamp>2021-10-02T12:03:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34103</identifier>
+          <identifier>RP-P-OB-879</identifier>
+          <title>De kruisiging met Maria en de H. Johannes en twee heilige vrouwen</title>
+          <creator>Meester van het Amsterdamse Kabinet</creator>
+          <contributor>Meester van het Amsterdamse Kabinet</contributor>
+          <date>1490</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1232</identifier>
+        <datestamp>2021-07-13T09:40:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33176</identifier>
+          <identifier>RP-P-OB-1232</identifier>
+          <title>De saterfamilie</title>
+          <creator>Monogrammist AD (16e eeuw)</creator>
+          <contributor>Dürer, Albrecht</contributor>
+          <date>1567</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1237</identifier>
+        <datestamp>2022-03-02T15:15:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33182</identifier>
+          <identifier>RP-P-OB-1237</identifier>
+          <title>Melancholie</title>
+          <creator>Dürer, Albrecht</creator>
+          <description>Na meer dan vijf eeuwen zijn nog altijd niet alle vragen over deze raadselachtige prent bevredigend beantwoord. Zeker is dat hier het melancholieke, zwartgallige temperament is verbeeld, dat eigen is aan creatieve geesten zoals kunstenaars en geleerden. Het besef dat alles wat de mens voortbrengt onvolmaakt is vervult de Melancholie met een diepe, onpeilbare droefenis.</description>
+          <date>1514</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1624</identifier>
+        <datestamp>2022-03-02T15:15:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33698</identifier>
+          <identifier>RP-P-OB-1624</identifier>
+          <title>Bespotting van Christus</title>
+          <title>De kleine Passie</title>
+          <creator>Leyden, Lucas van</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1521</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1328</identifier>
+        <datestamp>2019-05-09T15:28:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33251</identifier>
+          <identifier>RP-P-OB-1328</identifier>
+          <title>Laatste Avondmaal</title>
+          <title>De kleine Passie</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1508 - 1509</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-Z-253</identifier>
+        <datestamp>2019-05-09T15:28:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33325</identifier>
+          <identifier>RP-P-H-Z-253</identifier>
+          <title>Besnijdenis van Christus</title>
+          <title>Leven van Maria</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1502 - 1506</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1887-A-1096</identifier>
+        <datestamp>2021-01-28T13:05:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33767</identifier>
+          <identifier>RP-T-1887-A-1096</identifier>
+          <title>Kain doodt Abel</title>
+          <creator>Cooghen, Leendert van der</creator>
+          <contributor>Borch, Moses ter</contributor>
+          <date>1662-10-14</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1776</identifier>
+        <datestamp>2019-05-29T14:37:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33982</identifier>
+          <identifier>RP-P-OB-1776</identifier>
+          <title>Drie mansportretten</title>
+          <creator>anoniem</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1500 - 1600</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1398</identifier>
+        <datestamp>2019-05-09T15:28:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33302</identifier>
+          <identifier>RP-P-OB-1398</identifier>
+          <title>De aankondiging aan Joachim</title>
+          <title>Leven van Maria</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1502 - 1506</date>
+          <date>1511</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1705</identifier>
+        <datestamp>2019-05-29T14:37:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33909</identifier>
+          <identifier>RP-P-OB-1705</identifier>
+          <title>De heilige Joris en de prinses</title>
+          <creator>anoniem</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1508 - 1583</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1746</identifier>
+        <datestamp>2021-10-02T12:03:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33959</identifier>
+          <identifier>RP-P-OB-1746</identifier>
+          <title>De chirurgijn</title>
+          <title>De ooroperatie</title>
+          <creator>Muller, Jan Harmensz.</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1581 - 1628</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6303X</identifier>
+        <datestamp>2020-05-06T11:47:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34033</identifier>
+          <identifier>RP-P-BI-6303X</identifier>
+          <title>De besnijdenis van Christus</title>
+          <title>Stomme Passie</title>
+          <creator>Leyden, Lucas van</creator>
+          <date>1518 - 1522</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MzYw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

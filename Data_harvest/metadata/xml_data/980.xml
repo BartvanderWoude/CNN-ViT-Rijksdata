@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxOTU4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-2907</identifier>
+        <datestamp>2021-01-28T14:45:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74980</identifier>
+          <identifier>RP-P-1905-2907</identifier>
+          <title>Negen gezichten te Amsterdam</title>
+          <creator>Taurel, Edouard</creator>
+          <contributor>Hilverdink, Johannes Jacobus Antonius</contributor>
+          <subject>IJ</subject>
+          <subject>Amsterdamsche Bank</subject>
+          <subject>Koninklijk Paleis Amsterdam</subject>
+          <subject>Nieuwe Schouwburg (Amsterdam)</subject>
+          <subject>Mozes en Aäronkerk</subject>
+          <subject>Nieuwe Kerk</subject>
+          <subject>Artis</subject>
+          <subject>Beurs van Zocher</subject>
+          <subject>Amstel</subject>
+          <date>1841 - 1874</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-822</identifier>
+        <datestamp>2021-01-28T15:48:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77738</identifier>
+          <identifier>RP-P-BI-822</identifier>
+          <title>Een geleerde bij kaarslicht</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Bemme, Joannes</contributor>
+          <contributor>Versteegh, Michiel</contributor>
+          <date>ca. 1800 - in of voor 1841</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-19.779</identifier>
+        <datestamp>2016-10-20T20:23:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74779</identifier>
+          <identifier>RP-P-OB-19.779</identifier>
+          <title>Portret van Filips van Croÿ, hertog van Aarschot</title>
+          <creator>Taurel, Edouard</creator>
+          <subject>Croÿ, Filips III van (4de prins van Chimay, 3de hertog van Aarschot, 4de graaf van Beaumont)</subject>
+          <date>1841 - 1879</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-586</identifier>
+        <datestamp>2016-10-20T20:24:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75573</identifier>
+          <identifier>RP-P-BI-586</identifier>
+          <title>Portret van Willem Joseph Baron van Ghent</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Tongerloo, Pieter</contributor>
+          <contributor>Wesel, Romanus Dominicusz van</contributor>
+          <subject>Gendt, Willem Joseph baron van</subject>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-506</identifier>
+        <datestamp>2021-01-28T15:05:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.76429</identifier>
+          <identifier>RP-P-1878-A-506</identifier>
+          <title>Titelpagina met landschap met kind dat bloemen raapt en tekst</title>
+          <title>Titelpagina voor: Dichtbundel, F.C. de Greuve (auteur), 's-Hertogenbosch 1824</title>
+          <creator>Beek, Antonie van der</creator>
+          <contributor>Wonder, Pieter Christoffel</contributor>
+          <contributor>Arkesteijn, J.J.</contributor>
+          <date>1793 - 1852</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14274</identifier>
+        <datestamp>2021-01-28T15:50:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77928</identifier>
+          <identifier>RP-P-1889-A-14274</identifier>
+          <title>Landschap met herder</title>
+          <creator>Bemmel, Willem von</creator>
+          <contributor>Bemmel, Willem von</contributor>
+          <date>1645 - 1655</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-713</identifier>
+        <datestamp>2021-01-28T14:57:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75774</identifier>
+          <identifier>RP-P-BI-713</identifier>
+          <title>De heilige familie rustend onder een boom</title>
+          <creator>Basse, Willem</creator>
+          <date>1633 - 1672</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-706</identifier>
+        <datestamp>2018-09-05T10:06:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75823</identifier>
+          <identifier>RP-P-BI-706</identifier>
+          <title>Zeeslag bij Gibraltar op 25 april 1607</title>
+          <creator>Basse, Willem</creator>
+          <subject>Zeeslag bij Gibraltar (1607)</subject>
+          <subject>Heemskerck, Jacob van</subject>
+          <subject>Álvarez de Ávila, Don Juan</subject>
+          <date>1632 - 1634</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1993-58</identifier>
+        <datestamp>2021-10-02T13:09:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74832</identifier>
+          <identifier>RP-T-1993-58</identifier>
+          <title>Huis met houten omheining aan het water</title>
+          <creator>Erkelens, Jacob</creator>
+          <contributor>Hulswit, Jan</contributor>
+          <contributor>anoniem</contributor>
+          <date>1700 - 1799</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1885-A-9317</identifier>
+        <datestamp>2021-10-20T16:31:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75616</identifier>
+          <identifier>RP-P-1885-A-9317</identifier>
+          <title>Portret van Johannes Schellhammer op 51-jarige leeftijd</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Bisschop, Jan de</contributor>
+          <contributor>Schelneccers, Joh.</contributor>
+          <subject>Schelhammer, Johannes</subject>
+          <date>1665</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-841</identifier>
+        <datestamp>2021-01-28T15:48:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77764</identifier>
+          <identifier>RP-P-BI-841</identifier>
+          <title>Paardenhoofd met open bek, naar rechts</title>
+          <title>Paardenkoppen naar Gerrit Malleyn</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Malleyn, Gerrit</contributor>
+          <date>ca. 1800 - in of voor 1841</date>
+          <date>1801</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11903-25</identifier>
+        <datestamp>2021-10-02T13:10:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74856</identifier>
+          <identifier>BK-NM-11903-25</identifier>
+          <title>Fragment gefigureerd weefsel in linnen en wol</title>
+          <creator>anoniem</creator>
+          <date>1200 - 1599</date>
+          <type>weefsel</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-620</identifier>
+        <datestamp>2021-01-28T14:53:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75639</identifier>
+          <identifier>RP-P-BI-620</identifier>
+          <title>Portret van David Vlugh</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Bisschop, Jan de</contributor>
+          <subject>Vlugh, David</subject>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1898-A-19746</identifier>
+        <datestamp>2021-01-28T15:49:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77787</identifier>
+          <identifier>RP-P-1898-A-19746</identifier>
+          <title>Studieblad met soldaten</title>
+          <creator>Bemme, Joannes</creator>
+          <subject>de soldaat; het leven van een soldaat</subject>
+          <date>1802</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1937-1391</identifier>
+        <datestamp>2021-11-25T14:42:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74785</identifier>
+          <identifier>RP-P-1937-1391</identifier>
+          <title>Portret van Jan van Oostenrijk, landvoogd der Nederlanden</title>
+          <creator>Taurel, Edouard</creator>
+          <subject>Juan van Oostenrijk, Don</subject>
+          <date>1841 - 1879</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1884-A-7947</identifier>
+        <datestamp>2017-04-06T15:11:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75570</identifier>
+          <identifier>RP-P-1884-A-7947</identifier>
+          <title>Portret van Vincentius Fabricius</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Thiel, Michael</contributor>
+          <contributor>Titz, Johann Peter</contributor>
+          <subject>Fabricius, Vincentius</subject>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-802</identifier>
+        <datestamp>2021-01-28T15:48:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77718</identifier>
+          <identifier>RP-P-BI-802</identifier>
+          <title>Kop van een oude vrouw met pet</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Visscher, Cornelis (II)</contributor>
+          <date>1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-553</identifier>
+        <datestamp>2021-01-28T14:43:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74808</identifier>
+          <identifier>RP-P-1907-553</identifier>
+          <title>Portret van Benoit Taurel</title>
+          <creator>Taurel, Edouard</creator>
+          <contributor>Ingres, Jean Auguste Dominique</contributor>
+          <contributor>Taurel, Henriette Ursula Claire</contributor>
+          <contributor>Taurel, Benoit</contributor>
+          <subject>Taurel, Benoit</subject>
+          <date>1819</date>
+          <date>1885</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-2350</identifier>
+        <datestamp>2021-01-28T14:53:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75593</identifier>
+          <identifier>RP-P-1908-2350</identifier>
+          <title>Portret van Franciscus Junius (I)</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <contributor>Brandt, Geeraert (I)</contributor>
+          <subject>Junius, Franciscus (I)</subject>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1935-418</identifier>
+        <datestamp>2021-01-28T15:48:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77741</identifier>
+          <identifier>RP-P-1935-418</identifier>
+          <title>Poort van een fort met koets</title>
+          <title>Zes landschappen met soldatenstaffage</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Langendijk, Dirk</contributor>
+          <contributor>Bemme, Joannes</contributor>
+          <date>1804</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxOTYwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

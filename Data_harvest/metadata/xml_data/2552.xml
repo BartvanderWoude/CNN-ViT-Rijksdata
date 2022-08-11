@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MTAyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1883-A-7137</identifier>
+        <datestamp>2021-01-28T19:37:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96358</identifier>
+          <identifier>RP-P-1883-A-7137</identifier>
+          <title>David en Nathan</title>
+          <creator>Coclers, Louis Bernard</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1756 - 1817</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5965</identifier>
+        <datestamp>2021-01-28T19:38:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96407</identifier>
+          <identifier>RP-P-BI-5965</identifier>
+          <title>Portret van de kunstenaar Johannes Janson</title>
+          <creator>Coclers, Louis Bernard</creator>
+          <contributor>Coclers, Louis Bernard</contributor>
+          <subject>Janson, Johannes</subject>
+          <date>ca. 1769 - ca. 1787</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-16073</identifier>
+        <datestamp>2021-01-28T19:47:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97022</identifier>
+          <identifier>RP-P-1890-A-16073</identifier>
+          <title>Maart</title>
+          <title>Martivs</title>
+          <title>De twaalf maanden</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <date>1578 - 1582</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6054</identifier>
+        <datestamp>2021-12-01T11:52:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97073</identifier>
+          <identifier>RP-P-BI-6054</identifier>
+          <title>Dromedarissen en een kameel</title>
+          <title>Vierpotige dieren</title>
+          <title>Animalivm Qvaddrvpedvm</title>
+          <creator>anoniem</creator>
+          <contributor>Collaert, Adriaen</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <date>1595 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-191</identifier>
+        <datestamp>2016-10-20T20:56:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107542</identifier>
+          <identifier>RP-P-1906-191</identifier>
+          <title>Portret van Jacques de Solleysel</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Solleysel, Jacques de</subject>
+          <date>1666 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7458X</identifier>
+        <datestamp>2019-05-29T15:34:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107579</identifier>
+          <identifier>RP-P-BI-7458X</identifier>
+          <title>Penning met bustes van Lodewijk van Frankrijk en Maria Anna van Beieren</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Edelinck, Gerard</contributor>
+          <subject>Lodewijk, dauphin van Frankrijk</subject>
+          <subject>Beieren Dauphine van Frankrijk, Maria Anna van</subject>
+          <date>1702</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7171</identifier>
+        <datestamp>2016-10-20T20:55:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106470</identifier>
+          <identifier>RP-P-BI-7171</identifier>
+          <title>Landschap met stoomlocomotief</title>
+          <creator>Drift, Johannes Adrianus van der</creator>
+          <date>1859</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7456</identifier>
+        <datestamp>2016-10-20T20:56:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107385</identifier>
+          <identifier>RP-P-BI-7456</identifier>
+          <title>Portret van Pompone de Bellièvre</title>
+          <title>Pompone de Bellieure</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Bellièvre, Pompone II de</subject>
+          <date>1666 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7484</identifier>
+        <datestamp>2019-05-29T15:32:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107397</identifier>
+          <identifier>RP-P-BI-7484</identifier>
+          <title>Portret van Jean Cousin</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Drevet, Pierre</contributor>
+          <subject>Cousin, Jean</subject>
+          <date>1673 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14909</identifier>
+        <datestamp>2021-01-28T19:46:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96959</identifier>
+          <identifier>RP-P-1889-A-14909</identifier>
+          <title>Parabel van de Barmhartige Samaritaan</title>
+          <title>Landschappen met Bijbelse, mythologische scènes en jachttaferelen</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Hoeswinckel, Eduwart van</contributor>
+          <date>1582 - 1586</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.544</identifier>
+        <datestamp>2016-10-20T20:47:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97210</identifier>
+          <identifier>RP-P-OB-31.544</identifier>
+          <title>Vier vissen op het strand</title>
+          <title>Vissen</title>
+          <title>Piscivm vivae icones</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Collaert, Adriaen</contributor>
+          <contributor>Collaert, Adriaen</contributor>
+          <date>na 1595 - 1618</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-4371</identifier>
+        <datestamp>2020-03-23T10:41:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96094</identifier>
+          <identifier>RP-P-1909-4371</identifier>
+          <title>Portret van kardinaal Antonio Bichi</title>
+          <title>Portretten van kardinalen</title>
+          <title>Effigies cardinalium nunc viventium</title>
+          <creator>Clouwet, Albertus</creator>
+          <contributor>Gaulli, Giovanni Battista</contributor>
+          <contributor>Rossi, Giovanni Giacomo de'</contributor>
+          <subject>Bichi, Antonio</subject>
+          <date>1657 - 1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1963-286</identifier>
+        <datestamp>2021-01-28T19:43:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96816</identifier>
+          <identifier>RP-P-1963-286</identifier>
+          <title>Ignatius bezoekt het Heilige Land</title>
+          <title>Vita beati patris Ignatii Loyolae</title>
+          <title>Scènes uit het leven van Ignatius van Loyola</title>
+          <creator>Galle, Theodoor</creator>
+          <contributor>Mesa, Juan de</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <subject>Olijfberg</subject>
+          <date>1610</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Madrid</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1963-135</identifier>
+        <datestamp>2022-01-04T14:06:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96853</identifier>
+          <identifier>RP-P-1963-135</identifier>
+          <title>Julius Caesar te paard</title>
+          <title>C. Ivlivs Caesar</title>
+          <title>Romeinse keizers te paard</title>
+          <title>Imperatorum XII a Suetonio descriptorum effigies resque gestae</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Straet, Jan van der</contributor>
+          <contributor>Galle, Philips</contributor>
+          <subject>Julius Caesar</subject>
+          <date>1587 - 1589</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1891-A-16221</identifier>
+        <datestamp>2016-10-20T20:54:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106150</identifier>
+          <identifier>RP-P-1891-A-16221</identifier>
+          <title>Rijkdom</title>
+          <title>De lotgevallen van het leven</title>
+          <creator>Dolendo, Zacharias</creator>
+          <contributor>Gheyn, Jacob de (II)</contributor>
+          <contributor>Gheyn, Jacob de (II)</contributor>
+          <contributor>Groot, Hugo de</contributor>
+          <subject>bouwwerkzaamheden</subject>
+          <date>ca. 1596 - ca. 1597</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1939-193</identifier>
+        <datestamp>2021-01-28T19:36:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96298</identifier>
+          <identifier>RP-P-1939-193</identifier>
+          <title>Minerva</title>
+          <title>Pallas</title>
+          <title>Vrije kunsten en Minerva, Apollo en Industria</title>
+          <creator>Cock, Hieronymus</creator>
+          <contributor>Floris, Frans (I)</contributor>
+          <contributor>Cock, Hieronymus</contributor>
+          <contributor>Floris, Frans (I)</contributor>
+          <contributor>Cock, Hieronymus</contributor>
+          <contributor>onbekend</contributor>
+          <date>1551</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-13774</identifier>
+        <datestamp>2021-01-28T19:37:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96387</identifier>
+          <identifier>RP-P-1888-A-13774</identifier>
+          <title>Malle Babbe</title>
+          <creator>Coclers, Louis Bernard</creator>
+          <contributor>Hals, Frans</contributor>
+          <date>1756 - 1817</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6083B</identifier>
+        <datestamp>2021-01-28T19:41:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96673</identifier>
+          <identifier>RP-P-BI-6083B</identifier>
+          <title>Jozef legt dromen uit: gave van verstand</title>
+          <title>Spiritvs Intellectvs</title>
+          <title>Zeven gaven van de Heilige Geest</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Straet, Jan van der</contributor>
+          <contributor>Collaert, Adriaen</contributor>
+          <date>1593 - 1597</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7168A</identifier>
+        <datestamp>2016-10-20T20:55:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106476</identifier>
+          <identifier>RP-P-BI-7168A</identifier>
+          <title>Landschap met een jager met hond</title>
+          <creator>Drift, Johannes Adrianus van der</creator>
+          <date>1823 - 1883</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7479</identifier>
+        <datestamp>2019-05-29T15:32:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107391</identifier>
+          <identifier>RP-P-BI-7479</identifier>
+          <title>Portret van Elisabeth Charlotte Chauvin</title>
+          <title>Ste Elisabeth</title>
+          <creator>Edelinck, Gerard</creator>
+          <subject>Chauvin, Elisabeth Charlotte</subject>
+          <date>1652 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MTA0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

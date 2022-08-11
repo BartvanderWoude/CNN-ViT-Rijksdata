@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNDAw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1927-310(R)</identifier>
+        <datestamp>2021-10-02T12:11:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37616</identifier>
+          <identifier>RP-P-1927-310(R)</identifier>
+          <title>Zittend paar in een interieur</title>
+          <creator>Swart van Groningen, Jan</creator>
+          <contributor>Vorsterman, Willem</contributor>
+          <date>1520 - 1540</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1933-608C</identifier>
+        <datestamp>2021-10-02T12:11:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37653</identifier>
+          <identifier>RP-P-1933-608C</identifier>
+          <title>De winter</title>
+          <title>L'Arido Trionfo de la Fredda Vernata</title>
+          <title>Triomfen van de vier seizoenen</title>
+          <creator>anoniem</creator>
+          <contributor>Monogrammist AP (16e eeuw)</contributor>
+          <contributor>Osthaus, Johannes</contributor>
+          <contributor>Senaat van Venetië</contributor>
+          <date>1537 - 1550</date>
+          <date>1567</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1954-87</identifier>
+        <datestamp>2021-10-02T12:11:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37417</identifier>
+          <identifier>RP-T-1954-87</identifier>
+          <title>Figuur op laag stoeltje gezeten, op de rug gezien</title>
+          <creator>Dusart, Cornelis</creator>
+          <date>1670 - 1704</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1932-121B</identifier>
+        <datestamp>2021-10-02T12:10:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37310</identifier>
+          <identifier>RP-P-1932-121B</identifier>
+          <title>De maaltijd</title>
+          <title>Het verhaal van Sorgheloos</title>
+          <creator>Anthonisz., Cornelis</creator>
+          <contributor>Ewoutsz., Jan</contributor>
+          <contributor>Jonck, Jacob Jacobsz.</contributor>
+          <contributor>Ewoutsz., Jan</contributor>
+          <date>1541</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-103</identifier>
+        <datestamp>2021-10-02T12:10:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37316</identifier>
+          <identifier>RP-P-BI-103</identifier>
+          <title>De verdrijving van Sorgheloos</title>
+          <title>Het verhaal van Sorgheloos</title>
+          <creator>Anthonisz., Cornelis</creator>
+          <contributor>Ewoutsz., Jan</contributor>
+          <contributor>Ewoutsz., Jan</contributor>
+          <date>1541</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2148</identifier>
+        <datestamp>2019-05-09T15:53:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37810</identifier>
+          <identifier>RP-P-OB-2148</identifier>
+          <title>Jakob ontvangt het bebloede kleed van Jozef</title>
+          <creator>Claesz. van Leyden, Aertgen</creator>
+          <date>1508 - 1564</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6289</identifier>
+        <datestamp>2020-05-06T11:48:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37460</identifier>
+          <identifier>RP-P-BI-6289</identifier>
+          <title>Christus in het voorgeborchte</title>
+          <title>De Kleine Passie</title>
+          <creator>Cornelisz. van Oostsanen, Jacob</creator>
+          <date>1520 - 1521</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1092</identifier>
+        <datestamp>2021-10-02T12:11:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37710</identifier>
+          <identifier>RP-P-OB-1092</identifier>
+          <title>Aanbidding der koningen</title>
+          <creator>Meester IAM van Zwoll</creator>
+          <date>1470 - 1480</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-943</identifier>
+        <datestamp>2019-05-29T14:48:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38051</identifier>
+          <identifier>RP-P-BI-943</identifier>
+          <title>Liggend schaap met halster en staand schaap</title>
+          <title>Schapen</title>
+          <title>Animalia ad vivum delineata et aqua forti aeri impressa Studio et Arte Nicolai Berchemi</title>
+          <creator>Berchem, Nicolaes Pietersz.</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <contributor>Jonghe, Clement de</contributor>
+          <date>1648 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6238</identifier>
+        <datestamp>2020-05-06T11:48:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37561</identifier>
+          <identifier>RP-P-BI-6238</identifier>
+          <title>Rebekka stuurt Jakob naar Leban</title>
+          <creator>anoniem</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <contributor>Cornelisz. van Oostsanen, Jacob</contributor>
+          <date>1525 - 1530</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2199</identifier>
+        <datestamp>2021-10-02T12:11:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37610</identifier>
+          <identifier>RP-P-OB-2199</identifier>
+          <title>Aanbidding der drie koningen</title>
+          <title>Scènes uit het leven van Christus</title>
+          <creator>Swart van Groningen, Jan</creator>
+          <date>1510 - 1558</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1012</identifier>
+        <datestamp>2019-05-09T15:55:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38102</identifier>
+          <identifier>RP-P-BI-1012</identifier>
+          <title>Ram en schaap</title>
+          <title>Verschillende dieren</title>
+          <title>Animalia ad vivum delineata et aqua forti aeri impressa Studio et Arte Nicolai Berchemi</title>
+          <creator>Berchem, Nicolaes Pietersz.</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <contributor>Jonghe, Clement de</contributor>
+          <date>1648 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2001B</identifier>
+        <datestamp>2019-05-29T14:49:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38151</identifier>
+          <identifier>RP-P-BI-2001B</identifier>
+          <title>Zittende oude man met boek</title>
+          <title>Oude man met een klaverblad op zijn jas</title>
+          <creator>Bol, Ferdinand</creator>
+          <date>1626 - 1680</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-93</identifier>
+        <datestamp>2021-10-02T12:10:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37336</identifier>
+          <identifier>RP-P-BI-93</identifier>
+          <title>De rijke man en de arme Lazarus</title>
+          <creator>Anthonisz., Cornelis</creator>
+          <date>1541</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2245</identifier>
+        <datestamp>2019-05-29T14:48:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37670</identifier>
+          <identifier>RP-P-OB-2245</identifier>
+          <title>Jager te paard</title>
+          <title>De leeuwenjacht</title>
+          <creator>Scorel, Jan van</creator>
+          <contributor>Sustris, Lambert</contributor>
+          <contributor>Ewoutsz., Jan</contributor>
+          <date>1540 - 1545</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-904</identifier>
+        <datestamp>2019-05-09T15:54:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38002</identifier>
+          <identifier>RP-P-BI-904</identifier>
+          <title>Fluitspelende herder</title>
+          <creator>Berchem, Nicolaes Pietersz.</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>1645 - 1650</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1932-144</identifier>
+        <datestamp>2022-02-23T15:35:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37359</identifier>
+          <identifier>RP-P-1932-144</identifier>
+          <title>Portret van Filips II te paard</title>
+          <creator>Anthonisz., Cornelis</creator>
+          <contributor>Liefrinck, Hans (I)</contributor>
+          <contributor>Liefrinck, Hans (I)</contributor>
+          <contributor>Liefrinck, Hans (I)</contributor>
+          <subject>Filips II (koning van Spanje)</subject>
+          <date>1543 - 1544</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1927-426-5</identifier>
+        <datestamp>2020-11-20T13:40:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37693</identifier>
+          <identifier>RP-P-1927-426-5</identifier>
+          <title>Stamboom van het Habsburgse huis, blad vijf</title>
+          <title>Stamboom van het Habsburgse Huis</title>
+          <creator>Péril, Robert</creator>
+          <contributor>Péril, Robert</contributor>
+          <subject>Childebert I (koning van Austrasië)</subject>
+          <subject>Theudebert (koning van Austrasië)</subject>
+          <subject>Habsburgse huis</subject>
+          <date>1533 - 1535</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-776</identifier>
+        <datestamp>2021-10-02T12:11:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37908</identifier>
+          <identifier>RP-P-BI-776</identifier>
+          <title>Twee mannen en vrouw met kind zittend in herberg</title>
+          <creator>Bega, Cornelis Pietersz.</creator>
+          <date>1642 - 1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-920</identifier>
+        <datestamp>2019-05-29T14:48:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38025</identifier>
+          <identifier>RP-P-BI-920</identifier>
+          <title>Kop van een geit</title>
+          <creator>Berchem, Nicolaes Pietersz.</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>1630 - 1683</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNDIw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,520 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MDEwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-4528</identifier>
+        <datestamp>2021-08-10T14:50:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90110</identifier>
+          <identifier>RP-P-1910-4528</identifier>
+          <title>Portret van Chéron</title>
+          <creator>Calamatta, Luigi</creator>
+          <contributor>Devéria, Achille</contributor>
+          <contributor>Couché, François Louis</contributor>
+          <date>1811 - 1869</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5088</identifier>
+        <datestamp>2021-10-02T13:11:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89091</identifier>
+          <identifier>RP-P-BI-5088</identifier>
+          <title>Titelprent met titel in cartouche met daaromheen apen aan het werk als goudsmid</title>
+          <title>Animalivm qvadrvpedvm</title>
+          <title>Dieren in landschappen</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Boyvin, René</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <subject>dieren die zich als mensen gedragen</subject>
+          <date>1594</date>
+          <date>1621</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-16.160</identifier>
+        <datestamp>2021-01-28T17:37:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89097</identifier>
+          <identifier>RP-P-OB-16.160</identifier>
+          <title>Vier dromedarissen</title>
+          <title>Animalivm qvadrvpedvm</title>
+          <title>Dieren in landschappen</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Londerseel, Assuerus van</contributor>
+          <date>1594</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5329B</identifier>
+        <datestamp>2021-01-28T17:44:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89736</identifier>
+          <identifier>RP-P-BI-5329B</identifier>
+          <title>Mercurius en Cupido op een wolk</title>
+          <creator>Buysen, Andries van (Sr.)</creator>
+          <contributor>Picart, Bernard</contributor>
+          <date>1700 - 1750</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5329</identifier>
+        <datestamp>2021-01-28T17:44:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89742</identifier>
+          <identifier>RP-P-BI-5329</identifier>
+          <title>Penningkabinet met Mercurius en Juno</title>
+          <title>Titelblad voor Inleiding tot de Hedendaagsche Penningkunde, Amsterdam: 1717</title>
+          <creator>Buysen, Andries van (Sr.)</creator>
+          <contributor>Verkolje, Nicolaas</contributor>
+          <contributor>Beudeker, Christoffel</contributor>
+          <date>1717</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5492</identifier>
+        <datestamp>2021-01-28T18:36:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90000</identifier>
+          <identifier>RP-P-BI-5492</identifier>
+          <title>Pan herme met bloemenkrans</title>
+          <title>Premier liures des paisages du sieur vendrecable</title>
+          <title>Landschappen met schaapsherders</title>
+          <creator>Kabel, Adriaen van der</creator>
+          <contributor>Kabel, Adriaen van der</contributor>
+          <contributor>Audran</contributor>
+          <contributor>Robert, N.</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1648 - 1705</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5495</identifier>
+        <datestamp>2021-01-28T18:36:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90006</identifier>
+          <identifier>RP-P-BI-5495</identifier>
+          <title>Landschap met spitse toren</title>
+          <title>Landschappen met schaapsherders</title>
+          <creator>Kabel, Adriaen van der</creator>
+          <contributor>Kabel, Adriaen van der</contributor>
+          <contributor>Robert, N.</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>landschappen</subject>
+          <date>1648 - 1705</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-3040</identifier>
+        <datestamp>2021-01-28T18:53:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91147</identifier>
+          <identifier>RP-P-1907-3040</identifier>
+          <title>Portret van Bernardus Verwey</title>
+          <creator>Caspari, Jan Willem</creator>
+          <contributor>Caspari, Hendrik Willem</contributor>
+          <contributor>Grient Dreux, P. de</contributor>
+          <contributor>Hulsebosch, J. van Ledden</contributor>
+          <subject>Verwey, Bernardus</subject>
+          <date>1789 - 1822</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-16.141</identifier>
+        <datestamp>2021-09-07T12:40:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88939</identifier>
+          <identifier>RP-P-OB-16.141</identifier>
+          <title>Gevangenneming van Christus</title>
+          <title>De Passie</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1618</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-16.130</identifier>
+        <datestamp>2021-01-28T17:35:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88945</identifier>
+          <identifier>RP-P-OB-16.130</identifier>
+          <title>Christus voor Pilatus</title>
+          <title>De Passie</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1619</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2755</identifier>
+        <datestamp>2021-10-02T13:10:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88988</identifier>
+          <identifier>RP-P-1909-2755</identifier>
+          <title>Held Alexander de Grote te paard in omlijsting met ornamenten</title>
+          <title>Alexander Macedo</title>
+          <title>De negen besten</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Londerseel, Assuerus van</contributor>
+          <date>1581 - 1594</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5375</identifier>
+        <datestamp>2021-01-28T17:46:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89843</identifier>
+          <identifier>RP-P-BI-5375</identifier>
+          <title>Stier staand bij boomstronk</title>
+          <title>Runderen en varkens</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Potter, Paulus</contributor>
+          <date>1657 - ca. 1677</date>
+          <date>1728 - ca. 1761</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5401</identifier>
+        <datestamp>2021-01-28T18:34:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89887</identifier>
+          <identifier>RP-P-BI-5401</identifier>
+          <title>Brullende leeuw, de staart in de lucht</title>
+          <title>Leeuwen</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Potter, Paulus</contributor>
+          <subject>leeuw</subject>
+          <date>1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5406</identifier>
+        <datestamp>2021-01-28T18:34:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89893</identifier>
+          <identifier>RP-P-BI-5406</identifier>
+          <title>Zwijn aangevallen door vier jachthonden</title>
+          <title>Jachthonden</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Potter, Paulus</contributor>
+          <subject>zwijn</subject>
+          <date>1657 - ca. 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5341</identifier>
+        <datestamp>2021-01-28T17:44:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89693</identifier>
+          <identifier>RP-P-BI-5341</identifier>
+          <title>De maaltijd te Emmaüs</title>
+          <creator>Buys, Jacobus</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1765</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5367</identifier>
+        <datestamp>2021-01-28T17:45:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89792</identifier>
+          <identifier>RP-P-BI-5367</identifier>
+          <title>Staande koe, met boom</title>
+          <title>Koeien en stieren</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Potter, Paulus</contributor>
+          <date>1657 - ca. 1677</date>
+          <date>1728 - ca. 1761</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1885-A-9536</identifier>
+        <datestamp>2021-01-28T18:37:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90049</identifier>
+          <identifier>RP-P-1885-A-9536</identifier>
+          <title>Landschap met man met wapperende mantel</title>
+          <title>Landschappen, serie vier</title>
+          <creator>Kabel, Adriaen van der</creator>
+          <contributor>Kabel, Adriaen van der</contributor>
+          <contributor>Robert, N.</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>landschappen</subject>
+          <date>1648 - 1705</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1896-A-19054</identifier>
+        <datestamp>2021-10-02T13:11:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89191</identifier>
+          <identifier>RP-P-1896-A-19054</identifier>
+          <title>Fantastische waterdieren, onder andere zeepaard</title>
+          <title>Libelivs varia Genera piscium complectens</title>
+          <title>Zoetwatervissen, zeevissen, kikkers, schaaldieren en zeewezens</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Beusekom, Francoys van</contributor>
+          <date>1581 - 1656</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-56.845</identifier>
+        <datestamp>2019-11-28T15:20:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90297</identifier>
+          <identifier>RP-P-OB-56.845</identifier>
+          <title>Beleg van Saint Martin op het Île de Ré, juli-november 1627 (tekst, deel rechtsboven)</title>
+          <title>Callotus moderatoribus terrarum, mariumque domitoribus ad aeternam christianissimi regis Ludovici Iusti gloriam</title>
+          <creator>anoniem</creator>
+          <contributor>Delorme, Charles</contributor>
+          <subject>Ile de Ré</subject>
+          <date>1629 - 1631</date>
+          <type>prent</type>
+          <type>historieprent</type>
+          <type>tekstblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-27</identifier>
+        <datestamp>2021-06-11T12:25:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90701</identifier>
+          <identifier>RP-P-1961-27</identifier>
+          <title>Portret van Lodewijk Filips I van Orléans en zijn zoon Lodewijk Filips II van Orléans</title>
+          <creator>Carmontelle, Louis de</creator>
+          <subject>kostuum</subject>
+          <subject>Orléans, Lodewijk Filips I van</subject>
+          <subject>Lodewijk Filips II (hertog van Orléans)</subject>
+          <date>1759</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MDEyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

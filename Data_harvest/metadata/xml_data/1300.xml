@@ -1,0 +1,488 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNTk4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-492</identifier>
+        <datestamp>2021-10-20T13:43:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57625</identifier>
+          <identifier>NG-VG-1-492</identifier>
+          <title>Ernst, aartshertog van Oostenrijk</title>
+          <creator>Abondio, Antonio</creator>
+          <subject>Ernst (aartshertog van Oostenrijk)</subject>
+          <date>1586</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15986</identifier>
+        <datestamp>2021-10-02T12:32:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55874</identifier>
+          <identifier>BK-15986</identifier>
+          <title>Porseleinkast</title>
+          <creator>anoniem</creator>
+          <date>ca. 1770 - ca. 1775</date>
+          <type>porseleinkast</type>
+          <format>hout</format>
+          <format>eikenhout</format>
+          <format>wortelnotenhout</format>
+          <format>notenhout</format>
+          <format>metaal</format>
+          <format>koper</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-7059-A</identifier>
+        <datestamp>2021-11-03T21:17:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56326</identifier>
+          <identifier>AK-NM-7059-A</identifier>
+          <title>Twee paar oorbellen (pipalpati)</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750</date>
+          <type>sieraad</type>
+          <type>oorbel</type>
+          <type>pipalpati</type>
+          <type>dul</type>
+          <format>goud</format>
+          <format>parel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Surat</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11441-A</identifier>
+        <datestamp>2022-03-14T14:28:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57141</identifier>
+          <identifier>BK-NM-11441-A</identifier>
+          <title>40 Tegels</title>
+          <creator>anoniem</creator>
+          <date>1620 - 1650</date>
+          <type>tegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-158</identifier>
+        <datestamp>2021-10-20T13:40:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57315</identifier>
+          <identifier>NG-VG-1-158</identifier>
+          <title>Johan de Standvastige, keurvorst van Saksen en zijn zoon Johan Frederik de Grootmoedige</title>
+          <creator>Meister Peter</creator>
+          <subject>protestantisme</subject>
+          <subject>Augsburgse geloofsbelijdenis</subject>
+          <subject>Augsburg</subject>
+          <subject>Beieren</subject>
+          <subject>Johan de Standvastige, keurvorst van Saksen</subject>
+          <subject>Johan Frederik I (keurvorst van Saksen)</subject>
+          <date>1530 - 1531</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Joachimsthal</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-335</identifier>
+        <datestamp>2021-10-20T13:41:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57484</identifier>
+          <identifier>NG-VG-1-335</identifier>
+          <title>Overlijden van Petrus Martyr, hervormer in Italië, Zwitserland en Frankrijk</title>
+          <creator>Dassier, Jean</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>protestantisme</subject>
+          <subject>hervorming</subject>
+          <subject>Italië</subject>
+          <subject>Zwitserland</subject>
+          <subject>Frankrijk</subject>
+          <subject>Vermigli, Pietro Martire</subject>
+          <date>1725</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Genève</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14559-M-F</identifier>
+        <datestamp>2020-03-02T15:50:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57667</identifier>
+          <identifier>BK-14559-M-F</identifier>
+          <title>Kop en schotel met een veelkleurig landschap in een medaillon uitgespaard in een geometrisch patroon</title>
+          <creator>Weesper porseleinfabriek</creator>
+          <date>ca. 1759 - ca. 1771</date>
+          <type>kop-en-schotel</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Weesp</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1951-250</identifier>
+        <datestamp>2021-10-02T12:32:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55815</identifier>
+          <identifier>RP-T-1951-250</identifier>
+          <title>Te paard zittende jonge ruiter</title>
+          <creator>Miel, Jan</creator>
+          <date>1610 - 1663</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1885-A-456</identifier>
+        <datestamp>2021-10-02T12:33:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56396</identifier>
+          <identifier>RP-T-1885-A-456</identifier>
+          <title>Berglandschap met een kasteel</title>
+          <creator>Nieulandt, Adriaen van (I)</creator>
+          <date>1597 - 1658</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14248</identifier>
+        <datestamp>2021-10-02T12:34:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57111</identifier>
+          <identifier>BK-NM-14248</identifier>
+          <title>Twee gemarmerde tegels</title>
+          <creator>anoniem</creator>
+          <date>1650 - 1700</date>
+          <type>tegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-182</identifier>
+        <datestamp>2021-10-20T13:40:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57338</identifier>
+          <identifier>NG-VG-1-182</identifier>
+          <title>Ter ere van Martin Luther</title>
+          <creator>Hohenauer, Michael</creator>
+          <subject>Luther, Martin</subject>
+          <date>1533</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Praag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-313</identifier>
+        <datestamp>2021-10-20T13:41:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57461</identifier>
+          <identifier>NG-VG-1-313</identifier>
+          <title>George van Egmond, zestigste bisschop van Utrecht</title>
+          <creator>Herwijck, Steven Cornelisz. van</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>Utrecht</subject>
+          <subject>Egmond, George van</subject>
+          <date>1558</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-519</identifier>
+        <datestamp>2021-10-20T13:43:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57695</identifier>
+          <identifier>NG-VG-1-519</identifier>
+          <title>Abraham Ortelius</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>onderwijs en wetenschappen</subject>
+          <subject>cartografie</subject>
+          <subject>Ortelius, Abraham</subject>
+          <date>1598</date>
+          <type>overlijdenspenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15984</identifier>
+        <datestamp>2021-10-02T12:32:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55695</identifier>
+          <identifier>BK-15984</identifier>
+          <title>Schrijfkabinet met spiegels en op schrijfblad monogram PVA</title>
+          <creator>anoniem</creator>
+          <date>1753</date>
+          <type>meubilair</type>
+          <type>schrijfmeubel</type>
+          <type>kabinet</type>
+          <type>schrijfkabinet</type>
+          <format>hout</format>
+          <format>wortelnotenhout</format>
+          <format>eikenhout</format>
+          <format>cederhout</format>
+          <format>rozenhout</format>
+          <format>spiegelglas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-7086</identifier>
+        <datestamp>2021-11-03T21:18:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56420</identifier>
+          <identifier>AK-NM-7086</identifier>
+          <title>Halsketting (chandanhar)</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750</date>
+          <type>sieraad</type>
+          <type>halsketting</type>
+          <type>chandanhar</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Surat</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-286</identifier>
+        <datestamp>2021-10-20T14:35:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57438</identifier>
+          <identifier>NG-VG-1-286</identifier>
+          <title>Overwinningen van Hendrik II, koning van Frankrijk</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Hendrik II (koning van Frankrijk)</subject>
+          <date>1550 - 1650</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-544</identifier>
+        <datestamp>2021-10-20T13:43:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57718</identifier>
+          <identifier>NG-VG-1-544</identifier>
+          <title>Verenigde Amsterdamse Compagnie, munt ter vervanging van de Spaanse 4 realen</title>
+          <title>Halve reaal van achten</title>
+          <creator>Jonge, Jacob de (muntmeester)</creator>
+          <subject>muntwezen</subject>
+          <subject>betalingsverkeer</subject>
+          <subject>Nederlands Oost-Indië</subject>
+          <subject>Dordrecht</subject>
+          <subject>Verenigde Amsterdamse Compagnie</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>1601</date>
+          <type>munt</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1967-88</identifier>
+        <datestamp>2019-01-03T16:53:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55603</identifier>
+          <identifier>RP-T-1967-88</identifier>
+          <title>Anjer</title>
+          <creator>Marrel, Jacob</creator>
+          <date>1624 - 1681</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>perkament</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-263</identifier>
+        <datestamp>2021-10-20T13:41:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57415</identifier>
+          <identifier>NG-VG-1-263</identifier>
+          <title>Jubeljaar afgekondigd door paus Julius III</title>
+          <creator>Bonzagni, Giovan Giacomo</creator>
+          <subject>katholicisme</subject>
+          <subject>jubeljaar</subject>
+          <subject>paus</subject>
+          <subject>Julius III</subject>
+          <date>1550</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-570</identifier>
+        <datestamp>2021-10-20T13:43:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57741</identifier>
+          <identifier>NG-VG-1-570</identifier>
+          <title>Filips III van Spanje, beschermer van de katholieke kerk</title>
+          <creator>Gaci, Rutilio</creator>
+          <subject>Filips III (koning van Spanje)</subject>
+          <date>1607</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Madrid</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjAwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

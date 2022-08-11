@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMTg4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-241</identifier>
+        <datestamp>2021-09-23T16:35:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15564</identifier>
+          <identifier>BK-NM-12400-241</identifier>
+          <title>Zomer</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1760</date>
+          <type>beeld</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Braunschweig</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9937</identifier>
+        <datestamp>2021-11-03T16:53:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15114</identifier>
+          <identifier>BK-NM-9937</identifier>
+          <title>Model voor een beugel van een boekslot met geprofileerde randen en bladeren</title>
+          <creator>anoniem</creator>
+          <date>ca. 1775 - ca. 1800</date>
+          <type>model</type>
+          <type>beugel (sluitmiddel)</type>
+          <type>boekslot</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15568</identifier>
+        <datestamp>2021-10-01T23:59:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15370</identifier>
+          <identifier>BK-15568</identifier>
+          <title>Oesterschelp, beschilderd met een bloemtak</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>ca. 1778 - ca. 1782</date>
+          <type>oesterschelp</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-121</identifier>
+        <datestamp>2021-10-02T00:00:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15457</identifier>
+          <identifier>BK-1975-121</identifier>
+          <title>Schotel, beschilderd met voluutvormige velden en strooibloemen</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>ca. 1782 - ca. 1784</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-192</identifier>
+        <datestamp>2021-10-02T00:06:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15849</identifier>
+          <identifier>BK-NM-12400-192</identifier>
+          <title>Schotel, beschilderd met portret Anna van Hannover, echtgenote van stadhouder Willem IV</title>
+          <creator>anoniem</creator>
+          <subject>Koninklijk Huis</subject>
+          <subject>Anna van Hannover</subject>
+          <date>1758</date>
+          <type>schotel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2583</identifier>
+        <datestamp>2021-10-02T00:06:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15863</identifier>
+          <identifier>BK-NM-2583</identifier>
+          <title>Stoof van faience</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1780</date>
+          <type>stoof</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-287</identifier>
+        <datestamp>2021-10-02T00:06:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15912</identifier>
+          <identifier>BK-NM-12400-287</identifier>
+          <title>Bord, beschilderd met het familiewapen Cramer van Hoekke</title>
+          <creator>anoniem</creator>
+          <date>1719</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13327-D</identifier>
+        <datestamp>2021-10-02T00:01:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15506</identifier>
+          <identifier>BK-NM-13327-D</identifier>
+          <title>Pot met deksel</title>
+          <creator>De Vergulde Blompot</creator>
+          <date>1780 - 1820</date>
+          <type>kaststel</type>
+          <type>dekselpot</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-29</identifier>
+        <datestamp>2021-10-19T16:23:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15805</identifier>
+          <identifier>BK-NM-12400-29</identifier>
+          <title>Plaat, beschilderd met een raadsel</title>
+          <creator>anoniem</creator>
+          <date>1781</date>
+          <type>plaat</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11631</identifier>
+        <datestamp>2022-01-26T16:14:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16056</identifier>
+          <identifier>BK-NM-11631</identifier>
+          <title>Bord, beschilderd met bloemen en 'bliksemmotief'</title>
+          <creator>De Drie Porceleyne Flessies</creator>
+          <contributor>Kool, Willem van der</contributor>
+          <date>ca. 1720 - ca. 1740</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1956-11-B</identifier>
+        <datestamp>2021-10-02T00:09:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16062</identifier>
+          <identifier>BK-1956-11-B</identifier>
+          <title>George I, koning van Engeland</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <subject>politieke geschiedenis</subject>
+          <subject>internationale betrekkingen</subject>
+          <subject>Engeland</subject>
+          <subject>George I (koning van Groot-Brittannië en Ierland)</subject>
+          <date>1720 - 1740</date>
+          <date>1830 - 1880</date>
+          <type>plaat</type>
+          <type>vervalsing</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12190-A</identifier>
+        <datestamp>2021-11-03T19:19:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15615</identifier>
+          <identifier>BK-NM-12190-A</identifier>
+          <title>Buidel van goudbrokaat in een groot bloemenpatroon, op beigekleurig satijn, afgezet met goudgalon</title>
+          <creator>anoniem</creator>
+          <date>ca. 1785 - ca. 1800</date>
+          <type>buidel</type>
+          <format>zijde</format>
+          <format>goudbrokaat</format>
+          <format>goudgalon</format>
+          <format>linnen</format>
+          <format>zeemleer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1962-22</identifier>
+        <datestamp>2019-11-20T14:05:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15625</identifier>
+          <identifier>RP-T-1962-22</identifier>
+          <title>Negen studies naar vrouwelijk naakt, waarvan twee staande en face, en drie staande op de rug gezien</title>
+          <creator>Fantin-Latour, Henri</creator>
+          <date>1846 - 1904</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>calqueerpapier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-143-B</identifier>
+        <datestamp>2022-04-13T09:12:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15207</identifier>
+          <identifier>BK-1967-143-B</identifier>
+          <title>Deurplaat met vissen</title>
+          <creator>Dikkers &amp; Co, G.</creator>
+          <date>ca. 1910</date>
+          <type>plaat</type>
+          <type>deurplaat</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Hengelo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-136-D</identifier>
+        <datestamp>2016-11-17T14:17:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15463</identifier>
+          <identifier>BK-1967-136-D</identifier>
+          <title>Theeservies voor twee personen (tête-à-tête)</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <description>Manufactuur Oud-Loosdrecht
+suikerpot: Manufactuur Oud-Loosdrecht of Porceleinfabriek aan den Amstel
+Loosdrecht en Ouder-Amstel, ca. 1782–1784
+porselein</description>
+          <date>ca. 1782 - ca. 1784</date>
+          <type>suikerpot</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5615</identifier>
+        <datestamp>2021-10-02T00:04:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15754</identifier>
+          <identifier>BK-NM-5615</identifier>
+          <title>Bord van faience</title>
+          <creator>anoniem</creator>
+          <date>ca. 1760 - ca. 1800</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-295</identifier>
+        <datestamp>2022-01-27T14:26:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16013</identifier>
+          <identifier>BK-NM-12400-295</identifier>
+          <title>Schotel van veelkleurig beschilderd faïence</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Kocx, Pieter Adriaensz.</contributor>
+          <date>ca. 1705 - ca. 1725</date>
+          <type>schotel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-49</identifier>
+        <datestamp>2021-10-01T23:57:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15259</identifier>
+          <identifier>BK-1968-49</identifier>
+          <title>Gesp met esdoorntak</title>
+          <creator>Williams Ltd.</creator>
+          <date>1902 - 1903</date>
+          <type>sieraad</type>
+          <type>gesp</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Birmingham</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14561-N-B</identifier>
+        <datestamp>2021-10-01T23:58:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15310</identifier>
+          <identifier>BK-14561-N-B</identifier>
+          <title>Botervloot, beschilderd met landschappen met figuren</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>ca. 1774 - ca. 1778</date>
+          <type>botervloot</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1957-23-A</identifier>
+        <datestamp>2021-10-01T23:59:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15362</identifier>
+          <identifier>BK-1957-23-A</identifier>
+          <title>Mand, beschilderd met een veelkleurig bloemboeket</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>ca. 1778 - ca. 1782</date>
+          <type>mand</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMTkwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

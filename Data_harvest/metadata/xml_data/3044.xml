@@ -1,0 +1,497 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MDg2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.653</identifier>
+        <datestamp>2019-03-19T23:47:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48203</identifier>
+          <identifier>RP-P-OB-21.653</identifier>
+          <title>Fluitspeler</title>
+          <creator>Büsinck, Ludwig</creator>
+          <contributor>Lallemand, Georges</contributor>
+          <contributor>Tavernier, Melchior</contributor>
+          <date>1600 - 1643</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.763</identifier>
+        <datestamp>2019-10-16T06:06:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48333</identifier>
+          <identifier>RP-P-OB-21.763</identifier>
+          <title>Hoofd van Saul in de tempel van de Filistijnen</title>
+          <title>Kopieën naar Holbein's bijbelillustraties voor de Biblia Utriusque Testamenti</title>
+          <creator>anoniem</creator>
+          <creator>Holbein, Hans (II)</creator>
+          <contributor>Benoît, Jean</contributor>
+          <date>1552</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.925</identifier>
+        <datestamp>2019-03-21T23:10:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48556</identifier>
+          <identifier>RP-P-OB-21.925</identifier>
+          <title>Ongelijk paar: een jonge man met een oude vrouw</title>
+          <creator>Adam, Hans</creator>
+          <contributor>Lucius, Jakob (der Ältere)</contributor>
+          <contributor>Beham, Hans Sebald</contributor>
+          <date>1506 - 1568</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1982-265</identifier>
+        <datestamp>2022-02-02T09:31:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47666</identifier>
+          <identifier>RP-P-1982-265</identifier>
+          <title>De courtisane Tsukasa uit het Ogiya huis</title>
+          <title>Ogiya uchi Tsukasa</title>
+          <creator>Eiri, Rekisentei</creator>
+          <contributor>Uchiyama</contributor>
+          <date>1795 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>mica</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Tokyo</coverage>
+          <coverage>Tokyo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.427(V)</identifier>
+        <datestamp>2021-11-15T21:32:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47835</identifier>
+          <identifier>RP-P-OB-21.427(V)</identifier>
+          <title>Marskramer</title>
+          <title>Die Marcktadenter und Krämer</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <subject>oorlogsvoering; militaire zaken</subject>
+          <subject>de soldaat; het leven van een soldaat</subject>
+          <date>1573</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-480</identifier>
+        <datestamp>2020-03-19T17:55:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48278</identifier>
+          <identifier>RP-P-1988-480</identifier>
+          <title>Titelpagina met ranken, vogels en een wapenschild</title>
+          <title>Titelpagina voor: Petrus de Natalibus, Catalogus Sanctorum, 1513</title>
+          <creator>anoniem</creator>
+          <creator>Baldung Grien, Hans</creator>
+          <contributor>Flach, Martinus (II)</contributor>
+          <date>1511</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.780(R)</identifier>
+        <datestamp>2019-10-16T05:53:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48356</identifier>
+          <identifier>RP-P-OB-21.780(R)</identifier>
+          <title>Edelman met de Dood</title>
+          <title>Kopieën naar Holbeins Dodendans</title>
+          <creator>anoniem</creator>
+          <creator>Holbein, Hans (II)</creator>
+          <date>na 1547</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-30.908</identifier>
+        <datestamp>2019-05-22T12:32:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48526</identifier>
+          <identifier>RP-P-OB-30.908</identifier>
+          <title>Maria met het Christuskind</title>
+          <creator>Andreani, Andrea</creator>
+          <contributor>Ligozzi, Jacopo</contributor>
+          <contributor>Gaddi, Niccolò</contributor>
+          <date>1585</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.303</identifier>
+        <datestamp>2019-03-19T23:37:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47689</identifier>
+          <identifier>RP-P-OB-21.303</identifier>
+          <title>Zittende bisschop met een bloemenvaas</title>
+          <creator>anoniem</creator>
+          <creator>Amman, Jost</creator>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <date>1580</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.414(R)</identifier>
+        <datestamp>2020-05-12T09:39:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47812</identifier>
+          <identifier>RP-P-OB-21.414(R)</identifier>
+          <title>Uitbetaling van soldij</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <subject>oorlogsvoering; militaire zaken</subject>
+          <subject>de soldaat; het leven van een soldaat</subject>
+          <date>1573</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.696</identifier>
+        <datestamp>2019-10-16T07:54:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48255</identifier>
+          <identifier>RP-P-OB-21.696</identifier>
+          <title>Zegevierende Dood</title>
+          <title>Der Tod als Sieger</title>
+          <title>Nieuwe Dodendans</title>
+          <creator>Gaber, August</creator>
+          <creator>Rethel, Alfred</creator>
+          <contributor>Brockhaus, Friedrich Arnold (I)</contributor>
+          <contributor>Reinick, Robert</contributor>
+          <subject>revolutie, opstand</subject>
+          <date>1848 - 1849</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.794</identifier>
+        <datestamp>2019-10-16T07:31:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48379</identifier>
+          <identifier>RP-P-OB-21.794</identifier>
+          <title>Letter H: de bestraffing van de kinderen die de profeet Elisa bespotten</title>
+          <title>Versierde initialen</title>
+          <creator>anoniem</creator>
+          <creator>Holbein, Hans (II)</creator>
+          <contributor>Froschauer, Johann</contributor>
+          <date>1556</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zürich (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3120</identifier>
+        <datestamp>2021-01-19T22:00:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48503</identifier>
+          <identifier>RP-P-1906-3120</identifier>
+          <title>Portret van George Lee Esqr.</title>
+          <creator>Faber, John (II)</creator>
+          <contributor>Wills, James</contributor>
+          <contributor>Faber, John (II)</contributor>
+          <subject>Lee, George (sir)</subject>
+          <date>1694 - 1756</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.316(V)</identifier>
+        <datestamp>2019-03-19T23:40:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47706</identifier>
+          <identifier>RP-P-OB-21.316(V)</identifier>
+          <title>De ontvoering van Europa</title>
+          <creator>Mayer, Lucas</creator>
+          <creator>Amman, Jost</creator>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <date>1580</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.396(R)</identifier>
+        <datestamp>2020-05-12T09:35:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47789</identifier>
+          <identifier>RP-P-OB-21.396(R)</identifier>
+          <title>Veldmaarschalk</title>
+          <title>Der Feldtmarschalck</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <subject>oorlogsvoering; militaire zaken</subject>
+          <date>1573</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.552</identifier>
+        <datestamp>2022-03-02T15:18:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48049</identifier>
+          <identifier>RP-P-OB-21.552</identifier>
+          <title>Maria met kind en peer</title>
+          <creator>anoniem</creator>
+          <creator>Beham, Hans Sebald</creator>
+          <date>1521</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.583</identifier>
+        <datestamp>2019-07-03T01:40:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48109</identifier>
+          <identifier>RP-P-OB-21.583</identifier>
+          <title>Monnik van de orde der Lazaristen</title>
+          <title>Kostuums van geestelijken</title>
+          <creator>anoniem</creator>
+          <contributor>Beham, Hans Sebald</contributor>
+          <date>na 1526</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.835</identifier>
+        <datestamp>2019-10-16T21:48:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48419</identifier>
+          <identifier>RP-P-OB-21.835</identifier>
+          <title>Letter S: een poepende putto</title>
+          <title>Illustraties uit de Lof der Zotheid</title>
+          <creator>Merian, Caspar</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <contributor>Holbein, Ambrosius</contributor>
+          <contributor>Genath, Johann Rudolf</contributor>
+          <subject>Erasmus, Desiderius</subject>
+          <date>1516</date>
+          <date>1676</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.871</identifier>
+        <datestamp>2019-10-16T05:56:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48456</identifier>
+          <identifier>RP-P-OB-21.871</identifier>
+          <title>Edelman met een valk</title>
+          <title>Illustraties uit de Lof der Zotheid</title>
+          <creator>Merian, Caspar</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <contributor>Holbein, Ambrosius</contributor>
+          <contributor>Genath, Johann Rudolf</contributor>
+          <subject>Erasmus, Desiderius</subject>
+          <date>1516</date>
+          <date>1676</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.357</identifier>
+        <datestamp>2019-05-09T13:51:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47743</identifier>
+          <identifier>RP-P-OB-21.357</identifier>
+          <title>Onderschrift van de Festa della Sensa (derde en vierde gedeelte)</title>
+          <title>Ankunfft Und herkommen der weitberümbten herrlichen Statt Venedig Sambt derselben gewaltigen Herrschafft</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Schäller, Johann Valentin</contributor>
+          <subject>Dogepaleis</subject>
+          <subject>Torre dell'Orologio</subject>
+          <subject>Basiliek van San Marco</subject>
+          <subject>San Marcoplein</subject>
+          <subject>Venetië</subject>
+          <date>1697</date>
+          <type>prent</type>
+          <type>tekstblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MDg4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

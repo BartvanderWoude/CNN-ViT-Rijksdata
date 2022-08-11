@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNzcyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15718-B</identifier>
+        <datestamp>2021-10-02T12:49:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65111</identifier>
+          <identifier>BK-15718-B</identifier>
+          <title>Kandelaar van zilver met vierkante voet en ronde stam, kaarsenhouder en losse vetvanger.</title>
+          <creator>Pluygers, Johannes Henricus</creator>
+          <date>1783</date>
+          <type>kandelaar</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1955-121</identifier>
+        <datestamp>2021-10-02T12:50:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65280</identifier>
+          <identifier>RP-T-1955-121</identifier>
+          <title>Studie naar een mannelijk naaktmodel</title>
+          <creator>Franceschini, Baldassare</creator>
+          <date>1621 - 1698</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1954-48</identifier>
+        <datestamp>2021-10-02T12:49:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65009</identifier>
+          <identifier>RP-T-1954-48</identifier>
+          <title>Twee mannen</title>
+          <creator>Guercino</creator>
+          <date>1601 - 1666</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12058</identifier>
+        <datestamp>2021-10-02T12:49:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65134</identifier>
+          <identifier>BK-NM-12058</identifier>
+          <title>Weefselfragment met sigilla</title>
+          <creator>anoniem</creator>
+          <date>ca. 500 - ca. 799</date>
+          <type>sigillum</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Egypte</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14593-B</identifier>
+        <datestamp>2021-10-02T12:50:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65179</identifier>
+          <identifier>BK-14593-B</identifier>
+          <title>Trommel van glad zilver</title>
+          <creator>Simons, Francois Marcus</creator>
+          <date>1803</date>
+          <type>trommel (houder)</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-1526</identifier>
+        <datestamp>2021-10-19T15:41:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70050</identifier>
+          <identifier>NG-1980-27-H-1526</identifier>
+          <title>Speld uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>zeilmakersgereedschap</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>speld</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1979-260-H-2233</identifier>
+        <datestamp>2021-10-07T16:33:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70173</identifier>
+          <identifier>NG-1979-260-H-2233</identifier>
+          <title>Messenheft uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>mes (snijgereedschap)</type>
+          <type>messenheft</type>
+          <type>handvat</type>
+          <format>hout</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-789</identifier>
+        <datestamp>2021-10-02T13:09:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70384</identifier>
+          <identifier>RP-T-00-789</identifier>
+          <title>Renaissance-zaal met figuren</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-760</identifier>
+        <datestamp>2022-04-25T11:19:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70750</identifier>
+          <identifier>RP-P-1904-760</identifier>
+          <title>Reinaert de vos' familie verlaat het gerecht</title>
+          <title>Reinaert de vos</title>
+          <title>Illustraties voor Reijntje de Vos</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>ca. 1665 - ca. 1675</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1964-3407</identifier>
+        <datestamp>2021-01-28T13:54:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71524</identifier>
+          <identifier>RP-P-1964-3407</identifier>
+          <title>Titelpagina voor De grote Herschepper der Waereld van Abraham Allard</title>
+          <title>De groote herschepper der waereld; ofte de monarch des levens (...) eeuwig verheerlykt. 
+</title>
+          <creator>Allard, Abraham</creator>
+          <contributor>Allard, Carel</contributor>
+          <date>ca. 1700 - ca. 1710</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12065-A</identifier>
+        <datestamp>2021-10-02T12:50:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65306</identifier>
+          <identifier>BK-NM-12065-A</identifier>
+          <title>Weefselfragment met clavus</title>
+          <creator>anoniem</creator>
+          <date>ca. 500 - ca. 699</date>
+          <type>clavus</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Egypte</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.273</identifier>
+        <datestamp>2021-01-28T13:42:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70441</identifier>
+          <identifier>RP-P-OB-50.273</identifier>
+          <title>Landschap met boerderij</title>
+          <title>Gehucht tussen de bomen</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.472</identifier>
+        <datestamp>2022-04-25T11:18:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70702</identifier>
+          <identifier>RP-P-OB-50.472</identifier>
+          <title>Reinaert de vos' familie verlaat het gerecht</title>
+          <title>Reinaert de vos</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1665 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1951-703</identifier>
+        <datestamp>2021-01-28T13:48:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70910</identifier>
+          <identifier>RP-P-1951-703</identifier>
+          <title>Twee boerenhuizen met een slapende man</title>
+          <title>Boerenhuizen</title>
+          <creator>Adam, Richard</creator>
+          <contributor>Adam, Richard</contributor>
+          <date>1654 - ca. 1720</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-390</identifier>
+        <datestamp>2021-10-07T16:32:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70102</identifier>
+          <identifier>NG-1980-27-H-390</identifier>
+          <title>Messenheft uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>messenheft</type>
+          <format>hout</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.292</identifier>
+        <datestamp>2021-01-28T13:42:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70464</identifier>
+          <identifier>RP-P-OB-50.292</identifier>
+          <title>Landschap met twee huizen en een roeiboot</title>
+          <title>Huis met twee tonnen ervoor</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4047</identifier>
+        <datestamp>2021-10-20T14:39:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65930</identifier>
+          <identifier>NG-VG-1-4047</identifier>
+          <title>Bewezen diensten als regent van het Huiszitten- en Diakoniearmenhuis te Leiden</title>
+          <creator>anoniem</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>sociale geschiedenis</subject>
+          <subject>sociale zorg</subject>
+          <subject>diaconie</subject>
+          <subject>Diaconiehuis</subject>
+          <subject>Leiden</subject>
+          <subject>Huiszittenhuis (Leiden)</subject>
+          <date>1853</date>
+          <type>erepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1891-A-16305</identifier>
+        <datestamp>2021-01-28T13:50:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71287</identifier>
+          <identifier>RP-P-1891-A-16305</identifier>
+          <title>Staand paard</title>
+          <title>Landschappen met paarden</title>
+          <creator>Aken, Jan van</creator>
+          <contributor>Bormeester, Jochem</contributor>
+          <date>1624 - 1661</date>
+          <date>1677 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11836</identifier>
+        <datestamp>2021-10-02T12:49:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65053</identifier>
+          <identifier>BK-NM-11836</identifier>
+          <title>Tabula</title>
+          <creator>anoniem</creator>
+          <date>ca. 300 - ca. 499</date>
+          <type>tabula</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Egypte</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15692</identifier>
+        <datestamp>2021-10-02T12:49:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65103</identifier>
+          <identifier>BK-15692</identifier>
+          <title>Tabakskomfoor op houten blad. De binnenbak van koper hangt in een open frame van zilver dat met drie poten op het blad rust.</title>
+          <creator>Stapele, Martinus van</creator>
+          <date>1783</date>
+          <type>komfoor</type>
+          <type>tabakskomfoor</type>
+          <format>zilver</format>
+          <format>koper</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNzc0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

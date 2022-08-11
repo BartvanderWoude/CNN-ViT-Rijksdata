@@ -1,0 +1,533 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NzIyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1944-1007</identifier>
+        <datestamp>2016-10-20T20:58:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110721</identifier>
+          <identifier>RP-P-1944-1007</identifier>
+          <title>Boerderij en schaapsherder</title>
+          <creator>Fock, Hermanus</creator>
+          <date>1781 - 1822</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-399</identifier>
+        <datestamp>2018-01-23T15:48:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110988</identifier>
+          <identifier>RP-P-1905-399</identifier>
+          <title>Gezicht op de Oude Schans en de Montelbaanstoren te Amsterdam</title>
+          <title>De Oude Schans en Mont-Albaans-Tooren, te Amsterdam / L'Oude Schans &amp; la Tour de Mont-Alban, à Amsterdam</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Beijer, Jan de</contributor>
+          <contributor>Fouquet, Pierre</contributor>
+          <contributor>Basan, Pierre François</contributor>
+          <subject>Montelbaanstoren</subject>
+          <subject>Oudeschans</subject>
+          <date>1760 - 1783</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1918-416</identifier>
+        <datestamp>2021-10-02T13:13:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.109679</identifier>
+          <identifier>RP-T-1918-416</identifier>
+          <title>Gebed voor de maaltijd</title>
+          <creator>Amerom, Hendrik Jan van</creator>
+          <date>1786 - 1833</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-55.041</identifier>
+        <datestamp>2016-10-20T21:10:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124733</identifier>
+          <identifier>RP-P-OB-55.041</identifier>
+          <title>Titelblad voor het pamflet: De Groote Christoffel, 1702</title>
+          <title>De Groote Christoffel</title>
+          <title>Esopus in Europa</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>Spaanse Successieoorlog</subject>
+          <subject>Stuart, Jacobus Frans Eduard (prins van Wales)</subject>
+          <subject>Filips V (koning van Spanje)</subject>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1702</date>
+          <type>prent</type>
+          <type>titelblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1879-A-3286</identifier>
+        <datestamp>2016-10-20T20:59:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110821</identifier>
+          <identifier>RP-P-1879-A-3286</identifier>
+          <title>Herders met hond bij ruïne</title>
+          <creator>Fock, Hermanus</creator>
+          <date>1781 - 1822</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-349</identifier>
+        <datestamp>2020-03-23T09:54:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124397</identifier>
+          <identifier>RP-P-1907-349</identifier>
+          <title>Portret van Henri met de Bles</title>
+          <title>Henrico Blesio, Bovianti, Pictori.</title>
+          <title>Portretten van beroemde schilders uit de Lage Landen</title>
+          <title>Pictorum aliquot celebrium praecipuae Germaniae Inferioris effigies</title>
+          <creator>Hondius, Hendrick (I)</creator>
+          <contributor>Hondius, Hendrick (I)</contributor>
+          <subject>Bles, Herri met de</subject>
+          <date>1610</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-55.132</identifier>
+        <datestamp>2022-03-02T15:29:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124633</identifier>
+          <identifier>RP-P-OB-55.132</identifier>
+          <title>Titelblad voor 'Relation succincte et veritable de tout ce qui s'est passé pendant le Siege de Vienne etc.'</title>
+          <title>Jovi Propitio Marti bis ultori MDCLXXXII (...) Vere Heröica</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <subject>Ontzet van Wenen (1683)</subject>
+          <subject>Wenen</subject>
+          <subject>Leopold I (keizer van Duitsland)</subject>
+          <subject>Jan III Sobieski (koning van Polen)</subject>
+          <subject>Kara Mustafa Pasja</subject>
+          <date>1684</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-55.064</identifier>
+        <datestamp>2016-10-20T21:10:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124756</identifier>
+          <identifier>RP-P-OB-55.064</identifier>
+          <title>Illustratie voor de Decamerone van Boccaccio</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <date>1697</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1939-367</identifier>
+        <datestamp>2018-12-03T13:31:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125084</identifier>
+          <identifier>RP-P-1939-367</identifier>
+          <title>Figures à la mode, no. 4: Dame met capuchon, een kind aan de hand.</title>
+          <title>Figures à la mode</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <subject>kostuum</subject>
+          <date>1660 - 1685</date>
+          <type>kostuumprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-2467</identifier>
+        <datestamp>2016-10-20T21:10:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124420</identifier>
+          <identifier>RP-P-1908-2467</identifier>
+          <title>Portret van Hendrik IV, koning van Frankrijk en Navarre</title>
+          <title>Belgiae Pacificatorum Vera Delineatio</title>
+          <creator>Hondius, Hendrick (I)</creator>
+          <contributor>Hondius, H.</contributor>
+          <contributor>Hondius, Hendrick (I)</contributor>
+          <contributor>onbekend</contributor>
+          <subject>Hendrik IV (koning van Frankrijk en Navarra)</subject>
+          <date>1608</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-12574</identifier>
+        <datestamp>2016-10-20T20:58:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110184</identifier>
+          <identifier>RP-P-1888-A-12574</identifier>
+          <title>Rivierlandschap met wapen</title>
+          <title>Vissen en andere zeedieren  - zoetwater tweede reeks</title>
+          <title>Seconde partie de Poissons d'eau douce</title>
+          <creator>Flamen, Albert</creator>
+          <contributor>Flamen, Albert</contributor>
+          <contributor>Merlen, Jacques van</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1664</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-5699</identifier>
+        <datestamp>2021-01-28T20:37:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124687</identifier>
+          <identifier>RP-P-1907-5699</identifier>
+          <title>Priesteres Pythia in de tempel van Delphi</title>
+          <title>De Pythia int binnen Choor des Orakel tempels</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>Delphi</subject>
+          <date>1687</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-183</identifier>
+        <datestamp>2016-10-20T21:11:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125107</identifier>
+          <identifier>RP-P-1905-183</identifier>
+          <title>Poort en vijver in het park van Enghien</title>
+          <title>Het park van Enghien (Edingen)</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <contributor>Staten-Generaal</contributor>
+          <subject>Park van Enghien</subject>
+          <subject>Edingen</subject>
+          <date>1685</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-1266</identifier>
+        <datestamp>2019-05-23T16:05:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124445</identifier>
+          <identifier>RP-P-1906-1266</identifier>
+          <title>Portret van Jacob van Ulfelt</title>
+          <title>Belgiae Pacificatorum Vera Delineatio</title>
+          <creator>Hondius, Hendrick (I)</creator>
+          <contributor>Hondius, Hendrick (I)</contributor>
+          <contributor>Staten-Generaal</contributor>
+          <subject>Ubink, Theodoor</subject>
+          <date>1608</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-3048</identifier>
+        <datestamp>2016-10-20T21:10:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124586</identifier>
+          <identifier>RP-P-1911-3048</identifier>
+          <title>Slag bij Aumale, 1592</title>
+          <title>Batailla De Aumala</title>
+          <title>Guerres de Flandres</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Ledesma, Don Juan de</contributor>
+          <subject>strijd, vechten in het algemeen</subject>
+          <subject>Franse godsdienstoorlogen</subject>
+          <subject>Aumale</subject>
+          <subject>Hendrik IV (koning van Frankrijk en Navarra)</subject>
+          <subject>Farnese, Alessandro (landvoogd van de Nederlanden en hertog van Parma en Piacenza)</subject>
+          <date>1670 - 1699</date>
+          <type>prent</type>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-55.018</identifier>
+        <datestamp>2016-10-20T21:10:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124710</identifier>
+          <identifier>RP-P-OB-55.018</identifier>
+          <title>Titelblad voor het pamflet: Saamenspraak tusschen het Valies, de Myter, en het Bonnet, 1701</title>
+          <title>Saamenspraak tusschen het Valies, de Myter, en het Bonnet</title>
+          <title>Esopus in Europa</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>Spaanse Successieoorlog</subject>
+          <subject>Jozef Klemens, keurvorst en aartsbisschop van Keulen</subject>
+          <date>1701</date>
+          <type>prent</type>
+          <type>titelblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1895-A-18801</identifier>
+        <datestamp>2016-10-20T21:11:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125130</identifier>
+          <identifier>RP-P-1895-A-18801</identifier>
+          <title>Gezicht op de Nieuwe Kerk te Haarlem</title>
+          <title>De Nieuwe Kerck.</title>
+          <title>Plattegrond van Haarlem en gezichten op Haarlem</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>Nieuwe Kerk</subject>
+          <date>1688 - 1689</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-12520</identifier>
+        <datestamp>2016-10-20T20:58:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110135</identifier>
+          <identifier>RP-P-1888-A-12520</identifier>
+          <title>Twee meivissen op het strand</title>
+          <title>Alausa. L'Alose</title>
+          <title>Vissen en andere zeedieren  - zoutwater tweede reeks</title>
+          <title>Poissons de mer</title>
+          <creator>Flamen, Albert</creator>
+          <contributor>Flamen, Albert</contributor>
+          <contributor>Merlen, Jacques van</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-12523</identifier>
+        <datestamp>2016-10-20T20:58:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110141</identifier>
+          <identifier>RP-P-1888-A-12523</identifier>
+          <title>Twee kabeljouwen op het strand</title>
+          <title>Molucius piscis. Le Moruë fraiche.</title>
+          <title>Vissen en andere zeedieren  - zoutwater tweede reeks</title>
+          <title>Poissons de mer</title>
+          <creator>Flamen, Albert</creator>
+          <contributor>Flamen, Albert</contributor>
+          <contributor>Merlen, Jacques van</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-6555</identifier>
+        <datestamp>2016-10-20T20:58:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110678</identifier>
+          <identifier>RP-P-1882-A-6555</identifier>
+          <title>Landschap met schuitje</title>
+          <creator>Fock, Hermanus</creator>
+          <date>1781 - 1822</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NzI0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

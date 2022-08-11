@@ -1,0 +1,447 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjcyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-322</identifier>
+        <datestamp>2022-01-26T13:20:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16150</identifier>
+          <identifier>BK-NM-12400-322</identifier>
+          <title>Bord van veelkleurig beschilderde faïence</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1720</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1970-18</identifier>
+        <datestamp>2021-11-03T23:47:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16265</identifier>
+          <identifier>BK-1970-18</identifier>
+          <title>Hanger, voornamelijk gevormd door filigrein Zeeuwse knopen</title>
+          <date>ca. 1885 - ca. 1900</date>
+          <type>hanger (sieraad)</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-187</identifier>
+        <datestamp>2022-01-27T08:47:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16450</identifier>
+          <identifier>BK-NM-12400-187</identifier>
+          <title>Schotel van veelkleurig beschilderde faïence</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1780</date>
+          <type>schotel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-229</identifier>
+        <datestamp>2019-12-11T09:55:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16832</identifier>
+          <identifier>RP-T-1963-229</identifier>
+          <title>Landweg</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-182(V)</identifier>
+        <datestamp>2017-02-02T14:35:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16907</identifier>
+          <identifier>RP-T-1963-182(V)</identifier>
+          <title>Sleperskar</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-44-B</identifier>
+        <datestamp>2021-09-30T16:54:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17377</identifier>
+          <identifier>BK-1968-44-B</identifier>
+          <title>Theepot</title>
+          <creator>Orivit</creator>
+          <date>ca. 1905</date>
+          <type>theepot</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-277-B</identifier>
+        <datestamp>2022-01-26T11:36:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16125</identifier>
+          <identifier>BK-NM-12400-277-B</identifier>
+          <title>Schaal, versierd met bloemenmand binnen lambrequinrand</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Kocx, Pieter Adriaensz.</contributor>
+          <date>ca. 1705 - ca. 1725</date>
+          <type>schaal</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-260</identifier>
+        <datestamp>2021-10-02T00:12:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16295</identifier>
+          <identifier>BK-NM-12400-260</identifier>
+          <title>Papegaai van veelkleurig beschilderde faïence</title>
+          <creator>anoniem</creator>
+          <date>1784</date>
+          <type>beeld</type>
+          <type>dierfiguur</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-44-E</identifier>
+        <datestamp>2021-11-02T08:21:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16759</identifier>
+          <identifier>BK-1977-44-E</identifier>
+          <title>Vork van zilver</title>
+          <creator>Gameren, Dirk van</creator>
+          <date>1764</date>
+          <type>vork</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-223(V)</identifier>
+        <datestamp>2019-12-02T16:58:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16809</identifier>
+          <identifier>RP-T-1963-223(V)</identifier>
+          <title>Donker heuvelachtig landschap, rechts huizen</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-232(V)</identifier>
+        <datestamp>2019-12-11T10:44:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16932</identifier>
+          <identifier>RP-T-1963-232(V)</identifier>
+          <title>Schets van een landschap</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-61</identifier>
+        <datestamp>2021-11-03T16:54:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16783</identifier>
+          <identifier>BK-NM-61</identifier>
+          <title>Deurklopper.</title>
+          <date>1500 - 1600</date>
+          <type>deurklopper</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-95</identifier>
+        <datestamp>2019-12-11T10:54:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16960</identifier>
+          <identifier>RP-T-1963-95</identifier>
+          <title>Seine-brug</title>
+          <creator>Michel, Georges</creator>
+          <subject>Parijs</subject>
+          <subject>Seine</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15210</identifier>
+        <datestamp>2021-11-03T23:06:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16505</identifier>
+          <identifier>BK-15210</identifier>
+          <title>Ovale doos in de vorm van een mand met naaigerij</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - voor 1938</date>
+          <type>doos</type>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>naaigerei</type>
+          <type>handwerkgerei</type>
+          <format>koper</format>
+          <format>hout</format>
+          <format>verguldsel</format>
+          <format>fluweel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-31-A</identifier>
+        <datestamp>2021-11-02T08:23:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17178</identifier>
+          <identifier>BK-1984-31-A</identifier>
+          <title>Lepel van zilver</title>
+          <creator>Jensen, Georg</creator>
+          <contributor>Rohde, Johan Gudmann</contributor>
+          <date>1928</date>
+          <date>1915</date>
+          <type>lepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kopenhagen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1970-139</identifier>
+        <datestamp>2021-10-02T00:23:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17306</identifier>
+          <identifier>BK-1970-139</identifier>
+          <title>Zoutvat in diabolovorm op gewelfde voet met drie bolpoten. Voet en rand met gedreven bloemen en bladeren.</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680</date>
+          <type>zoutvat</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Middelburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-121(R)</identifier>
+        <datestamp>2019-12-12T14:00:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17009</identifier>
+          <identifier>RP-T-1963-121(R)</identifier>
+          <title>Gezicht van de Butte; bomen rechts</title>
+          <creator>Michel, Georges</creator>
+          <subject>Butte Montmartre</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-101</identifier>
+        <datestamp>2019-12-12T14:03:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17015</identifier>
+          <identifier>RP-T-1963-101</identifier>
+          <title>Gezicht op de quais naar de Pont des Arts en het Institut de France</title>
+          <creator>Michel, Georges</creator>
+          <subject>Pont des Arts</subject>
+          <subject>Seine</subject>
+          <subject>Institut de France</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12899</identifier>
+        <datestamp>2021-10-02T00:11:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16170</identifier>
+          <identifier>BK-NM-12899</identifier>
+          <title>Parure bestaande uit een sautoir, een broche en een paar oorbellen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1840 - ca. 1860</date>
+          <type>sieraad</type>
+          <type>parure</type>
+          <format>goud</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16585</identifier>
+        <datestamp>2021-11-03T23:47:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16220</identifier>
+          <identifier>BK-16585</identifier>
+          <title>Marquisering</title>
+          <creator>anoniem</creator>
+          <date>1890 - 1910</date>
+          <type>sieraad</type>
+          <type>ring (sieraad)</type>
+          <format>goud</format>
+          <format>platina</format>
+          <format>diamant</format>
+          <format>robijn</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjc0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

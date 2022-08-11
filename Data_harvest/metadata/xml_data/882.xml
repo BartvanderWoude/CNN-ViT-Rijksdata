@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNzYyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7345</identifier>
+        <datestamp>2022-05-25T12:45:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43750</identifier>
+          <identifier>RP-P-BI-7345</identifier>
+          <title>Portret van François de Harlay de Champvallon</title>
+          <title>L'archevesque de Paris, plus ami des dames que du Pape</title>
+          <title>Spotprenten op Lodewijk XIV en zijn gevolg</title>
+          <title>Les Héros de la Ligue ou La Procession Monacale, conduitte par Louis XIV pour la Conversion des Protestans de son Royaume</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Herroeping van het Edict van Nantes</subject>
+          <subject>Harlay de Champvallon, François de</subject>
+          <date>1691</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3316</identifier>
+        <datestamp>2016-10-20T19:50:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43999</identifier>
+          <identifier>RP-P-1906-3316</identifier>
+          <title>Portret van Catherine Clive</title>
+          <creator>Haecken, Alexander van</creator>
+          <contributor>Haecken, Joseph van</contributor>
+          <subject>Clive, Catherine</subject>
+          <date>1735</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.081</identifier>
+        <datestamp>2019-05-29T15:09:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43600</identifier>
+          <identifier>RP-P-OB-17.081</identifier>
+          <title>Portret van Hero Sibersma</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Opoeteren, Pieter van</contributor>
+          <subject>Sibersma, Hero</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.098</identifier>
+        <datestamp>2019-05-29T15:09:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43649</identifier>
+          <identifier>RP-P-OB-17.098</identifier>
+          <title>Triktrakspelers</title>
+          <title>'t Verkeer Bort</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-1762</identifier>
+        <datestamp>2016-10-20T19:51:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44164</identifier>
+          <identifier>RP-P-1918-1762</identifier>
+          <title>Portret van Wilhelmina van Pruisen</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Tischbein, Johann Friedrich August</contributor>
+          <subject>Wilhelmina van Pruisen (1751-1820)</subject>
+          <date>1794</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.194</identifier>
+        <datestamp>2016-10-20T19:51:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44213</identifier>
+          <identifier>RP-P-OB-17.194</identifier>
+          <title>Portret van Jacobus Gerardus Staring</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Hodges, Charles Howard</contributor>
+          <contributor>Bussingh, Johannes Wilhelmus</contributor>
+          <subject>Staring, Jacobus Gerardus</subject>
+          <date>1803 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3051</identifier>
+        <datestamp>2016-10-20T19:50:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43291</identifier>
+          <identifier>RP-P-1906-3051</identifier>
+          <title>Zingende luitspeler</title>
+          <creator>Bruggen, Jan van der</creator>
+          <contributor>Teniers, David (II)</contributor>
+          <contributor>Vaillant, Wallerant</contributor>
+          <date>1659 - 1740</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-1342</identifier>
+        <datestamp>2016-10-20T19:50:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43623</identifier>
+          <identifier>RP-P-1909-1342</identifier>
+          <title>Suzanna en de ouderlingen</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Coypel, Antoine</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <date>1675 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3262</identifier>
+        <datestamp>2016-10-20T19:50:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43962</identifier>
+          <identifier>RP-P-1906-3262</identifier>
+          <title>Portret van Arcangelo Corelli</title>
+          <creator>Groot, Johannes de (II)</creator>
+          <subject>Corelli, Arcangelo</subject>
+          <date>1698 - 1776</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3060</identifier>
+        <datestamp>2016-10-20T19:50:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43314</identifier>
+          <identifier>RP-P-1906-3060</identifier>
+          <title>Boer stopt zijn pijp (variant B)</title>
+          <creator>Bruggen, Jan van der</creator>
+          <date>1659 - 1740</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1983-1</identifier>
+        <datestamp>2021-01-28T13:23:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43646</identifier>
+          <identifier>RP-P-1983-1</identifier>
+          <title>Vrouw en man met een wijnkruik</title>
+          <title>Tout Autre Chose</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Boogaart, A.</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3309</identifier>
+        <datestamp>2016-10-20T19:50:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43985</identifier>
+          <identifier>RP-P-1906-3309</identifier>
+          <title>Portret van George II Augustus van Groot-Brittannië</title>
+          <creator>Haecken, Alexander van</creator>
+          <contributor>Sandie</contributor>
+          <subject>George II Augustus (koning van Groot-Brittannië)</subject>
+          <date>1736</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3066</identifier>
+        <datestamp>2016-10-20T19:50:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43337</identifier>
+          <identifier>RP-P-1906-3066</identifier>
+          <title>Zelfportret</title>
+          <creator>Burch, Albertus van der</creator>
+          <subject>Burch, Albertus van der</subject>
+          <date>1687 - 1750</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.041</identifier>
+        <datestamp>2018-09-05T10:01:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43408</identifier>
+          <identifier>RP-P-OB-17.041</identifier>
+          <title>De Orangiste, 1695</title>
+          <title>Procul ite Profani</title>
+          <title>De algemene blijdschap om de inname van Namen door stadhouder Willem III, koning van Engeland, september 1695</title>
+          <creator>Dusart, Cornelis</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Boogaart, A.</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Viering van de verovering van Namen</subject>
+          <subject>Namen (stad)</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1695</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.109</identifier>
+        <datestamp>2019-05-29T15:09:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43670</identifier>
+          <identifier>RP-P-OB-17.109</identifier>
+          <title>Herberginterieur</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23500</identifier>
+        <datestamp>2016-10-20T19:50:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43741</identifier>
+          <identifier>RP-P-1903-A-23500</identifier>
+          <title>Musicerend paar</title>
+          <title>Elegante dames en heren in eigentijdse kleding</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Marot, Daniël (I)</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-3679</identifier>
+        <datestamp>2021-01-28T13:23:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43839</identifier>
+          <identifier>RP-P-1904-3679</identifier>
+          <title>Stilleven met vissen, gevogelte, groente en fruit</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Gole, Jacob</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3324</identifier>
+        <datestamp>2016-10-20T19:50:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44008</identifier>
+          <identifier>RP-P-1906-3324</identifier>
+          <title>Drinkende man op een ton</title>
+          <creator>Haeften, Nicolaes van</creator>
+          <contributor>Haeften, Nicolaes van</contributor>
+          <date>1673 - 1715</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-16744</identifier>
+        <datestamp>2016-10-20T19:51:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44193</identifier>
+          <identifier>RP-P-1892-A-16744</identifier>
+          <title>Portret van Lodewijk Napoleon, koning van Holland</title>
+          <creator>Hodges, Charles Howard</creator>
+          <subject>Lodewijk Napoleon Bonaparte</subject>
+          <date>1806 - 1810</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7368</identifier>
+        <datestamp>2019-05-29T15:09:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43483</identifier>
+          <identifier>RP-P-BI-7368</identifier>
+          <title>Buste van een boer met een hoed</title>
+          <creator>anoniem</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <date>1679 - 1754</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNzY0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

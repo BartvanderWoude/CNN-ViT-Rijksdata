@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw5NTYw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1954-70</identifier>
+        <datestamp>2021-11-11T09:38:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23623</identifier>
+          <identifier>BK-1954-70</identifier>
+          <title>Groteskentapijt met Nebukadnezar en de drie jongelingen in het vuur</title>
+          <creator>Herseele, Joost van</creator>
+          <date>ca. 1580 - ca. 1585</date>
+          <type>wandtapijt</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18068</identifier>
+        <datestamp>2021-10-02T01:48:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24327</identifier>
+          <identifier>BK-18068</identifier>
+          <title>Vrouwelijke heilige</title>
+          <creator>Meester van Koudewater</creator>
+          <contributor>Meester van Koudewater</contributor>
+          <date>ca. 1460</date>
+          <type>beeldhouwwerk</type>
+          <format>notenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijk Brabant</coverage>
+          <coverage>Koudewater</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1957-253</identifier>
+        <datestamp>2021-02-23T11:09:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26882</identifier>
+          <identifier>RP-T-1957-253</identifier>
+          <title>Portret van een jonge vrouw</title>
+          <creator>anoniem</creator>
+          <date>1660 - 1740</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1951-438</identifier>
+        <datestamp>2020-01-29T11:31:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26936</identifier>
+          <identifier>RP-T-1951-438</identifier>
+          <title>Zittend naakt vrouwelijk model met hoog kapsel, ernaast nogmaals geschetst</title>
+          <creator>Etty, William</creator>
+          <date>1797 - 1849</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2194</identifier>
+        <datestamp>2021-11-03T16:59:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26194</identifier>
+          <identifier>BK-KOG-2194</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1879-A-20</identifier>
+        <datestamp>2021-10-02T11:42:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27169</identifier>
+          <identifier>RP-T-1879-A-20</identifier>
+          <title>Rotswoningen aan de Loire</title>
+          <creator>Asselijn, Jan</creator>
+          <contributor>Schellinks, Willem</contributor>
+          <subject>Loire</subject>
+          <date>1620 - 1652</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-159-7-A</identifier>
+        <datestamp>2021-11-03T19:23:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27264</identifier>
+          <identifier>BK-1984-159-7-A</identifier>
+          <title>Paar handschoenen met uitstralende koorden</title>
+          <creator>Maison de Bonneterie</creator>
+          <date>ca. 1915 - ca. 1950</date>
+          <type>kleding</type>
+          <type>handschoen</type>
+          <format>leer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2296</identifier>
+        <datestamp>2021-11-03T17:00:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26298</identifier>
+          <identifier>BK-KOG-2296</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1700 - ca. 1800</date>
+          <type>pijpsleutel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2345</identifier>
+        <datestamp>2021-11-03T17:00:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26348</identifier>
+          <identifier>BK-KOG-2345</identifier>
+          <title>Kamerheersleutel</title>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>sleutel</type>
+          <type>kamerheersleutel</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5567-A</identifier>
+        <datestamp>2021-10-02T11:42:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27141</identifier>
+          <identifier>BK-NM-5567-A</identifier>
+          <title>Ondermouw van wit linnen met dof aan de hand</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1850</date>
+          <type>dameskleding</type>
+          <type>ondermouw</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-97-E</identifier>
+        <datestamp>2019-08-01T09:36:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24194</identifier>
+          <identifier>BK-BR-J-97-E</identifier>
+          <title>Fragment gehaakte kant met bloemen en druiventros</title>
+          <creator>anoniem</creator>
+          <date>ca. 1890 - ca. 1909</date>
+          <type>fragment</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ierland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-668-C</identifier>
+        <datestamp>2021-11-29T23:03:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24275</identifier>
+          <identifier>BK-KOG-668-C</identifier>
+          <title>Panelen van een orgelkast uit de Sint-Vituskerk in Naarden</title>
+          <creator>Schayck, Jan van</creator>
+          <contributor>Wesel, Adriaen van</contributor>
+          <subject>Grote of Sint-Vituskerk</subject>
+          <description>Deze tien figuren tooiden het middeleeuwse orgel van de Sint-Vituskerk in Naarden. Zij dragen allen een wapen en houden aan een riem een wapenschild vast. Sommigen zijn uitgedost als ridders met harnas en helm, anderen zijn als vorsten of edelen gekleed. Mogelijk stellen ze graven van Holland voor. Oorspronkelijk waren alle wapenschilden beschilderd.</description>
+          <date>ca. 1510 - ca. 1520</date>
+          <type>orgelkast</type>
+          <format>eikenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2237</identifier>
+        <datestamp>2021-11-03T16:59:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26238</identifier>
+          <identifier>BK-KOG-2237</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1600</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12189-B</identifier>
+        <datestamp>2022-03-14T14:24:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26599</identifier>
+          <identifier>BK-NM-12189-B</identifier>
+          <title>Muts van gele zijde bestaande uit zes gelijke pattes,  geborduurd met floraal patroon in veelkleurige zijde en zilverdraad</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1775</date>
+          <type>dameskleding</type>
+          <type>muts</type>
+          <format>zijde</format>
+          <format>linnen</format>
+          <format>zijde</format>
+          <format>zilverdraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2074</identifier>
+        <datestamp>2021-11-03T16:58:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26077</identifier>
+          <identifier>BK-KOG-2074</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>sleutel</type>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2086</identifier>
+        <datestamp>2021-11-03T16:58:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26089</identifier>
+          <identifier>BK-KOG-2086</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1500 - ca. 1600</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2124</identifier>
+        <datestamp>2021-11-03T16:58:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26128</identifier>
+          <identifier>BK-KOG-2124</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1300 - ca. 1500</date>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1985-27</identifier>
+        <datestamp>2020-01-22T12:53:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26819</identifier>
+          <identifier>RP-T-1985-27</identifier>
+          <title>Twee karren op een bouwterrein, vermoedelijk bij het huidige Russell Square te Londen</title>
+          <creator>Linnell, John (II)</creator>
+          <subject>Russell Square</subject>
+          <date>1806</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2188</identifier>
+        <datestamp>2021-11-03T16:59:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26188</identifier>
+          <identifier>BK-KOG-2188</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2274</identifier>
+        <datestamp>2021-11-03T17:00:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26276</identifier>
+          <identifier>BK-KOG-2274</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1700</date>
+          <type>sleutel</type>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw5NTgw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

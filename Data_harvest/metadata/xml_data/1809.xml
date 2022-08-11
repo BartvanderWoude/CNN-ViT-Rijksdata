@@ -1,0 +1,449 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNjE2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-15193-B</identifier>
+        <datestamp>2021-10-02T01:34:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23298</identifier>
+          <identifier>AK-RBK-15193-B</identifier>
+          <title>Kop en schotel met fruittakken en band met ruyi-motief</title>
+          <creator>anoniem</creator>
+          <date>ca. 1725 - ca. 1749</date>
+          <type>kop-en-schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-298</identifier>
+        <datestamp>2021-10-02T01:35:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23348</identifier>
+          <identifier>BK-1979-298</identifier>
+          <title>Strook naaldkant met bloemtakken en stervormige bloemen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1795</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Argentan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-800</identifier>
+        <datestamp>2021-10-02T01:36:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23428</identifier>
+          <identifier>BK-1980-800</identifier>
+          <title>Deken</title>
+          <date>1860 - 1870</date>
+          <type>deken</type>
+          <type>kinderdeken</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16193-B</identifier>
+        <datestamp>2021-11-11T09:36:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22208</identifier>
+          <identifier>BK-16193-B</identifier>
+          <title>Oosters tapijt</title>
+          <date>1850 - 1900</date>
+          <type>Oosters tapijt</type>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Hamadan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11611</identifier>
+        <datestamp>2021-10-02T01:35:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23401</identifier>
+          <identifier>BK-NM-11611</identifier>
+          <title>Strook naaldkant met zonnen en korenschoven</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1799</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1966-159</identifier>
+        <datestamp>2021-10-02T01:24:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22378</identifier>
+          <identifier>BK-1966-159</identifier>
+          <title>Doopsluier van applicatiekant met voering</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1899</date>
+          <type>doopsluier</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ierland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18073</identifier>
+        <datestamp>2021-11-11T09:36:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22414</identifier>
+          <identifier>BK-18073</identifier>
+          <title>Oosters tapijt</title>
+          <date>1850 - 1900</date>
+          <type>Oosters tapijt</type>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Hamadan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14367-91</identifier>
+        <datestamp>2021-10-02T01:30:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22975</identifier>
+          <identifier>BK-NM-14367-91</identifier>
+          <title>Lap van kantborduurwerk met pauwen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1925 - ca. 1934</date>
+          <type>lap</type>
+          <type>kleed</type>
+          <format>linnen</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rusland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-13709-C</identifier>
+        <datestamp>2021-10-02T01:32:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23165</identifier>
+          <identifier>AK-NM-13709-C</identifier>
+          <title>Achthoekige kop met lotusranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>kop</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1976-208-B</identifier>
+        <datestamp>2021-11-11T13:16:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22276</identifier>
+          <identifier>BK-1976-208-B</identifier>
+          <title>Fontaneldoek van linnen met een strook Rijsselse kant, met ovalen langs de rand en open moesjes</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1815</date>
+          <type>kinderkleding</type>
+          <type>fontaneldoek</type>
+          <format>linnen</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8809</identifier>
+        <datestamp>2021-11-03T16:56:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22581</identifier>
+          <identifier>BK-NM-8809</identifier>
+          <title>Hangslot</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>slot</type>
+          <type>hangslot</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1953-45</identifier>
+        <datestamp>2021-10-02T01:30:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22998</identifier>
+          <identifier>BK-1953-45</identifier>
+          <title>Tussenzetsel van naaldkant met rozetten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1590 - ca. 1599</date>
+          <type>tussenzetsel</type>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1970-182</identifier>
+        <datestamp>2021-10-02T01:31:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23076</identifier>
+          <identifier>BK-1970-182</identifier>
+          <title>Strook naaldkant met drie verschillende bloemenranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1875 - ca. 1899</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Burano</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-14396-B</identifier>
+        <datestamp>2022-03-17T09:40:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23249</identifier>
+          <identifier>AK-RBK-14396-B</identifier>
+          <title>Schaal met bloemtakken, vrouwen en jongens</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>schaal</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-15190-B</identifier>
+        <datestamp>2021-10-02T01:34:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23304</identifier>
+          <identifier>AK-RBK-15190-B</identifier>
+          <title>Dekselkop en schotel met mensen, een go-spel en opschriften</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>kop-en-schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1954-68-A</identifier>
+        <datestamp>2021-10-02T01:29:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22946</identifier>
+          <identifier>BK-1954-68-A</identifier>
+          <title>Goudpassement met aaneengeschakelde grote gestileerde bloemen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1799</date>
+          <type>passement</type>
+          <type>goudpassement</type>
+          <format>gouddraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-14935-B</identifier>
+        <datestamp>2021-10-02T01:33:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23229</identifier>
+          <identifier>AK-RBK-14935-B</identifier>
+          <title>Cilindrische flesvormige vaas met kostbaarheden en bladranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>vaas</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-809-P</identifier>
+        <datestamp>2022-02-02T16:11:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23494</identifier>
+          <identifier>BK-1980-809-P</identifier>
+          <title>Bespanningsstof met decor van takken, bladeren, bloemen en vruchten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1790</date>
+          <type>bespanningsstof</type>
+          <type>interieuronderdeel</type>
+          <type>zijde</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1976-221-C</identifier>
+        <datestamp>2021-11-11T13:16:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22300</identifier>
+          <identifier>BK-1976-221-C</identifier>
+          <title>Manchet van geappliqueerde tule op tule, met florale motieven</title>
+          <creator>anoniem</creator>
+          <date>ca. 1840 - ca. 1850</date>
+          <type>dameskleding</type>
+          <type>manchet</type>
+          <format>tule</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14252</identifier>
+        <datestamp>2021-10-02T01:31:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23057</identifier>
+          <identifier>BK-NM-14252</identifier>
+          <title>Strook gemengde kant met palmetbloemen aan lopende rank</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Burano</coverage>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNjE4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

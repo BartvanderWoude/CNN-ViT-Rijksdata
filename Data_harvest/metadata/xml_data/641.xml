@@ -1,0 +1,506 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMjgwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1900-A-22194</identifier>
+        <datestamp>2019-05-13T11:49:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41296</identifier>
+          <identifier>RP-P-1900-A-22194</identifier>
+          <title>Portret van Karel Emanuel II</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Nanteuil, Robert</contributor>
+          <subject>Karel Emanuel II (hertog van Savoye)</subject>
+          <date>1668</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4956</identifier>
+        <datestamp>2019-05-29T15:01:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40338</identifier>
+          <identifier>RP-P-OB-4956</identifier>
+          <title>Titelprent voor de embleemserie 'Kloosterleven in emblemen'</title>
+          <title>Lux claustri</title>
+          <title>Kloosterleven in emblemen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621 - 1635</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.604</identifier>
+        <datestamp>2019-05-29T15:01:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40424</identifier>
+          <identifier>RP-P-OB-20.604</identifier>
+          <title>Entree van de heren van Couvonge en van Chalabre</title>
+          <title>Entreés de Monsieur de Couvonge et de Monsieur de Chalabre</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Callot, Jacques</contributor>
+          <subject>Nancy</subject>
+          <date>1627</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.748</identifier>
+        <datestamp>2019-05-29T15:03:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40592</identifier>
+          <identifier>RP-P-OB-20.748</identifier>
+          <title>Maria van de berg Karmel, Heilige Reinhildis van Kontich, Heilige Alexius van Edessa, Heilige Arnoldus van Metz (16-18 juli)</title>
+          <title>Alle heiligen en de Christelijke feestdagen van het jaar</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <date>1632 - 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.842</identifier>
+        <datestamp>2019-05-29T15:03:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40687</identifier>
+          <identifier>RP-P-OB-20.842</identifier>
+          <title>Tien Europese munten</title>
+          <title>Europese munten</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Silvestre, Israël</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1629 - 1630</date>
+          <date>1662</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.074</identifier>
+        <datestamp>2019-05-29T15:05:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41033</identifier>
+          <identifier>RP-P-OB-21.074</identifier>
+          <title>Man met wandelstok bij ziekenhuis</title>
+          <title>Capricci di varie Figure di Jacopo Callot</title>
+          <title>Diverse figuren en voorstellingen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.236</identifier>
+        <datestamp>2019-05-13T11:49:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41282</identifier>
+          <identifier>RP-P-OB-21.236</identifier>
+          <title>Portret van Ferdinand de Neufville</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Champaigne, Philippe de</contributor>
+          <subject>Neufville, Ferdinand de</subject>
+          <date>1657 - 1658</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.783</identifier>
+        <datestamp>2019-05-29T15:03:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40627</identifier>
+          <identifier>RP-P-OB-20.783</identifier>
+          <title>Heilige Ursula van Keulen en gezellen, Heilige Maria Salome, Heilige Severinus van Keulen, Heilige Maglorius van Dol (21-24 oktober)</title>
+          <title>Alle heiligen en de Christelijke feestdagen van het jaar</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <date>1632 - 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.086</identifier>
+        <datestamp>2019-05-29T15:05:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41047</identifier>
+          <identifier>RP-P-OB-21.086</identifier>
+          <title>Trommelslager bij de Piazza Santa Croce te Florence</title>
+          <title>Capricci di varie Figure di Jacopo Callot</title>
+          <title>Diverse figuren en voorstellingen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <subject>Florence</subject>
+          <subject>Piazza Santa Croce</subject>
+          <date>1621</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.126</identifier>
+        <datestamp>2021-07-12T16:59:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41084</identifier>
+          <identifier>RP-P-OB-21.126</identifier>
+          <title>Kustlandschap met een zeilschip</title>
+          <title>Acht landschappen</title>
+          <creator>Collignon, François</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Weyen, Herman</contributor>
+          <date>1621 - 1672</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.138</identifier>
+        <datestamp>2019-05-29T15:06:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41096</identifier>
+          <identifier>RP-P-OB-21.138</identifier>
+          <title>Zeeslag</title>
+          <title>Diverse vedute designate in Fiorenza</title>
+          <title>Elf Italiaanse landschappen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Collignon, François</contributor>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <contributor>Lodewijk XIII (koning van Frankrijk)</contributor>
+          <subject>Florence</subject>
+          <date>1628 - 1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.888</identifier>
+        <datestamp>2019-05-29T15:04:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40736</identifier>
+          <identifier>RP-P-OB-20.888</identifier>
+          <title>Twee straatartiesten als Franca Trippa en Fritellino</title>
+          <title>Balli di Sfessania</title>
+          <title>Dansen van Sfessania</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621 - 1622</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-24054E</identifier>
+        <datestamp>2021-07-12T16:57:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40990</identifier>
+          <identifier>RP-P-1903-A-24054E</identifier>
+          <title>Dwerg met zwaard, een knopenrij op de rug; Dwerg met viool en zwaard</title>
+          <title>Varie figure gobbi di Jacopo Callot</title>
+          <title>Diverse groteske figuren</title>
+          <title>Dwergen en gebochelden</title>
+          <creator>Bosse, Abraham</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621 - 1676</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.208</identifier>
+        <datestamp>2019-05-29T15:06:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41233</identifier>
+          <identifier>RP-P-OB-21.208</identifier>
+          <title>Portret van Guillaume de Lamoignon</title>
+          <title>Guillelmus de Lamoingnon senatus galliarum princeps</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Nanteuil, Robert</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Lamoignon, Guillaume de</subject>
+          <date>1663</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.212</identifier>
+        <datestamp>2019-05-13T11:49:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41239</identifier>
+          <identifier>RP-P-OB-21.212</identifier>
+          <title>Portret van Michel Le Tellier</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Champaigne, Philippe de</contributor>
+          <subject>Le Tellier, Michel</subject>
+          <date>1653</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.659</identifier>
+        <datestamp>2021-02-09T22:34:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40330</identifier>
+          <identifier>RP-P-OB-17.659</identifier>
+          <title>Venus en Cupido</title>
+          <title>Venus et Cupido</title>
+          <creator>Beckett, Isaac</creator>
+          <contributor>Titiaan</contributor>
+          <contributor>Smith, John (prentmaker/ uitgever)</contributor>
+          <date>ca. 1681 - ca. 1688</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1579</identifier>
+        <datestamp>2021-02-09T23:50:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40836</identifier>
+          <identifier>RP-P-1910-1579</identifier>
+          <title>Portret van Robert Walpole</title>
+          <title>The Right Honble. Sr. Robert Walpole</title>
+          <creator>Bockman, Gerhard</creator>
+          <contributor>Gibson, Thomas</contributor>
+          <subject>Walpole, Robert</subject>
+          <date>ca. 1715 - ca. 1721</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3273-A</identifier>
+        <datestamp>2021-10-19T16:24:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40844</identifier>
+          <identifier>BK-NM-3273-A</identifier>
+          <title>Ruit met het wapen van kasteel Popkens Burg</title>
+          <creator>anoniem</creator>
+          <date>ca. 1676 - ca. 1681</date>
+          <type>ruit</type>
+          <type>wapenruit</type>
+          <format>glas</format>
+          <format>lood</format>
+          <format>glas-in-lood</format>
+          <format>grisailleverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10187-A</identifier>
+        <datestamp>2021-10-19T16:24:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40889</identifier>
+          <identifier>BK-NM-10187-A</identifier>
+          <title>Ruit met De Triomf van de Oorlog (Bellum)</title>
+          <creator>anoniem</creator>
+          <contributor>Coornhert, Dirck Volckertsz.</contributor>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <date>na 1564 - ca. 1600</date>
+          <type>ruit</type>
+          <format>glas</format>
+          <format>lood</format>
+          <format>glas-in-lood</format>
+          <format>grisailleverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.610</identifier>
+        <datestamp>2019-05-29T15:01:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40430</identifier>
+          <identifier>RP-P-OB-20.610</identifier>
+          <title>Entree van de graaf van Brionne</title>
+          <title>Cet entreé est de Monsieur le Comte de Brionne Grand Chambelan de son Altesse, representant Jason</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Philippe, Sébastien</contributor>
+          <subject>de legende van de Argonauten: de jacht op het Gulden Vlies</subject>
+          <subject>Nancy</subject>
+          <date>1627</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMjgyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

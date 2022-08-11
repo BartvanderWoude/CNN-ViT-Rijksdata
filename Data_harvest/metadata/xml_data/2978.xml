@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTU0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1897-A-3409</identifier>
+        <datestamp>2019-01-03T16:49:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51196</identifier>
+          <identifier>RP-T-1897-A-3409</identifier>
+          <title>Stadspoort aan de stadswal</title>
+          <creator>Goyen, Jan van</creator>
+          <date>1653</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1892-A-2496</identifier>
+        <datestamp>2021-11-29T23:36:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51550</identifier>
+          <identifier>RP-T-1892-A-2496</identifier>
+          <title>Gezicht op Oostwold, Groningen</title>
+          <creator>Grave, Josua de</creator>
+          <contributor>Schouman, Aert</contributor>
+          <subject>Oostwold</subject>
+          <date>1676-04-21</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Oostwold</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-498</identifier>
+        <datestamp>2019-01-03T16:49:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51210</identifier>
+          <identifier>RP-T-1948-498</identifier>
+          <title>Bespannen wagen voor een herberg</title>
+          <creator>Goyen, Jan van</creator>
+          <date>1606 - 1656</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1897-A-3419</identifier>
+        <datestamp>2019-01-03T16:49:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51259</identifier>
+          <identifier>RP-T-1897-A-3419</identifier>
+          <title>Gezicht op huizen en vestingstoren aan het water</title>
+          <creator>Goyen, Jan van</creator>
+          <date>1606 - 1656</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-486</identifier>
+        <datestamp>2019-09-09T16:23:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51988</identifier>
+          <identifier>RP-T-1948-486</identifier>
+          <title>Uitgestrekt berglandschap met een brede rivier</title>
+          <creator>Hackaert, Jan</creator>
+          <contributor>Moucheron, Frederik de</contributor>
+          <date>1639 - 1700</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-391-A</identifier>
+        <datestamp>2021-10-02T12:24:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52045</identifier>
+          <identifier>BK-1955-391-A</identifier>
+          <title>Randtegel van een tegeltableau</title>
+          <creator>anoniem</creator>
+          <date>ca. 1550 - ca. 1600</date>
+          <type>tegel</type>
+          <type>randtegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7968</identifier>
+        <datestamp>2021-10-02T12:24:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52094</identifier>
+          <identifier>BK-NM-7968</identifier>
+          <title>Ring met jachthond</title>
+          <creator>anoniem</creator>
+          <date>ca. 1770 - ca. 1775</date>
+          <type>sieraad</type>
+          <type>ring (sieraad)</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1898-A-3760</identifier>
+        <datestamp>2020-04-06T11:58:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51159</identifier>
+          <identifier>RP-T-1898-A-3760</identifier>
+          <title>Riviergezicht met drie vissers en gezicht op Leiden</title>
+          <creator>Goyen, Jan van</creator>
+          <subject>Leiden</subject>
+          <date>1647</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.097</identifier>
+        <datestamp>2019-05-22T12:37:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51500</identifier>
+          <identifier>RP-P-OB-31.097</identifier>
+          <title>Maria met kind omringd door heiligen</title>
+          <creator>Gandini, Alessandro</creator>
+          <contributor>Treviso, Girolamo da (II)</contributor>
+          <contributor>Andreani, Andrea</contributor>
+          <date>1610</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bologna</coverage>
+          <coverage>Mantua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12161</identifier>
+        <datestamp>2021-10-02T12:24:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51506</identifier>
+          <identifier>BK-NM-12161</identifier>
+          <title>Fragment bedrukt katoen</title>
+          <date>1850 - 1899</date>
+          <type>bedrukte katoen</type>
+          <format>linnen</format>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.943</identifier>
+        <datestamp>2022-03-02T15:21:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51809</identifier>
+          <identifier>RP-P-OB-17.943</identifier>
+          <title>Kustlandschap met Aeneas en Achates op hertenjacht</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <subject>het verhaal van de omzwervingen van Aenaes naar ItaliÃ« (Virgilius, Aeneis)</subject>
+          <date>1776-12-03</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1901-A-4549</identifier>
+        <datestamp>2021-07-26T20:07:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51816</identifier>
+          <identifier>RP-T-1901-A-4549</identifier>
+          <title>Gezicht op Grave, Noord-Brabant</title>
+          <creator>Klotz, Barend</creator>
+          <contributor>Grave, Josua de</contributor>
+          <subject>Grave</subject>
+          <date>1674-11-15</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Grave</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.219</identifier>
+        <datestamp>2019-05-22T12:40:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52102</identifier>
+          <identifier>RP-P-OB-31.219</identifier>
+          <title>Heilige Petrus</title>
+          <title>Christus en de twaalf apostelen</title>
+          <creator>Trento, Antonio da</creator>
+          <contributor>Parmigianino</contributor>
+          <date>ca. 1520 - ca. 1550</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16000</identifier>
+        <datestamp>2021-11-03T19:26:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50980</identifier>
+          <identifier>BK-16000</identifier>
+          <title>Gewatteerde jas (douillette)</title>
+          <creator>anoniem</creator>
+          <description>Douillette betekent in het Frans zacht, glad en comfortabel. In Nederland kwamen deze gewatteerde jassen vanaf de jaren 20 van de 19de eeuw in de mode. Dit exemplaar heeft een bijpassende ceintuur met ornamenten op de rug. De gepofte mouwen, die door middel van verticale
+banden zijn gevuld en gerimpeld, vinden hun oorsprong in de 16de eeuw.</description>
+          <date>ca. 1820</date>
+          <type>dameskleding</type>
+          <type>bovenkleding</type>
+          <type>mantel</type>
+          <type>redingote</type>
+          <format>zijde</format>
+          <format>satijn</format>
+          <format>hout</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.123</identifier>
+        <datestamp>2019-05-22T12:37:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51617</identifier>
+          <identifier>RP-P-OB-31.123</identifier>
+          <title>Heilige Cecilia musicerend</title>
+          <creator>Trento, Antonio da</creator>
+          <contributor>Parmigianino</contributor>
+          <subject>engelen</subject>
+          <date>ca. 1520 - ca. 1550</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.911</identifier>
+        <datestamp>2022-03-02T15:20:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51673</identifier>
+          <identifier>RP-P-OB-17.911</identifier>
+          <title>Landschap met aanbidding van het gouden kalf</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1776-09-02</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.137</identifier>
+        <datestamp>2019-05-22T12:38:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51679</identifier>
+          <identifier>RP-P-OB-31.137</identifier>
+          <title>Naakte man in een landschap</title>
+          <creator>Trento, Antonio da</creator>
+          <contributor>Parmigianino</contributor>
+          <subject>landschappen</subject>
+          <date>ca. 1520 - ca. 1550</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12252-C</identifier>
+        <datestamp>2021-10-02T12:24:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51557</identifier>
+          <identifier>BK-NM-12252-C</identifier>
+          <title>Fragment bedrukte katoen</title>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>bedrukte katoen</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-391-F</identifier>
+        <datestamp>2021-10-02T12:24:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51859</identifier>
+          <identifier>BK-BR-391-F</identifier>
+          <title>Fragment oosterse textiel</title>
+          <date>ca. 1800 - ca. 1850</date>
+          <type>gebrocheerde zijde</type>
+          <format>zijde</format>
+          <format>katoen</format>
+          <format>filégouddraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Indië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1968-44</identifier>
+        <datestamp>2020-10-20T21:22:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52154</identifier>
+          <identifier>RP-T-1968-44</identifier>
+          <title>Vijgcactus in bloei</title>
+          <creator>Heer, Willem de</creator>
+          <date>1648 - 1681</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>dekverf</format>
+          <format>gouache (waterverf)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTU2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

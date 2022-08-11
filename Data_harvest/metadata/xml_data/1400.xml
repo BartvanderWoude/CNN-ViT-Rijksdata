@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNzk4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-42.096</identifier>
+        <datestamp>2019-08-10T02:07:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86120</identifier>
+          <identifier>RP-P-OB-42.096</identifier>
+          <title>Fortuna begiftigt de Fransen terwijl de Spanjaarden haar hulp afsmeken</title>
+          <title>La Fortune de la France.</title>
+          <creator>Bosse, Abraham</creator>
+          <contributor>Leblond, Jean (II)</contributor>
+          <contributor>Lodewijk XIII (koning van Frankrijk)</contributor>
+          <contributor>Bosse, Abraham</contributor>
+          <contributor>Blon, Michiel le</contributor>
+          <subject>Dertigjarige oorlog</subject>
+          <date>1635</date>
+          <type>prent</type>
+          <type>spotprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-862</identifier>
+        <datestamp>2019-02-20T13:07:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86761</identifier>
+          <identifier>RP-P-1908-862</identifier>
+          <title>Portret van paus Alexander VII</title>
+          <title>Portretten van staatslieden</title>
+          <creator>Bouttats, Frederik (I)</creator>
+          <contributor>Merlen, Theodor van (II)</contributor>
+          <subject>Alexander VII</subject>
+          <date>1655 - 1676</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-2094</identifier>
+        <datestamp>2021-01-28T17:16:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86810</identifier>
+          <identifier>RP-P-1907-2094</identifier>
+          <title>Gezicht op Klundert</title>
+          <title>Steden en vestigingen in de Republiek der Nederlanden</title>
+          <title>Thooneel der Steden ende Sterckten van 't Vereenight Nederlandt met d'aengrensende Plaetsen</title>
+          <creator>Bouttats, Gaspar</creator>
+          <contributor>Peeters, Jan (1624-1678)</contributor>
+          <contributor>Bouttats, Gaspar</contributor>
+          <subject>Klundert</subject>
+          <date>1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2717</identifier>
+        <datestamp>2021-01-28T16:58:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84919</identifier>
+          <identifier>RP-P-BI-2717</identifier>
+          <title>Zittende vrouw met rijzweep</title>
+          <creator>Bombled, Karel Frederik</creator>
+          <date>1832 - 1902</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2708</identifier>
+        <datestamp>2021-01-28T16:58:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84931</identifier>
+          <identifier>RP-P-BI-2708</identifier>
+          <title>Aeddon redt het leven van Kaibar</title>
+          <title>Aeddon</title>
+          <creator>Bombled, Karel Frederik</creator>
+          <date>1852 - 1902</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1879-A-2928</identifier>
+        <datestamp>2021-01-28T17:04:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85592</identifier>
+          <identifier>RP-P-1879-A-2928</identifier>
+          <title>Venus en Amor in de werkplaats van Vulcanus</title>
+          <creator>Bos, Cornelis</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <date>1546</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2774A</identifier>
+        <datestamp>2021-01-28T17:05:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85606</identifier>
+          <identifier>RP-P-BI-2774A</identifier>
+          <title>Strijd tussen Lapithen en Centauren, linker deel</title>
+          <title>Centauromachie, linker plaat</title>
+          <title>Pugna inter Centauros et Lapithas in nuptijs Hippodamiæ (...)</title>
+          <creator>Bos, Cornelis</creator>
+          <contributor>Penni, Luca</contributor>
+          <date>1550</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Groningen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-5584</identifier>
+        <datestamp>2021-01-28T17:08:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85884</identifier>
+          <identifier>RP-P-1882-A-5584</identifier>
+          <title>Ruïnes van de grote zaal van de Thermen van Caracalla, Rome</title>
+          <creator>Bos, Anthonie van den</creator>
+          <contributor>Ulft, Jacob van der</contributor>
+          <subject>Thermen van Caracalla</subject>
+          <date>1778 - 1838</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1877-A-293</identifier>
+        <datestamp>2021-01-28T17:08:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85896</identifier>
+          <identifier>RP-P-1877-A-293</identifier>
+          <title>Twee putti</title>
+          <creator>Bos, Anthonie van den</creator>
+          <contributor>Bulthuis, Jan</contributor>
+          <date>1778 - 1838</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-4793</identifier>
+        <datestamp>2021-01-28T17:15:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86775</identifier>
+          <identifier>RP-P-1905-4793</identifier>
+          <title>Portret van Ismael Pascia</title>
+          <creator>Bouttats, Gerard</creator>
+          <contributor>Toorenvliet, Jacob</contributor>
+          <subject>Pascia, Ismael</subject>
+          <date>1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Wenen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-H-1273</identifier>
+        <datestamp>2021-01-28T16:54:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84599</identifier>
+          <identifier>RP-P-H-H-1273</identifier>
+          <title>Landschap met ruïnes</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Hendricx, Gilles</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-O-24</identifier>
+        <datestamp>2021-10-02T13:10:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84652</identifier>
+          <identifier>RP-P-H-O-24</identifier>
+          <title>Boslandschap met jager</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Hendricx, Gilles</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-27.777</identifier>
+        <datestamp>2021-01-28T17:06:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85741</identifier>
+          <identifier>RP-P-OB-27.777</identifier>
+          <title>Kinderen krijgen catechese in de kerk</title>
+          <creator>Bosboom, Johannes</creator>
+          <contributor>Bosboom, Johannes</contributor>
+          <contributor>Koninklijke Nederlandse Steendrukkerij van C.W. Mieling</contributor>
+          <date>1827 - 1891</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4161</identifier>
+        <datestamp>2021-01-28T17:07:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85790</identifier>
+          <identifier>RP-P-BI-4161</identifier>
+          <title>Zittende man</title>
+          <creator>Bos, Anthonie van den</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1778 - 1838</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11441</identifier>
+        <datestamp>2021-01-28T16:57:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84881</identifier>
+          <identifier>RP-P-1887-A-11441</identifier>
+          <title>Kerkvader Gregorius</title>
+          <title>De vier kerkvaders</title>
+          <creator>Bolten, Roeland van</creator>
+          <contributor>Cesari, Giuseppe</contributor>
+          <contributor>Matham, Jacob</contributor>
+          <contributor>Sichem, Christoffel van</contributor>
+          <date>na 1600 - 1608</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zwolle</coverage>
+          <coverage>Rome</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2653</identifier>
+        <datestamp>2021-01-28T17:02:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85264</identifier>
+          <identifier>RP-P-BI-2653</identifier>
+          <title>Portret van Parmigianino</title>
+          <title>Libreto di diversi figurine dissignato da Fran. parmensis et conservata nella Collezione Arondelyna, 1638</title>
+          <creator>Borcht, Hendrik van der (II)</creator>
+          <subject>Parmigianino</subject>
+          <date>1638</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1879-A-2938</identifier>
+        <datestamp>2021-01-28T17:04:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85555</identifier>
+          <identifier>RP-P-1879-A-2938</identifier>
+          <title>Hagar en Ismaël in de woestijn</title>
+          <title>Het leven van Abraham</title>
+          <creator>Bos, Cornelis</creator>
+          <date>1555</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Groningen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2798</identifier>
+        <datestamp>2021-01-28T17:05:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85643</identifier>
+          <identifier>RP-P-BI-2798</identifier>
+          <title>Clio</title>
+          <title>9 muzes, Juno, Pallas en Venus naar F. Primaticcio</title>
+          <creator>Bos, Cornelis</creator>
+          <contributor>Primaticcio, Francesco</contributor>
+          <contributor>Davent, Léon</contributor>
+          <date>ca. 1540 - ca. 1555</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1926-621</identifier>
+        <datestamp>2021-01-28T17:09:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86010</identifier>
+          <identifier>RP-P-1926-621</identifier>
+          <title>Duitsland</title>
+          <title>Germania</title>
+          <title>Allegorieën van Europese landen</title>
+          <creator>Bossart, Robert</creator>
+          <contributor>Sadeler, Johann (I)</contributor>
+          <contributor>Aachen, Hans von</contributor>
+          <date>ca. 1575 - ca. 1599</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1879-A-3338</identifier>
+        <datestamp>2021-01-28T17:13:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86434</identifier>
+          <identifier>RP-P-1879-A-3338</identifier>
+          <title>Landschap met een rivier en een burcht</title>
+          <creator>Boudewyns, Adriaen Frans</creator>
+          <contributor>Boudewyns, Adriaen Frans</contributor>
+          <contributor>Meulen, Adam Frans van der</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1666 - 1681</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyODAwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

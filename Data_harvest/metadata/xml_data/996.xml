@@ -1,0 +1,491 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxOTkwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1877-A-235</identifier>
+        <datestamp>2016-10-20T20:24:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75582</identifier>
+          <identifier>RP-P-1877-A-235</identifier>
+          <title>Portret van Willem de Groot</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Hanneman, Adriaen</contributor>
+          <contributor>Heinsius, Nicolaus</contributor>
+          <subject>Groot, Willem de (1597-1662)</subject>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1898-A-19767</identifier>
+        <datestamp>2021-01-28T15:49:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77825</identifier>
+          <identifier>RP-P-1898-A-19767</identifier>
+          <title>Rivierlandschap met wachtenden bij een oversteekplaats</title>
+          <creator>Bemme, Joannes</creator>
+          <date>1800 - 1841</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-6092</identifier>
+        <datestamp>2021-01-28T15:52:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78081</identifier>
+          <identifier>RP-P-1882-A-6092</identifier>
+          <title>Heuvellandschap met kasteel en rustende reizigers</title>
+          <title>Landschappen</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Bendorp, Carel Frederik (I)</contributor>
+          <contributor>Bendorp, Carel Frederik (I)</contributor>
+          <date>1769</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-656</identifier>
+        <datestamp>2021-01-28T14:52:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75531</identifier>
+          <identifier>RP-P-BI-656</identifier>
+          <title>Anatomische afbeelding met vrouwelijke geslachtsdelen</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Hackiana, officina</contributor>
+          <contributor>Graaf, Reinier de</contributor>
+          <description>In 1672 werd het boek De mulierum organis, over de organen van de vrouw, van de arts en anatoom Reinier de Graaf gepubliceerd met prenten van Hendrik Bary. De Graaf kwam als eerste tot de conclusie dat een foetus niet alleen ontstaat uit het zaad van de man, maar ook uit de eicel van de vrouw. Hij ontdekte de blaaskens, die later de ‘Graafse follikels’ zijn genoemd.</description>
+          <date>1672</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-600</identifier>
+        <datestamp>2021-01-28T14:53:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75605</identifier>
+          <identifier>RP-P-BI-600</identifier>
+          <title>Portret van Joan Maetsuyker</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Coeman, Jacob</contributor>
+          <contributor>Tollius, Jacobus</contributor>
+          <contributor>Wiltvangh</contributor>
+          <subject>Maetsuyker, Joan</subject>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-624</identifier>
+        <datestamp>2021-01-28T14:54:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75654</identifier>
+          <identifier>RP-P-BI-624</identifier>
+          <title>Portret van Johan de Witt</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Netscher, Caspar</contributor>
+          <contributor>Brandt, Geeraert (I)</contributor>
+          <contributor>Engelvaert, Pieter</contributor>
+          <subject>Witt, Johan de</subject>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1935-416</identifier>
+        <datestamp>2021-01-28T15:48:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77753</identifier>
+          <identifier>RP-P-1935-416</identifier>
+          <title>Een groep cavaleriepaarden bij een herberg</title>
+          <title>Zes landschappen met soldatenstaffage</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Langendijk, Dirk</contributor>
+          <contributor>Bemme, Joannes</contributor>
+          <date>1804</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2235</identifier>
+        <datestamp>2019-05-23T15:57:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77802</identifier>
+          <identifier>RP-P-1909-2235</identifier>
+          <title>Franse troepen trekken Breda binnen, 1793</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Langendijk, Dirk</contributor>
+          <subject>bezetting ~ oorlog</subject>
+          <subject>Beleg en inname van Breda (1793)</subject>
+          <subject>Breda</subject>
+          <subject>Haagpoort</subject>
+          <date>1800 - 1841</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-AO-4-98C</identifier>
+        <datestamp>2021-01-28T15:52:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78104</identifier>
+          <identifier>RP-P-AO-4-98C</identifier>
+          <title>Dorpsgezicht met poort te Hattem</title>
+          <title>De Derre Poort te Hattum</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Bulthuis, Jan</contributor>
+          <subject>Hattem</subject>
+          <date>1786 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-618</identifier>
+        <datestamp>2021-07-30T09:53:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75631</identifier>
+          <identifier>RP-P-BI-618</identifier>
+          <title>Portret van admiraal Cornelis Tromp</title>
+          <creator>anoniem</creator>
+          <contributor>Bary, Hendrik</contributor>
+          <contributor>Baen, Jan de</contributor>
+          <contributor>anoniem</contributor>
+          <contributor>Wit, Frederik de</contributor>
+          <subject>Tromp, Cornelis</subject>
+          <date>1657 - 1757</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-5559</identifier>
+        <datestamp>2021-01-28T15:49:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77868</identifier>
+          <identifier>RP-P-1882-A-5559</identifier>
+          <title>Een paard aan een paal vastgebonden</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Langendijk Dzn, Jan Anthonie</contributor>
+          <date>ca. 1802</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-862B</identifier>
+        <datestamp>2021-01-28T15:51:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78030</identifier>
+          <identifier>RP-P-BI-862B</identifier>
+          <title>Portret van predikant Willem Christiaan van Manen</title>
+          <creator>Bendorp, Johannes Christiaan</creator>
+          <contributor>Bendorp, Johannes Christiaan</contributor>
+          <contributor>Blussé, Pieter</contributor>
+          <subject>Manen, Willem Christiaan van</subject>
+          <date>1808</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-2257</identifier>
+        <datestamp>2016-10-20T20:27:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78036</identifier>
+          <identifier>RP-P-1907-2257</identifier>
+          <title>Portret van marineofficier Aert Jansz. van Nes</title>
+          <title>Aart van Nes</title>
+          <creator>Bendorp, Johannes Christiaan</creator>
+          <contributor>Teerlink, Abraham</contributor>
+          <contributor>Helst, Bartholomeus van der</contributor>
+          <contributor>Loosjes, Adriaan Pietersz.</contributor>
+          <contributor>Immerzeel, Johannes</contributor>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Nes, Aert Jansz. van</subject>
+          <date>1805</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1937-109</identifier>
+        <datestamp>2021-01-28T14:43:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74817</identifier>
+          <identifier>RP-P-1937-109</identifier>
+          <title>Portret van Karel II, koning van Spanje</title>
+          <creator>Taurel, Edouard</creator>
+          <subject>Karel II (koning van Spanje)</subject>
+          <date>1841 - 1879</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1964-93</identifier>
+        <datestamp>2021-03-28T10:12:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74888</identifier>
+          <identifier>RP-T-1964-93</identifier>
+          <title>Bacchanaal</title>
+          <creator>Janssens, Victor Honoré</creator>
+          <date>1668 - 1736</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1933-431</identifier>
+        <datestamp>2021-01-28T14:45:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74962</identifier>
+          <identifier>RP-P-1933-431</identifier>
+          <title>Putto</title>
+          <creator>Taurel, Edouard</creator>
+          <contributor>Rafaël</contributor>
+          <date>1834 - 1892</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-650</identifier>
+        <datestamp>2020-10-22T10:18:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75511</identifier>
+          <identifier>RP-P-BI-650</identifier>
+          <title>Personificatie van de Republiek der Nederlanden zittend op een leeuw</title>
+          <title>Titelpagina voor: L. van Aitzema, Saken van staet en oorlogh, in, ende omtrent de Vereenigde Nederlanden, 'sGravenhage, 1669</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Veely, Johan</contributor>
+          <contributor>Tongerloo, Johannes</contributor>
+          <contributor>Doll, Jasper</contributor>
+          <subject>Nederland</subject>
+          <subject>Willem I (prins van Oranje)</subject>
+          <subject>Maurits (prins van Oranje)</subject>
+          <subject>Frederik Hendrik (prins van Oranje)</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1667 - 1669</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+          <coverage>Den Haag</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-917</identifier>
+        <datestamp>2021-01-28T15:49:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77819</identifier>
+          <identifier>RP-P-1961-917</identifier>
+          <title>Bevroren rivier met sleeënde kinderen</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Langendijk, Dirk</contributor>
+          <date>ca. 1800 - voor 1841</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2252</identifier>
+        <datestamp>2021-01-28T15:51:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77984</identifier>
+          <identifier>RP-P-1909-2252</identifier>
+          <title>Soldaat slaapt op stoel bij raam</title>
+          <creator>Bendorp, Carel Frederik (II)</creator>
+          <date>1829 - 1897</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-4414</identifier>
+        <datestamp>2021-01-28T14:45:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74989</identifier>
+          <identifier>RP-P-1908-4414</identifier>
+          <title>Aurora op een door twee gevleugelde paarden getrokken wagen</title>
+          <title>Aurora</title>
+          <creator>Taurel, Edouard</creator>
+          <contributor>Zürcher, Antonie Frederik</contributor>
+          <contributor>Laarman, J.H.</contributor>
+          <date>1871</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxOTkyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

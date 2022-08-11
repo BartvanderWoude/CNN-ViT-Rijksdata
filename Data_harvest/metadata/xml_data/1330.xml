@@ -1,0 +1,486 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjU4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-198</identifier>
+        <datestamp>2020-04-29T17:00:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55687</identifier>
+          <identifier>RP-T-00-198</identifier>
+          <title>Uittocht van het Spaanse Garnizoen na de inneming van Hulst, op 5 November 1645</title>
+          <creator>Martszen de Jonge, Jan</creator>
+          <subject>historische gebeurtenissen en situaties</subject>
+          <subject>Beleg en inname van Hulst (1645)</subject>
+          <subject>Hulst</subject>
+          <date>1645 - 1646</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-4795-A</identifier>
+        <datestamp>2021-10-19T16:26:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56017</identifier>
+          <identifier>BK-NM-4795-A</identifier>
+          <title>Ruit met een wijnoogst</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1699</date>
+          <type>ruit</type>
+          <format>glas</format>
+          <format>lood</format>
+          <format>glas-in-lood</format>
+          <format>grisailleverf</format>
+          <format>zilvergeel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Holland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14365-UU</identifier>
+        <datestamp>2021-10-02T12:34:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56698</identifier>
+          <identifier>BK-NM-14365-UU</identifier>
+          <title>Staal naaldkant met een zeshoekige gefestonneerde maasgrond</title>
+          <creator>anoniem</creator>
+          <date>1925 - 1929</date>
+          <type>staal</type>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-285</identifier>
+        <datestamp>2021-10-20T13:41:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57437</identifier>
+          <identifier>NG-VG-1-285</identifier>
+          <title>Overlijden van Jean Calvijn</title>
+          <creator>Dassier, Jean</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>protestantisme</subject>
+          <subject>hervorming</subject>
+          <subject>Calvijn, Johannes</subject>
+          <date>1725</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Genève</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-362</identifier>
+        <datestamp>2021-10-20T13:42:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57508</identifier>
+          <identifier>NG-VG-1-362</identifier>
+          <title>Viglius ab Aytta Zuichemus, voorzitter van de Geheime Raad te Brussel, proost van St. Bavo en kanselier van de orde van het Gulden Vlies</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>kanselarij</subject>
+          <subject>katholicisme</subject>
+          <subject>orde</subject>
+          <subject>proost van St. Bavo</subject>
+          <subject>België</subject>
+          <subject>Viglius Zuichemus Ab Aytta</subject>
+          <subject>Orde van het Gulden Vlies</subject>
+          <subject>Geheime Raad</subject>
+          <date>1568</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1966-58</identifier>
+        <datestamp>2021-10-02T12:32:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55876</identifier>
+          <identifier>RP-T-1966-58</identifier>
+          <title>Dr. Faust in zijn studeervertrek</title>
+          <creator>Matham, Adriaen</creator>
+          <date>1610 - 1660</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>hout</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-7121</identifier>
+        <datestamp>2021-11-03T21:18:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56421</identifier>
+          <identifier>AK-NM-7121</identifier>
+          <title>Paar armbanden voor de bovenarm (baju bandh)</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750</date>
+          <type>sieraad</type>
+          <type>armband</type>
+          <type>armband (bovenarm)</type>
+          <format>goud</format>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Surat</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-208</identifier>
+        <datestamp>2021-10-20T13:40:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57362</identifier>
+          <identifier>NG-VG-1-208</identifier>
+          <title>Jan van Leiden, aanvoerder der wederdopers en de overgave van Munster</title>
+          <creator>anoniem</creator>
+          <subject>protestantisme</subject>
+          <subject>wederdopers</subject>
+          <subject>Wederdopersoproer in Münster</subject>
+          <subject>Münster</subject>
+          <subject>Leiden, Jan van</subject>
+          <date>1536</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Münster</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-311</identifier>
+        <datestamp>2021-10-20T13:41:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57460</identifier>
+          <identifier>NG-VG-1-311</identifier>
+          <title>Hieronymus van Tuyll van Serooskerken, raadsheer van Filips II</title>
+          <creator>Herwijck, Steven Cornelisz. van</creator>
+          <subject>Tuyll van Serooskerke, Hieronymus van</subject>
+          <date>1558</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1301-C</identifier>
+        <datestamp>2021-10-02T12:32:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55339</identifier>
+          <identifier>BK-NM-1301-C</identifier>
+          <title>Houten schot met zestien panelen, divers versierd: bandslingers, Andreaskruis emt bandvlechting, bandslinger met bandvlechting.</title>
+          <creator>anoniem</creator>
+          <date>1525 - 1550</date>
+          <type>interieuronderdeel</type>
+          <type>betimmering</type>
+          <type>bouwfragment</type>
+          <format>hout</format>
+          <format>eikenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1933-53</identifier>
+        <datestamp>2021-10-02T12:34:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56486</identifier>
+          <identifier>RP-T-1933-53</identifier>
+          <title>Drie kinderen in een landschap</title>
+          <creator>Netscher, Caspar</creator>
+          <contributor>Mijtens, Jan</contributor>
+          <date>1649 - 1684</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-157</identifier>
+        <datestamp>2021-10-20T13:40:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57314</identifier>
+          <identifier>NG-VG-1-157</identifier>
+          <title>Johan de Standvastige, keurvorst van Saksen en zijn zoon Johan Frederik de Grootmoedige</title>
+          <creator>Meister Peter</creator>
+          <subject>Johan de Standvastige, keurvorst van Saksen</subject>
+          <subject>Johan Frederik I (keurvorst van Saksen)</subject>
+          <date>1530</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Joachimsthal</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-238</identifier>
+        <datestamp>2021-10-20T13:41:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57391</identifier>
+          <identifier>NG-VG-1-238</identifier>
+          <title>Bespotting van de Rooms-Katholieke Kerk</title>
+          <creator>Hagenauer, Friedrich</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>protestantisme</subject>
+          <subject>anti-katholicisme</subject>
+          <subject>propaganda</subject>
+          <date>1545</date>
+          <type>historiepenning</type>
+          <type>spotpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Keulen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-571</identifier>
+        <datestamp>2021-10-20T13:43:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57742</identifier>
+          <identifier>NG-VG-1-571</identifier>
+          <title>Verspreiden van schimpschriften op het verdrag (twaalfjarig bestand)</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Twaalfjarig Bestand</subject>
+          <subject>Gelre</subject>
+          <subject>Zutphen</subject>
+          <date>1608</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Gelderland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-111-B</identifier>
+        <datestamp>2021-10-02T12:32:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55586</identifier>
+          <identifier>BK-1977-111-B</identifier>
+          <title>Tegel</title>
+          <creator>anoniem</creator>
+          <date>1720 - 1760</date>
+          <type>tegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-209</identifier>
+        <datestamp>2021-10-02T12:34:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56546</identifier>
+          <identifier>RP-T-00-209</identifier>
+          <title>Zittende boer, op de rug gezien, met een been op de bank</title>
+          <creator>Ostade, Adriaen van</creator>
+          <date>1659 - 1670</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-132</identifier>
+        <datestamp>2021-10-20T13:40:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57291</identifier>
+          <identifier>NG-VG-1-132</identifier>
+          <title>Martin Luther</title>
+          <creator>Hagenauer, Friedrich</creator>
+          <subject>protestantisme</subject>
+          <subject>Reformatie</subject>
+          <subject>Reformatie</subject>
+          <subject>Luther, Martin</subject>
+          <date>1526</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Augsburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-262</identifier>
+        <datestamp>2021-10-20T14:35:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57414</identifier>
+          <identifier>NG-VG-1-262</identifier>
+          <title>Karel V, Duits keizer</title>
+          <creator>Kels, Hans</creator>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <date>1550</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Augsburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-596</identifier>
+        <datestamp>2021-10-20T13:43:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57765</identifier>
+          <identifier>NG-VG-1-596</identifier>
+          <title>Johannes Richardot, secretaris van de geheime raad</title>
+          <creator>Montfort, Jean de</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>Richardot, Jean</subject>
+          <subject>Geheime Raad</subject>
+          <date>1614</date>
+          <type>historiepenning</type>
+          <type>draagteken</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-106</identifier>
+        <datestamp>2021-10-20T13:40:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57268</identifier>
+          <identifier>NG-VG-1-106</identifier>
+          <title>Maximiliaan I, Duits keizer</title>
+          <creator>Wermuth, Christian</creator>
+          <subject>Maximiliaan I van Habsburg (keizer van het Heilige Roomse Rijk)</subject>
+          <date>1688 - 1739</date>
+          <type>rekenpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjYwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,531 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNjcwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2209</identifier>
+        <datestamp>2021-10-20T09:54:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59487</identifier>
+          <identifier>NG-VG-1-2209</identifier>
+          <title>Tweede eeuwfeest op het overleveren van de Augsburgse geloofsbelijdenis op de Rijksdag</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>lutheranisme</subject>
+          <subject>200-jarig jubileum</subject>
+          <subject>Augsburgse geloofsbelijdenis</subject>
+          <subject>Amsterdam</subject>
+          <subject>Luther, Martin</subject>
+          <date>1730</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1949-491</identifier>
+        <datestamp>2021-10-02T12:43:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59903</identifier>
+          <identifier>RP-T-1949-491</identifier>
+          <title>Gezicht op het dwarspand van de Nieuwe Kerk te Amsterdam na de brand van 1645</title>
+          <creator>Roghman, Roelant</creator>
+          <subject>historische gebeurtenissen en situaties</subject>
+          <subject>Nieuwe Kerk</subject>
+          <date>ca. 1645 - ca. 1646</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1597</identifier>
+        <datestamp>2021-10-20T13:51:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58791</identifier>
+          <identifier>NG-VG-1-1597</identifier>
+          <title>Overwinning van de Fransen bij Pforzheim</title>
+          <creator>Mauger, Jean</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Negenjarige Oorlog</subject>
+          <subject>Slag bij Pforzheim</subject>
+          <subject>Pforzheim</subject>
+          <subject>Baden-Württemberg</subject>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1699 - 1703</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1921-12</identifier>
+        <datestamp>2020-04-17T14:50:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59125</identifier>
+          <identifier>RP-T-1921-12</identifier>
+          <title>Gezicht op kasteel Te Lips of Wijngaarden</title>
+          <title>Te Lips of Wijngaarden</title>
+          <creator>Rademaker, Abraham</creator>
+          <subject>Huis ter Lips</subject>
+          <date>1685 - 1735</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2183</identifier>
+        <datestamp>2021-10-20T09:54:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59464</identifier>
+          <identifier>NG-VG-1-2183</identifier>
+          <title>Overlijden van Christiane Louise, prinses van Nassau</title>
+          <creator>Monogrammist K (18e eeuw)</creator>
+          <subject>Christiane Louise (prinses van Oranje-Nassau)</subject>
+          <date>1723</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1888-A-1769</identifier>
+        <datestamp>2021-10-02T12:43:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59874</identifier>
+          <identifier>RP-T-1888-A-1769</identifier>
+          <title>Gezicht op Abcoude, gezien vanuit het noorden</title>
+          <creator>Roghman, Roelant</creator>
+          <subject>Kasteel Abcoude</subject>
+          <subject>Abcoude</subject>
+          <date>ca. 1646 - ca. 1647</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Abcoude</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1980</identifier>
+        <datestamp>2021-10-20T09:52:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59270</identifier>
+          <identifier>NG-VG-1-1980</identifier>
+          <title>Vredesonderhandelingen met Frankrijk</title>
+          <creator>Brunner, Martin</creator>
+          <contributor>Nuernberger, Georg Friedrich</contributor>
+          <subject>politieke geschiedenis</subject>
+          <subject>diplomatieke betrekkingen</subject>
+          <subject>vredesonderhandelingen</subject>
+          <subject>Haags verbond, groot</subject>
+          <subject>Den Haag</subject>
+          <subject>Nederland</subject>
+          <subject>Frankrijk</subject>
+          <date>1709</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1984-C</identifier>
+        <datestamp>2021-10-20T09:52:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59276</identifier>
+          <identifier>NG-VG-1-1984-C</identifier>
+          <title>Vijfentwintigjarige huwelijk van Sijmon Ooms en Geertje Blok, penning vereerd aan Cornelia Blok</title>
+          <creator>anoniem</creator>
+          <subject>sociale geschiedenis</subject>
+          <subject>huwelijk</subject>
+          <subject>25-jarig jubileum</subject>
+          <subject>Ooms, Sijmon</subject>
+          <subject>Blok, Geertje</subject>
+          <subject>Ooms, Cornelia</subject>
+          <date>1708</date>
+          <type>huwelijksjubileumpenning 25</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2002</identifier>
+        <datestamp>2021-10-20T09:53:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59293</identifier>
+          <identifier>NG-VG-1-2002</identifier>
+          <title>Karel III, koning van Spanje neemt Madrid opnieuw in bezit</title>
+          <creator>Müller, Philipp Heinrich</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Inname van Madrid (1710)</subject>
+          <subject>Madrid</subject>
+          <subject>Karel VI (keizer van het Heilige Roomse Rijk)</subject>
+          <subject>Filips V (koning van Spanje)</subject>
+          <date>1710</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2008</identifier>
+        <datestamp>2021-10-20T09:53:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59299</identifier>
+          <identifier>NG-VG-1-2008</identifier>
+          <title>Inname van Douai</title>
+          <creator>Wermuth, Christian</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Inname van Douai (1710)</subject>
+          <subject>Douai</subject>
+          <subject>Nord</subject>
+          <subject>Anna Stuart (koningin van Engeland en Schotland)</subject>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <subject>Savoye, Eugenius van</subject>
+          <subject>Churchill, John (1e hertog van Marlborough)</subject>
+          <date>1710</date>
+          <type>spotpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Gotha</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1953-P</identifier>
+        <datestamp>2021-10-20T09:52:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59222</identifier>
+          <identifier>NG-VG-1-1953-P</identifier>
+          <title>Lerida door de Fransen ingenomen</title>
+          <creator>Mauger, Jean</creator>
+          <contributor>Duvivier, Jean</contributor>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Inname van Lerida</subject>
+          <subject>Lerida</subject>
+          <subject>Spanje</subject>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1707 - 1722</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2108</identifier>
+        <datestamp>2021-10-20T09:54:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59393</identifier>
+          <identifier>NG-VG-1-2108</identifier>
+          <title>Ter ere van Lodewijk XIV, koning van Frankrijk en zijn opvolger Lodewijk XV</title>
+          <creator>Mauger, Jean</creator>
+          <contributor>Duvivier, Jean</contributor>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <subject>Lodewijk XV (koning van Frankrijk)</subject>
+          <date>1715</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1956</identifier>
+        <datestamp>2021-10-20T09:52:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59247</identifier>
+          <identifier>NG-VG-1-1956</identifier>
+          <title>Mislukte invasie van Jacobus III in Schotland</title>
+          <creator>Brunner, Martin</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Mislukte invasie van Schotland (1708)</subject>
+          <subject>Firth of Forth</subject>
+          <subject>Schotland</subject>
+          <subject>Anna Stuart (koningin van Engeland en Schotland)</subject>
+          <subject>Stuart, Jacobus Frans Eduard (prins van Wales)</subject>
+          <date>1708</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2085</identifier>
+        <datestamp>2021-10-20T09:53:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59370</identifier>
+          <identifier>NG-VG-1-2085</identifier>
+          <title>Vrede van Rastatt, penning ter ere van Augusta Maria, prinses-weduwe van Baden en Lodewijk Georg, markgraaf van Baden-Baden</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>vrede</subject>
+          <subject>Vrede van Rastatt</subject>
+          <subject>Rastatt</subject>
+          <subject>Baden-Württemberg</subject>
+          <subject>Augusta Maria (prinses van Baden-Baden)</subject>
+          <subject>Lodewijk Georg (markgraaf van Baden-Baden)</subject>
+          <date>1714</date>
+          <type>spotpenning</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1653</identifier>
+        <datestamp>2021-10-20T13:52:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58846</identifier>
+          <identifier>NG-VG-1-1653</identifier>
+          <title>Woekerhandel in koren in Duitsland</title>
+          <creator>anoniem</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>handel</subject>
+          <subject>korenschaarste</subject>
+          <subject>Duitsland</subject>
+          <date>1694</date>
+          <type>historiepenning</type>
+          <type>spotpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1952-A</identifier>
+        <datestamp>2021-10-20T09:51:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59182</identifier>
+          <identifier>NG-VG-1-1952-A</identifier>
+          <title>Overlijden van Leopold I, Duits keizer</title>
+          <creator>Hautsch, Georg</creator>
+          <contributor>Nuernberger, Georg Friedrich</contributor>
+          <subject>Leopold I (keizer van Duitsland)</subject>
+          <date>1705</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2153</identifier>
+        <datestamp>2021-10-20T09:54:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59435</identifier>
+          <identifier>NG-VG-1-2153</identifier>
+          <title>Tweede eeuwfeest op het overleveren van de Augsburgse geloofsbelijdenis op de Rijksdag</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>lutheranisme</subject>
+          <subject>200-jarig jubileum</subject>
+          <subject>Augsburgse geloofsbelijdenis</subject>
+          <subject>Augsburg</subject>
+          <subject>Beieren</subject>
+          <subject>Luther, Martin</subject>
+          <date>1730</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1879</identifier>
+        <datestamp>2021-10-20T13:54:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59072</identifier>
+          <identifier>NG-VG-1-1879</identifier>
+          <title>Frederik, koning van Pruisen komt de Nederlanden te hulp in de oorlog tegen Frankrijk</title>
+          <creator>Richter, Bengt</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Haags verbond, groot</subject>
+          <subject>Lage Landen</subject>
+          <subject>Frankrijk</subject>
+          <subject>Pruisen</subject>
+          <subject>Pruisen, Frederik I koning van</subject>
+          <date>1702</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1891</identifier>
+        <datestamp>2021-10-20T13:54:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59084</identifier>
+          <identifier>NG-VG-1-1891</identifier>
+          <title>Karel III bezoekt op zijn reis naar Spanje de stad Leipzig</title>
+          <creator>Wermuth, Christian</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Haags verbond, groot</subject>
+          <subject>Leipzig</subject>
+          <subject>Saksen</subject>
+          <subject>Karel VI (keizer van het Heilige Roomse Rijk)</subject>
+          <date>1703</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Gotha</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2141</identifier>
+        <datestamp>2021-10-20T09:54:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59423</identifier>
+          <identifier>NG-VG-1-2141</identifier>
+          <title>Tweede eeuwfeest van de Reformatie, gevierd te Weimar</title>
+          <creator>anoniem</creator>
+          <subject>protestantisme</subject>
+          <subject>Reformatie</subject>
+          <subject>Weimar</subject>
+          <subject>Luther, Martin</subject>
+          <date>1717</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNjcyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

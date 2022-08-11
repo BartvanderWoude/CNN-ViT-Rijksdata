@@ -1,0 +1,493 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTA2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1917-890X</identifier>
+        <datestamp>2016-10-20T20:32:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81900</identifier>
+          <identifier>RP-P-1917-890X</identifier>
+          <title>Portret van theoloog Salomo Glassius</title>
+          <title>Salomon Glassius</title>
+          <creator>Blois, Abraham de</creator>
+          <contributor>Tidemann, Philip</contributor>
+          <subject>Glass, Salomon</subject>
+          <date>1679 - 1717</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1936-900</identifier>
+        <datestamp>2021-01-28T16:17:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81227</identifier>
+          <identifier>RP-P-1936-900</identifier>
+          <title>Titelvignet met omlijsting waarin bruidspaar en symbolen van liefde en huwelijkse trouw zijn opgenomen</title>
+          <title>Titelvignet voor: Arnold Moonen, Vervolg der Poezye, Delft 1720</title>
+          <title>Bruiloftdichten</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>Bleyswijck, François van</contributor>
+          <date>1681 - 1720</date>
+          <date>1720</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1391</identifier>
+        <datestamp>2021-01-28T16:20:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81457</identifier>
+          <identifier>RP-P-BI-1391</identifier>
+          <title>Slapende jager</title>
+          <title>Pastorale scènes</title>
+          <title>Otia delectant</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Cornelis (II)</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>na ca. 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1540</identifier>
+        <datestamp>2021-01-28T16:25:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81791</identifier>
+          <identifier>RP-P-BI-1540</identifier>
+          <title>Smaak</title>
+          <title>Gustus</title>
+          <title>Vijf zintuigen</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <date>1632 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17303</identifier>
+        <datestamp>2021-01-28T16:27:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81963</identifier>
+          <identifier>RP-P-1892-A-17303</identifier>
+          <title>Portret van lachende man met baard en muts</title>
+          <creator>Blommers, Bernardus Johannes</creator>
+          <date>1855 - 1914</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1325</identifier>
+        <datestamp>2021-01-28T16:20:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81434</identifier>
+          <identifier>RP-P-BI-1325</identifier>
+          <title>Vrouw met bloem in haar hand</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Pape, Joos de</contributor>
+          <date>ca. 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1419</identifier>
+        <datestamp>2021-09-21T14:01:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81601</identifier>
+          <identifier>RP-P-BI-1419</identifier>
+          <title>Rustende uil</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Hendrick</contributor>
+          <contributor>Bloemaert, Cornelis (II)</contributor>
+          <date>ca. 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-3907</identifier>
+        <datestamp>2021-01-28T16:27:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81940</identifier>
+          <identifier>RP-P-1905-3907</identifier>
+          <title>Man met tulband op het hoofd wordt de gevangenis binnengebracht</title>
+          <creator>Blokhuysen, Reynier</creator>
+          <date>1673 - 1744</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1859</identifier>
+        <datestamp>2021-01-28T16:30:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82186</identifier>
+          <identifier>RP-P-BI-1859</identifier>
+          <title>Gezicht op de Jachthaven buiten de Blauwbrug</title>
+          <title>de Jacht-haven</title>
+          <title>Amstelgezichten</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Ruisdael, Jacob Isaacksz van</contributor>
+          <subject>Amstel</subject>
+          <date>1655 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1449</identifier>
+        <datestamp>2021-01-28T16:21:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81506</identifier>
+          <identifier>RP-P-BI-1449</identifier>
+          <title>Oude vrouw slaat een jonge vrouw</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Muti, Giovanni Battista</contributor>
+          <subject>agressieve relaties, vijandschap en vijandigheid</subject>
+          <date>1640</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1408</identifier>
+        <datestamp>2021-08-12T18:30:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81578</identifier>
+          <identifier>RP-P-BI-1408</identifier>
+          <title>Water</title>
+          <title>Aqva / Water</title>
+          <title>Landschappen met de elementen</title>
+          <creator>anoniem</creator>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Jonghe, Clement de</contributor>
+          <subject>water (een van de vier elementen)</subject>
+          <date>ca. 1643 - 1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1583</identifier>
+        <datestamp>2021-01-28T16:26:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81840</identifier>
+          <identifier>RP-P-BI-1583</identifier>
+          <title>Boerenerf met duiventil</title>
+          <title>Grote landschappen</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Frederick</contributor>
+          <subject>landschappen</subject>
+          <date>na 1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-573</identifier>
+        <datestamp>2021-01-28T16:32:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82659</identifier>
+          <identifier>RP-P-1878-A-573</identifier>
+          <title>Thomas gaat door de poort van de gevangenis</title>
+          <title>Het leven van de heilige Thomas van Aquino</title>
+          <creator>Boel, Cornelis</creator>
+          <contributor>Veen, Otto van</contributor>
+          <contributor>Veen, Otto van</contributor>
+          <subject>Thomas van Aquino</subject>
+          <date>1610</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1569</identifier>
+        <datestamp>2021-01-28T16:25:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81814</identifier>
+          <identifier>RP-P-BI-1569</identifier>
+          <title>De maand september</title>
+          <title>De Maanden van het Jaar</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <date>na 1635 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-252</identifier>
+        <datestamp>2016-10-20T20:32:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81863</identifier>
+          <identifier>RP-P-1906-252</identifier>
+          <title>Kreupele bedelaar met een bakje</title>
+          <title>Kleine figuren</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>na 1635</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1304</identifier>
+        <datestamp>2021-01-28T16:19:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81383</identifier>
+          <identifier>RP-P-BI-1304</identifier>
+          <title>Harmonillus verandert in een citroenboom</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Sacchi, Andrea</contributor>
+          <date>1640 - 1646</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.666</identifier>
+        <datestamp>2021-01-28T16:26:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81889</identifier>
+          <identifier>RP-P-OB-26.666</identifier>
+          <title>Portret van geneesheer Cornelis Stalpart vander Wiel</title>
+          <title>Cornelius Stalpart van der Wiel Hagiensis medicinae doctor anno aetatis suae LXVII</title>
+          <creator>anoniem</creator>
+          <contributor>Blois, Abraham de</contributor>
+          <contributor>Ruisch, S.</contributor>
+          <subject>Stalpart vander Wiel, Cornelis</subject>
+          <date>1687 - 1767</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-2221</identifier>
+        <datestamp>2021-01-28T16:29:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82135</identifier>
+          <identifier>RP-P-1908-2221</identifier>
+          <title>Portret van Cornelis Tromp</title>
+          <title>d Ed. H. Cornelis Tromp Ridder / Baronnet l'Admirael (...)</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Lely, Peter (Sir)</contributor>
+          <contributor>Bloteling, Abraham</contributor>
+          <subject>Tromp, Cornelis</subject>
+          <date>1676</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15284</identifier>
+        <datestamp>2021-01-28T16:30:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82212</identifier>
+          <identifier>RP-P-1890-A-15284</identifier>
+          <title>Boerengezin in interieur</title>
+          <title>Caprice</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <contributor>Bloteling, Abraham</contributor>
+          <date>1655 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1468A</identifier>
+        <datestamp>2019-05-29T15:15:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81483</identifier>
+          <identifier>RP-P-BI-1468A</identifier>
+          <title>Jason steelt het Gulden Vlies</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Romanelli, Giovanni Francesco</contributor>
+          <subject>Filips IV (koning van Spanje)</subject>
+          <date>1633 - 1692</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTA4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,532 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODQ4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-176</identifier>
+        <datestamp>2021-04-02T11:56:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56098</identifier>
+          <identifier>RP-F-00-176</identifier>
+          <title>Haus Frauenstein en het Salzhaus in Frankfurt am Main</title>
+          <title>Gezicht op huizen aan de Römerberg, Frankfurt a.M.</title>
+          <title>Frankfurt a. M. Altes Haus auf dem Römerberg</title>
+          <creator>Hertel, Carl</creator>
+          <subject>Frankfurt am Main</subject>
+          <subject>Römerberg</subject>
+          <date>1870 - 1890</date>
+          <type>foto</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-248</identifier>
+        <datestamp>2022-01-24T11:04:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56386</identifier>
+          <identifier>RP-F-00-248</identifier>
+          <title>Ruïnes van de keizerlijke paleizen op de Palatijn te Rome</title>
+          <title>Aedes Pubblica, Palazzo dei Cesari</title>
+          <creator>Tuminello, Ludovico</creator>
+          <subject>Palatijn</subject>
+          <subject>Palazzo dei Cesari</subject>
+          <date>1865 - 1880</date>
+          <type>foto</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-758</identifier>
+        <datestamp>2021-07-07T13:46:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61620</identifier>
+          <identifier>RP-F-00-758</identifier>
+          <title>Gezicht op de Blauwbrug in Amsterdam, met op de achtergrond de Mozes en Aäronkerk</title>
+          <title>De Amstel</title>
+          <title>Amsterdam</title>
+          <creator>anoniem</creator>
+          <creator>Jager, Andries</creator>
+          <subject>Blauwbrug</subject>
+          <subject>Mozes en Aäronkerk</subject>
+          <subject>Amstel</subject>
+          <date>1860 - 1890</date>
+          <type>foto</type>
+          <type>kabinetfoto</type>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-7-26</identifier>
+        <datestamp>2021-11-12T04:54:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61744</identifier>
+          <identifier>RP-F-1993-7-26</identifier>
+          <title>Grafmonument van kardinaal Cristoforo della Rovere in de Santa Maria del Popolo te Rome</title>
+          <title>2126 Roma Monumento al Cardinale Cristoforo della Rovere S. Maria del Popolo</title>
+          <creator>Anderson, James</creator>
+          <subject>Santa Maria del Popolo</subject>
+          <date>ca. 1857 - ca. 1875</date>
+          <type>foto</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Santa Maria del Popolo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-153</identifier>
+        <datestamp>2021-09-21T08:24:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55905</identifier>
+          <identifier>RP-F-00-153</identifier>
+          <title>Portaal van de kathedraal van Luxemburg</title>
+          <creator>Bernhoeft, Charles</creator>
+          <subject>Kathedraal van Luxemburg</subject>
+          <date>1890 - 1920</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Luxemburg (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-198</identifier>
+        <datestamp>2021-04-02T16:24:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56176</identifier>
+          <identifier>RP-F-00-198</identifier>
+          <title>Kerameikos te Athene</title>
+          <title>Athènes Le Céramique / Athen Der Kerameikos</title>
+          <creator>anoniem</creator>
+          <creator>Neue Photographische Gesellschaft</creator>
+          <subject>Kerameikos</subject>
+          <date>1905</date>
+          <type>foto</type>
+          <format>barietpapier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Athene</coverage>
+          <coverage>Steglitz</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-268</identifier>
+        <datestamp>2021-03-10T08:59:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56483</identifier>
+          <identifier>RP-F-00-268</identifier>
+          <title>Gezicht op het Forum Romanum met de Tempel van Saturnus te Rome, Italië</title>
+          <creator>Altobelli &amp; Molins</creator>
+          <subject>Forum Romanum</subject>
+          <subject>Tempel van Saturnus</subject>
+          <date>1857 - 1865</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-301</identifier>
+        <datestamp>2022-01-24T11:04:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56828</identifier>
+          <identifier>RP-F-00-301</identifier>
+          <title>Interieur van de kathedraal van Sevilla</title>
+          <title>La Cathédrale, derrière du choeur</title>
+          <title>Seville</title>
+          <creator>Léon &amp; Lévy</creator>
+          <contributor>J. Lévy &amp; Cie</contributor>
+          <contributor>Lévy Fils et Cie</contributor>
+          <subject>Kathedraal van Sevilla</subject>
+          <date>1864 - 1920</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Sevilla</coverage>
+          <coverage>Sevilla</coverage>
+          <coverage>Sevilla</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-5-28</identifier>
+        <datestamp>2021-11-05T01:49:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61150</identifier>
+          <identifier>RP-F-1993-5-28</identifier>
+          <title>Fotoreproductie van het fresco Kop van een heilige door Giotto in het Camposanto te Pisa, Italië</title>
+          <title>Pisa. Campo Santo. Testa di un santo. Giotto</title>
+          <creator>Brogi, Giacomo</creator>
+          <contributor>Giotto de Bondone</contributor>
+          <subject>Camposanto</subject>
+          <date>1860 - 1881</date>
+          <type>foto</type>
+          <type>albumblad</type>
+          <type>reproductie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pisa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-6-24</identifier>
+        <datestamp>2021-11-12T06:02:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61339</identifier>
+          <identifier>RP-F-1993-6-24</identifier>
+          <title>Sculptuur van Apollo met lier, Vaticaan</title>
+          <title>Apollo Citarete</title>
+          <creator>Anderson, James</creator>
+          <contributor>anoniem</contributor>
+          <subject>Vaticaanse Musea</subject>
+          <date>ca. 1857 - ca. 1875</date>
+          <type>foto</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vaticaanse Musea</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-732</identifier>
+        <datestamp>2021-03-10T09:00:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61572</identifier>
+          <identifier>RP-F-00-732</identifier>
+          <title>Fontein in de Villa Borghese te Rome, Italië</title>
+          <title>Fontana di Villa Borghese</title>
+          <title>Roma</title>
+          <creator>anoniem</creator>
+          <subject>Villa Borghese</subject>
+          <date>1851 - 1900</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-781</identifier>
+        <datestamp>2021-01-05T12:41:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61652</identifier>
+          <identifier>RP-F-00-781</identifier>
+          <title>Gezicht op het kuurpark in Bad Schwalbach</title>
+          <title>Schwalbach - Theil des Kurpark</title>
+          <title>Der Taunus</title>
+          <creator>anoniem</creator>
+          <creator>Römmler &amp; Jonas</creator>
+          <subject>Schwabach</subject>
+          <date>1890</date>
+          <type>kabinetfoto</type>
+          <type>fotomechanische afdruk</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bad Schwalbach</coverage>
+          <coverage>Dresden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1924-8</identifier>
+        <datestamp>2021-12-07T09:31:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55051</identifier>
+          <identifier>RP-F-1924-8</identifier>
+          <title>Gezicht op verdedigingswerken in Veere</title>
+          <creator>anoniem</creator>
+          <subject>Veere</subject>
+          <date>1850 - 1880</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Veere</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-658</identifier>
+        <datestamp>2022-03-15T17:37:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1257</identifier>
+          <identifier>AK-MAK-658</identifier>
+          <title>Guanyin met een kind</title>
+          <creator>He Chaozong</creator>
+          <contributor>He Chaozong</contributor>
+          <subject>Guanyin</subject>
+          <description>Het wit van blanc de Chine is perfect voor de uitbeelding van deze zogeheten 'Guanyin in witte kleren'. Deze manier van uitbeelden ontstond in de 10de eeuw in China, toen Guanyin transformeerde van een mannelijke god naar een vrouwelijke godin. De kleur wit staat voor
+haar puurheid en barmhartigheid.</description>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>beeld</type>
+          <type>figuur</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+          <coverage>Dehua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-372</identifier>
+        <datestamp>2021-03-10T08:59:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57170</identifier>
+          <identifier>RP-F-00-372</identifier>
+          <title>Campanile van Pisa, Italië</title>
+          <title>Campanile del Duomo</title>
+          <title>Pisa</title>
+          <creator>Noack, Alfredo</creator>
+          <subject>Campanile</subject>
+          <date>1858 - 1893</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pisa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-406</identifier>
+        <datestamp>2022-02-28T16:21:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59733</identifier>
+          <identifier>RP-F-00-406</identifier>
+          <title>Schilderij Het betoverde kasteel door Matthijs Maris</title>
+          <creator>Verveer, Maurits</creator>
+          <subject>Naarden</subject>
+          <date>1888 - 1895</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-533</identifier>
+        <datestamp>2021-04-23T12:04:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60252</identifier>
+          <identifier>RP-F-00-533</identifier>
+          <title>Fotoreproductie van het fresco De herrijzenis van Christus naar Buanamico Buffalmacco in het Camposanto te Pisa, Italië</title>
+          <title>Camposanto. La Resurrezione (Bonamica Buffalmacco)</title>
+          <title>Pisa</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>Fratelli Alinari</contributor>
+          <contributor>Buffalmacco, Buonamico</contributor>
+          <subject>Camposanto</subject>
+          <date>1857 - 1900</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pisa</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-181</identifier>
+        <datestamp>2022-01-24T09:07:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56117</identifier>
+          <identifier>RP-F-00-181</identifier>
+          <title>Fotoreproductie van het schilderij De papegaaiekooi van Jan Steen</title>
+          <title>Musée d'Amsterdam. La Cage du Perroquet - Jan Steen</title>
+          <creator>anoniem</creator>
+          <contributor>Steen, Jan Havicksz.</contributor>
+          <contributor>Léon &amp; Lévy</contributor>
+          <subject>papegaai</subject>
+          <subject>Rijksmuseum Amsterdam</subject>
+          <date>1867 - 1880</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1919-178</identifier>
+        <datestamp>2021-04-02T12:18:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59707</identifier>
+          <identifier>RP-F-1919-178</identifier>
+          <title>Kloostergang van het Franciscanenklooster te Dubrovnik</title>
+          <title>Ragusa. Chiostra dei Francescani.</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <creator>Stengel &amp; Co.</creator>
+          <subject>Dubrovnik</subject>
+          <date>1889 - 1910</date>
+          <type>fotomechanische afdruk</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dubrovnik</coverage>
+          <coverage>Dresden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-547</identifier>
+        <datestamp>2021-03-10T09:00:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60306</identifier>
+          <identifier>RP-F-00-547</identifier>
+          <title>Fotoreproductie van het fresco De bekering van Renier van Pisa naar Andrea da Firenze in het Camposanto te Pisa, Italië</title>
+          <title>Camposanto. La conversione di S. Ranieri. (Andrea da Firenze)</title>
+          <title>Pisa</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>Fratelli Alinari</contributor>
+          <contributor>Firenze, Andrea da</contributor>
+          <subject>Camposanto</subject>
+          <subject>Scacceri, Ranieri</subject>
+          <date>1857 - 1900</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pisa</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODUwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

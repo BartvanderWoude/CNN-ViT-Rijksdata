@@ -1,0 +1,489 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxOTIwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RAK-1992-6</identifier>
+        <datestamp>2021-10-02T12:18:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49128</identifier>
+          <identifier>AK-RAK-1992-6</identifier>
+          <title>Veebel</title>
+          <creator>anoniem</creator>
+          <date>1400 - 1499</date>
+          <type>muziekinstrument</type>
+          <type>slaginstrument</type>
+          <type>klok (idiofoon)</type>
+          <type>bel</type>
+          <type>veebel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Java</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1955-119</identifier>
+        <datestamp>2021-10-02T12:19:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49684</identifier>
+          <identifier>RP-T-1955-119</identifier>
+          <title>Hoofd van een opziende man</title>
+          <creator>Cesari, Giuseppe</creator>
+          <date>1578 - 1640</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1955-107</identifier>
+        <datestamp>2019-01-30T10:39:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49721</identifier>
+          <identifier>RP-T-1955-107</identifier>
+          <title>Studie voor Eva, die de appel plukt</title>
+          <creator>Franco, Battista</creator>
+          <date>1555 - 1561</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.066(R)</identifier>
+        <datestamp>2020-04-20T12:11:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48753</identifier>
+          <identifier>RP-P-OB-22.066(R)</identifier>
+          <title>Phineus en zijn volgelingen in steen veranderd</title>
+          <title>Persei hostes in faxa</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.069(R)</identifier>
+        <datestamp>2020-04-20T12:11:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48759</identifier>
+          <identifier>RP-P-OB-22.069(R)</identifier>
+          <title>Alpheüs en Arethusa</title>
+          <title>Alphei erga Arethusam amor</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-549</identifier>
+        <datestamp>2020-09-12T22:19:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49005</identifier>
+          <identifier>RP-P-1988-549</identifier>
+          <title>Soldaten van Herodes in manden bevechten de bandieten in hun grotten</title>
+          <title>Joodse geschiedenis</title>
+          <creator>anoniem</creator>
+          <contributor>Stimmer, Tobias</contributor>
+          <contributor>Rihel, Theodosius</contributor>
+          <date>1574</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-542</identifier>
+        <datestamp>2020-09-12T23:06:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49011</identifier>
+          <identifier>RP-P-1988-542</identifier>
+          <title>Romeinen verslaan Hasdrubal</title>
+          <title>Historische gebeurtenissen uit het Romeinse rijk</title>
+          <creator>anoniem</creator>
+          <contributor>Stimmer, Tobias</contributor>
+          <contributor>Rihel, Theodosius</contributor>
+          <subject>historische gebeurtenissen en situaties</subject>
+          <date>1574</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Straatsburg (Frankrijk)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1959-326</identifier>
+        <datestamp>2021-01-28T13:29:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49271</identifier>
+          <identifier>RP-P-1959-326</identifier>
+          <title>Evangelist Mattheüs</title>
+          <creator>anoniem</creator>
+          <creator>Woensam, Anton von</creator>
+          <contributor>Quentel, Peter</contributor>
+          <date>1527</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.328</identifier>
+        <datestamp>2020-09-09T23:09:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49277</identifier>
+          <identifier>RP-P-OB-22.328</identifier>
+          <title>Christus in de hof van Getsemane</title>
+          <creator>Lützelburger, Hans</creator>
+          <creator>anoniem</creator>
+          <contributor>Grüninger, Johann</contributor>
+          <date>1502 - 1510</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Straatsburg (Frankrijk)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1955-104</identifier>
+        <datestamp>2019-09-09T16:22:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49535</identifier>
+          <identifier>RP-T-1955-104</identifier>
+          <title>Studie van een schedel</title>
+          <creator>Allori, Alessandro</creator>
+          <date>1545 - 1572</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.116(R)</identifier>
+        <datestamp>2020-04-20T12:12:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48853</identifier>
+          <identifier>RP-P-OB-22.116(R)</identifier>
+          <title>Galatea bemind door Polyphemus en Acis</title>
+          <title>Polyphemus Galateam deperit</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.119(R)</identifier>
+        <datestamp>2020-04-20T12:12:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48859</identifier>
+          <identifier>RP-P-OB-22.119(R)</identifier>
+          <title>Cephalus en Aurora</title>
+          <title>Picus in avem</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.155</identifier>
+        <datestamp>2019-10-16T22:21:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48902</identifier>
+          <identifier>RP-P-OB-22.155</identifier>
+          <title>Christus in de hof van Getsemane</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Geißler, Valentin</contributor>
+          <date>1552</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.339</identifier>
+        <datestamp>2020-08-18T23:51:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49377</identifier>
+          <identifier>RP-P-OB-22.339</identifier>
+          <title>Geboorte van Christus</title>
+          <title>Bijbelillustraties</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1590</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.378</identifier>
+        <datestamp>2020-08-19T00:43:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49420</identifier>
+          <identifier>RP-P-OB-22.378</identifier>
+          <title>Brug van overspel</title>
+          <creator>anoniem</creator>
+          <creator>Pencz, Georg</creator>
+          <date>na 1530</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-578</identifier>
+        <datestamp>2020-08-19T00:07:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49426</identifier>
+          <identifier>RP-P-1988-578</identifier>
+          <title>Bisschop</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <date>1500 - 1599</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.750</identifier>
+        <datestamp>2021-01-14T23:38:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49055</identifier>
+          <identifier>RP-P-OB-17.750</identifier>
+          <title>Portret van Alexander van Haecken</title>
+          <creator>Faber, John (II)</creator>
+          <contributor>Hudson, Thomas</contributor>
+          <contributor>Jarvis, John Weseley</contributor>
+          <subject>Haecken, Alexander van</subject>
+          <date>1748</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-503</identifier>
+        <datestamp>2020-08-19T00:43:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49326</identifier>
+          <identifier>RP-P-1988-503</identifier>
+          <title>Opwekking van de zoon van de weduwe van Nain</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <contributor>Guldenmund, Hans</contributor>
+          <date>1536</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1954-158</identifier>
+        <datestamp>2021-10-02T12:19:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49578</identifier>
+          <identifier>RP-T-1954-158</identifier>
+          <title>Landschap met een fluitspelende sater, vrouw en putto</title>
+          <creator>Carracci, Annibale</creator>
+          <date>1570 - 1609</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1884-A-328</identifier>
+        <datestamp>2019-01-03T16:49:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49120</identifier>
+          <identifier>RP-T-1884-A-328</identifier>
+          <title>IJsgezicht</title>
+          <creator>Gael, Barent</creator>
+          <date>1640 - 1673</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxOTIyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

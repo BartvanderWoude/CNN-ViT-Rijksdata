@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODI4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-748-B</identifier>
+        <datestamp>2021-10-19T16:22:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12475</identifier>
+          <identifier>BK-1973-748-B</identifier>
+          <title>Parasol met dek witte katoen bedrukt met roze en blauwe vogeltjes, op een bamboe stok met gebogen handvat</title>
+          <creator>Schnitzler, Gustav</creator>
+          <date>ca. 1930 - ca. 1940</date>
+          <type>parasol</type>
+          <format>katoen</format>
+          <format>metaal</format>
+          <format>bamboe</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijmegen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-75-A</identifier>
+        <datestamp>2021-10-01T23:31:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12677</identifier>
+          <identifier>BK-1967-75-A</identifier>
+          <title>Japongarnering of ceintuur, van dubbel snoer stras diamanten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1925</date>
+          <type>dameskleding</type>
+          <type>japongarnering</type>
+          <type>ceintuur</type>
+          <format>stras</format>
+          <format>zilvergalon</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-1551</identifier>
+        <datestamp>2022-01-22T21:40:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11950</identifier>
+          <identifier>SK-C-1551</identifier>
+          <title>Allegorie op de tirannie van de hertog van Alva in de Nederlanden</title>
+          <creator>anoniem</creator>
+          <subject>historiestuk</subject>
+          <subject>Lage Landen</subject>
+          <subject>Álvarez de Toledo, Fernando (3e hertog van Alva)</subject>
+          <date>ca. 1622 - ca. 1630</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4176</identifier>
+        <datestamp>2021-10-01T23:23:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12094</identifier>
+          <identifier>SK-A-4176</identifier>
+          <title>Allegorie op de Kunsten</title>
+          <creator>Lairesse, Gerard de</creator>
+          <subject>behangsel</subject>
+          <subject>Flines, Philips de</subject>
+          <date>1675 - 1683</date>
+          <type>schilderij</type>
+          <type>grisaille</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-1534</identifier>
+        <datestamp>2021-11-08T10:25:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11938</identifier>
+          <identifier>SK-C-1534</identifier>
+          <title>De Jan Roodenpoortstoren te Amsterdam</title>
+          <creator>Zeuner, Jonas</creator>
+          <subject>stadsgezicht</subject>
+          <subject>Jan Roodenpoortstoren</subject>
+          <date>1770 - 1814</date>
+          <type>schilderij</type>
+          <type>achterglasschildering</type>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10094</identifier>
+        <datestamp>2021-10-01T23:27:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12393</identifier>
+          <identifier>BK-NM-10094</identifier>
+          <title>Kan (fopkan) met apenkoppen en eikels</title>
+          <creator>anoniem</creator>
+          <date>ca. 1630 - ca. 1660</date>
+          <type>kan</type>
+          <type>fopkan</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Westerwald</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10108</identifier>
+        <datestamp>2021-10-01T23:27:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12400</identifier>
+          <identifier>BK-NM-10108</identifier>
+          <title>Inktstel met reliëfdecoratie</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1799</date>
+          <type>inktstel</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Westerwald</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1978-127-6153-W</identifier>
+        <datestamp>2021-07-19T12:57:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11174</identifier>
+          <identifier>NG-1978-127-6153-W</identifier>
+          <title>Fragment bord uit V.O.C.-schip de 'Witte Leeuw'</title>
+          <creator>anoniem</creator>
+          <subject>bord (vaatwerk)</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>voor 1613</date>
+          <type>bord (vaatwerk)</type>
+          <format>porselein</format>
+          <format>kraakporselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jingdezhen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-237-D</identifier>
+        <datestamp>2021-10-01T23:29:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12536</identifier>
+          <identifier>BK-1979-237-D</identifier>
+          <title>Ketting van zwarte houten kralen, afnemend in grootte</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1920</date>
+          <type>rouwkleding</type>
+          <type>ketting</type>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-739-S</identifier>
+        <datestamp>2021-10-19T16:23:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12542</identifier>
+          <identifier>BK-1973-739-S</identifier>
+          <title>Onderstok van een paraplu of parasol van zwart geverfd hout met een ronde haak, waarin een bladmotief is gekerfd</title>
+          <creator>Schnitzler, Gustav</creator>
+          <date>ca. 1920 - ca. 1940</date>
+          <type>stok</type>
+          <type>onderstok</type>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijmegen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-737-J</identifier>
+        <datestamp>2021-10-01T23:29:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12607</identifier>
+          <identifier>BK-1973-737-J</identifier>
+          <title>Strook witte machinale kant met bloemen aan één zijde geschulpt, op karton</title>
+          <creator>Schnitzler, Gustav</creator>
+          <date>ca. 1925</date>
+          <type>strook</type>
+          <type>passement</type>
+          <format>kant (materiaal)</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijmegen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4480</identifier>
+        <datestamp>2021-10-01T23:10:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10373</identifier>
+          <identifier>SK-A-4480</identifier>
+          <title>Maria Stuart (1662-95). Echtgenote van Willem III</title>
+          <creator>anoniem</creator>
+          <subject>portret</subject>
+          <subject>Maria II Stuart (koningin van Engeland, Schotland en Ierland)</subject>
+          <date>ca. 1695</date>
+          <type>schilderij</type>
+          <format>tin</format>
+          <format>olieverf</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1978-127-2017-W</identifier>
+        <datestamp>2021-07-15T15:43:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11028</identifier>
+          <identifier>NG-1978-127-2017-W</identifier>
+          <title>Fragment bord uit V.O.C.-schip de 'Witte Leeuw'</title>
+          <creator>anoniem</creator>
+          <subject>bord (vaatwerk)</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>voor 1613</date>
+          <type>bord (vaatwerk)</type>
+          <type>scherf</type>
+          <format>kraakporselein</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jingdezhen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15262</identifier>
+        <datestamp>2021-11-03T19:16:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11652</identifier>
+          <identifier>BK-15262</identifier>
+          <title>Cape met kleine noppen en rozetten</title>
+          <creator>anoniem</creator>
+          <description>Toen de pofmouwen begin jaren 1890 steeds groter werden, verving de mouwloze cape de strakker gesneden dolman. Deze zwarte fluwelen cape is geborduurd met kleine witte noppen en rozetten. De kraag is in een speciale borduurtechniek – tamboereren – versierd met punten. Deze versiering doet, door de associatie met sneeuwvlokken en ijspegels, winters aan. De voering is van rode zijden damast.</description>
+          <date>ca. 1900</date>
+          <type>dameskleding</type>
+          <type>bovenkleding</type>
+          <type>sortie</type>
+          <type>schoudermantel</type>
+          <format>zijde</format>
+          <format>struisvogelveer</format>
+          <format>fluweel</format>
+          <format>satijn</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-4284</identifier>
+        <datestamp>2021-11-03T11:47:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12258</identifier>
+          <identifier>BK-NM-4284</identifier>
+          <title>Kachelplaat met Christus en de Samaritaanse vrouw</title>
+          <creator>anoniem</creator>
+          <date>1669 - 1575</date>
+          <type>kachelplaat</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4533</identifier>
+        <datestamp>2021-10-01T23:11:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10424</identifier>
+          <identifier>SK-A-4533</identifier>
+          <title>Cornelis van der Lijn (1608?-79). Gouverneur-generaal (1645-50)</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <subject>portret</subject>
+          <subject>politieke geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Lijn, Cornelis van der</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>1750 - 1800</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Batavia</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-371-D</identifier>
+        <datestamp>2021-10-01T23:34:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13150</identifier>
+          <identifier>BK-1980-371-D</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1692 - 1700</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-636</identifier>
+        <datestamp>2021-08-19T16:54:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13700</identifier>
+          <identifier>BK-1980-636</identifier>
+          <title>Sloop van wit linnen</title>
+          <date>ca. 1692 - ca. 1735</date>
+          <type>sloop</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-451-G</identifier>
+        <datestamp>2021-08-19T16:54:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13749</identifier>
+          <identifier>BK-1980-451-G</identifier>
+          <title>Servet van linnen met pellenpatroon</title>
+          <date>1734</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-113</identifier>
+        <datestamp>2021-11-03T19:16:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12758</identifier>
+          <identifier>BK-1984-113</identifier>
+          <title>Buidel geweven van gekleurde glazen kralen in bruin, beige en wit, voorzien van een gedraaid zijden trekkoord en zes ringen van ivoor</title>
+          <creator>Wiener Werkstätte</creator>
+          <date>ca. 1910 - ca. 1914</date>
+          <type>buidel</type>
+          <format>glas</format>
+          <format>zijde</format>
+          <format>been</format>
+          <format>zijde</format>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Wenen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODMwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

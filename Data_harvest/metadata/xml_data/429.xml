@@ -1,0 +1,507 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw4NTYw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.419</identifier>
+        <datestamp>2019-05-13T11:40:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32524</identifier>
+          <identifier>RP-P-OB-11.419</identifier>
+          <title>Portret van Richard Weston, eerste graaf van Portland</title>
+          <title>Portretten naar Anthony van Dyck door Joannes Meyssens uitgegeven</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <contributor>Meyssens, Joannes</contributor>
+          <subject>Weston, Richard (1e graaf van Portland)</subject>
+          <date>1645</date>
+          <date>1645 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.636</identifier>
+        <datestamp>2019-06-21T16:50:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32904</identifier>
+          <identifier>RP-P-OB-11.636</identifier>
+          <title>Eenden</title>
+          <title>Diversae avium species</title>
+          <title>Verschillende vogels</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Barlow, Francis</contributor>
+          <date>1654 - 1662</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1964-342(R)</identifier>
+        <datestamp>2019-09-09T16:21:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32948</identifier>
+          <identifier>RP-T-1964-342(R)</identifier>
+          <title>Gedeelte van een bruiloftsstoet</title>
+          <title>Reisschetsen gemaakt in Indië</title>
+          <creator>Schouten, Wouter</creator>
+          <creator>Bruyn, Cornelis de</creator>
+          <subject>overzeese geschiedenis</subject>
+          <subject>huwelijk</subject>
+          <subject>Batavia</subject>
+          <subject>Indië</subject>
+          <date>ca. 1660</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.155</identifier>
+        <datestamp>2019-05-09T15:20:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32043</identifier>
+          <identifier>RP-P-OB-11.155</identifier>
+          <title>Adam en Eva verdreven uit het Paradijs</title>
+          <title>Dodendans</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <date>ca. 1680</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-3921</identifier>
+        <datestamp>2019-05-09T15:21:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32126</identifier>
+          <identifier>RP-P-1907-3921</identifier>
+          <title>Fabel van de leeuw en de hengst</title>
+          <title>Fabelen</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Sadeler, Aegidius (II)</contributor>
+          <contributor>Gheeraerts, Marcus</contributor>
+          <subject>fabels van Esopus: Gebruik 85 (...)</subject>
+          <date>1644 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Praag</coverage>
+          <coverage>Brugge</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-136</identifier>
+        <datestamp>2021-01-28T13:04:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32331</identifier>
+          <identifier>RP-P-1958-136</identifier>
+          <title>Rivierlandschap met kerk nabij Albury</title>
+          <title>bey Alburye in Surrey</title>
+          <title>Gezichten in de omgeving van Albury</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Hollar, Wenceslaus</contributor>
+          <subject>Albury</subject>
+          <date>1645</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2032</identifier>
+        <datestamp>2021-07-13T12:30:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32417</identifier>
+          <identifier>RP-P-1906-2032</identifier>
+          <title>Gezicht op de Schelde bij Antwerpen</title>
+          <creator>anoniem</creator>
+          <contributor>Hollar, Wenceslaus</contributor>
+          <contributor>Hollar, Wenceslaus</contributor>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <subject>Antwerpen (stad)</subject>
+          <date>1647 - 1727</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-2928</identifier>
+        <datestamp>2019-05-13T11:39:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32429</identifier>
+          <identifier>RP-P-1907-2928</identifier>
+          <title>Portret van admiraal Maarten Harpertszoon Tromp</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <subject>Tromp, Maarten Harpertszoon</subject>
+          <date>1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.598</identifier>
+        <datestamp>2019-05-09T15:25:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32847</identifier>
+          <identifier>RP-P-OB-11.598</identifier>
+          <title>Zes jachthonden</title>
+          <title>Jacht, jachthonden en wild</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <date>1646 - 1647</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.389</identifier>
+        <datestamp>2019-05-13T11:39:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32478</identifier>
+          <identifier>RP-P-OB-11.389</identifier>
+          <title>Portret van Hendrik VIII, koning van Engeland en Ierland</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <subject>Hendrik VIII (koning van Engeland en Ierland)</subject>
+          <date>1647</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.605</identifier>
+        <datestamp>2021-07-12T12:53:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32858</identifier>
+          <identifier>RP-P-OB-11.605</identifier>
+          <title>Geschoten wild: een dood wild zwijn, hert, reiger en ander wild</title>
+          <title>Jacht, jachthonden en wild</title>
+          <creator>anoniem</creator>
+          <contributor>Avont, Pieter van</contributor>
+          <date>1646 - 1647</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1183</identifier>
+        <datestamp>2019-05-29T14:35:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33123</identifier>
+          <identifier>RP-P-OB-1183</identifier>
+          <title>Twee engelen met de zweetdoek</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1513</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.328</identifier>
+        <datestamp>2019-05-09T15:22:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32377</identifier>
+          <identifier>RP-P-OB-11.328</identifier>
+          <title>Landschap met boeren op weg naar de markt</title>
+          <title>Landschappen</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Brueghel, Jan (I)</contributor>
+          <contributor>Meyssens, Joannes</contributor>
+          <date>1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.557</identifier>
+        <datestamp>2021-07-13T12:25:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32782</identifier>
+          <identifier>RP-P-OB-11.557</identifier>
+          <title>Femme de Zurich en Suisse allant par la Ville</title>
+          <title>Vrouwen in klederdracht</title>
+          <title>Livre Curieux</title>
+          <creator>anoniem</creator>
+          <contributor>Hollar, Wenceslaus</contributor>
+          <contributor>Moncornet, Balthazar</contributor>
+          <subject>Zürich (stad)</subject>
+          <date>1662</date>
+          <type>kostuumprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.683</identifier>
+        <datestamp>2019-05-09T15:26:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33062</identifier>
+          <identifier>RP-P-OB-11.683</identifier>
+          <title>Esther voor Ahasveros</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Veronese, Paolo</contributor>
+          <date>1644 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.689</identifier>
+        <datestamp>2019-05-09T15:26:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33069</identifier>
+          <identifier>RP-P-OB-11.689</identifier>
+          <title>Oordeel van Zaleucus</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Romano, Giulio</contributor>
+          <date>1637</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.148</identifier>
+        <datestamp>2019-05-09T15:20:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32032</identifier>
+          <identifier>RP-P-OB-11.148</identifier>
+          <title>Johannes de Evangelist</title>
+          <title>S. Ioannes</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Elsheimer, Adam</contributor>
+          <contributor>Galle, Cornelis (II)</contributor>
+          <date>1650 - 1678</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-322</identifier>
+        <datestamp>2020-12-01T10:19:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32232</identifier>
+          <identifier>RP-T-00-322</identifier>
+          <title>Zelfportret in ovaal</title>
+          <creator>Boonen, Arnold</creator>
+          <subject>Boonen, Arnold</subject>
+          <date>1695</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1965-32</identifier>
+        <datestamp>2021-10-02T11:55:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32261</identifier>
+          <identifier>BK-1965-32</identifier>
+          <title>Naaigarnituur in parelmoeren doos</title>
+          <creator>Wigand, Balthasar</creator>
+          <contributor>anoniem</contributor>
+          <subject>Schloss Weilburg (Baden)</subject>
+          <date>ca. 1826</date>
+          <type>handwerkgerei</type>
+          <type>naaigerei</type>
+          <type>naaigarnituur</type>
+          <type>doos</type>
+          <type>sleutel</type>
+          <type>schaar</type>
+          <type>vingerhoed</type>
+          <type>mes (snijgereedschap)</type>
+          <type>klos</type>
+          <type>garenwinder</type>
+          <type>naaldenkoker</type>
+          <type>rijgnaald</type>
+          <type>priem</type>
+          <type>kussen</type>
+          <format>parelmoer</format>
+          <format>koper</format>
+          <format>verguldsel</format>
+          <format>gouache (waterverf)</format>
+          <format>glas</format>
+          <format>parelmoer</format>
+          <format>fluweel</format>
+          <format>glas</format>
+          <format>metaal</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Oostenrijk</coverage>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1955-306</identifier>
+        <datestamp>2022-03-02T15:15:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32616</identifier>
+          <identifier>RP-P-1955-306</identifier>
+          <title>Hoofd van een jongen en twee profielen van mannen</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <date>1645</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw4NTgw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

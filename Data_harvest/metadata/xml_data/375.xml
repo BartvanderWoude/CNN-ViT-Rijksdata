@@ -1,0 +1,436 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3NDgw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-239-5</identifier>
+        <datestamp>2022-03-29T09:15:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24731</identifier>
+          <identifier>BK-1968-239-5</identifier>
+          <title>Geschulpte schotel met hoo-vogels</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1670 - ca. 1700</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Arita</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18783</identifier>
+        <datestamp>2022-01-25T08:55:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25042</identifier>
+          <identifier>BK-18783</identifier>
+          <title>De Nederlandse maagd</title>
+          <creator>Lacomblé, Eugène</creator>
+          <date>ca. 1865</date>
+          <type>beeldhouwwerk</type>
+          <format>klei</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-B-67-1</identifier>
+        <datestamp>2022-06-01T08:36:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25133</identifier>
+          <identifier>BK-B-67-1</identifier>
+          <title>Buste van Johannes Josephus Herman Verhulst (1816-1891), toonkunstenaar</title>
+          <creator>Keller, Johan</creator>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>toonkunst</subject>
+          <subject>Verhulst, Johannes</subject>
+          <date>in of voor 1892</date>
+          <type>buste</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-148</identifier>
+        <datestamp>2021-10-02T11:35:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25417</identifier>
+          <identifier>BK-1973-148</identifier>
+          <title>Passement, groene tule met zijdeborduursel. Kant met slingerende rand met bladwerk en voluten in reliëf.</title>
+          <creator>anoniem</creator>
+          <date>1900 - 1925</date>
+          <type>passement</type>
+          <format>rayon</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12081</identifier>
+        <datestamp>2021-10-02T11:34:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25287</identifier>
+          <identifier>BK-NM-12081</identifier>
+          <title>Apollo staande naast een boomstronk</title>
+          <date>ca. 1500 - ca. 1599</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9146</identifier>
+        <datestamp>2021-11-03T16:57:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25809</identifier>
+          <identifier>BK-NM-9146</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3092-A</identifier>
+        <datestamp>2021-10-26T09:51:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24809</identifier>
+          <identifier>BK-NM-3092-A</identifier>
+          <title>Michiel de Ruyter (1607-1676) (?)</title>
+          <creator>Maes, Johannes Fredericus</creator>
+          <date>ca. 1743 - ca. 1759</date>
+          <type>beeldhouwwerk</type>
+          <format>terracotta</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18776</identifier>
+        <datestamp>2022-01-25T11:27:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25085</identifier>
+          <identifier>BK-18776</identifier>
+          <title>Overwinning van de vlag</title>
+          <creator>Lacomblé, Eugène</creator>
+          <date>1888</date>
+          <type>beeldhouwwerk</type>
+          <format>klei</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18815-A</identifier>
+        <datestamp>2022-01-24T14:39:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25088</identifier>
+          <identifier>BK-18815-A</identifier>
+          <title>Les premiers pas</title>
+          <creator>Lacomblé, Eugène</creator>
+          <date>ca. 1828 - ca. 1905</date>
+          <type>beeldhouwwerk</type>
+          <format>klei</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17240</identifier>
+        <datestamp>2022-06-01T08:37:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25342</identifier>
+          <identifier>BK-17240</identifier>
+          <title>Maria met kind</title>
+          <creator>anoniem</creator>
+          <date>ca. 1480</date>
+          <type>beeld</type>
+          <format>kalksteen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Troyes</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13049</identifier>
+        <datestamp>2021-11-03T16:56:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25757</identifier>
+          <identifier>BK-NM-13049</identifier>
+          <title>Dopsleutel van brons</title>
+          <date>ca. 1300 - ca. 1400</date>
+          <type>sleutel</type>
+          <type>dopsleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1966-1-B</identifier>
+        <datestamp>2022-06-01T08:36:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24913</identifier>
+          <identifier>BK-1966-1-B</identifier>
+          <title>Een groep van twee spelende naakte kinderen</title>
+          <creator>Shee, Michiel Emanuel</creator>
+          <date>1720 - 1730</date>
+          <type>beeldhouwwerk</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12079</identifier>
+        <datestamp>2021-10-02T11:33:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25241</identifier>
+          <identifier>BK-NM-12079</identifier>
+          <title>Geit</title>
+          <creator>anoniem</creator>
+          <date>ca. 1520 - ca. 1550</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Padua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12675</identifier>
+        <datestamp>2021-11-02T08:29:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25550</identifier>
+          <identifier>BK-NM-12675</identifier>
+          <title>Ariovistus</title>
+          <title>Twaalf oudste, Duitse koningen</title>
+          <creator>Flötner, Peter</creator>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>plaquette</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9149</identifier>
+        <datestamp>2021-11-03T16:57:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25806</identifier>
+          <identifier>BK-NM-9149</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1964-10-A</identifier>
+        <datestamp>2022-06-01T08:36:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24847</identifier>
+          <identifier>BK-1964-10-A</identifier>
+          <title>Zwevend engeltje met spreukband</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>beeldhouwwerk</type>
+          <format>lindehout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-4243-1</identifier>
+        <datestamp>2021-10-02T02:01:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25039</identifier>
+          <identifier>BK-NM-4243-1</identifier>
+          <title>Kruisbeeld</title>
+          <creator>Bije, de</creator>
+          <date>ca. 1858</date>
+          <type>beeldhouwwerk</type>
+          <format>palmhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-B-75</identifier>
+        <datestamp>2021-10-02T02:03:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25136</identifier>
+          <identifier>BK-B-75</identifier>
+          <title>Buste van Richard Hol (1825-1904), componist</title>
+          <creator>Odé, Arend Willem Maurits</creator>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>muziek</subject>
+          <subject>Hol, Richard</subject>
+          <date>1896</date>
+          <type>buste</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1961-59</identifier>
+        <datestamp>2021-11-29T23:03:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25307</identifier>
+          <identifier>BK-1961-59</identifier>
+          <title>Sebastiaan</title>
+          <creator>Tacca, Pietro</creator>
+          <contributor>Giuliani, Giovanni</contributor>
+          <description>Van de pijlen waarmee de martelaar Sebastiaan volgens de legende werd doorschoten, ontbreekt hier elk spoor. Alle dramatiek van het beeld is samengebald in de houding van het sensuele, geïdealiseerde naakte lichaam. De gepijnigde Sebastiaan is in zwijm gevallen en hangt slap tegen de boomstam waaraan hij met één pols is vastgesnoerd.</description>
+          <date>ca. 1610 - ca. 1615</date>
+          <type>beeld</type>
+          <format>brons</format>
+          <format>ijzerdraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+          <coverage>Wenen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1981</identifier>
+        <datestamp>2021-10-02T11:37:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25887</identifier>
+          <identifier>BK-KOG-1981</identifier>
+          <title>39 sleutels uit de collectie van Emmanuel Vita Israël</title>
+          <creator>anoniem</creator>
+          <description>De Amsterdamse apotheker en kunstverzamelaar Emmanuel Vita Israël schonk zijn collectie, met sleutels van de Romeinse oudheid tot de 19de eeuw, in 1937 aan het Koninklijk Oudheidkundig Genootschap. Naar eigen zeggen kwam zijn sleutelcollectie min of meer per toeval tot stand. Omdat hij een van de weinige verzamelaars was, wisten handelaren hem automatisch te vinden.</description>
+          <type>sleutel</type>
+          <format>brons</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3NTAw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

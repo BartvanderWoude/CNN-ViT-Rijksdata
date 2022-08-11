@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNjk2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3104</identifier>
+        <datestamp>2016-10-20T19:50:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43489</identifier>
+          <identifier>RP-P-1906-3104</identifier>
+          <title>Smaak</title>
+          <creator>Dusart, Cornelis</creator>
+          <date>1679 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.047</identifier>
+        <datestamp>2020-01-09T15:30:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43495</identifier>
+          <identifier>RP-P-OB-17.047</identifier>
+          <title>Venus en Amor</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14204</identifier>
+        <datestamp>2016-10-20T19:50:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43994</identifier>
+          <identifier>RP-P-1889-A-14204</identifier>
+          <title>Gevoel</title>
+          <title>Feeling</title>
+          <title>De vijf zintuigen</title>
+          <creator>Haecken, Alexander van</creator>
+          <contributor>Amigoni, Jacopo</contributor>
+          <contributor>Jefferys, T.</contributor>
+          <contributor>Herbert, William</contributor>
+          <date>1739</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3070</identifier>
+        <datestamp>2020-03-20T13:46:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43346</identifier>
+          <identifier>RP-P-1906-3070</identifier>
+          <title>Portret van Aegidius de Glabbais</title>
+          <creator>Buysen, Andries van (Sr.)</creator>
+          <subject>Glabbais, Aegidius de</subject>
+          <date>1717</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3095</identifier>
+        <datestamp>2016-11-22T15:38:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43395</identifier>
+          <identifier>RP-P-1906-3095</identifier>
+          <title>Oktober</title>
+          <title>October</title>
+          <title>De twaalf maanden van het jaar, "Les XII Mois de l'Année"</title>
+          <creator>Dusart, Cornelis</creator>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Stadsbestuur Amsterdam</contributor>
+          <date>1679 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.061</identifier>
+        <datestamp>2017-03-28T14:11:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43538</identifier>
+          <identifier>RP-P-OB-17.061</identifier>
+          <title>Portret van Frederik I van Pruisen</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Pruisen, Frederik I koning van</subject>
+          <date>1688 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-3640</identifier>
+        <datestamp>2016-10-20T19:50:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43615</identifier>
+          <identifier>RP-P-1907-3640</identifier>
+          <title>Portret van Abdias Velingius</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Tangena, weduwe Johannes</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Velingius, Abdias</subject>
+          <date>1693 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-11133</identifier>
+        <datestamp>2022-03-02T15:17:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44228</identifier>
+          <identifier>RP-P-1886-A-11133</identifier>
+          <title>Jongen in een landschap</title>
+          <title>A Contemplative Youth</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Reynolds, Joshua</contributor>
+          <contributor>Smith, John Raphael</contributor>
+          <subject>landschappen</subject>
+          <subject>Brown, master</subject>
+          <date>1786</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7329</identifier>
+        <datestamp>2019-05-29T15:08:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43466</identifier>
+          <identifier>RP-P-BI-7329</identifier>
+          <title>Lachende vrouw</title>
+          <creator>Dusart, Cornelis</creator>
+          <date>1670 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.053</identifier>
+        <datestamp>2016-10-20T19:50:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43515</identifier>
+          <identifier>RP-P-OB-17.053</identifier>
+          <title>Portret van Jacob Basnage</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Holzhalb, Jacob</contributor>
+          <contributor>Lindenberg, Jacob</contributor>
+          <subject>Basnage de Beauval, Jacques</subject>
+          <date>1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3162</identifier>
+        <datestamp>2016-10-20T19:50:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43589</identifier>
+          <identifier>RP-P-1906-3162</identifier>
+          <title>Portret van Joannes Oyers</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Opoeteren, Pieter van</contributor>
+          <subject>Oyers, Joannes</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23496</identifier>
+        <datestamp>2016-10-20T19:50:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43638</identifier>
+          <identifier>RP-P-1903-A-23496</identifier>
+          <title>Dood van Lucretia</title>
+          <title>Lucretia Romania</title>
+          <creator>Gole, Jacob</creator>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-2281B</identifier>
+        <datestamp>2016-10-20T19:50:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43688</identifier>
+          <identifier>RP-P-1910-2281B</identifier>
+          <title>Raymond Poisson en een actrice</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Poisson, Raymond</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3358</identifier>
+        <datestamp>2016-10-20T19:50:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44063</identifier>
+          <identifier>RP-P-1906-3358</identifier>
+          <title>Portret van de theoloog Johannes Reelant</title>
+          <creator>Hellemans, Cornelis A.</creator>
+          <contributor>Maes, Nicolaes</contributor>
+          <subject>Reelant, Johannes</subject>
+          <date>1650 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3391</identifier>
+        <datestamp>2016-10-20T19:51:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44153</identifier>
+          <identifier>RP-P-1906-3391</identifier>
+          <title>Portret van de predikant Henricus de Haan Hugenholtz</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Groenewoud Jansz, Johannes</contributor>
+          <subject>Haan Hugenholtz, Henricus de</subject>
+          <date>1804</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-1749</identifier>
+        <datestamp>2019-05-23T15:52:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44202</identifier>
+          <identifier>RP-P-1906-1749</identifier>
+          <title>Portret van generaal Charles Pichegru</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Allart, Johannes</contributor>
+          <subject>Pichegru, Jean-Charles</subject>
+          <date>1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7286</identifier>
+        <datestamp>2019-05-29T15:08:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43403</identifier>
+          <identifier>RP-P-BI-7286</identifier>
+          <title>De man met de vuurpijl</title>
+          <title>De algemene blijdschap om de inname van Namen door stadhouder Willem III, koning van Engeland, september 1695</title>
+          <creator>Dusart, Cornelis</creator>
+          <subject>Viering van de verovering van Namen</subject>
+          <subject>Namen (stad)</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1695 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.042</identifier>
+        <datestamp>2018-09-05T10:01:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43415</identifier>
+          <identifier>RP-P-OB-17.042</identifier>
+          <title>De vrouw met een vuurpijl, 1695</title>
+          <title>De Vrede maakt mij gaande</title>
+          <title>De algemene blijdschap om de inname van Namen door stadhouder Willem III, koning van Engeland, september 1695</title>
+          <creator>Dusart, Cornelis</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Beleg en verovering van Namen (1695)</subject>
+          <subject>Viering van de verovering van Namen</subject>
+          <subject>Namen (stad)</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1695 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1942-318</identifier>
+        <datestamp>2021-01-28T13:23:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43652</identifier>
+          <identifier>RP-P-1942-318</identifier>
+          <title>Boer en een vrouw</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3288</identifier>
+        <datestamp>2016-10-20T19:50:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43908</identifier>
+          <identifier>RP-P-1906-3288</identifier>
+          <title>Keuken met drie figuren</title>
+          <creator>Groot, Johannes de (II)</creator>
+          <contributor>Brekelenkam, Quiringh Gerritsz. van</contributor>
+          <date>1698 - 1776</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNjk4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMTUyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23876</identifier>
+        <datestamp>2021-01-28T15:58:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78652</identifier>
+          <identifier>RP-P-1903-A-23876</identifier>
+          <title>Verdrijving van Hagar en Ismaël en de terugkeer van de verloren zoon</title>
+          <creator>Berge, Pieter van den</creator>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>1694 - 1737</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-1806</identifier>
+        <datestamp>2021-01-28T16:01:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78903</identifier>
+          <identifier>RP-P-1918-1806</identifier>
+          <title>Portret van Johannes le Francq van Berkhey</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>Jelgerhuis, Rienk</contributor>
+          <contributor>Trap, Pieter Willem Marinus</contributor>
+          <subject>Leiden</subject>
+          <subject>Francq van Berkhey, Johannes le</subject>
+          <subject>Willem I (prins van Oranje)</subject>
+          <subject>Werff, Pieter Adriaansz. van der</subject>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Nederland</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.600</identifier>
+        <datestamp>2021-01-28T16:03:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.79208</identifier>
+          <identifier>RP-P-OB-26.600</identifier>
+          <title>Telemachus brengt Hippias lichaam naar huis</title>
+          <creator>Bernards, Balthasar</creator>
+          <contributor>Dubourg, Louis Fabritius</contributor>
+          <date>1734</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-27.702</identifier>
+        <datestamp>2016-10-20T20:28:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78974</identifier>
+          <identifier>RP-P-OB-27.702</identifier>
+          <title>Portret van W. Th. de Jonge</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>Berghaus, Johann Peter</contributor>
+          <date>1857-10-05</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1103</identifier>
+        <datestamp>2021-01-28T16:02:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.79182</identifier>
+          <identifier>RP-P-BI-1103</identifier>
+          <title>Titelpagina voor François Joseph de Lagrange Chancel "Amasis, tragedie"</title>
+          <creator>Bernards, Balthasar</creator>
+          <contributor>Picart, Bernard</contributor>
+          <date>1711 - 1737</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1912-42</identifier>
+        <datestamp>2021-10-02T13:10:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.79652</identifier>
+          <identifier>RP-T-1912-42</identifier>
+          <title>Portret van Johann Goll van Franckenstein, met hoed, naar links</title>
+          <creator>Coclers, Louis Bernard</creator>
+          <subject>Goll van Frankenstein, Johann (I)</subject>
+          <date>1781 - 1785</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2412</identifier>
+        <datestamp>2019-05-23T15:58:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81126</identifier>
+          <identifier>RP-P-1906-2412</identifier>
+          <title>Portret van bisschop George van Egmond van Utrecht</title>
+          <title>Illustrissimus ac Reverendissimus (...) aetatis vero LV</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>onbekend</contributor>
+          <subject>Egmond, George van</subject>
+          <date>1681 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1024</identifier>
+        <datestamp>2021-07-30T11:54:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78404</identifier>
+          <identifier>RP-P-BI-1024</identifier>
+          <title>Zittende herder met hond, ram, geit en schaap</title>
+          <title>Verschillende dieren</title>
+          <title>Animalia ad vivum delineata et aqua forti aeri impressa Studio et Arte Nicolai Berchemi</title>
+          <creator>anoniem</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>1648 - 1733</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4521</identifier>
+        <datestamp>2021-01-28T15:56:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78432</identifier>
+          <identifier>RP-P-OB-4521</identifier>
+          <title>Kaart van Delfland (blad rechtsonder)</title>
+          <title>Ware afbeeldinghe van Delflandt</title>
+          <creator>Berckenrode, Floris Balthasarsz. van</creator>
+          <contributor>Berckenrode, Balthasar Florisz. van</contributor>
+          <subject>Delfland</subject>
+          <date>1612</date>
+          <type>prent</type>
+          <type>kaart</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-4607</identifier>
+        <datestamp>2016-10-20T20:28:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78911</identifier>
+          <identifier>RP-P-1905-4607</identifier>
+          <title>Portret van J. M. Boom</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>Berghaus, Johann Peter</contributor>
+          <date>1853-06-08</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-706</identifier>
+        <datestamp>2021-01-28T16:01:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78923</identifier>
+          <identifier>RP-P-1909-706</identifier>
+          <title>Portret van Alef Brown</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>Springer, Leendert (I)</contributor>
+          <date>1856-07-19</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1905-75</identifier>
+        <datestamp>2021-10-02T13:10:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.79666</identifier>
+          <identifier>RP-T-1905-75</identifier>
+          <title>De chirurgijn</title>
+          <creator>Horemans, Jan Josef (I)</creator>
+          <date>1692 - 1759</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1992-136</identifier>
+        <datestamp>2016-10-20T20:30:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80815</identifier>
+          <identifier>RP-P-1992-136</identifier>
+          <title>Liggende pan met twee druiventossen</title>
+          <title>Signorum Veterum Icones II</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>Montorsoli, Giovanni Angelo</contributor>
+          <contributor>Poelenburch, Cornelis van</contributor>
+          <date>ca. 1664 - in of na 1669</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-241</identifier>
+        <datestamp>2022-01-06T10:57:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78566</identifier>
+          <identifier>RP-P-1904-241</identifier>
+          <title>Portret van frère Jaques de Beaulieu op 48-jarige leeftijd</title>
+          <creator>Berge, Pieter van den</creator>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Brandt, Joannes</contributor>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Beaulieu, Jacques de</subject>
+          <date>1699 - 1737</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15890</identifier>
+        <datestamp>2021-01-28T15:57:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78603</identifier>
+          <identifier>RP-P-1890-A-15890</identifier>
+          <title>Dansende man met een roemer in zijn hand</title>
+          <title>Le Automne / De Herfst</title>
+          <title>De vier seizoenen</title>
+          <creator>Berge, Pieter van den</creator>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>1695 - 1697</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15271</identifier>
+        <datestamp>2021-07-30T12:06:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78615</identifier>
+          <identifier>RP-P-1890-A-15271</identifier>
+          <title>Boer uit Molkwerum</title>
+          <title>Paysan de Molqueren / Boer van Molqueren</title>
+          <title>Nederlandse klederdrachten naar Pieter van den Berge</title>
+          <creator>anoniem</creator>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>in of voor 1689 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.635</identifier>
+        <datestamp>2021-01-28T16:09:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80387</identifier>
+          <identifier>RP-P-OB-26.635</identifier>
+          <title>Interieur met man en vrouw in gesprek en titel</title>
+          <title>Titelpagina voor: E.L. Bulwer, De gebroeders Devereux of de donkere wegen der vergelding; een familie tafereel uit den tijd van Koningin Anna van Engeland, Haarlem 1835</title>
+          <creator>Best, Johannes Alexander Rudolf</creator>
+          <contributor>Oosterhuis, H.P.</contributor>
+          <contributor>Loosjes, weduwe Adriaan Pietersz.</contributor>
+          <date>1807 - 1835</date>
+          <date>1835</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-732</identifier>
+        <datestamp>2021-01-28T16:10:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80576</identifier>
+          <identifier>RP-P-1878-A-732</identifier>
+          <title>Jongen met vogelkooi</title>
+          <title>Le contentement</title>
+          <creator>Bijlaert, Joannis Jacobus</creator>
+          <contributor>Werff, Adriaen van der</contributor>
+          <date>1767</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-4018</identifier>
+        <datestamp>2021-01-28T16:12:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80850</identifier>
+          <identifier>RP-P-1907-4018</identifier>
+          <title>Portretbuste van Socrates</title>
+          <title>Socrates</title>
+          <title>Paradigmata graphices variorum artificum</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>anoniem</contributor>
+          <date>1666 - 1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1935-430</identifier>
+        <datestamp>2021-01-28T15:54:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78230</identifier>
+          <identifier>RP-P-1935-430</identifier>
+          <title>Bezoekers van kermis kopen lekkernijen bij koekkraam</title>
+          <title>De Koek-Kraam</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Bendorp, Carel Frederik (I)</contributor>
+          <contributor>Haas, Hendrik de</contributor>
+          <date>1782</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMTU0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

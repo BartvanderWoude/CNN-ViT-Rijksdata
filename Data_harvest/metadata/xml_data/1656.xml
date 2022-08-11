@@ -1,0 +1,443 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzEwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-237</identifier>
+        <datestamp>2016-10-20T19:29:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16799</identifier>
+          <identifier>RP-T-1963-237</identifier>
+          <title>Ruïne van een boerderij</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1982-42-B</identifier>
+        <datestamp>2021-11-03T16:54:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16566</identifier>
+          <identifier>BK-1982-42-B</identifier>
+          <title>Hoekstuk van een boekbeslag (?)</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>boekbeslag</type>
+          <type>hoekstuk</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8955</identifier>
+        <datestamp>2021-11-03T16:54:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16865</identifier>
+          <identifier>BK-NM-8955</identifier>
+          <title>Traliewerk van ijzer in houten raam, omgeven met fraai gesmede lijst, versierd met eikentakken en eikels</title>
+          <date>1500 - 1550</date>
+          <type>traliewerk</type>
+          <format>ijzer</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-6955-D</identifier>
+        <datestamp>2022-03-17T10:46:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21504</identifier>
+          <identifier>AK-NM-6955-D</identifier>
+          <title>Bord met rivierlandschap en bloemtakken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1760</date>
+          <type>bord (vaatwerk)</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14985-A</identifier>
+        <datestamp>2021-10-02T00:14:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16383</identifier>
+          <identifier>BK-14985-A</identifier>
+          <title>Herdersfiguur met vogel</title>
+          <creator>anoniem</creator>
+          <date>1750 - 1770</date>
+          <type>decoratief object</type>
+          <type>mannenfiguur</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12769</identifier>
+        <datestamp>2021-10-02T01:18:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21780</identifier>
+          <identifier>BK-NM-12769</identifier>
+          <title>Strook kloskant met aaneenschakeling van vijf verschillende bladeren</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1799</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15791</identifier>
+        <datestamp>2022-01-17T15:39:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21330</identifier>
+          <identifier>BK-15791</identifier>
+          <title>Kussenovertrek met het wapen van de generaliteitsrekenkamer</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1740</date>
+          <type>kussenovertrek</type>
+          <type>magistratenkussen</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-425-C</identifier>
+        <datestamp>2022-03-02T15:11:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21398</identifier>
+          <identifier>BK-1980-425-C</identifier>
+          <title>Servet van wit linnen</title>
+          <date>1731</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-413</identifier>
+        <datestamp>2022-03-02T15:11:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21404</identifier>
+          <identifier>BK-1980-413</identifier>
+          <title>Handdoek van wit linnen</title>
+          <date>1650 - 1699</date>
+          <type>handdwaal</type>
+          <type>handdoek</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1970-194</identifier>
+        <datestamp>2021-10-02T01:19:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21945</identifier>
+          <identifier>BK-1970-194</identifier>
+          <title>Strook kloskant met kandelabermotief</title>
+          <creator>anoniem</creator>
+          <date>ca. 1675 - ca. 1699</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-698</identifier>
+        <datestamp>2021-10-02T01:12:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21168</identifier>
+          <identifier>RP-T-00-698</identifier>
+          <title>Zinnebeeld op de vredesonderhandelingen in 1706 (?)</title>
+          <creator>Ebisch, Friedrich</creator>
+          <subject>vredesonderhandelingen tijdens Spaanse Successieoorlog</subject>
+          <date>1706</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1964-179</identifier>
+        <datestamp>2021-10-02T00:11:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16203</identifier>
+          <identifier>RP-T-1964-179</identifier>
+          <title>Hoekje van een klavier</title>
+          <creator>Isabey, Jean Baptiste</creator>
+          <date>1837</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-310</identifier>
+        <datestamp>2022-01-27T09:19:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16333</identifier>
+          <identifier>BK-NM-12400-310</identifier>
+          <title>Bord van veelkleurig beschilderde faïence</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-25</identifier>
+        <datestamp>2021-10-02T00:17:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16705</identifier>
+          <identifier>BK-1979-25</identifier>
+          <title>Theekist met twee theebussen en een mengbus</title>
+          <creator>Bruné, Pieter Adolf</creator>
+          <date>1785</date>
+          <type>theekist</type>
+          <format>zilver</format>
+          <format>hout</format>
+          <format>fluweel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-99</identifier>
+        <datestamp>2019-12-12T14:03:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17016</identifier>
+          <identifier>RP-T-1963-99</identifier>
+          <title>De Seine-kade bij de Legion d'Honneur</title>
+          <creator>Michel, Georges</creator>
+          <subject>Parijs</subject>
+          <subject>Seine</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-63-C</identifier>
+        <datestamp>2019-08-01T09:26:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20949</identifier>
+          <identifier>BK-BR-J-63-C</identifier>
+          <title>Zakdoekstrook van kloskant met gerekte schulpjes</title>
+          <creator>'s-Gravenmoersche Kantvereniging</creator>
+          <date>ca. 1920 - ca. 1929</date>
+          <type>strook</type>
+          <type>zakdoek</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>'s Gravenmoer</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11164</identifier>
+        <datestamp>2021-11-02T08:23:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17121</identifier>
+          <identifier>BK-NM-11164</identifier>
+          <title>Lepel met peervormige bak en pilastervormige steel, bekroond met Johannes de Evangelist met de kelk.</title>
+          <creator>Jeltes, Lolle</creator>
+          <date>1625 - 1650</date>
+          <type>lepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bolsward</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12028-11-D</identifier>
+        <datestamp>2021-11-02T08:23:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17127</identifier>
+          <identifier>BK-NM-12028-11-D</identifier>
+          <title>Schep met kolenschopvormige bak</title>
+          <creator>Bennewitz en Zonen, Fa.</creator>
+          <date>1827</date>
+          <type>lepel</type>
+          <type>schep</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-268</identifier>
+        <datestamp>2021-10-02T00:12:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16282</identifier>
+          <identifier>BK-NM-12400-268</identifier>
+          <title>Fles, veelkleurig beschilderd met bloemtakken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1690 - ca. 1720</date>
+          <type>fles</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nevers</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-926</identifier>
+        <datestamp>2022-04-22T14:52:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21285</identifier>
+          <identifier>BK-BR-926</identifier>
+          <title>Palempore met bloemranken en pre-bizarre motieven</title>
+          <creator>anoniem</creator>
+          <date>ca. 1720</date>
+          <type>palempore</type>
+          <type>beddengoed</type>
+          <type>sprei</type>
+          <type>sits</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>India</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzEyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

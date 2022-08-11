@@ -1,0 +1,501 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MDgwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-56.853</identifier>
+        <datestamp>2019-11-28T11:39:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90305</identifier>
+          <identifier>RP-P-OB-56.853</identifier>
+          <title>Beleg van Saint Martin op het Île de Ré, juli-november 1627 (randwerk, deel linksboven)</title>
+          <title>Dessante de Monsieur de Toyras en Lisle de Re</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Bosse, Abraham</contributor>
+          <contributor>Delorme, Charles</contributor>
+          <subject>Ile de Ré</subject>
+          <subject>Lodewijk XIII (koning van Frankrijk)</subject>
+          <date>1629 - 1631</date>
+          <type>prent</type>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5624</identifier>
+        <datestamp>2021-01-28T18:52:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91102</identifier>
+          <identifier>RP-P-BI-5624</identifier>
+          <title>Pauselijk schip voor anker aan de kade van de haven van Messina</title>
+          <title>Gezichten van de haven van Messina</title>
+          <creator>Casembroot, Abraham</creator>
+          <contributor>Casembroot, Abraham</contributor>
+          <contributor>Casembroot, Abraham</contributor>
+          <subject>Messina</subject>
+          <date>1603 - 1658</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-16.124</identifier>
+        <datestamp>2021-01-28T17:35:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88933</identifier>
+          <identifier>RP-P-OB-16.124</identifier>
+          <title>Laatste Avondmaal</title>
+          <title>De Passie</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1618</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-16.158</identifier>
+        <datestamp>2021-01-28T17:37:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89099</identifier>
+          <identifier>RP-P-OB-16.158</identifier>
+          <title>Twee olifanten</title>
+          <title>Animalivm qvadrvpedvm</title>
+          <title>Dieren in landschappen</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Sichem, Christoffel van</contributor>
+          <date>1594</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5083</identifier>
+        <datestamp>2021-10-02T13:11:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89173</identifier>
+          <identifier>RP-P-BI-5083</identifier>
+          <title>Kabeljauw en steur</title>
+          <title>Libelivs varia Genera piscium complectens</title>
+          <title>Zoetwatervissen, zeevissen, kikkers, schaaldieren en zeewezens</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Beusekom, Francoys van</contributor>
+          <date>1581 - 1656</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5416</identifier>
+        <datestamp>2021-01-28T18:34:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89909</identifier>
+          <identifier>RP-P-BI-5416</identifier>
+          <title>Staande beer, van voren, de voorpoten wijd uiteen</title>
+          <title>Beren</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Gheeraerts, Marcus (I)</contributor>
+          <subject>beer</subject>
+          <date>1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-56.876</identifier>
+        <datestamp>2019-05-29T15:26:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90328</identifier>
+          <identifier>RP-P-OB-56.876</identifier>
+          <title>Beleg van Breda, 27 augustus 1624-5 juni 1625 (deel rechtsboven)</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Plantiniana Balthasaris Moreti, Officina</contributor>
+          <subject>Beleg van Breda (1624-1625)</subject>
+          <subject>Breda</subject>
+          <subject>Isabella Clara Eugenia, infante van Spanje</subject>
+          <date>1628</date>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11602</identifier>
+        <datestamp>2021-01-28T17:34:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88861</identifier>
+          <identifier>RP-P-1887-A-11602</identifier>
+          <title>Landschap met ruiter</title>
+          <creator>Bruyn, Johanna de</creator>
+          <contributor>Bruyn, Johanna de</contributor>
+          <date>1777</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5065</identifier>
+        <datestamp>2021-01-28T17:35:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88910</identifier>
+          <identifier>RP-P-BI-5065</identifier>
+          <title>Jozef legt dromen van de farao uit</title>
+          <title>Verhaal van Jozef</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1629</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1891-A-16330</identifier>
+        <datestamp>2021-10-02T13:11:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89122</identifier>
+          <identifier>RP-P-1891-A-16330</identifier>
+          <title>Olifant in gevecht met fantasiewezens</title>
+          <title>Dieren uit fabels</title>
+          <title>Vechtende chimeras en dieren uit Aisopische fabels</title>
+          <title>Friezen met dieren</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Londerseel, Assuerus van</contributor>
+          <date>1594</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5380</identifier>
+        <datestamp>2021-01-28T17:46:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89857</identifier>
+          <identifier>RP-P-BI-5380</identifier>
+          <title>Staande wolf van voren gezien</title>
+          <title>Roofdieren en zwijnen</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Potter, Paulus</contributor>
+          <subject>wolf</subject>
+          <date>1657 - ca. 1677</date>
+          <date>1728 - ca. 1761</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5427</identifier>
+        <datestamp>2021-01-28T18:35:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89932</identifier>
+          <identifier>RP-P-BI-5427</identifier>
+          <title>Muilezeldrijver slaat een paard</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Bye, Marcus de</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <subject>paard</subject>
+          <date>1657 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+          <coverage>Den Haag</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-214</identifier>
+        <datestamp>2021-01-28T14:33:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73856</identifier>
+          <identifier>RP-P-1904-214</identifier>
+          <title>Heilige Franciscus Xaverius met crucifix</title>
+          <title>S. Franciscvs Xaverivs</title>
+          <creator>Bailliu, Pieter de (I)</creator>
+          <contributor>Bailliu, Pieter de (I)</contributor>
+          <contributor>Bailliu, Pieter de (I)</contributor>
+          <contributor>onbekend</contributor>
+          <date>1623 - 1660</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1917-634</identifier>
+        <datestamp>2021-01-28T14:34:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73927</identifier>
+          <identifier>RP-P-1917-634</identifier>
+          <title>Portret van Philipp Streiff von Lauenstein</title>
+          <title>Phillipus Streuff a Lawenstein (...) pacis tractatus plenipotentiarius</title>
+          <creator>Bailliu, Pieter de (I)</creator>
+          <contributor>Bailliu, Pieter de (I)</contributor>
+          <contributor>Hoeje, Rombout van den</contributor>
+          <subject>Streiff von Lauenstein,  Philipp</subject>
+          <date>1623 - 1660</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-493</identifier>
+        <datestamp>2016-10-20T20:23:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74747</identifier>
+          <identifier>RP-P-1878-A-493</identifier>
+          <title>Oorkonde voor Johan Coutereels met Dood met zeis als strijder te paard valt dichter aan</title>
+          <title>Ornatissimo Vigilantissimo spectatoque viro domino Johanni Covtereeli</title>
+          <creator>Barra, Johan</creator>
+          <contributor>Schilders, Richardus</contributor>
+          <subject>Coutereels, Johan</subject>
+          <date>1604</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Middelburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-41.268</identifier>
+        <datestamp>2020-06-25T17:14:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.72602</identifier>
+          <identifier>RP-P-OB-41.268</identifier>
+          <title>Valkenjacht</title>
+          <title>Chasse au faucon</title>
+          <title>Oude jachtvormen volgens middeleeuwse manuscripten</title>
+          <title>Chasses anciennes d'après les manuscrits des XIVe et XVe siècles</title>
+          <creator>Aubry, Charles</creator>
+          <contributor>Motte, Charles Etienne Pierre</contributor>
+          <contributor>Motte, Charles Etienne Pierre</contributor>
+          <date>1836</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1935-369</identifier>
+        <datestamp>2021-01-28T14:22:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.72996</identifier>
+          <identifier>RP-P-1935-369</identifier>
+          <title>De hoeren duivel</title>
+          <title>Titelpagina voor Simon de Vries, Seven Duyvelen regeerende en serveerende de Hedendaeghsche Dienstmaegden, Amsterdam, 1682</title>
+          <creator>Aveele, Johannes Jacobsz van den</creator>
+          <contributor>Hoorn, Timotheus ten</contributor>
+          <date>1682</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-2700</identifier>
+        <datestamp>2021-01-28T14:32:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73738</identifier>
+          <identifier>RP-P-1878-A-2700</identifier>
+          <title>Twee koeien met een herder en een kind</title>
+          <title>Zes voorstellingen met koeien naar Albert Cuyp</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <contributor>Cuyp, Aelbert</contributor>
+          <date>1814</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-493</identifier>
+        <datestamp>2021-01-28T14:33:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73833</identifier>
+          <identifier>RP-P-BI-493</identifier>
+          <title>Maria treurt bij het dode lichaam van Christus met engelen</title>
+          <creator>Bailliu, Pieter de (I)</creator>
+          <contributor>Carracci, Annibale</contributor>
+          <contributor>Lint, Peter van</contributor>
+          <date>1623 - 1660</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1912-707</identifier>
+        <datestamp>2021-01-28T14:34:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73999</identifier>
+          <identifier>RP-P-1912-707</identifier>
+          <title>Portret van priester Thomas Hellinx</title>
+          <creator>Bakker, Barent de</creator>
+          <contributor>Greenwood, John</contributor>
+          <contributor>Crajenschot, Theodorus</contributor>
+          <date>1782</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MDgyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

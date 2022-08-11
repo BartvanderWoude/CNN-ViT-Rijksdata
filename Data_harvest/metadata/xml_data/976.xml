@@ -1,0 +1,458 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxOTUwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-34.270</identifier>
+        <datestamp>2021-01-28T15:02:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.76257</identifier>
+          <identifier>RP-P-OB-34.270</identifier>
+          <title>Laocoöngroep</title>
+          <creator>Beatrizet, Nicolas</creator>
+          <contributor>Bos, Cornelis</contributor>
+          <date>1525 - 1565</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-3914</identifier>
+        <datestamp>2021-01-28T15:05:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.76443</identifier>
+          <identifier>RP-P-1904-3914</identifier>
+          <title>Portret van Waals predikant Pierre Chevalier</title>
+          <creator>Beek, Antonie van der</creator>
+          <contributor>Sluyter, Dirk</contributor>
+          <contributor>Hodges, Charles Howard</contributor>
+          <date>1793 - 1852</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.587</identifier>
+        <datestamp>2021-01-28T15:52:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78038</identifier>
+          <identifier>RP-P-OB-26.587</identifier>
+          <title>Tekst bij portret van marineofficier Aert Jansz. van Nes</title>
+          <creator>Bendorp, Johannes Christiaan</creator>
+          <date>1805</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1986-51</identifier>
+        <datestamp>2021-01-28T14:44:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74947</identifier>
+          <identifier>RP-T-1986-51</identifier>
+          <title>Liggend mannelijk naakt</title>
+          <creator>Heur, Cornelis Joseph d'</creator>
+          <date>1717 - 1762</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1880-A-4531</identifier>
+        <datestamp>2021-01-28T14:45:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74959</identifier>
+          <identifier>RP-P-1880-A-4531</identifier>
+          <title>Bacchus</title>
+          <creator>Taurel, Edouard</creator>
+          <contributor>Saenredam, Jan</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <date>1832 - 1880</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14143</identifier>
+        <datestamp>2021-01-28T14:58:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75843</identifier>
+          <identifier>RP-P-1889-A-14143</identifier>
+          <title>Jaël doodt Sisera</title>
+          <creator>Basse, Willem</creator>
+          <contributor>Lescaille, Jacob</contributor>
+          <date>1648</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-1927</identifier>
+        <datestamp>2021-01-28T14:58:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75855</identifier>
+          <identifier>RP-P-1908-1927</identifier>
+          <title>De barmhartige Samaritaan</title>
+          <title>Landschappen met bijbelse scènes</title>
+          <creator>Bast, Pieter</creator>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <date>1598</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2250</identifier>
+        <datestamp>2021-01-28T15:51:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77989</identifier>
+          <identifier>RP-P-1909-2250</identifier>
+          <title>Riviergezicht met molen</title>
+          <creator>Bendorp, Carel Frederik (II)</creator>
+          <contributor>Bendorp, Carel Frederik (I)</contributor>
+          <date>1746 - 1897</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.579</identifier>
+        <datestamp>2021-01-28T15:51:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78003</identifier>
+          <identifier>RP-P-OB-26.579</identifier>
+          <title>Reinaert de vos belooft de leeuw geschenken</title>
+          <creator>Bendorp, Johannes Christiaan</creator>
+          <contributor>Everdingen, Allaert van</contributor>
+          <date>1826</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1898-A-3547</identifier>
+        <datestamp>2021-03-28T10:25:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74907</identifier>
+          <identifier>RP-T-1898-A-3547</identifier>
+          <title>Peter Paul Rubens met zijn eerste vrouw Isabella Brant</title>
+          <creator>Rubens, Peter Paul</creator>
+          <contributor>anoniem</contributor>
+          <subject>Rubens, Peter Paul</subject>
+          <subject>Brant, Isabella</subject>
+          <date>1609 - 1690</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>dekverf</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-715</identifier>
+        <datestamp>2021-01-28T14:57:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75797</identifier>
+          <identifier>RP-P-BI-715</identifier>
+          <title>Landschap met slapende nimf</title>
+          <creator>Basse, Willem</creator>
+          <date>1633 - 1672</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1898-A-19773</identifier>
+        <datestamp>2021-01-28T15:48:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77755</identifier>
+          <identifier>RP-P-1898-A-19773</identifier>
+          <title>Infanteristen in een zonovergoten landschap</title>
+          <title>Zes landschappen met soldatenstaffage</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Langendijk, Dirk</contributor>
+          <date>1804</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1898-A-19759</identifier>
+        <datestamp>2021-01-28T15:48:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77761</identifier>
+          <identifier>RP-P-1898-A-19759</identifier>
+          <title>Koeienkop naar links</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Potter, Paulus</contributor>
+          <date>ca. 1801</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23406</identifier>
+        <datestamp>2021-01-28T14:43:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74799</identifier>
+          <identifier>RP-P-1903-A-23406</identifier>
+          <title>Portret van Nicolaas Ruychaver</title>
+          <creator>Taurel, Edouard</creator>
+          <subject>Ruychaver, Nicolaas</subject>
+          <date>1841 - 1879</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-1700</identifier>
+        <datestamp>2021-01-28T14:43:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74805</identifier>
+          <identifier>RP-P-1905-1700</identifier>
+          <title>Portret van Rutger Jan Schimmelpenninck</title>
+          <creator>Taurel, Edouard</creator>
+          <contributor>Hodges, Charles Howard</contributor>
+          <subject>Schimmelpenninck, Rutger Jan (1761-1825)</subject>
+          <date>1834 - 1892</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1885-A-9325</identifier>
+        <datestamp>2021-01-28T14:53:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75596</identifier>
+          <identifier>RP-P-1885-A-9325</identifier>
+          <title>Portret van Thadaeus de Lantman</title>
+          <creator>Bary, Hendrik</creator>
+          <subject>Landman, Thaddeus</subject>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-303</identifier>
+        <datestamp>2021-01-28T15:48:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77707</identifier>
+          <identifier>RP-P-1907-303</identifier>
+          <title>Portret van Dirk Langendijk</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Scheffer, Johan Bernard</contributor>
+          <contributor>Nijmegen, Gerard van</contributor>
+          <subject>Langendijk, Dirk</subject>
+          <date>ca. 1805</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-812</identifier>
+        <datestamp>2021-01-28T15:49:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77861</identifier>
+          <identifier>RP-P-BI-812</identifier>
+          <title>Koeienkop naar links</title>
+          <title>Koeienkoppen naar A.J. Offermans</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Offermans, Anthony Jacobus</contributor>
+          <date>1800 - 1841</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1986-52</identifier>
+        <datestamp>2022-05-02T16:45:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74953</identifier>
+          <identifier>RP-T-1986-52</identifier>
+          <title>Pleisterstudie van een islamitische galeislaaf</title>
+          <title>Pleisterstudie van een tot slaaf gemaakte man</title>
+          <title>Pleisterstudie van een zittende slaaf</title>
+          <creator>Heur, Cornelis Joseph d'</creator>
+          <subject>slavernij</subject>
+          <subject>islamitische galeislaven</subject>
+          <date>1717 - 1762</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1884-A-7942</identifier>
+        <datestamp>2021-01-28T14:53:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75650</identifier>
+          <identifier>RP-P-1884-A-7942</identifier>
+          <title>Portret van Willem I, prins van Oranje</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Brandt, Geeraert (I)</contributor>
+          <subject>Willem I (prins van Oranje)</subject>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxOTUyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

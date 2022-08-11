@@ -1,0 +1,466 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MTYwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-1955</identifier>
+        <datestamp>2021-01-28T19:01:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91732</identifier>
+          <identifier>RP-P-1918-1955</identifier>
+          <title>Staande vrouw met kind op de arm</title>
+          <creator>Mare, Pieter de</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1777 - 1779</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1917-384</identifier>
+        <datestamp>2021-01-28T19:28:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95588</identifier>
+          <identifier>RP-P-1917-384</identifier>
+          <title>Twee schapen</title>
+          <creator>Citters, G. van</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5866</identifier>
+        <datestamp>2021-01-28T19:30:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95758</identifier>
+          <identifier>RP-P-BI-5866</identifier>
+          <title>Portret van Guy-Jean-Baptiste Target</title>
+          <creator>Claessens, Lambertus Antonius</creator>
+          <subject>Target, Guy-Jean-Baptiste</subject>
+          <date>ca. 1792 - ca. 1808</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-H-1328</identifier>
+        <datestamp>2021-01-28T18:56:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91376</identifier>
+          <identifier>RP-P-H-H-1328</identifier>
+          <title>Boerenvechtpartij</title>
+          <creator>Caukercken, Cornelis van</creator>
+          <contributor>Molenaer, Jan Miense</contributor>
+          <date>ca. 1640 - 1680</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1917-394</identifier>
+        <datestamp>2021-01-28T19:28:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95611</identifier>
+          <identifier>RP-P-1917-394</identifier>
+          <title>Hoofdstudie van een man met bontmuts</title>
+          <creator>Citters, G. van</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5836</identifier>
+        <datestamp>2021-01-28T19:29:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95734</identifier>
+          <identifier>RP-P-BI-5836</identifier>
+          <title>Portret van Lodewijk XVI</title>
+          <creator>Claessens, Lambertus Antonius</creator>
+          <contributor>Boze, Joseph</contributor>
+          <subject>Lodewijk XVI (koning van Frankrijk)</subject>
+          <date>ca. 1792 - ca. 1808</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5638</identifier>
+        <datestamp>2021-01-28T18:53:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91195</identifier>
+          <identifier>RP-P-BI-5638</identifier>
+          <title>Hondenjacht op een everzwijn</title>
+          <creator>Cassiers, Jan</creator>
+          <contributor>Snijders, Frans</contributor>
+          <date>1700 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1939-230</identifier>
+        <datestamp>2021-01-28T18:56:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91384</identifier>
+          <identifier>RP-P-1939-230</identifier>
+          <title>Portret van de schilder Robert van den Hoecke</title>
+          <creator>Caukercken, Cornelis van</creator>
+          <contributor>Coques, Gonzales</contributor>
+          <subject>Hoecke, Robert van den</subject>
+          <date>ca. 1640 - 1680</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-1894</identifier>
+        <datestamp>2021-01-28T19:03:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91843</identifier>
+          <identifier>RP-P-1918-1894</identifier>
+          <title>Moeder met vier kinderen</title>
+          <creator>Mare, Pieter de</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1777 - 1779</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-7259-68</identifier>
+        <datestamp>2021-12-01T10:42:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92848</identifier>
+          <identifier>RP-P-OB-7259-68</identifier>
+          <title>Penning van de Universiteit van Groningen, met ruimte voor de namen van de hoogleraren</title>
+          <creator>anoniem</creator>
+          <contributor>Chevalier, Nicolas</contributor>
+          <subject>Beleg van Groningen (1672)</subject>
+          <subject>Rijksuniversiteit Groningen</subject>
+          <date>1685 - 1720</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15911</identifier>
+        <datestamp>2021-01-28T19:31:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95806</identifier>
+          <identifier>RP-P-1890-A-15911</identifier>
+          <title>Vrouw wacht op haar geliefde</title>
+          <title>Aspettare</title>
+          <creator>Claessens, Lambertus Antonius</creator>
+          <contributor>Coclers, Louis Bernard</contributor>
+          <contributor>Coclers, Louis Bernard</contributor>
+          <date>ca. 1792 - ca. 1817</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-FM-35</identifier>
+        <datestamp>2021-01-28T19:09:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92081</identifier>
+          <identifier>RP-P-FM-35</identifier>
+          <title>Oude man</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <date>1789</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-13.677</identifier>
+        <datestamp>2021-01-28T19:22:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.93290</identifier>
+          <identifier>RP-P-OB-13.677</identifier>
+          <title>Daniel Nikolaus Chodowiecki in de kamer van zijn moeder</title>
+          <creator>Chodowiecki, Daniel Nikolaus</creator>
+          <contributor>Chodowiecki, Daniel Nikolaus</contributor>
+          <subject>Chodowiecki, Daniel Nikolaus</subject>
+          <date>1774</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Berlijn</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-387</identifier>
+        <datestamp>2021-01-28T18:55:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91287</identifier>
+          <identifier>RP-P-1905-387</identifier>
+          <title>Binnenplaats van het Sint Jorishof in Amsterdam</title>
+          <creator>Cats, Jacob (1741-1799)</creator>
+          <contributor>Writs, Willem</contributor>
+          <subject>Leprozenhuis</subject>
+          <date>1769</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-1946</identifier>
+        <datestamp>2021-01-28T19:00:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91640</identifier>
+          <identifier>RP-P-1918-1946</identifier>
+          <title>Staande vrouw met kind</title>
+          <creator>Mare, Pieter de</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1777 - 1779</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11740</identifier>
+        <datestamp>2021-01-28T19:05:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91889</identifier>
+          <identifier>RP-P-1887-A-11740</identifier>
+          <title>Eerste stapjes van een kind</title>
+          <creator>Chalon, Christina</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1758 - 1808</date>
+          <type>prent</type>
+          <format>Chinees papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5849</identifier>
+        <datestamp>2021-01-28T19:30:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95751</identifier>
+          <identifier>RP-P-BI-5849</identifier>
+          <title>Portret van pastoor Petrus Schouten</title>
+          <creator>Claessens, Lambertus Antonius</creator>
+          <contributor>Claessens, Lambertus Antonius</contributor>
+          <contributor>Buuren, Pieter van</contributor>
+          <subject>Schouten, Petrus (1745-1805)</subject>
+          <date>1794</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-7209</identifier>
+        <datestamp>2021-01-28T19:01:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91703</identifier>
+          <identifier>RP-P-OB-7209</identifier>
+          <title>Kinderen met kar</title>
+          <creator>Mare, Pieter de</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1777 - 1779</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-1873</identifier>
+        <datestamp>2021-01-28T19:06:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91949</identifier>
+          <identifier>RP-P-1918-1873</identifier>
+          <title>Moeder leert kind lopen</title>
+          <creator>Chalon, Christina</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1758 - 1808</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5690</identifier>
+        <datestamp>2021-01-28T19:08:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92035</identifier>
+          <identifier>RP-P-BI-5690</identifier>
+          <title>Bebaarde oude man met muts</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <date>1748 - 1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MTYyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,498 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0Mzc4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1183</identifier>
+        <datestamp>2021-03-10T09:01:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65067</identifier>
+          <identifier>RP-F-00-1183</identifier>
+          <title>Gezicht op de Porta Ercolano te Pompeï, Italië</title>
+          <title>Porte Erculaneum faction fouillés 1812</title>
+          <title>Pompei</title>
+          <creator>Sommer, Giorgio</creator>
+          <subject>Porta Ercolano</subject>
+          <date>1857 - 1875</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pompeï</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-453-M</identifier>
+        <datestamp>2021-10-02T12:50:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65694</identifier>
+          <identifier>BK-BR-453-M</identifier>
+          <title>Weefselfragment in tapijtwerk</title>
+          <creator>anoniem</creator>
+          <date>ca. 200 - ca. 999</date>
+          <type>tapijtwerk</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Egypte</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12056</identifier>
+        <datestamp>2021-10-02T12:49:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65127</identifier>
+          <identifier>BK-NM-12056</identifier>
+          <title>Fragment van een tunica met tabula en clavus</title>
+          <creator>anoniem</creator>
+          <date>ca. 600 - ca. 899</date>
+          <type>tunica</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Egypte</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1321</identifier>
+        <datestamp>2021-03-10T09:01:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65603</identifier>
+          <identifier>RP-F-00-1321</identifier>
+          <title>Portret van de schilder Jozef Van Lerius, ten voeten uit</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Van Lerius, Jozef</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1329</identifier>
+        <datestamp>2021-03-10T09:01:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65626</identifier>
+          <identifier>RP-F-00-1329</identifier>
+          <title>Portret van de schilder Alexandre Pierre Jacques Markelbach, ten voeten uit</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Markelbach, Alexandre</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15718-D</identifier>
+        <datestamp>2021-10-02T12:49:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65113</identifier>
+          <identifier>BK-15718-D</identifier>
+          <title>Kandelaar van zilver met vierkante voet en ronde stam, kaarsenhouder en losse vetvanger.</title>
+          <creator>Pluygers, Johannes Henricus</creator>
+          <date>1783</date>
+          <type>kandelaar</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15629-C</identifier>
+        <datestamp>2021-11-02T08:33:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64919</identifier>
+          <identifier>BK-15629-C</identifier>
+          <title>Snuiter of snuiterschaar met korte en lange poot waaraan ovaalvormige ogen. Op korte poot een klokvormige klep met geschulpte onderrand, die past in flesvormige snuiterkamer op lange poot</title>
+          <creator>Haan, Reynier de</creator>
+          <date>1748 - 1749</date>
+          <type>snuiter</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1888-A-1811</identifier>
+        <datestamp>2020-04-06T15:03:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64925</identifier>
+          <identifier>RP-T-1888-A-1811</identifier>
+          <title>Gezicht op Middelburg</title>
+          <creator>Vlieger, Simon de</creator>
+          <subject>Middelburg</subject>
+          <date>1610 - 1653</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1284</identifier>
+        <datestamp>2021-03-10T09:01:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65508</identifier>
+          <identifier>RP-F-00-1284</identifier>
+          <title>Portret van de architect Pierre Dens, ten voeten uit</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Dens, Pierre</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2759</identifier>
+        <datestamp>2021-10-19T15:41:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70060</identifier>
+          <identifier>NG-1980-27-H-2759</identifier>
+          <title>Fragment speld uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>zeilmakersgereedschap</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>speld</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-545</identifier>
+        <datestamp>2021-10-07T16:32:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70109</identifier>
+          <identifier>NG-1980-27-H-545</identifier>
+          <title>Messenheft uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>messenheft</type>
+          <format>hout</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-385</identifier>
+        <datestamp>2021-10-19T15:41:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70227</identifier>
+          <identifier>NG-1980-27-H-385</identifier>
+          <title>Decoratief beslag uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>beslag</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-520-B</identifier>
+        <datestamp>2021-10-02T12:49:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64973</identifier>
+          <identifier>BK-1978-520-B</identifier>
+          <title>Manchet van machinale kant met een vierkant raster en puntschulpen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1910</date>
+          <type>dameskleding</type>
+          <type>manchet</type>
+          <format>katoen</format>
+          <format>crêpe</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-10</identifier>
+        <datestamp>2021-01-28T13:50:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71294</identifier>
+          <identifier>RP-P-BI-10</identifier>
+          <title>Pissend paard</title>
+          <title>Landschappen met paarden</title>
+          <creator>Aken, Jan van</creator>
+          <date>1624 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1975-90-H</identifier>
+        <datestamp>2021-10-07T16:32:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70083</identifier>
+          <identifier>NG-1975-90-H</identifier>
+          <title>Messenheft uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Scilly-eilanden</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>messenheft</type>
+          <format>hout</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1969-5</identifier>
+        <datestamp>2020-05-26T15:05:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64858</identifier>
+          <identifier>RP-T-1969-5</identifier>
+          <title>Gezicht op de stad Ahmadabad</title>
+          <title>Ammadabat</title>
+          <title>Gezichten in India uit de jaren 1678-1679</title>
+          <creator>anoniem</creator>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Ahmadabad</subject>
+          <subject>India</subject>
+          <date>1679</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-27.502</identifier>
+        <datestamp>2022-03-04T15:18:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71554</identifier>
+          <identifier>RP-P-OB-27.502</identifier>
+          <title>Cellist bij een raam</title>
+          <title>Adagio con espressione</title>
+          <creator>Allebé, August</creator>
+          <contributor>Allebé, August</contributor>
+          <contributor>Israëls, Jozef</contributor>
+          <contributor>Steuerwald, Jan Dam</contributor>
+          <contributor>Steuerwald, Jan Dam</contributor>
+          <date>1858</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Den Haag</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1202</identifier>
+        <datestamp>2021-03-10T09:01:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65222</identifier>
+          <identifier>RP-F-00-1202</identifier>
+          <title>Basreliëfs in het Museo di Napoli te Napels, Italië</title>
+          <title>Bassorilievo</title>
+          <title>Museo di Napoli</title>
+          <creator>Sommer, Giorgio</creator>
+          <contributor>anoniem</contributor>
+          <subject>Museo Nazionale</subject>
+          <date>1857 - 1914</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Napels</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4158</identifier>
+        <datestamp>2021-10-20T14:40:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66040</identifier>
+          <identifier>NG-VG-1-4158</identifier>
+          <title>Koninklijke Nederlandsche Maatschappij tot Aanmoediging van den Tuinbouw te Leiden, penning uitgereikt aan weduwe J. Hendriks</title>
+          <creator>Kellen, David van der (1804-1879)</creator>
+          <subject>genootschap</subject>
+          <subject>agrarische geschiedenis</subject>
+          <subject>Rotterdam</subject>
+          <subject>Leiden</subject>
+          <subject>Willem III (koning der Nederlanden)</subject>
+          <subject>Hendriks, J.</subject>
+          <subject>Koninklijke Nederlandsche Maatschappij tot Aanmoediging van den Tuinbouw</subject>
+          <date>1848 - 1863</date>
+          <type>prijspenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-5020</identifier>
+        <datestamp>2022-02-25T17:06:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70436</identifier>
+          <identifier>RP-P-1882-A-5020</identifier>
+          <title>Landschap met sloot en boerderij</title>
+          <creator>Everdingen, Adrianus van</creator>
+          <date>1842 - 1882</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MzgwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

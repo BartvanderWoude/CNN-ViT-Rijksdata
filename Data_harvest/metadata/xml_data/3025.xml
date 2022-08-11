@@ -1,0 +1,522 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MDQ4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.965</identifier>
+        <datestamp>2019-03-21T23:16:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48615</identifier>
+          <identifier>RP-P-OB-21.965</identifier>
+          <title>Geseling van Christus</title>
+          <creator>anoniem</creator>
+          <creator>Schäufelein, Hans</creator>
+          <contributor>Pinder, Ulrich</contributor>
+          <date>1506 - 1507</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.370</identifier>
+        <datestamp>2019-05-09T13:51:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47757</identifier>
+          <identifier>RP-P-OB-21.370</identifier>
+          <title>Festa della Sensa (dertiende gedeelte)</title>
+          <title>Ankunfft Und herkommen der weitberümbten herrlichen Statt Venedig Sambt derselben gewaltigen Herrschafft</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Schäller, Johann Valentin</contributor>
+          <subject>Torre dell'Orologio</subject>
+          <subject>Dogepaleis</subject>
+          <subject>Basiliek van San Marco</subject>
+          <subject>San Marcoplein</subject>
+          <subject>Venetië</subject>
+          <date>1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1916-205</identifier>
+        <datestamp>2022-03-02T15:18:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47880</identifier>
+          <identifier>RP-P-1916-205</identifier>
+          <title>Portret van Johann Harpprecht</title>
+          <creator>Lederlein, Jakob</creator>
+          <contributor>Züberlein, Jakob</contributor>
+          <contributor>Alt, Hans Ulrich</contributor>
+          <subject>Harpprecht, Johann</subject>
+          <date>1594</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Tübingen</coverage>
+          <coverage>Tübingen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.577(V)</identifier>
+        <datestamp>2019-07-03T01:39:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48100</identifier>
+          <identifier>RP-P-OB-21.577(V)</identifier>
+          <title>Modellen voor hoofden van mannen en schedels</title>
+          <creator>anoniem</creator>
+          <creator>Beham, Hans Sebald</creator>
+          <contributor>Egenolff, erven Christian</contributor>
+          <date>1565</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.678</identifier>
+        <datestamp>2020-09-09T23:09:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48233</identifier>
+          <identifier>RP-P-OB-21.678</identifier>
+          <title>Triomfwagen van keizer Maximiliaan I</title>
+          <title>Kopieën naar Dürers Triomfwagen voor keizer Maximiliaan I</title>
+          <title>Triumphalis hic Currus Ad Honorem Invictiss. Ac Gloriosissimi Principis D. Maximiliani Caesaris Semper Augusti concinnatus est, Ac per Albertum Durer Deliniatus</title>
+          <creator>Guldenmund, Hans</creator>
+          <contributor>Dürer, Albrecht</contributor>
+          <contributor>Koster, Herman Allertsz.</contributor>
+          <contributor>Meyn, David de</contributor>
+          <subject>Maximiliaan I van Habsburg (keizer van het Heilige Roomse Rijk)</subject>
+          <date>1527 - 1529</date>
+          <date>1609</date>
+          <type>nieuwsprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.862</identifier>
+        <datestamp>2019-10-16T06:00:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48447</identifier>
+          <identifier>RP-P-OB-21.862</identifier>
+          <title>Harpspeler met een balkende ezel</title>
+          <title>Illustraties uit de Lof der Zotheid</title>
+          <creator>Merian, Caspar</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <contributor>Holbein, Ambrosius</contributor>
+          <contributor>Genath, Johann Rudolf</contributor>
+          <subject>Erasmus, Desiderius</subject>
+          <date>1516</date>
+          <date>1676</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.943</identifier>
+        <datestamp>2019-03-07T12:12:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48585</identifier>
+          <identifier>RP-P-OB-21.943</identifier>
+          <title>Hertenjacht</title>
+          <title>Jachtpartij in het woud van Lörs</title>
+          <creator>anoniem</creator>
+          <creator>Ostendorfer, Michael</creator>
+          <subject>Rijnland-Palts</subject>
+          <date>1543</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1950-316-1</identifier>
+        <datestamp>2019-03-19T23:23:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47857</identifier>
+          <identifier>RP-P-1950-316-1</identifier>
+          <title>Leeg wapenschild met een geleerde met glas en een vrouw met emmer als schildhouders</title>
+          <creator>anoniem</creator>
+          <creator>Amman, Jost</creator>
+          <contributor>Raben, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <date>1579</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.598</identifier>
+        <datestamp>2019-07-16T15:55:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48123</identifier>
+          <identifier>RP-P-OB-21.598</identifier>
+          <title>Monnik van de orde der Ambrosianen</title>
+          <title>Kostuums van geestelijken</title>
+          <creator>anoniem</creator>
+          <contributor>Beham, Hans Sebald</contributor>
+          <date>na 1526</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2296</identifier>
+        <datestamp>2021-01-28T13:28:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48202</identifier>
+          <identifier>RP-P-1906-2296</identifier>
+          <title>Aeneas draagt zijn vader uit Troje</title>
+          <creator>Büsinck, Ludwig</creator>
+          <contributor>Lallemand, Georges</contributor>
+          <date>1600 - 1669</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.924</identifier>
+        <datestamp>2019-03-21T23:10:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48555</identifier>
+          <identifier>RP-P-OB-21.924</identifier>
+          <title>Ongelijk paar: een jonge man met een oude vrouw</title>
+          <creator>Adam, Hans</creator>
+          <contributor>Lucius, Jakob (der Ältere)</contributor>
+          <contributor>Beham, Hans Sebald</contributor>
+          <date>1506 - 1568</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.427(R)</identifier>
+        <datestamp>2020-04-21T10:30:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47834</identifier>
+          <identifier>RP-P-OB-21.427(R)</identifier>
+          <title>Ordonnans</title>
+          <title>Der Läuffer</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <subject>oorlogsvoering; militaire zaken</subject>
+          <subject>de soldaat; het leven van een soldaat</subject>
+          <date>1573</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.619</identifier>
+        <datestamp>2019-03-07T12:09:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48146</identifier>
+          <identifier>RP-P-OB-21.619</identifier>
+          <title>Letter O: kinderen ontvangen het afgehakte hoofd van een man bij het schavot</title>
+          <title>Versierde initialen</title>
+          <creator>anoniem</creator>
+          <creator>Calcar, Jan Stefan van</creator>
+          <contributor>Herpst, Jan</contributor>
+          <date>1543</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.354</identifier>
+        <datestamp>2019-05-09T13:51:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47740</identifier>
+          <identifier>RP-P-OB-21.354</identifier>
+          <title>Titel van de Festa della Sensa (tweede gedeelte)</title>
+          <title>Ankunfft Und herkommen der weitberümbten herrlichen Statt Venedig Sambt derselben gewaltigen Herrschafft</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Schäller, Johann Valentin</contributor>
+          <subject>Dogepaleis</subject>
+          <subject>Torre dell'Orologio</subject>
+          <subject>Basiliek van San Marco</subject>
+          <subject>San Marcoplein</subject>
+          <subject>Venetië</subject>
+          <date>1697</date>
+          <type>prent</type>
+          <type>tekstblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.413(V)</identifier>
+        <datestamp>2021-11-15T21:31:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47811</identifier>
+          <identifier>RP-P-OB-21.413(V)</identifier>
+          <title>Uitbetaling van soldij</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <subject>oorlogsvoering; militaire zaken</subject>
+          <subject>de soldaat; het leven van een soldaat</subject>
+          <date>1573</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.697</identifier>
+        <datestamp>2019-10-16T07:14:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48254</identifier>
+          <identifier>RP-P-OB-21.697</identifier>
+          <title>Dood op de barrikade</title>
+          <title>Der Tod auf der Barrikade</title>
+          <title>Nieuwe Dodendans</title>
+          <creator>Berger, F.</creator>
+          <contributor>Jungtow, Richard Julius</contributor>
+          <contributor>Schmidt, Oskar Friedrich</contributor>
+          <contributor>Steinbrecher, Gustav Richard</contributor>
+          <contributor>Zscheckel, Carl August</contributor>
+          <contributor>Gaber, August</contributor>
+          <creator>Rethel, Alfred</creator>
+          <contributor>Brockhaus, Friedrich Arnold (I)</contributor>
+          <contributor>Reinick, Robert</contributor>
+          <subject>revolutie, opstand</subject>
+          <date>1848 - 1849</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.846</identifier>
+        <datestamp>2019-10-16T05:54:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48430</identifier>
+          <identifier>RP-P-OB-21.846</identifier>
+          <title>Koning David biddend</title>
+          <title>Illustraties uit de Lof der Zotheid</title>
+          <creator>Merian, Caspar</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <contributor>Holbein, Ambrosius</contributor>
+          <contributor>Genath, Johann Rudolf</contributor>
+          <subject>Erasmus, Desiderius</subject>
+          <date>1516</date>
+          <date>1676</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.731</identifier>
+        <datestamp>2021-01-19T21:51:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48502</identifier>
+          <identifier>RP-P-OB-17.731</identifier>
+          <title>Portret van George Lambert</title>
+          <title>Georgius Lambert, Chorographic Pictor</title>
+          <creator>Faber, John (II)</creator>
+          <contributor>Banck, Jan van der</contributor>
+          <subject>Lambert, George</subject>
+          <date>1727</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.395(V)</identifier>
+        <datestamp>2021-11-19T01:31:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47788</identifier>
+          <identifier>RP-P-OB-21.395(V)</identifier>
+          <title>Spitsroeden lopen</title>
+          <title>Ein durch die Spieß jagen</title>
+          <creator>Amman, Jost</creator>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <subject>oorlogsvoering; militaire zaken</subject>
+          <date>1573</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.672</identifier>
+        <datestamp>2020-09-10T00:11:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48227</identifier>
+          <identifier>RP-P-OB-21.672</identifier>
+          <title>Triomfwagen van keizer Maximiliaan I</title>
+          <title>Kopieën naar Dürers Triomfwagen voor keizer Maximiliaan I</title>
+          <title>Triumphalis his currus ad honorem Invictiss. ac Gloriosiss. Principis D. Maximiliani Caesaris semper Augusti (...) per Albertum Durer delineatus</title>
+          <creator>Guldenmund, Hans</creator>
+          <contributor>Dürer, Albrecht</contributor>
+          <contributor>Liefrinck, weduwe Cornelis</contributor>
+          <subject>Maximiliaan I van Habsburg (keizer van het Heilige Roomse Rijk)</subject>
+          <date>1527 - 1529</date>
+          <date>1545</date>
+          <type>prent</type>
+          <type>nieuwsprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MDUwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

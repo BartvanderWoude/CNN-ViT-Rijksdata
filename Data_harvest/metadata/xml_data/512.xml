@@ -1,0 +1,469 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDIyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4669</identifier>
+        <datestamp>2022-06-01T16:20:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8450</identifier>
+          <identifier>SK-A-4669</identifier>
+          <title>Boerderij in open veld</title>
+          <creator>Gabriël, Paul Joseph Constantin</creator>
+          <subject>landschap</subject>
+          <date>1860 - 1903</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1416-X</identifier>
+        <datestamp>2020-11-25T17:30:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8072</identifier>
+          <identifier>AK-MAK-1416-X</identifier>
+          <title>Wrijfprent</title>
+          <date>ca. 1900</date>
+          <type>wrijfprent</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-95</identifier>
+        <datestamp>2021-10-01T22:25:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8343</identifier>
+          <identifier>SK-A-95</identifier>
+          <title>Landschap</title>
+          <creator>Dughet, Gaspard</creator>
+          <subject>landschap</subject>
+          <date>1640 - 1645</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1291</identifier>
+        <datestamp>2022-04-26T11:47:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8600</identifier>
+          <identifier>SK-A-1291</identifier>
+          <title>Zelfportret</title>
+          <creator>Haensbergen, Jan van</creator>
+          <subject>zelfportret</subject>
+          <subject>Haensbergen, Jan van</subject>
+          <date>1660 - 1680</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4035</identifier>
+        <datestamp>2022-03-15T09:17:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8181</identifier>
+          <identifier>SK-A-4035</identifier>
+          <title>Hagar en Ismaël in de woestijn</title>
+          <creator>Cozza, Francesco</creator>
+          <subject>landschap</subject>
+          <date>1665</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1479</identifier>
+        <datestamp>2022-06-01T16:30:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8761</identifier>
+          <identifier>SK-A-1479</identifier>
+          <title>Portret van een kunstenaar</title>
+          <title>Portret van een onbekende kunstenaar</title>
+          <title>Zelfportret</title>
+          <creator>Honthorst, Gerard van</creator>
+          <subject>portret</subject>
+          <subject>kunstenaarsportret</subject>
+          <date>1655</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3731</identifier>
+        <datestamp>2022-06-01T16:20:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8814</identifier>
+          <identifier>SK-A-3731</identifier>
+          <title>David</title>
+          <creator>Israëls, Jozef</creator>
+          <subject>figuurvoorstelling</subject>
+          <date>1899</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1947-47</identifier>
+        <datestamp>2021-10-01T22:23:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8207</identifier>
+          <identifier>RP-T-1947-47</identifier>
+          <title>Paardendressuur</title>
+          <creator>Parrocel, Charles</creator>
+          <date>1698 - 1752</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-120</identifier>
+        <datestamp>2022-01-22T21:33:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8561</identifier>
+          <identifier>SK-A-120</identifier>
+          <title>Gezicht op een dorp aan een rivier</title>
+          <creator>Goyen, Jan van</creator>
+          <subject>landschap</subject>
+          <date>1645</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-775</identifier>
+        <datestamp>2022-06-01T16:30:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8934</identifier>
+          <identifier>SK-A-775</identifier>
+          <title>Portret van een schilder, vermoedelijk een zelfportret</title>
+          <creator>Lubienitzki, Christoffel</creator>
+          <subject>portret</subject>
+          <date>1690 - 1729</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2681</identifier>
+        <datestamp>2022-01-10T16:23:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7920</identifier>
+          <identifier>SK-A-2681</identifier>
+          <title>Gezicht op de Houtmarkt te Amsterdam</title>
+          <creator>Keun, Hendrik</creator>
+          <subject>Houtmarkt (Amsterdam)</subject>
+          <subject>Muidergracht</subject>
+          <subject>Hoogduitse Synagoge</subject>
+          <date>ca. 1760 - ca. 1787</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-808</identifier>
+        <datestamp>2021-10-01T22:22:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8184</identifier>
+          <identifier>SK-A-808</identifier>
+          <title>Portret van een man, vermoedelijk Bartholomeus Vermuyden (1616/17-1650)</title>
+          <title>Johan Anthonisz van Riebeeck (1618-77), eerste commandeur van Kaap de Goede Hoop</title>
+          <creator>Craey, Dirck</creator>
+          <subject>portret</subject>
+          <subject>Vermuyden, Bartholomeus</subject>
+          <date>1650</date>
+          <type>schilderij</type>
+          <format>olieverf</format>
+          <format>eikenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-111</identifier>
+        <datestamp>2022-06-01T16:29:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8312</identifier>
+          <identifier>SK-C-111</identifier>
+          <title>Portret van een echtpaar met een kind in een landschap</title>
+          <creator>Doncker, Herman Meynderts</creator>
+          <subject>portret</subject>
+          <date>1620 - 1656</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1962-25</identifier>
+        <datestamp>2020-05-12T15:03:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8538</identifier>
+          <identifier>RP-T-1962-25</identifier>
+          <title>November</title>
+          <title>Personificaties van de maanden</title>
+          <creator>anoniem</creator>
+          <date>1550 - 1600</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-146</identifier>
+        <datestamp>2021-10-01T22:35:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8664</identifier>
+          <identifier>SK-A-146</identifier>
+          <title>Portret van Andries Bicker</title>
+          <creator>Helst, Bartholomeus van der</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>politieke geschiedenis</subject>
+          <subject>Siberië</subject>
+          <subject>Amsterdam</subject>
+          <subject>Bicker, Andries</subject>
+          <description>Andries Bicker, koopman op Rusland en handelaar in specerijen, was een bestuurlijk zwaargewicht. Hij werd tien keer tot burgemeester van Amsterdam gekozen, vertegenwoordigde de stad in de Staten-Generaal en was bovendien ambassadeur van de Scandinavische landen, Polen en Brandenburg. Toen de befaamde Amsterdamse portrettist Van der Helst hem portretteerde, was de familie Bicker het machtigste geslacht van Amsterdam.</description>
+          <date>1642</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1607</identifier>
+        <datestamp>2022-05-23T14:45:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8905</identifier>
+          <identifier>SK-A-1607</identifier>
+          <title>Zelfportret</title>
+          <creator>Limborch, Hendrik van</creator>
+          <subject>zelfportret</subject>
+          <subject>Limborch, Hendrik van</subject>
+          <date>1708</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1280-12-B</identifier>
+        <datestamp>2021-11-03T19:15:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7983</identifier>
+          <identifier>BK-KOG-1280-12-B</identifier>
+          <title>Schoen van zwart leer laag model met dubbele sluitriem</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1780</date>
+          <type>herenkleding</type>
+          <type>schoen</type>
+          <format>leer</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1787</identifier>
+        <datestamp>2022-06-01T16:29:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8160</identifier>
+          <identifier>SK-A-1787</identifier>
+          <title>Portret van Pieter Pietersz Heijn (1577-1629)</title>
+          <title>Portret van Pieter Pietersz Heijn (1588-1629). Luitenant-admiraal van Holland</title>
+          <creator>Cool, Jan Daemen</creator>
+          <subject>portret</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Heyn, Pieter Pietersz.</subject>
+          <date>1629</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4221</identifier>
+        <datestamp>2022-06-01T16:29:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8335</identifier>
+          <identifier>SK-A-4221</identifier>
+          <title>Portret van een vrouw</title>
+          <creator>Dubordieu, Pieter</creator>
+          <subject>portret</subject>
+          <date>1637</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-139</identifier>
+        <datestamp>2022-02-16T10:45:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8688</identifier>
+          <identifier>SK-C-139</identifier>
+          <title>Portret van Maritge Claesdr Vooght</title>
+          <creator>Hals, Frans</creator>
+          <subject>Voogt, Maritge Claesdr.</subject>
+          <description>Frans Hals schilderde een groot aantal fraaie portretten van de Haarlemse hogere klasse; kennelijk voldeed
+hij aan alle eisen van zijn voorname opdrachtgevers. Maritge Vooght, echtgenote van burgemeester Pieter
+Olycan, poseert hier in een traditionele houding, fier rechtop, de toeschouwer recht aankijkend. Aan de
+linkerkant vermeldde Frans Hals haar leeftijd: 62 jaar. Haar wapen daarboven werd later door een andere
+hand toegevoegd.</description>
+          <date>1639</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDI0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

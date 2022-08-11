@@ -1,0 +1,466 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNDQyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-94</identifier>
+        <datestamp>2019-09-12T15:22:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60198</identifier>
+          <identifier>RP-T-1948-94</identifier>
+          <title>Vetplant (Cotyledon orbiculata?)</title>
+          <creator>Saftleven, Herman</creator>
+          <date>1683-09-18</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15589</identifier>
+        <datestamp>2021-10-02T12:45:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60714</identifier>
+          <identifier>BK-15589</identifier>
+          <title>Portret van Joseph Haydn</title>
+          <creator>Kaiserliche Porzellanmanufaktur</creator>
+          <contributor>Grassi, Anton</contributor>
+          <subject>Haydn, Joseph</subject>
+          <date>1805</date>
+          <type>buste</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Wenen</coverage>
+          <coverage>Wenen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7380</identifier>
+        <datestamp>2021-10-02T12:45:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60764</identifier>
+          <identifier>BK-NM-7380</identifier>
+          <title>Buste van Carl Wilhelm Ferdinand, erfprins van Braunschweig-Lüneburg</title>
+          <creator>Fürstenberg</creator>
+          <contributor>Desoches, Jean Jacques</contributor>
+          <date>ca. 1772 - ca. 1780</date>
+          <type>buste</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Fürstenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1969-110-A</identifier>
+        <datestamp>2021-10-02T12:44:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60383</identifier>
+          <identifier>BK-1969-110-A</identifier>
+          <title>Paar vazen</title>
+          <creator>La Courtille</creator>
+          <contributor>Koninklijke Porseleinfabriek Dommer &amp; Co.</contributor>
+          <description>In 1810 verhuisden vader en zoon Dommer hun porseleinfabriek van Ouder-Amstel naar het terrein van een chemicaliënfabriek in Nieuwer-Amstel, ter hoogte van waar nu de Amsterdamse wijk de Pijp ligt. In die nieuwe fabriek is
+vermoedelijk geen porselein meer geproduceerd, maar alleen beschilderd. Deze vazen werden bij een Parijse porseleinfabriek gekocht en in Nieuwer-Amstel van rijke versieringen met vogels, bomen en vruchten voorzien.</description>
+          <date>ca. 1809 - ca. 1814</date>
+          <type>vaas</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Nieuwer-Amstel</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1971-37</identifier>
+        <datestamp>2020-07-13T09:41:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60558</identifier>
+          <identifier>RP-T-1971-37</identifier>
+          <title>Familiegroep bestaande uit een ouderpaar en twee dochters</title>
+          <creator>Sorgh, Hendrick Martensz.</creator>
+          <date>1621 - 1670</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-9306</identifier>
+        <datestamp>2019-05-29T15:10:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45103</identifier>
+          <identifier>RP-P-OB-9306</identifier>
+          <title>Portret van baron Emmerich Tekkely</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <subject>Thököly, Imre</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1913-2560</identifier>
+        <datestamp>2016-10-20T19:51:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44450</identifier>
+          <identifier>RP-P-1913-2560</identifier>
+          <title>Portret van Ulrich Starck</title>
+          <creator>Leonard, Johann Friedrich</creator>
+          <subject>Starck, Ulrich</subject>
+          <date>1668</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1905-96</identifier>
+        <datestamp>2019-01-03T16:43:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60298</identifier>
+          <identifier>RP-T-1905-96</identifier>
+          <title>Gezicht op een kasteel bij een stad</title>
+          <creator>Saftleven, Herman</creator>
+          <date>1619 - 1685</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14561-K-B</identifier>
+        <datestamp>2021-10-02T12:44:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60353</identifier>
+          <identifier>BK-14561-K-B</identifier>
+          <title>Mand op onderschotel, veelkleurig beschilderd met strooibloemen</title>
+          <creator>Ouder-Amstel</creator>
+          <date>ca. 1784 - ca. 1809</date>
+          <type>mand</type>
+          <type>schotel</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ouder-Amstel</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1888-A-1515</identifier>
+        <datestamp>2021-01-28T13:36:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60581</identifier>
+          <identifier>RP-T-1888-A-1515</identifier>
+          <title>Rivieroever met enkele schepen</title>
+          <creator>Storck, Abraham</creator>
+          <date>1683</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1959-8-B</identifier>
+        <datestamp>2021-10-02T12:45:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60989</identifier>
+          <identifier>BK-1959-8-B</identifier>
+          <title>Twee kannetjes met deksels</title>
+          <creator>Porzellanmanufaktur Frankenthal</creator>
+          <description>Porzellanmanufaktur Frankenthal
+Frankenthal, ca. 1765–1775
+porselein</description>
+          <date>ca. 1765 - ca. 1775</date>
+          <type>kan</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankenthal</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1967-95</identifier>
+        <datestamp>2019-09-09T16:24:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61068</identifier>
+          <identifier>RP-T-1967-95</identifier>
+          <title>Kat liggend met de kop tussen de voorpoten</title>
+          <creator>Velde, Adriaen van de</creator>
+          <date>1646 - 1672</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-364</identifier>
+        <datestamp>2021-10-02T12:46:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61146</identifier>
+          <identifier>BK-NM-12400-364</identifier>
+          <title>Bord</title>
+          <creator>anoniem</creator>
+          <date>ca. 1720 - ca. 1750</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1797-B</identifier>
+        <datestamp>2021-10-02T12:43:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60226</identifier>
+          <identifier>BK-KOG-1797-B</identifier>
+          <title>Meubilair</title>
+          <creator>anoniem</creator>
+          <date>1650 - 1700</date>
+          <type>meubilair</type>
+          <type>zitmeubel</type>
+          <type>stoel</type>
+          <format>hout</format>
+          <format>notenhout</format>
+          <format>fluweel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-245</identifier>
+        <datestamp>2019-02-22T15:01:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60507</identifier>
+          <identifier>RP-T-00-245</identifier>
+          <title>Portret van een onbekende vrouw</title>
+          <creator>Schalcken, Godfried</creator>
+          <date>1653 - 1706</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-582</identifier>
+        <datestamp>2021-12-07T09:27:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60513</identifier>
+          <identifier>RP-F-00-582</identifier>
+          <title>Gezicht op de Geldersekade in Amsterdam</title>
+          <title>Gelderse Kade</title>
+          <creator>Breitner, George Hendrik</creator>
+          <subject>Geldersekade</subject>
+          <date>1886 - 1910</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-54</identifier>
+        <datestamp>2019-05-23T15:53:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45234</identifier>
+          <identifier>RP-P-1909-54</identifier>
+          <title>Portret van en man, mogelijk Gerrit Kuipers</title>
+          <creator>Schouman, Aert</creator>
+          <subject>Kuipers, Gerrit</subject>
+          <date>1750 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-378</identifier>
+        <datestamp>2021-09-08T11:12:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44533</identifier>
+          <identifier>RP-P-1908-378</identifier>
+          <title>Portret van Cornelis Danckerts de Ry</title>
+          <creator>Mayer, Harmen de</creator>
+          <subject>Danckerts de Ry, Cornelis</subject>
+          <date>1651 - 1701</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3527</identifier>
+        <datestamp>2016-10-20T19:51:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44994</identifier>
+          <identifier>RP-P-1906-3527</identifier>
+          <title>Portret van de theoloog Otto Mencking</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Smids, Ludolph</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Mencke, Otto</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-413</identifier>
+        <datestamp>2016-10-20T19:51:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44590</identifier>
+          <identifier>RP-P-1908-413</identifier>
+          <title>Rennende hond</title>
+          <creator>Pickaert, Pieter</creator>
+          <contributor>Verkolje, Jan (I)</contributor>
+          <date>1680 - 1727</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNDQ0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

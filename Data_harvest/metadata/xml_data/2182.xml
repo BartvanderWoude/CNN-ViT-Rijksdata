@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MzYyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3675</identifier>
+        <datestamp>2021-10-20T10:09:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63145</identifier>
+          <identifier>NG-VG-1-3675</identifier>
+          <title>Eerste verjaardag van de Belgische revolutie</title>
+          <creator>Borrel, M.</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>revolutie</subject>
+          <subject>Belgische Revolutie</subject>
+          <subject>Brussel (stad)</subject>
+          <date>1831</date>
+          <type>strooipenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3018</identifier>
+        <datestamp>2021-10-20T10:02:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62451</identifier>
+          <identifier>NG-VG-1-3018</identifier>
+          <title>Kroning van Frans II tot Duits keizer te Frankfurt</title>
+          <creator>anoniem</creator>
+          <subject>Frankfurt am Main</subject>
+          <subject>Frans II (Rooms-Duits keizer)</subject>
+          <date>1792</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3068</identifier>
+        <datestamp>2021-10-20T10:03:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62500</identifier>
+          <identifier>NG-VG-1-3068</identifier>
+          <title>Hendrik XXX, 50 jaar vorst zu Reuss</title>
+          <creator>anoniem</creator>
+          <subject>Reuss, Hendrik XXX, Furst zu</subject>
+          <date>1798</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3117</identifier>
+        <datestamp>2021-10-20T10:03:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62549</identifier>
+          <identifier>NG-VG-1-3117</identifier>
+          <title>Vrede van Amiens, ter ere van Charles, graaf van Cornwallis, onderhandelaar voor Engeland</title>
+          <creator>Kempson &amp; Kindon</creator>
+          <contributor>Hancock, John Gregory (Sr.)</contributor>
+          <subject>politieke geschiedenis</subject>
+          <subject>vrede</subject>
+          <subject>Vrede van Amiens (1802)</subject>
+          <subject>Franse Revolutie</subject>
+          <subject>Amiens</subject>
+          <subject>Cornwallis, Charles van (1e markies en 2e graaf)</subject>
+          <subject>Addington, Henry</subject>
+          <subject>Hawksbury</subject>
+          <subject>Jozef Bonaparte (koning van Spanje)</subject>
+          <subject>Otto, J.</subject>
+          <subject>George III (koning van het Verenigd Koninkrijk)</subject>
+          <date>1802</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Birmingham</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3523</identifier>
+        <datestamp>2021-10-20T10:08:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62995</identifier>
+          <identifier>NG-VG-1-3523</identifier>
+          <title>Opening van het Kanaal van Terneuzen naar Gent</title>
+          <creator>Braemt, Joseph Pierre</creator>
+          <subject>waterbouwkunde</subject>
+          <subject>kanaalaanleg</subject>
+          <subject>Kanaal van Terneuzen naar Gent</subject>
+          <subject>Terneuzen</subject>
+          <subject>Gent</subject>
+          <subject>Willem I (koning der Nederlanden)</subject>
+          <date>1827</date>
+          <type>strooipenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3567</identifier>
+        <datestamp>2021-10-20T10:08:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63044</identifier>
+          <identifier>NG-VG-1-3567</identifier>
+          <title>De zwart-geel-rode vlag aangenomen als nationale vlag van België</title>
+          <creator>Veyrat, Adrien Hippolyte</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>revolutie</subject>
+          <subject>Belgische Revolutie</subject>
+          <subject>België</subject>
+          <date>1830</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3627</identifier>
+        <datestamp>2021-10-20T10:09:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63093</identifier>
+          <identifier>NG-VG-1-3627</identifier>
+          <title>Orangistische bewegingen te Gent bedwongen</title>
+          <creator>Borrel, M.</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>revolutie</subject>
+          <subject>politieke groepering</subject>
+          <subject>orangistische beweging</subject>
+          <subject>Belgische Revolutie</subject>
+          <subject>Gent</subject>
+          <date>1831-02-03 - 1831-12-31</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1993-52</identifier>
+        <datestamp>2021-10-02T13:09:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70382</identifier>
+          <identifier>BK-1993-52</identifier>
+          <title>Servet van wit linnen</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1725</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.409</identifier>
+        <datestamp>2021-01-28T13:44:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70631</identifier>
+          <identifier>RP-P-OB-50.409</identifier>
+          <title>Landschap met brede rivier</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-764</identifier>
+        <datestamp>2022-04-25T11:19:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70754</identifier>
+          <identifier>RP-P-1904-764</identifier>
+          <title>Reinaert de vos verontschuldigt zich</title>
+          <title>Reinaert de vos</title>
+          <title>Illustraties voor Reijntje de Vos</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1665 - 1675</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.272</identifier>
+        <datestamp>2021-01-28T13:42:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70439</identifier>
+          <identifier>RP-P-OB-50.272</identifier>
+          <title>Basement met opschrift</title>
+          <title>Versameling Van Landschappen Geinventeert en Geëst door Allart Van Everdingen</title>
+          <creator>Everdingen, Allaert van</creator>
+          <contributor>Monogrammist CH (graveur, 1)</contributor>
+          <subject>landschappen</subject>
+          <date>1708 - 1780</date>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.392</identifier>
+        <datestamp>2021-01-28T13:44:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70608</identifier>
+          <identifier>RP-P-OB-50.392</identifier>
+          <title>Drie reizigers aan de voet van een rots</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-38.956</identifier>
+        <datestamp>2019-06-21T16:54:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65405</identifier>
+          <identifier>RP-P-OB-38.956</identifier>
+          <title>Venus en Mars</title>
+          <title>Venere e Marte</title>
+          <title>Sculpturen van Antonio Canova</title>
+          <creator>Bertini, Angelo</creator>
+          <contributor>Tognolli, Giovanni</contributor>
+          <contributor>Canova, Antonio</contributor>
+          <contributor>Canova, Antonio</contributor>
+          <contributor>George III (koning van het Verenigd Koninkrijk)</contributor>
+          <date>1793 - 1838</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.375</identifier>
+        <datestamp>2022-04-25T11:37:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70585</identifier>
+          <identifier>RP-P-OB-50.375</identifier>
+          <title>Landschap met roeiboot in het riet</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1651 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.478</identifier>
+        <datestamp>2022-04-25T11:18:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70708</identifier>
+          <identifier>RP-P-OB-50.478</identifier>
+          <title>Reinaert de vos vertelt over de verborgen schat</title>
+          <title>Reinaert de vos</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1665 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-721</identifier>
+        <datestamp>2021-10-07T16:32:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70117</identifier>
+          <identifier>NG-1980-27-H-721</identifier>
+          <title>Messenheften uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>messenheft</type>
+          <format>hout</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-506</identifier>
+        <datestamp>2021-10-02T12:49:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64953</identifier>
+          <identifier>BK-1978-506</identifier>
+          <title>Kraag van zijde in Maltezer kant gedecoreerd met onder andere zeven Johanniter kruizen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1910</date>
+          <type>dameskleding</type>
+          <type>kraag</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Malta</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1936-14</identifier>
+        <datestamp>2021-10-02T12:50:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65290</identifier>
+          <identifier>RP-T-1936-14</identifier>
+          <title>Landschap met figuren en op de voorgrond een kale wilg</title>
+          <creator>Guercino</creator>
+          <date>1601 - 1666</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.316</identifier>
+        <datestamp>2021-01-28T13:42:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70508</identifier>
+          <identifier>RP-P-OB-50.316</identifier>
+          <title>Landschap met drie mannen op een rots</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12066-C</identifier>
+        <datestamp>2021-10-02T12:50:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65314</identifier>
+          <identifier>BK-NM-12066-C</identifier>
+          <title>Weefselfragment in tapijtwerk</title>
+          <creator>anoniem</creator>
+          <date>ca. 700 - ca. 1399</date>
+          <type>tapijtwerk</type>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Egypte</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MzY0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

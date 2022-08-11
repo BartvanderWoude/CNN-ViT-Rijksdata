@@ -1,0 +1,498 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjEyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2414</identifier>
+        <datestamp>2021-01-28T16:16:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81133</identifier>
+          <identifier>RP-P-1906-2414</identifier>
+          <title>Portret van apostolisch vicaris Johannes van Neercassel</title>
+          <title>Illustrissimus ac Reverendissimus (...) 6 Juny Ao 1686</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>onbekend</contributor>
+          <subject>Neercassel, Johannes van</subject>
+          <date>1681 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.571</identifier>
+        <datestamp>2022-03-02T15:23:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78154</identifier>
+          <identifier>RP-P-OB-26.571</identifier>
+          <title>Schip Prins Willem loopt vast op zandbank Zuiderhaaks bij Den Helder op 14 september 1781</title>
+          <title>'T Verzeilen van 's lands schip Prins Willem, op de Zuider-Haaks, den 14e. septr. 1781</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Noordzee</subject>
+          <subject>Prins Willem (schip)</subject>
+          <date>1781</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-2942</identifier>
+        <datestamp>2021-01-28T15:53:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78203</identifier>
+          <identifier>RP-P-1911-2942</identifier>
+          <title>Twee stadsgezichten te Amsterdam met Lutherse Diaconie Weeshuis en Van Brants Rus Hofje</title>
+          <title>Luthersche weeshuis te Amsterdam</title>
+          <title>Van Brandtzen-Rus-Hofje aldaar</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Bulthuis, Jan</contributor>
+          <subject>Lutherse Diaconie Weeshuis (1678-1811)</subject>
+          <subject>Van Brants-Rushofje</subject>
+          <date>1786 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23121</identifier>
+        <datestamp>2016-10-20T20:28:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78881</identifier>
+          <identifier>RP-P-1903-A-23121</identifier>
+          <title>Portret van een onbekende man</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>anoniem</contributor>
+          <date>1862-05-06</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-27.695</identifier>
+        <datestamp>2022-03-02T15:23:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78930</identifier>
+          <identifier>RP-P-OB-27.695</identifier>
+          <title>Portret van Theodorus Collot d'Escury</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>Racine, D.H.</contributor>
+          <date>1855-10-18</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Batavia</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4550</identifier>
+        <datestamp>2016-10-20T20:31:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81106</identifier>
+          <identifier>RP-P-OB-4550</identifier>
+          <title>Portret van chirurgijn Jacob Denijs</title>
+          <title>Jacobus Denys Ordinare Stads Chirurgyn, Operateur van de Steen, Vroed-meester en Voorleeser ter Onderwijsing van de Vroed-vrouwe, binnen de stad Leyden</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>Toorenvliet, Abraham</contributor>
+          <subject>Denijs, Jacob</subject>
+          <date>1681 - 1733</date>
+          <date>1733</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1921-75</identifier>
+        <datestamp>2021-01-28T16:03:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.79201</identifier>
+          <identifier>RP-P-1921-75</identifier>
+          <title>Portretmedaillon van Anakreon</title>
+          <creator>Bernards, Balthasar</creator>
+          <contributor>Picart, Bernard</contributor>
+          <date>1711 - 1712</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.599</identifier>
+        <datestamp>2021-01-28T16:03:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.79207</identifier>
+          <identifier>RP-P-OB-26.599</identifier>
+          <title>Telemachus toont het hoofd van Iphikles aan Adrastus</title>
+          <creator>Bernards, Balthasar</creator>
+          <contributor>Dubourg, Louis Fabritius</contributor>
+          <date>1734</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-512</identifier>
+        <datestamp>2016-10-20T20:30:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80409</identifier>
+          <identifier>RP-P-1909-512</identifier>
+          <title>Grafmonument voor auteur Rhijnvis Feith op begraafplaats te Zwolle</title>
+          <creator>Best, Johannes Alexander Rudolf</creator>
+          <contributor>Schoemaker Doyer, Jacobus</contributor>
+          <subject>Feith, Rhijnvis</subject>
+          <date>1825 - 1855</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-AO-12-132-6</identifier>
+        <datestamp>2021-01-28T16:08:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80337</identifier>
+          <identifier>RP-P-AO-12-132-6</identifier>
+          <title>Gezicht op het Zieken te Den Haag</title>
+          <title>Gezicht van het inkome in 's Gravenhage aan de Delfse trekvaart / Vuë &amp; perspective en entrant La Haye par le canal de Delft</title>
+          <title>Achttien gezichten in en om Den Haag (Besoet / Scheurleer)</title>
+          <creator>Besoet, Iven</creator>
+          <contributor>Scheurleer, Hendrik Florisz</contributor>
+          <contributor>Scheurleer, Hendrik Florisz</contributor>
+          <contributor>Patijn, Johannes</contributor>
+          <subject>Zieken</subject>
+          <subject>Leprozenhuis</subject>
+          <subject>Den Haag</subject>
+          <date>1757</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+          <coverage>Den Haag</coverage>
+          <coverage>Den Haag</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.634</identifier>
+        <datestamp>2021-01-28T16:09:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80386</identifier>
+          <identifier>RP-P-OB-26.634</identifier>
+          <title>Jonathan Jefferson Whitlaw trekt aandacht van bewoners op Mississippi oever</title>
+          <creator>Best, Johannes Alexander Rudolf</creator>
+          <contributor>Best, Johannes Alexander Rudolf</contributor>
+          <date>1836 - 1837</date>
+          <date>1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-718</identifier>
+        <datestamp>2016-10-20T20:28:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78996</identifier>
+          <identifier>RP-P-1909-718</identifier>
+          <title>Portret van C.F. Lantzius</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>anoniem</contributor>
+          <date>1855-06-06</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1942-290</identifier>
+        <datestamp>2021-01-28T16:02:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.79093</identifier>
+          <identifier>RP-P-1942-290</identifier>
+          <title>Gezicht op de vestingwerken bij Nijmegen aan de Waal</title>
+          <title>Nymegen Gefortificeert door de Heer Generael Coehoorn</title>
+          <creator>Berkenboom, Martinus</creator>
+          <contributor>Berkenboom, Martinus</contributor>
+          <contributor>Berkenboom, Martinus</contributor>
+          <subject>Nijmegen</subject>
+          <subject>Waal</subject>
+          <date>1700 - 1715</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijmegen</coverage>
+          <coverage>Nijmegen</coverage>
+          <coverage>Nijmegen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1912-710</identifier>
+        <datestamp>2017-04-11T14:58:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81127</identifier>
+          <identifier>RP-P-1912-710</identifier>
+          <title>Portret van bisschop George van Egmond van Utrecht</title>
+          <title>Illustrissimus ac Reverendissimus (...) aetatis vero LV</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>onbekend</contributor>
+          <subject>Egmond, George van</subject>
+          <date>1681 - 1726</date>
+          <date>1726</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-2301</identifier>
+        <datestamp>2021-01-28T15:53:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78160</identifier>
+          <identifier>RP-P-1908-2301</identifier>
+          <title>Dorpsgezicht te Biggekerke</title>
+          <title>T' Dorp Biggenkerke</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Bulthuis, Jan</contributor>
+          <subject>Biggekerke</subject>
+          <date>1786 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-703</identifier>
+        <datestamp>2016-10-20T20:28:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78924</identifier>
+          <identifier>RP-P-1909-703</identifier>
+          <title>Portret van de heer S. Veit Brink</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>Berghaus, Johann Peter</contributor>
+          <date>1855-02-05</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1912-11</identifier>
+        <datestamp>2016-10-20T20:28:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78973</identifier>
+          <identifier>RP-P-1912-11</identifier>
+          <title>Portret van een onbekende vrouw, mogelijk Jacoba M. de Jong</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>anoniem</contributor>
+          <date>1854-12-02</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1102</identifier>
+        <datestamp>2021-01-28T16:02:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.79181</identifier>
+          <identifier>RP-P-BI-1102</identifier>
+          <title>Titelpagina voor "Sesostris, koning van Egipte, treurspel"</title>
+          <creator>Bernards, Balthasar</creator>
+          <contributor>Picart, Bernard</contributor>
+          <date>1711 - 1737</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-669</identifier>
+        <datestamp>2021-09-21T14:38:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80270</identifier>
+          <identifier>RP-P-1908-669</identifier>
+          <title>Portret van Maria Elisabeth, aartshertogin van Oostenrijk</title>
+          <title>Maria Elisabetha archidux Austriae Belgii Gubernatrix</title>
+          <creator>Berterham, Jan Baptist</creator>
+          <subject>Maria Elisabeth (aartshertogin van Oostenrijk)</subject>
+          <date>1696 - 1721</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-548</identifier>
+        <datestamp>2021-01-28T16:12:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80851</identifier>
+          <identifier>RP-P-1878-A-548</identifier>
+          <title>Portretbuste van Sophocles</title>
+          <title>Sophocles</title>
+          <title>Paradigmata graphices variorum artificum</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>anoniem</contributor>
+          <subject>Sophocles</subject>
+          <date>1666 - 1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjE0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

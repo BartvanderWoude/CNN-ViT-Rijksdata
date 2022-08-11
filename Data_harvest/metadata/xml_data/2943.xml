@@ -1,0 +1,523 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODg0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-823</identifier>
+        <datestamp>2021-09-01T12:26:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63658</identifier>
+          <identifier>RP-F-00-823</identifier>
+          <title>Sonsbeek bij Arnhem</title>
+          <title>Sonsbeek.  Arnhem.</title>
+          <creator>Jongh, J.S.J. de</creator>
+          <subject>Sonsbeek</subject>
+          <subject>Arnhem</subject>
+          <date>1860 - 1880</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Arnhem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1905-207</identifier>
+        <datestamp>2022-03-11T13:11:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.54113</identifier>
+          <identifier>RP-F-1905-207</identifier>
+          <title>Portret van Pierre Alexis Mottu</title>
+          <creator>Wegner &amp; Mottu</creator>
+          <subject>Mottu, Pierre Alexis</subject>
+          <date>ca. 1880</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-73</identifier>
+        <datestamp>2016-10-20T20:00:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55070</identifier>
+          <identifier>RP-F-00-73</identifier>
+          <title>Aanleg Noordzeekanaal, 1866</title>
+          <creator>Guicherit, Rudolph</creator>
+          <subject>Noordzeekanaal</subject>
+          <date>1866</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-6-7</identifier>
+        <datestamp>2021-11-12T03:54:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61252</identifier>
+          <identifier>RP-F-1993-6-7</identifier>
+          <title>Fotoreproductie van fresco De heilige Laurentius deelt aalmoezen uit, door Fra Angelico, Kapel van Nicolaas V, Vaticaan</title>
+          <title>San Lorenzo distribuisce i tresori della Chiesa in elemosina ai poveri</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>Fra Angelico</contributor>
+          <contributor>Fratelli Alinari</contributor>
+          <subject>Kapel van Nicolaas V (Vaticaanse Musea)</subject>
+          <date>ca. 1860 - ca. 1900</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vaticaanse Musea</coverage>
+          <coverage>Kapel van Nicolaas V (Vaticaanse Musea)</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-6-54</identifier>
+        <datestamp>2021-11-12T03:49:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61493</identifier>
+          <identifier>RP-F-1993-6-54</identifier>
+          <title>Fotoreproductie van fresco De schepping van Eva door Rafaël en Giulio Romano, Vaticaan</title>
+          <title>La Creazione di Eva</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>Rafaël</contributor>
+          <contributor>Romano, Giulio</contributor>
+          <contributor>Fratelli Alinari</contributor>
+          <subject>Vaticaanse Musea</subject>
+          <date>ca. 1860 - ca. 1900</date>
+          <type>foto</type>
+          <type>albumblad</type>
+          <type>reproductie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vaticaanstad</coverage>
+          <coverage>Vaticaanstad</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-247</identifier>
+        <datestamp>2022-01-24T11:04:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56384</identifier>
+          <identifier>RP-F-00-247</identifier>
+          <title>Paleis van Tiberius op de Palatijn te Rome</title>
+          <title>(Palazzo dei Cesari) Casa Tiberiana</title>
+          <creator>Tuminello, Ludovico</creator>
+          <subject>Casa di Tiberio</subject>
+          <subject>Palazzo dei Cesari</subject>
+          <subject>Rome</subject>
+          <date>1865 - 1880</date>
+          <type>foto</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-6-25</identifier>
+        <datestamp>2021-11-12T05:26:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61341</identifier>
+          <identifier>RP-F-1993-6-25</identifier>
+          <title>Sculptuur met Gigantomachie, Vaticaan</title>
+          <title>Gigantomachia</title>
+          <creator>Anderson, James</creator>
+          <contributor>anoniem</contributor>
+          <subject>Vaticaanse Musea</subject>
+          <date>ca. 1857 - ca. 1875</date>
+          <type>foto</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vaticaanse Musea</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-7-19</identifier>
+        <datestamp>2021-11-12T05:19:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61733</identifier>
+          <identifier>RP-F-1993-7-19</identifier>
+          <title>Fotoreproductie van fresco Venus en Psyche door Rafaël in het Farnesina te Rome</title>
+          <title>1172 Venere mostra Psiche a Mercurio di Raffaele</title>
+          <creator>Anderson, Domenico</creator>
+          <contributor>Rafaël</contributor>
+          <subject>Villa Farnesina</subject>
+          <date>ca. 1870 - ca. 1890</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Villa Farnesina</coverage>
+          <coverage>Villa Farnesina</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-7-25</identifier>
+        <datestamp>2021-11-12T05:19:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61742</identifier>
+          <identifier>RP-F-1993-7-25</identifier>
+          <title>Fotoreproductie van fresco Psyche gesteund door zoele avondwind door Rafaël in het Farnesina te Rome</title>
+          <title>Psiche sorretta dai Zeffiri di Raffaele</title>
+          <creator>Anderson, Domenico</creator>
+          <contributor>Rafaël</contributor>
+          <subject>Villa Farnesina</subject>
+          <date>ca. 1870 - ca. 1890</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Villa Farnesina</coverage>
+          <coverage>Villa Farnesina</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-322</identifier>
+        <datestamp>2022-01-24T09:07:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56954</identifier>
+          <identifier>RP-F-00-322</identifier>
+          <title>Operagebouw en de boulevard van Monte Carlo</title>
+          <title>Monte-Carlo. - Le Théâtre et les Terrasses</title>
+          <creator>Neurdein Frères</creator>
+          <subject>Monte Carlo</subject>
+          <date>1863 - 1891</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Monte Carlo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-371</identifier>
+        <datestamp>2021-03-10T08:59:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57139</identifier>
+          <identifier>RP-F-00-371</identifier>
+          <title>Kathedraal en de Campanile van Pisa, Italië</title>
+          <title>Duomo</title>
+          <title>Pisa</title>
+          <creator>Noack, Alfredo</creator>
+          <subject>Dom</subject>
+          <subject>Piazza del Duomo</subject>
+          <date>1858 - 1893</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pisa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-759</identifier>
+        <datestamp>2017-09-26T00:59:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61621</identifier>
+          <identifier>RP-F-00-759</identifier>
+          <title>Gezicht op de Vijzelstraat vanaf de Keizersgracht in Amsterdam</title>
+          <creator>R., Gebr. van</creator>
+          <contributor>R., Gebr. van</contributor>
+          <subject>Keizersgracht</subject>
+          <subject>Vijzelstraat</subject>
+          <date>ca. 1880 - ca. 1900</date>
+          <type>kabinetfoto</type>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-802</identifier>
+        <datestamp>2021-01-05T12:41:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61676</identifier>
+          <identifier>RP-F-00-802</identifier>
+          <title>Gezicht op het Kaiserplatz en de Poppelsdorfer Allee in Bonn</title>
+          <title>Bonn - Kaiserplatz und Poppelsdorfer Allee</title>
+          <title>Die Rheinlande</title>
+          <creator>anoniem</creator>
+          <creator>Römmler &amp; Jonas</creator>
+          <subject>Kaiserplatz</subject>
+          <subject>Poppelsdorfer Allee</subject>
+          <date>1888</date>
+          <type>kabinetfoto</type>
+          <type>fotomechanische afdruk</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bonn</coverage>
+          <coverage>Dresden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-7-2</identifier>
+        <datestamp>2021-11-12T03:40:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61716</identifier>
+          <identifier>RP-F-1993-7-2</identifier>
+          <title>Fotoreproductie van mozaïek met maskers in de Capitolijnse Musea te Rome</title>
+          <title>1745. Musaico delle Maschere M. Cap.</title>
+          <creator>Anderson, James</creator>
+          <contributor>anoniem</contributor>
+          <subject>Capitolijnse Musea</subject>
+          <date>ca. 1857 - ca. 1875</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Capitolijnse Musea</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-876</identifier>
+        <datestamp>2021-03-10T08:39:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63943</identifier>
+          <identifier>RP-F-00-876</identifier>
+          <title>Gezicht op het dal van de Krems</title>
+          <creator>Prandtstetter, Franz von</creator>
+          <subject>Krems</subject>
+          <date>1866 - 1900</date>
+          <type>kabinetfoto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Krems</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-125</identifier>
+        <datestamp>2022-02-28T16:22:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55647</identifier>
+          <identifier>RP-F-00-125</identifier>
+          <title>Schilderij door Nicolaas Bertin, Suzanne in het bad</title>
+          <title>Rijksmuseum - Amsterdam</title>
+          <title>Rijksmuseum - Amsterdam / 116 Nicolaas Bertin Suzanna in 't bad</title>
+          <creator>Vinkenbos &amp; Dewald</creator>
+          <contributor>Scholtens &amp; Zoon</contributor>
+          <date>1890 - 1910</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+          <coverage>Groningen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-709</identifier>
+        <datestamp>2021-10-05T15:36:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61543</identifier>
+          <identifier>RP-F-00-709</identifier>
+          <title>Sculptuur van Juno, Museo Vaticano</title>
+          <creator>Libreria Spithöver</creator>
+          <subject>Vaticaanse Musea</subject>
+          <date>ca. 1850 - ca. 1870</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-782</identifier>
+        <datestamp>2021-01-05T12:41:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61653</identifier>
+          <identifier>RP-F-00-782</identifier>
+          <title>Gezicht op een kuuroord in Bad Schwalbach</title>
+          <title>Schwalbach - Kurhaus . / 1802. Schwalbach</title>
+          <title>Der Taunus</title>
+          <creator>anoniem</creator>
+          <creator>Römmler &amp; Jonas</creator>
+          <subject>Bad Schwalbach</subject>
+          <date>1890</date>
+          <type>kabinetfoto</type>
+          <type>fotomechanische afdruk</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bad Schwalbach</coverage>
+          <coverage>Dresden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1924-10</identifier>
+        <datestamp>2021-12-07T09:31:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55052</identifier>
+          <identifier>RP-F-1924-10</identifier>
+          <title>Gezicht op verdedigingswerken in Veere</title>
+          <creator>anoniem</creator>
+          <subject>Veere</subject>
+          <date>1850 - 1880</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Veere</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-221</identifier>
+        <datestamp>2021-04-02T11:58:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56238</identifier>
+          <identifier>RP-F-00-221</identifier>
+          <title>Cipressen in de tuinen van Villa d'Este, Tivoli</title>
+          <title>Weg met cypressen en wandelende vrouw</title>
+          <creator>Plüschow, Guglielmo von</creator>
+          <subject>Villa d'Este</subject>
+          <date>1880 - 1910</date>
+          <type>foto</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Tivoli</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODg2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

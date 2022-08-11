@@ -1,0 +1,491 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTA0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3562</identifier>
+        <datestamp>2021-10-01T21:46:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6285</identifier>
+          <identifier>SK-A-3562</identifier>
+          <title>Vaas met rose bloemen</title>
+          <creator>Breitner, George Hendrik</creator>
+          <subject>bloemstilleven</subject>
+          <date>ca. 1880 - ca. 1923</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10054</identifier>
+        <datestamp>2021-10-01T21:02:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4382</identifier>
+          <identifier>BK-NM-10054</identifier>
+          <title>Kruik met de keurvorsten, medaillons en bloemranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1620</date>
+          <type>kruik</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Raeren</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-15912</identifier>
+        <datestamp>2022-03-21T11:37:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4022</identifier>
+          <identifier>AK-RBK-15912</identifier>
+          <title>Schotel met het wapen van Frankrijk</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>kobalt</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10115</identifier>
+        <datestamp>2021-10-01T20:51:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.3744</identifier>
+          <identifier>BK-NM-10115</identifier>
+          <title>Vat met bloemmotieven</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>vat</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Westerwald</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4701</identifier>
+        <datestamp>2021-10-01T21:23:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5417</identifier>
+          <identifier>SK-A-4701</identifier>
+          <title>De prinses van Oranje bezoekt het atelier van Bartholomeus van der Helst</title>
+          <creator>Scholten, Hendrik Jacobus</creator>
+          <subject>Stuart, Maria Henrietta</subject>
+          <subject>Helst, Bartholomeus van der</subject>
+          <description>In het atelier van de 17de-eeuwse schilder Van der Helst bekijkt Maria Stuart, de weduwe van stadhouder Willem II, haar portret. Op de achtergrond staat het nog onvoltooide monumentale schilderij De schuttersmaaltijd, waarop de schutters het einde van de Tachtigjarige oorlog vieren. Voor de prinses baseerde Scholten zich op een bestaand portret, eveneens door Van der Helst. Zo toonde de schilder zijn kennis van de 17de-eeuwse schilderkunst en van de vaderlandse geschiedenis.</description>
+          <date>ca. 1850 - ca. 1870</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-617</identifier>
+        <datestamp>2021-10-01T21:02:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4504</identifier>
+          <identifier>RP-T-00-617</identifier>
+          <title>Gezicht te Rome</title>
+          <creator>anoniem</creator>
+          <subject>Arco di Dolabella</subject>
+          <date>1779-03-28</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1978-127-10504-W</identifier>
+        <datestamp>2018-06-04T10:02:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4406</identifier>
+          <identifier>NG-1978-127-10504-W</identifier>
+          <title>Schotel uit V.O.C.-schip de 'Witte Leeuw'</title>
+          <creator>anoniem</creator>
+          <subject>schotel</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>voor 1613</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jingdezhen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-223</identifier>
+        <datestamp>2022-03-28T15:45:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.3434</identifier>
+          <identifier>BK-1968-223</identifier>
+          <title>Flesvormige vaas met prunusbloesems, hoo-vogels en een gemodelleerde draak</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>vaas</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+          <coverage>Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1978-127-6455-W</identifier>
+        <datestamp>2021-07-15T15:42:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.3707</identifier>
+          <identifier>NG-1978-127-6455-W</identifier>
+          <title>Fragment diep bord uit V.O.C.-schip de 'Witte Leeuw'</title>
+          <creator>anoniem</creator>
+          <subject>bord (vaatwerk)</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>voor 1613</date>
+          <type>bord (vaatwerk)</type>
+          <type>diep bord</type>
+          <type>scherf</type>
+          <format>kraakporselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jingdezhen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3473</identifier>
+        <datestamp>2022-06-01T13:11:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5119</identifier>
+          <identifier>SK-A-3473</identifier>
+          <title>Perseus en Andromeda. Allegorie op de bevrijding van de Nederlanden door prins Frederik Hendrik</title>
+          <creator>Potter, Pieter Symonsz.</creator>
+          <subject>historiestuk</subject>
+          <subject>Intocht van Henrietta Maria te Amsterdam</subject>
+          <subject>Amsterdam</subject>
+          <subject>Damrak</subject>
+          <subject>Frederik Hendrik (prins van Oranje)</subject>
+          <subject>Henriëtta Maria van Frankrijk (koningin van Engeland, Schotland en Ierland)</subject>
+          <date>1642</date>
+          <type>schilderij</type>
+          <type>grisaille</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-280</identifier>
+        <datestamp>2021-10-01T21:05:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4661</identifier>
+          <identifier>SK-A-280</identifier>
+          <title>Italiaans landschap met jagers</title>
+          <creator>Moucheron, Frederik de</creator>
+          <subject>landschap</subject>
+          <date>1660 - 1686</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-1972-201-A</identifier>
+        <datestamp>2022-03-21T11:32:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.3534</identifier>
+          <identifier>AK-RBK-1972-201-A</identifier>
+          <title>Fles met de 'drie vrienden van de winter'</title>
+          <creator>anoniem</creator>
+          <date>ca. 1650 - ca. 1699</date>
+          <type>fles</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>kobalt</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2414</identifier>
+        <datestamp>2021-10-01T21:28:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5588</identifier>
+          <identifier>SK-A-2414</identifier>
+          <title>Salomon Rendorp (1767-1824). Brouwer te Amsterdam</title>
+          <creator>Tischbein, Johann Friedrich August</creator>
+          <subject>portret</subject>
+          <subject>Rendorp, Salomon</subject>
+          <date>1793</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-880</identifier>
+        <datestamp>2021-10-01T21:34:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5850</identifier>
+          <identifier>SK-A-880</identifier>
+          <title>Willem IV (1711-1751), prins van Oranje-Nassau</title>
+          <creator>Aved, Jacques-André-Joseph</creator>
+          <subject>portret</subject>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <date>1750 - 1751</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-1568</identifier>
+        <datestamp>2021-10-01T21:42:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6135</identifier>
+          <identifier>SK-C-1568</identifier>
+          <title>Portret van een vrouw</title>
+          <creator>Boonen, Arnold</creator>
+          <subject>portret</subject>
+          <date>1690 - 1750</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3931</identifier>
+        <datestamp>2021-10-01T21:50:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6456</identifier>
+          <identifier>SK-A-3931</identifier>
+          <title>Portret van een man</title>
+          <creator>Vincent, François André</creator>
+          <description>Het interieur waarin deze onbekende man zich bevindt, heeft nadrukkelijk neoclassicistische onderdelen. De pilaster op de achtergrond heeft een Romeins aandoende versiering van bladranken en de man zit in een modieuze vergulde fauteuil, bekleed met zijdedamast. Ook de verguld houten lijst is met classicistische motieven versierd.</description>
+          <date>ca. 1795</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2006</identifier>
+        <datestamp>2021-10-01T21:31:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5685</identifier>
+          <identifier>SK-A-2006</identifier>
+          <title>Turkse vrouwen in de omgeving van Istanbul</title>
+          <creator>Vanmour, Jean Baptiste</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Turkije</subject>
+          <subject>Constantinopel</subject>
+          <description>Alle vrouwen kijken omhoog naar een wazige, zwevende vrouwenfiguur. Welk verhaal hier wordt uitgebeeld is onbekend. Misschien gaat het om een Turks volksverhaal, wellicht ook zien we de hallucinaties van de opium rokende vrouwen.</description>
+          <date>ca. 1720 - ca. 1737</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4011</identifier>
+        <datestamp>2022-03-23T10:47:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6426</identifier>
+          <identifier>SK-A-4011</identifier>
+          <title>Portret van Daniele Barbaro</title>
+          <creator>Veronese, Paolo</creator>
+          <subject>Barbaro, Daniele</subject>
+          <description>Daniele Barbaro was een vooraanstaande aanhanger van de Aristotelische natuurkunde. Hij is hier voorgesteld in zijn kerkelijke kleding als patriarch. Naast hem staat zijn vertaling van de verhandeling over architectuur van de Romeinse bouwmeester Vitruvius. Het boek werd in 1556 uitgegeven met illustraties van de beroemde architect Palladio. Die werkte geregeld samen met de schilder van dit portret, Veronese, onder meer bij de bouw en decoratie van Barbaro’s villa bij Maser.</description>
+          <date>1556 - 1562</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3029</identifier>
+        <datestamp>2022-01-22T21:31:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5358</identifier>
+          <identifier>SK-A-3029</identifier>
+          <title>Gezicht op de Rijn en de Elterberg</title>
+          <creator>Goyen, Jan van</creator>
+          <contributor>Saftleven, Herman</contributor>
+          <subject>landschap</subject>
+          <subject>veerpont</subject>
+          <subject>Rijn</subject>
+          <subject>Eltenberg</subject>
+          <date>na 1645</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-273</identifier>
+        <datestamp>2021-10-01T21:02:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.4525</identifier>
+          <identifier>RP-T-1963-273</identifier>
+          <title>Zittende allegorische vrouwenfiguur</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1800</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTA2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

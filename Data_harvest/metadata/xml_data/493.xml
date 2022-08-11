@@ -1,0 +1,431 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw5ODQw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2087</identifier>
+        <datestamp>2021-11-03T16:58:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26090</identifier>
+          <identifier>BK-KOG-2087</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1500</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2273</identifier>
+        <datestamp>2021-11-03T16:59:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26275</identifier>
+          <identifier>BK-KOG-2273</identifier>
+          <title>Sleutel</title>
+          <date>1700</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12980-G</identifier>
+        <datestamp>2021-10-02T11:41:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26665</identifier>
+          <identifier>BK-NM-12980-G</identifier>
+          <title>Strook kloskant met aaneengeschakelde cirkels met in het centrum een rozetbloem</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Buckingham</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1989-22</identifier>
+        <datestamp>2020-06-19T16:05:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27050</identifier>
+          <identifier>RP-T-1989-22</identifier>
+          <title>Heuvellandschap in Northumberland</title>
+          <creator>Turner of Oxford, William</creator>
+          <subject>Alnwick</subject>
+          <date>1847-08</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1949-490(V)</identifier>
+        <datestamp>2021-10-02T11:43:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27340</identifier>
+          <identifier>RP-T-1949-490(V)</identifier>
+          <title>Bovenste geleding en spits van een gothische kerktoren</title>
+          <creator>Beerstraten, Jan Abrahamsz.</creator>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12186-6-A</identifier>
+        <datestamp>2021-10-02T11:38:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25956</identifier>
+          <identifier>BK-NM-12186-6-A</identifier>
+          <title>Lint van zijdebrokaat; op een zilverkleurige achtergrond met ruitpatroon is een zich herhalen patroon van een gekleurd boeket aangebracht</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>kleding</type>
+          <type>lint</type>
+          <format>zijde</format>
+          <format>brokaat</format>
+          <format>zilverdraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1986-57</identifier>
+        <datestamp>2021-10-02T11:41:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26790</identifier>
+          <identifier>RP-T-1986-57</identifier>
+          <title>Christus zegent de kinderen</title>
+          <creator>West, Benjamin</creator>
+          <date>1776 - 1781</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2223</identifier>
+        <datestamp>2021-11-03T16:59:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26224</identifier>
+          <identifier>BK-KOG-2223</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1600</date>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2239</identifier>
+        <datestamp>2021-11-03T16:59:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26240</identifier>
+          <identifier>BK-KOG-2239</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2288</identifier>
+        <datestamp>2021-11-03T17:00:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26290</identifier>
+          <identifier>BK-KOG-2288</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1700 - ca. 1800</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2177</identifier>
+        <datestamp>2021-11-03T16:59:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26180</identifier>
+          <identifier>BK-KOG-2177</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1500 - ca. 1600</date>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2187</identifier>
+        <datestamp>2021-11-03T16:59:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26187</identifier>
+          <identifier>BK-KOG-2187</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-81</identifier>
+        <datestamp>2021-10-02T11:40:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26514</identifier>
+          <identifier>BK-KOG-81</identifier>
+          <title>Kousenband of cingulum, groen met goud gebrocheerd; met de tekst SARA MARIA HATTEVIER JERUSALEM</title>
+          <creator>anoniem</creator>
+          <date>ca. 1677 - ca. 1700</date>
+          <type>kousenband</type>
+          <type>cingulum</type>
+          <format>zijde</format>
+          <format>gouddraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jeruzalem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2025</identifier>
+        <datestamp>2021-11-03T16:58:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26027</identifier>
+          <identifier>BK-KOG-2025</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>pijpsleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2031</identifier>
+        <datestamp>2021-11-03T16:58:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26033</identifier>
+          <identifier>BK-KOG-2031</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Oosters</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1007</identifier>
+        <datestamp>2022-06-01T08:36:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24555</identifier>
+          <identifier>BK-NM-1007</identifier>
+          <title>Stadhouder Willem II (1626-1650), prins van Oranje</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Willem II (prins van Oranje)</subject>
+          <subject>Orde van de Kouseband</subject>
+          <date>ca. 1647 - ca. 1650</date>
+          <type>beeld</type>
+          <format>iepenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1965-109</identifier>
+        <datestamp>2020-01-07T11:48:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24672</identifier>
+          <identifier>RP-T-1965-109</identifier>
+          <title>De verheerlijking van Maria Theresia (?)</title>
+          <creator>anoniem</creator>
+          <subject>Maria Theresia (Rooms-Duits keizerin)</subject>
+          <date>1700 - 1800</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-99-C-4</identifier>
+        <datestamp>2019-08-01T09:36:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23830</identifier>
+          <identifier>BK-BR-J-99-C-4</identifier>
+          <title>Fragment van gehaakte kant met getorst takje en stervormige bloem</title>
+          <creator>anoniem</creator>
+          <date>ca. 1890 - ca. 1909</date>
+          <type>fragment</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ierland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-15808-B</identifier>
+        <datestamp>2022-03-28T15:50:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23938</identifier>
+          <identifier>AK-RBK-15808-B</identifier>
+          <title>Kom (klapmuts) met bloeiende planten en geluksvoorwerpen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>kom</type>
+          <type>klapmuts</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-20</identifier>
+        <datestamp>2022-02-16T10:57:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24233</identifier>
+          <identifier>BK-1968-20</identifier>
+          <title>Vrouwelijke heilige</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1350 - ca. 1400</date>
+          <type>beeldhouwwerk</type>
+          <format>eikenhout</format>
+          <format>verf</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+          <coverage>Noord-Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw5ODYw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

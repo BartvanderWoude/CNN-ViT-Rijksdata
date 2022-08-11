@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3MDAw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1976-46-A</identifier>
+        <datestamp>2022-06-01T08:37:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25721</identifier>
+          <identifier>BK-1976-46-A</identifier>
+          <title>Marmeren Putti</title>
+          <creator>Delvaux, Laurent</creator>
+          <date>1746 - 1748</date>
+          <type>beeldhouwwerk</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1991</identifier>
+        <datestamp>2021-11-03T16:57:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25897</identifier>
+          <identifier>BK-KOG-1991</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-B-92-B-1</identifier>
+        <datestamp>2022-05-11T11:48:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24805</identifier>
+          <identifier>BK-B-92-B-1</identifier>
+          <title>Het Lot</title>
+          <creator>Verhulst, Rombout</creator>
+          <date>ca. 1660 - ca. 1665</date>
+          <type>beeldhouwwerk</type>
+          <format>zandsteen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9323</identifier>
+        <datestamp>2021-10-02T02:00:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24943</identifier>
+          <identifier>BK-NM-9323</identifier>
+          <title>Gevelsteen met molen en jaartal 1744</title>
+          <date>1744</date>
+          <type>gevelsteen</type>
+          <type>bouwfragment</type>
+          <format>steen (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16982</identifier>
+        <datestamp>2022-06-01T08:36:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25172</identifier>
+          <identifier>BK-16982</identifier>
+          <title>Zegenend Christuskind</title>
+          <creator>Desiderio da Settignano</creator>
+          <date>na 1460</date>
+          <type>beeldhouwwerk</type>
+          <format>stucwerk</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16952-A</identifier>
+        <datestamp>2021-10-02T11:34:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25297</identifier>
+          <identifier>BK-16952-A</identifier>
+          <title>Mascaron</title>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9392</identifier>
+        <datestamp>2021-10-02T11:36:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25570</identifier>
+          <identifier>BK-NM-9392</identifier>
+          <title>Christus, gevangen weggevoerd</title>
+          <creator>anoniem</creator>
+          <date>1650 - 1700</date>
+          <type>beeldhouwwerk</type>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuid-Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12403</identifier>
+        <datestamp>2021-10-02T11:37:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25697</identifier>
+          <identifier>BK-NM-12403</identifier>
+          <title>Kop van een apostel</title>
+          <date>1300 - 1350</date>
+          <type>beeldhouwwerk</type>
+          <type>vervalsing</type>
+          <format>zandsteen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2014</identifier>
+        <datestamp>2021-11-03T16:57:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25920</identifier>
+          <identifier>BK-KOG-2014</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1300 - ca. 1500</date>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9353</identifier>
+        <datestamp>2021-12-16T11:35:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24903</identifier>
+          <identifier>BK-NM-9353</identifier>
+          <title>Schets van zwevende putto</title>
+          <creator>Xavery, Jan Baptist</creator>
+          <date>ca. 1725 - ca. 1750</date>
+          <type>beeldhouwwerk</type>
+          <format>terracotta</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1966-30</identifier>
+        <datestamp>2021-10-02T11:36:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25666</identifier>
+          <identifier>BK-1966-30</identifier>
+          <title>Beeldje, fragment van de kleding</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <date>ca. 1425 - ca. 1550</date>
+          <type>beeldhouwwerk</type>
+          <format>pijpaarde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14577</identifier>
+        <datestamp>2022-05-25T17:09:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24880</identifier>
+          <identifier>BK-14577</identifier>
+          <title>Schoorsteenstuk met Venus en Adonis</title>
+          <creator>Logteren, Ignatius van</creator>
+          <date>1730</date>
+          <type>beeldhouwwerk</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16942-1</identifier>
+        <datestamp>2021-10-02T11:33:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25251</identifier>
+          <identifier>BK-16942-1</identifier>
+          <title>Venus</title>
+          <creator>Roccatagliata, Niccolò</creator>
+          <description>Venus staat op een ronde plint op het rechterbeen en met het linker gebogen; het bovenlichaam buigt iets voorover. In de rechterhand houdt zij een appel voor zich uit, waar zij naar kijkt, de linker heeft zij tegen de borst. Het golvende haar is boven op het hoofd in een wrong samengebonden. In geen andere kunstvorm komen de idealen van de renaissance zo sterk tot uiting als in bronzen beeldjes en gebruiksvoorwerpen. Brons, een kostbare en duurzame legering van koper en tin, was naast marmer hét materiaal waarin de kunst van de klassieke oudheid was overgeleverd. In de renaissance werden
+veel bronzen gegoten naar het voorbeeld van opgegraven Romeinse beeldhouwwerken. Goden en helden waren favoriete thema’s.</description>
+          <date>ca. 1600</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1272-H</identifier>
+        <datestamp>2021-10-02T11:36:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25643</identifier>
+          <identifier>BK-KOG-1272-H</identifier>
+          <title>Apostel Jacobus de Oude</title>
+          <creator>anoniem</creator>
+          <date>ca. 1450 - ca. 1500</date>
+          <type>beeldhouwwerk</type>
+          <format>pijpaarde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2512</identifier>
+        <datestamp>2021-10-02T02:00:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24971</identifier>
+          <identifier>BK-NM-2512</identifier>
+          <title>Jupiter en Mercurius bij Philemon en Baucis</title>
+          <creator>anoniem</creator>
+          <contributor>Veen, Otto van</contributor>
+          <date>ca. 1700 - ca. 1800</date>
+          <type>beeldhouwwerk</type>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuid-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18780</identifier>
+        <datestamp>2022-01-24T14:42:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25052</identifier>
+          <identifier>BK-18780</identifier>
+          <title>Hercules en Antaeus</title>
+          <creator>Lacomblé, Eugène</creator>
+          <date>1877</date>
+          <type>beeldhouwwerk</type>
+          <format>klei</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12026</identifier>
+        <datestamp>2021-10-02T11:33:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25228</identifier>
+          <identifier>BK-NM-12026</identifier>
+          <title>Bellerophons val van Pegasus</title>
+          <creator>anoniem</creator>
+          <date>ca. 1575 - ca. 1599</date>
+          <type>beeld</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1974-109</identifier>
+        <datestamp>2022-05-04T15:38:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25715</identifier>
+          <identifier>BK-1974-109</identifier>
+          <title>Schoorsteenstuk met drie putti: Fama, Libertas en Concordia</title>
+          <creator>Xavery, Jan Baptist</creator>
+          <date>1742</date>
+          <type>schoorsteenstuk</type>
+          <type>beeldhouwwerk</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9165</identifier>
+        <datestamp>2021-11-03T16:57:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25796</identifier>
+          <identifier>BK-NM-9165</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1700</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1997</identifier>
+        <datestamp>2021-10-02T11:37:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25903</identifier>
+          <identifier>BK-KOG-1997</identifier>
+          <title>39 sleutels uit de collectie van Emmanuel Vita Israël</title>
+          <creator>anoniem</creator>
+          <description>De Amsterdamse apotheker en kunstverzamelaar Emmanuel Vita Israël schonk zijn collectie, met sleutels van de Romeinse oudheid tot de 19de eeuw, in 1937 aan het Koninklijk Oudheidkundig Genootschap. Naar eigen zeggen kwam zijn sleutelcollectie min of meer per toeval tot stand. Omdat hij een van de weinige verzamelaars was, wisten handelaren hem automatisch te vinden.</description>
+          <type>sleutel</type>
+          <type>draaisleutel</type>
+          <format>ijzer</format>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3MDIw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

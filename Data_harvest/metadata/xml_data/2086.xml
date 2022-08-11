@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MTcwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-7187</identifier>
+        <datestamp>2021-01-28T19:01:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91681</identifier>
+          <identifier>RP-P-OB-7187</identifier>
+          <title>Kop van een oude vrouw</title>
+          <creator>Mare, Pieter de</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1777 - 1779</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-1862</identifier>
+        <datestamp>2021-01-28T19:03:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91804</identifier>
+          <identifier>RP-P-1918-1862</identifier>
+          <title>Bikkelende kinderen</title>
+          <creator>Chalon, Christina</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1758 - 1808</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-7259-11</identifier>
+        <datestamp>2021-12-01T10:37:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92791</identifier>
+          <identifier>RP-P-OB-7259-11</identifier>
+          <title>Penning met een embleem en de namen van Zweedse koningen</title>
+          <creator>anoniem</creator>
+          <contributor>Chevalier, Nicolas</contributor>
+          <subject>Karel XII (koning van Zweden)</subject>
+          <date>1685 - 1720</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1895-A-18859</identifier>
+        <datestamp>2021-01-28T19:29:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95706</identifier>
+          <identifier>RP-P-1895-A-18859</identifier>
+          <title>Portret van Nikolaus graaf van Luckner</title>
+          <creator>Claessens, Lambertus Antonius</creator>
+          <subject>Luckner, Nikolaus</subject>
+          <date>ca. 1792 - ca. 1808</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-1050</identifier>
+        <datestamp>2021-01-28T19:29:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95712</identifier>
+          <identifier>RP-P-1909-1050</identifier>
+          <title>Portret van Frans van der Meer Nederlands ambassadeur in Spanje</title>
+          <creator>Claessens, Lambertus Antonius</creator>
+          <subject>Meer, Frans van der</subject>
+          <date>ca. 1792 - ca. 1808</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14905</identifier>
+        <datestamp>2021-01-28T19:45:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96951</identifier>
+          <identifier>RP-P-1889-A-14905</identifier>
+          <title>Vlucht naar Egypte</title>
+          <title>Landschappen met Bijbelse, mythologische scènes en jachttaferelen</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Hoeswinckel, Eduwart van</contributor>
+          <date>1582 - 1586</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17408</identifier>
+        <datestamp>2021-10-02T13:12:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97122</identifier>
+          <identifier>RP-P-1892-A-17408</identifier>
+          <title>Enkele vogels in een landschap</title>
+          <title>Vogels</title>
+          <title>Avivm vivae</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Collaert, Adriaen</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <date>1598 - 1600</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-1841</identifier>
+        <datestamp>2021-12-01T11:29:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96002</identifier>
+          <identifier>RP-P-1904-1841</identifier>
+          <title>Gezicht op Loreto</title>
+          <title>Loreti opidi Divae Mariae sacri effigies</title>
+          <title>Ruinarum varii prospectus</title>
+          <creator>anoniem</creator>
+          <contributor>Cleve, Hendrick van</contributor>
+          <contributor>Galle, Philips</contributor>
+          <subject>Loreto</subject>
+          <date>1585</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-4380</identifier>
+        <datestamp>2021-01-28T19:34:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96086</identifier>
+          <identifier>RP-P-1909-4380</identifier>
+          <title>Portret van kardinaal Camillo Massimi</title>
+          <title>Portretten van kardinalen</title>
+          <title>Effigies cardinalium nunc viventium</title>
+          <creator>Clouwet, Albertus</creator>
+          <contributor>Maratta, Carlo</contributor>
+          <contributor>Rossi, Giovanni Giacomo de'</contributor>
+          <subject>Massimi, Camillo</subject>
+          <date>1677 - 1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1963-266</identifier>
+        <datestamp>2021-01-28T19:34:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96135</identifier>
+          <identifier>RP-P-1963-266</identifier>
+          <title>Heilige Judas Taddeüs</title>
+          <title>SS Apostolorum Iconen</title>
+          <creator>Clouwet, Petrus</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Galle, C.</contributor>
+          <date>1639 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.510</identifier>
+        <datestamp>2021-01-28T19:44:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96900</identifier>
+          <identifier>RP-P-OB-31.510</identifier>
+          <title>Ermelindis</title>
+          <title>Hermelindis</title>
+          <title>Vrouwelijke kluizenaars</title>
+          <title>Solitvdo sive vitae foeminarvm anachoritarvm</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Kiliaan, Cornelis</contributor>
+          <contributor>Collaert, Adriaen</contributor>
+          <date>1570 - 1618</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-4389</identifier>
+        <datestamp>2016-10-20T20:46:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96106</identifier>
+          <identifier>RP-P-1909-4389</identifier>
+          <title>Portret van Clara Maria van de passie</title>
+          <creator>Clouwet, Albertus</creator>
+          <contributor>Clouwet, Albertus</contributor>
+          <subject>Clara Maria van de passie</subject>
+          <date>1675 - 1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5970</identifier>
+        <datestamp>2021-01-28T19:38:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96457</identifier>
+          <identifier>RP-P-BI-5970</identifier>
+          <title>Manshoofd met hoed en pijp</title>
+          <creator>Coclers, Louis Bernard</creator>
+          <contributor>Coclers, Louis Bernard</contributor>
+          <date>1756 - 1817</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1893-A-18102</identifier>
+        <datestamp>2021-01-28T19:37:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96350</identifier>
+          <identifier>RP-P-1893-A-18102</identifier>
+          <title>Een man en een vrouw verkleden zich voor de spiegel</title>
+          <creator>Coclers, Louis Bernard</creator>
+          <date>1779</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14915</identifier>
+        <datestamp>2021-01-28T19:46:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96971</identifier>
+          <identifier>RP-P-1889-A-14915</identifier>
+          <title>Berenjacht</title>
+          <title>Landschappen met Bijbelse, mythologische scènes en jachttaferelen</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Hoeswinckel, Eduwart van</contributor>
+          <date>1582 - 1586</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-5235</identifier>
+        <datestamp>2021-10-02T13:12:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97102</identifier>
+          <identifier>RP-P-1905-5235</identifier>
+          <title>Marters, eekhoorns en een vos</title>
+          <title>Vierpotige dieren</title>
+          <title>Animalivm Qvaddrvpedvm</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Collaert, Adriaen</contributor>
+          <contributor>Collaert, Adriaen</contributor>
+          <subject>landschappen</subject>
+          <date>1595 - 1599</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6030</identifier>
+        <datestamp>2021-10-07T11:13:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97151</identifier>
+          <identifier>RP-P-BI-6030</identifier>
+          <title>Twee loopvogels in een landschap</title>
+          <title>Avivm Vivae</title>
+          <title>Vogels</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Collaert, Adriaen</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <subject>grijze kroonkraanvogel</subject>
+          <date>1598 - 1618</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5652</identifier>
+        <datestamp>2021-12-24T21:14:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91288</identifier>
+          <identifier>RP-P-BI-5652</identifier>
+          <title>Landschap met zittende man en hond</title>
+          <creator>anoniem</creator>
+          <contributor>Cats, Jacob (1741-1799)</contributor>
+          <subject>landschappen</subject>
+          <date>na 1768</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-2043</identifier>
+        <datestamp>2021-01-28T18:56:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91385</identifier>
+          <identifier>RP-P-1908-2043</identifier>
+          <title>Portret van een jonge man</title>
+          <creator>Caukercken, Cornelis van</creator>
+          <contributor>Maes, J. (17de eeuw)</contributor>
+          <date>ca. 1640 - 1680</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11715</identifier>
+        <datestamp>2021-01-28T19:05:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91890</identifier>
+          <identifier>RP-P-1887-A-11715</identifier>
+          <title>Boer met gezin</title>
+          <creator>Chalon, Christina</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1758 - 1808</date>
+          <type>prent</type>
+          <format>Chinees papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MTcyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

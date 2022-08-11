@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NDYyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1461</identifier>
+        <datestamp>2021-04-02T12:00:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66931</identifier>
+          <identifier>RP-F-00-1461</identifier>
+          <title>Gezicht op Sorrento en de baai van Napels, met boom op de voorgrond</title>
+          <title>Veduta generale di Sorrento</title>
+          <creator>Rive, Roberto</creator>
+          <subject>Sorrento</subject>
+          <subject>Golf van Napels</subject>
+          <date>1860 - 1889</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Sorrento</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1898-A-3609(V)</identifier>
+        <datestamp>2021-10-02T12:51:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67270</identifier>
+          <identifier>RP-T-1898-A-3609(V)</identifier>
+          <title>Plooistudie</title>
+          <creator>Dyck, Anthony van</creator>
+          <date>1610 - 1641</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-452</identifier>
+        <datestamp>2021-10-02T12:53:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67741</identifier>
+          <identifier>NG-1980-27-H-452</identifier>
+          <title>Greep van een gevest uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>greep (gevest)</type>
+          <format>hout</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1528</identifier>
+        <datestamp>2021-09-01T12:25:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67118</identifier>
+          <identifier>RP-F-00-1528</identifier>
+          <title>Ere-escorte van Amsterdamse burgers bij de inhuldiging van koningin Wilhelmina</title>
+          <creator>Greiner, Albert</creator>
+          <subject>Koninklijk Huis</subject>
+          <subject>inhuldiging</subject>
+          <subject>Inhuldiging van Wilhelmina als koningin der Nederlanden</subject>
+          <subject>Amsterdam</subject>
+          <subject>Rijksmuseum Amsterdam</subject>
+          <subject>Wilhelmina (koningin der Nederlanden)</subject>
+          <date>1898</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-436(R)</identifier>
+        <datestamp>2021-10-02T12:51:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67432</identifier>
+          <identifier>RP-T-00-436(R)</identifier>
+          <title>Landschap met enkele figuren onder een boom</title>
+          <creator>Genoels, Abraham (II)</creator>
+          <date>1650 - 1723</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4297</identifier>
+        <datestamp>2021-10-20T14:42:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66184</identifier>
+          <identifier>NG-VG-1-4297</identifier>
+          <title>Vijf francs van maarschalk MacMahon, president van de Franse republiek</title>
+          <creator>Napoleon, F.</creator>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>nationaal bestuur</subject>
+          <subject>president</subject>
+          <subject>Frankrijk</subject>
+          <subject>Mac Mahon, Patrice de</subject>
+          <date>1874</date>
+          <type>munt</type>
+          <type>spotpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4429</identifier>
+        <datestamp>2021-10-20T14:43:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66282</identifier>
+          <identifier>NG-VG-1-4429</identifier>
+          <title>Huwelijk van Willem III, koning der Nederlanden en Emma, prinses van Waldeck-Pyrmont te Arolsen</title>
+          <creator>Geerts,  Edouard Louis</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>huwelijk</subject>
+          <subject>Huwelijk van Willem III en Emma van Waldeck-Pyrmont</subject>
+          <subject>Arolsen</subject>
+          <subject>Willem III (koning der Nederlanden)</subject>
+          <subject>Emma (koningin-regentes der Nederlanden)</subject>
+          <date>1879</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1457</identifier>
+        <datestamp>2021-03-10T09:02:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66894</identifier>
+          <identifier>RP-F-00-1457</identifier>
+          <title>Grafmonumenten in een galerij in het Camposanto te Genua, Italië</title>
+          <creator>Sommer, Giorgio</creator>
+          <contributor>diverse vervaardigers</contributor>
+          <subject>Campo Santo</subject>
+          <date>1857 - 1914</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Genua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1485</identifier>
+        <datestamp>2022-01-25T14:32:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66992</identifier>
+          <identifier>RP-F-00-1485</identifier>
+          <title>Gezicht op Villars-sur-Ollon in Zwitserland</title>
+          <title>Chesieres Villars</title>
+          <creator>anoniem</creator>
+          <subject>Villars-sur-Ollon</subject>
+          <date>1900</date>
+          <type>foto</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Villars-sur-Ollon</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1951-752</identifier>
+        <datestamp>2021-01-28T14:40:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74550</identifier>
+          <identifier>RP-P-1951-752</identifier>
+          <title>Staande hond bij boom</title>
+          <creator>Barbiers, Pieter (IV)</creator>
+          <date>1808 - 1848</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-554</identifier>
+        <datestamp>2021-01-28T14:40:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74556</identifier>
+          <identifier>RP-P-BI-554</identifier>
+          <title>Kop en voorpoot van liggende bok</title>
+          <creator>Barbiers, Pieter (IV)</creator>
+          <date>1808 - 1848</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-232</identifier>
+        <datestamp>2019-05-07T12:19:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73384</identifier>
+          <identifier>RP-P-BI-232</identifier>
+          <title>Portret van Hermanus van Brussel</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <contributor>Hendriks, Wybrand</contributor>
+          <subject>Brussel, Hermanus van</subject>
+          <date>1798 - 1815</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4365</identifier>
+        <datestamp>2021-10-20T14:42:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66234</identifier>
+          <identifier>NG-VG-1-4365</identifier>
+          <title>Karel I en Henrietta Maria, koning en koningin van Engeland</title>
+          <creator>Passe, Simon van de</creator>
+          <subject>Henriëtta Maria van Frankrijk (koningin van Engeland, Schotland en Ierland)</subject>
+          <subject>Karel I (koning van Engeland)</subject>
+          <date>ca. 1630</date>
+          <type>rekenpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4372</identifier>
+        <datestamp>2021-10-20T14:43:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66240</identifier>
+          <identifier>NG-VG-1-4372</identifier>
+          <title>Diana en haar nymphen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1650 - ca. 1750</date>
+          <type>plaat</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.381</identifier>
+        <datestamp>2021-01-28T14:27:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73460</identifier>
+          <identifier>RP-P-OB-26.381</identifier>
+          <title>Slapende jongen met hoed</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <contributor>Steen, Jan Havicksz.</contributor>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.465</identifier>
+        <datestamp>2016-10-20T20:22:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74058</identifier>
+          <identifier>RP-P-OB-26.465</identifier>
+          <title>Portret van Willem I, prins van Oranje</title>
+          <creator>Bakker, Frans de</creator>
+          <subject>Willem I (prins van Oranje)</subject>
+          <date>1752</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.496</identifier>
+        <datestamp>2021-01-28T14:42:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74737</identifier>
+          <identifier>RP-P-OB-26.496</identifier>
+          <title>Apostel en evangelist Johannes met vishengel en adelaar</title>
+          <title>S. Iohannes</title>
+          <title>Christus en twaalf apostelen</title>
+          <creator>Barra, Johan</creator>
+          <contributor>Winghe, Joos van</contributor>
+          <contributor>Sadeler, Marcus</contributor>
+          <date>1591 - 1629</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1993-99</identifier>
+        <datestamp>2021-01-28T13:38:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67406</identifier>
+          <identifier>RP-P-1993-99</identifier>
+          <title>Landschap met Christus als Goede Herder</title>
+          <title>Landschappen, zeegezichten en fantasierijke stadsgezichten</title>
+          <creator>Doetechum, Joannes van (I)</creator>
+          <contributor>Doetechum, Lucas van</contributor>
+          <contributor>Gassel, Lucas</contributor>
+          <contributor>Diericx, Volcxken</contributor>
+          <date>in of na 1570 - ca. 1580</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1382</identifier>
+        <datestamp>2021-03-10T09:02:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66323</identifier>
+          <identifier>RP-F-00-1382</identifier>
+          <title>Portret van de graveur Joseph Wildiers, ten voeten uit</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Wildiers, Joseph</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1958-95</identifier>
+        <datestamp>2021-10-02T12:50:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66788</identifier>
+          <identifier>RP-T-1958-95</identifier>
+          <title>Heilige Brigitta, staande met het schip in de rechterhand</title>
+          <creator>Mondo, Domenico</creator>
+          <date>1733 - 1806</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NDY0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

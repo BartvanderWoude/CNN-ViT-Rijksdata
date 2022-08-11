@@ -1,0 +1,446 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzQ2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11118</identifier>
+        <datestamp>2021-11-02T08:31:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50366</identifier>
+          <identifier>BK-NM-11118</identifier>
+          <title>Vork</title>
+          <date>1600 - 1699</date>
+          <type>vork</type>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1884-A-330F</identifier>
+        <datestamp>2021-02-05T14:16:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50659</identifier>
+          <identifier>RP-T-1884-A-330F</identifier>
+          <title>Spin</title>
+          <title>Dieren</title>
+          <creator>Goes, Jan Augustin van der</creator>
+          <date>1690 - 1700</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>dekverf</format>
+          <format>gouache (waterverf)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-3768(V)</identifier>
+        <datestamp>2016-10-20T19:55:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49948</identifier>
+          <identifier>RP-T-00-3768(V)</identifier>
+          <title>Romp van een lopende man</title>
+          <creator>Schedoni, Bartolomeo</creator>
+          <date>1588 - 1615</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1890-A-2281</identifier>
+        <datestamp>2019-01-03T16:49:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50719</identifier>
+          <identifier>RP-T-1890-A-2281</identifier>
+          <title>Vlak landschap</title>
+          <creator>Goyen, Jan van</creator>
+          <contributor>Lijnhoven, Nicolaes van</contributor>
+          <date>1606 - 1656</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1960-223</identifier>
+        <datestamp>2021-10-02T12:20:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50042</identifier>
+          <identifier>RP-T-1960-223</identifier>
+          <title>Fragment van studieblad met armen, benen, voeten</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1599</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1954-198</identifier>
+        <datestamp>2021-10-02T12:20:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50054</identifier>
+          <identifier>RP-T-1954-198</identifier>
+          <title>Staande martelares, palmbladen ophoudend</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1599</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1951-1</identifier>
+        <datestamp>2021-10-02T12:20:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50140</identifier>
+          <identifier>RP-T-1951-1</identifier>
+          <title>Maaltijd ten huize van Simon de Leviet</title>
+          <creator>Vasari, Giorgio</creator>
+          <description>Deze uitgewerkte tekening op blauw papier is een studie voor een muurschildering in een refter, de eetzaal van een klooster. Veel figuren ervan zijn ontleend aan Vasari’s eigen composities of die van tijdgenoten. Ze vullen de gehele kleine loggia met haar fantasievol gedraaide zuilen. Dit horror-vacui, een vrees voor lege ruimte, was een typisch kenmerk van het maniërisme, de kunststroming waartoe Vasari behoorde.</description>
+          <date>1544</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15120</identifier>
+        <datestamp>2021-11-02T08:30:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50323</identifier>
+          <identifier>BK-15120</identifier>
+          <title>Lepel</title>
+          <date>1800 - 1900</date>
+          <type>lepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16244</identifier>
+        <datestamp>2021-10-02T12:21:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50415</identifier>
+          <identifier>BK-16244</identifier>
+          <title>Snuifdoos in de vorm van een vogel, geëmailleerd met veelkleurige bloemen en met een tak op het deksel.</title>
+          <creator>anoniem</creator>
+          <type>doos</type>
+          <type>snuifdoos</type>
+          <format>email</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1899-A-4317</identifier>
+        <datestamp>2019-01-03T16:49:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50705</identifier>
+          <identifier>RP-T-1899-A-4317</identifier>
+          <title>Gezicht op een kasteeltje</title>
+          <creator>Goyen, Jan van</creator>
+          <date>1624</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1985-115</identifier>
+        <datestamp>2021-10-02T12:20:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49994</identifier>
+          <identifier>RP-T-1985-115</identifier>
+          <title>Heilige Catharina in discussie met de schriftgeleerden</title>
+          <creator>Tintoretto, Domenico</creator>
+          <date>1570 - 1635</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11134</identifier>
+        <datestamp>2021-11-02T08:31:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50480</identifier>
+          <identifier>BK-NM-11134</identifier>
+          <title>Aanbidding der koningen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1625 - ca. 1650</date>
+          <type>plaquette</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-30.993</identifier>
+        <datestamp>2019-05-22T12:34:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50766</identifier>
+          <identifier>RP-P-OB-30.993</identifier>
+          <title>Sibille</title>
+          <creator>Coriolano, Bartolommeo</creator>
+          <contributor>Reni, Guido</contributor>
+          <date>ca. 1609 - 1676</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1989-302</identifier>
+        <datestamp>2018-12-06T16:44:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50094</identifier>
+          <identifier>RP-T-1989-302</identifier>
+          <title>Kop van een schreeuwende man</title>
+          <creator>Leonardo da Vinci</creator>
+          <date>1500 - 1600</date>
+          <type>tekening</type>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1949-534(V)</identifier>
+        <datestamp>2021-10-02T12:19:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49855</identifier>
+          <identifier>RP-T-1949-534(V)</identifier>
+          <title>Half figuur van een jongeling die een schaal (?) omhoog heft</title>
+          <creator>Parmigianino</creator>
+          <date>1530 - 1539</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1905-177</identifier>
+        <datestamp>2019-01-03T16:50:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50202</identifier>
+          <identifier>RP-T-1905-177</identifier>
+          <title>De Doodt van Lucretia of Grondlegging der Vrijheid</title>
+          <creator>Goeree, Jan</creator>
+          <subject>standbeeld</subject>
+          <date>1680 - 1731</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>dekverf</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3771-B</identifier>
+        <datestamp>2021-10-02T12:20:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50208</identifier>
+          <identifier>BK-NM-3771-B</identifier>
+          <title>Fragment wit zijdesatijn met veelkleurige bloemtakken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1800</date>
+          <type>zijdesatijn</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7316</identifier>
+        <datestamp>2021-11-02T08:31:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50426</identifier>
+          <identifier>BK-NM-7316</identifier>
+          <title>Horloge met klassiek borstbeeld</title>
+          <creator>Bordier, Denis</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1660 - ca. 1690</date>
+          <type>sieraad</type>
+          <type>horloge</type>
+          <format>email</format>
+          <format>ijzer</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Genève</coverage>
+          <coverage>Genève</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3823-E</identifier>
+        <datestamp>2021-10-02T12:23:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50812</identifier>
+          <identifier>BK-NM-3823-E</identifier>
+          <title>Fragment gestreept zijdeweefsel</title>
+          <creator>anoniem</creator>
+          <date>1750</date>
+          <type>zijdeweefsel</type>
+          <format>zijde</format>
+          <format>lamel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.838</identifier>
+        <datestamp>2022-03-02T15:19:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50820</identifier>
+          <identifier>RP-P-OB-17.838</identifier>
+          <title>Landschap met grote boom en twee herders met vee</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>1774-11-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzQ4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

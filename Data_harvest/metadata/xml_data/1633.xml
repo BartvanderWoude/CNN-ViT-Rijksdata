@@ -1,0 +1,456 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjY0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-112</identifier>
+        <datestamp>2019-12-12T13:55:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16984</identifier>
+          <identifier>RP-T-1963-112</identifier>
+          <title>Molen op de Butte met een openlucht cafeetje</title>
+          <creator>Michel, Georges</creator>
+          <subject>Butte Montmartre</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-136(V)</identifier>
+        <datestamp>2019-12-12T14:15:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17035</identifier>
+          <identifier>RP-T-1963-136(V)</identifier>
+          <title>Schetsen van huzaren (afgesneden)</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13345</identifier>
+        <datestamp>2022-01-27T11:53:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16370</identifier>
+          <identifier>BK-NM-13345</identifier>
+          <title>Mercurius</title>
+          <creator>anoniem</creator>
+          <date>ca. 1720 - ca. 1770</date>
+          <type>decoratief object</type>
+          <type>mannenfiguur</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-129</identifier>
+        <datestamp>2019-12-12T13:58:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17006</identifier>
+          <identifier>RP-T-1963-129</identifier>
+          <title>Weg naar de stad; geheel links één van de Barrières</title>
+          <creator>Michel, Georges</creator>
+          <subject>Barrières van Parijs</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-131</identifier>
+        <datestamp>2021-10-02T00:23:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17285</identifier>
+          <identifier>BK-1978-131</identifier>
+          <title>Spoelkom, rond, met filetranden</title>
+          <creator>Adelaar, Egidius</creator>
+          <date>1820</date>
+          <type>spoelkom</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-32-B</identifier>
+        <datestamp>2021-11-02T08:23:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17175</identifier>
+          <identifier>BK-1984-32-B</identifier>
+          <title>Vork van zilver</title>
+          <creator>Jensen, Georg</creator>
+          <date>1923</date>
+          <date>1916</date>
+          <type>vork</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kopenhagen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-116</identifier>
+        <datestamp>2022-04-20T22:53:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16780</identifier>
+          <identifier>RP-T-1963-116</identifier>
+          <title>Weg naar Montmartre</title>
+          <creator>Michel, Georges</creator>
+          <subject>Montmartre</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-214</identifier>
+        <datestamp>2019-12-02T16:50:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16792</identifier>
+          <identifier>RP-T-1963-214</identifier>
+          <title>Schetsje met putten</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-44-L</identifier>
+        <datestamp>2021-11-02T08:22:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17043</identifier>
+          <identifier>BK-1977-44-L</identifier>
+          <title>Lepel</title>
+          <creator>Gameren, Dirk van</creator>
+          <date>1764</date>
+          <type>lepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-45-L</identifier>
+        <datestamp>2021-11-02T08:22:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17055</identifier>
+          <identifier>BK-1977-45-L</identifier>
+          <title>Vork van zilver</title>
+          <creator>Sondagh, Rudolphus</creator>
+          <date>1789</date>
+          <type>vork</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-152</identifier>
+        <datestamp>2021-10-02T00:10:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16116</identifier>
+          <identifier>BK-1980-152</identifier>
+          <title>Fontein, beschilderd met bloemen en bladeren, guirlandes, bloemvazan en hanen.</title>
+          <creator>De Metaale Pot</creator>
+          <contributor>Eenhoorn, Lambertus van</contributor>
+          <contributor>De Dubbele Schenkkan</contributor>
+          <contributor>Victors, Louis</contributor>
+          <date>1695 - 1720</date>
+          <type>fontein</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12201-A</identifier>
+        <datestamp>2022-03-14T14:23:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16167</identifier>
+          <identifier>BK-NM-12201-A</identifier>
+          <title>Vaas van veelkleurig beschilderde faïence</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1685</date>
+          <type>vaas</type>
+          <format>faience</format>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16588</identifier>
+        <datestamp>2021-11-03T23:47:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16224</identifier>
+          <identifier>BK-16588</identifier>
+          <title>Ring van goud</title>
+          <creator>anoniem</creator>
+          <date>1911</date>
+          <type>sieraad</type>
+          <type>ring (sieraad)</type>
+          <format>goud</format>
+          <format>saffier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1578-E</identifier>
+        <datestamp>2021-10-02T00:12:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16304</identifier>
+          <identifier>BK-NM-1578-E</identifier>
+          <title>Bord, beschilderd met een twee onbekende monogrammen onder een kroon</title>
+          <creator>anoniem</creator>
+          <date>1731</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-221</identifier>
+        <datestamp>2019-12-11T09:58:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16836</identifier>
+          <identifier>RP-T-1963-221</identifier>
+          <title>Gezicht op een heuvel, waarop twee molens</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-KOG-1221</identifier>
+        <datestamp>2021-10-02T00:20:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17093</identifier>
+          <identifier>NG-KOG-1221</identifier>
+          <title>Foedraal met reisbestek met het Sweers-familiewapen</title>
+          <creator>Hartenbuyk, Marten</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sweers, Isaac</subject>
+          <date>1673</date>
+          <type>bestek</type>
+          <type>foedraal</type>
+          <type>lepel</type>
+          <type>vork</type>
+          <type>tafelmes</type>
+          <format>zilver</format>
+          <format>leer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13011-A</identifier>
+        <datestamp>2021-11-02T08:23:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17099</identifier>
+          <identifier>BK-NM-13011-A</identifier>
+          <title>Lepel met ovale bak en gebogen steel met afgerond uiteinde</title>
+          <creator>Precht, Fredrik Rudolf</creator>
+          <date>1766</date>
+          <type>lepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-17525</identifier>
+        <datestamp>2021-10-02T00:24:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17373</identifier>
+          <identifier>AK-RBK-17525</identifier>
+          <title>Gouden hert</title>
+          <creator>anoniem</creator>
+          <description>Het Chinese karakter voor ‘hert’, lu, wordt op dezelfde manier uitgesproken als het karakter voor ‘goed inkomen’. Het dier symboliseert dan ook het welvarende leven dat het gevolg is van een voorspoedige carrière. In zijn bek houdt hij een lingzhi, een ‘zwam van onsterfelijkheid’. Daarmee wordt de wens uitgebreid: dat het geldelijk geluk tot op hoge leeftijd genoten mag worden.</description>
+          <date>ca. 1700 - ca. 1799</date>
+          <type>decoratief object</type>
+          <type>dierfiguur</type>
+          <format>goud</format>
+          <format>lapis lazuli</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1962-43</identifier>
+        <datestamp>2021-10-02T00:17:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16684</identifier>
+          <identifier>BK-1962-43</identifier>
+          <title>Oesterschotel met zes schelpvormige verdiepingen</title>
+          <creator>Rensing, Jacobus</creator>
+          <date>1770</date>
+          <type>oesterschotel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-127</identifier>
+        <datestamp>2021-10-02T00:22:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17219</identifier>
+          <identifier>BK-1978-127</identifier>
+          <title>Bouiloire, ovaal, met filetranden</title>
+          <creator>Diemont, Fa.</creator>
+          <contributor>Carrenhoff, Jacobus</contributor>
+          <date>1817</date>
+          <type>vaatwerk</type>
+          <type>bouilloire</type>
+          <type>waterketel</type>
+          <format>zilver</format>
+          <format>ebbenhout</format>
+          <format>ebbenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjY2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

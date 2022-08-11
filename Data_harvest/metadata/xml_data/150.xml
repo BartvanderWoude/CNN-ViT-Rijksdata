@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyOTgw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-96</identifier>
+        <datestamp>2021-10-02T12:11:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37654</identifier>
+          <identifier>RP-P-BI-96</identifier>
+          <title>Kind liggend bij doodshoofd</title>
+          <creator>anoniem</creator>
+          <date>1540 - 1560</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-518</identifier>
+        <datestamp>2021-10-02T12:11:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37666</identifier>
+          <identifier>RP-P-1911-518</identifier>
+          <title>Johannes op het eiland Patmos</title>
+          <creator>Cock, Jan Wellens de</creator>
+          <date>1490 - 1528</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-897</identifier>
+        <datestamp>2021-07-12T16:35:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37995</identifier>
+          <identifier>RP-P-BI-897</identifier>
+          <title>Landschap met twee rustende koeien</title>
+          <title>De drie rustende koeien</title>
+          <creator>anoniem</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>1632 - 1733</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4866</identifier>
+        <datestamp>2021-07-12T16:43:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38244</identifier>
+          <identifier>RP-P-BI-4866</identifier>
+          <title>Landschap met grote boom in octagonaal kader</title>
+          <title>Octagonale Landschappen</title>
+          <creator>anoniem</creator>
+          <contributor>Bril, Paul</contributor>
+          <date>1582 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.455</identifier>
+        <datestamp>2021-10-02T12:11:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37603</identifier>
+          <identifier>RP-P-OB-12.455</identifier>
+          <title>Twee vorsten in een triomfwagen</title>
+          <creator>anoniem</creator>
+          <date>1520 - 1570</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-908</identifier>
+        <datestamp>2019-05-29T14:48:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38009</identifier>
+          <identifier>RP-P-BI-908</identifier>
+          <title>Herder met rustende kudde</title>
+          <creator>Berchem, Nicolaes Pietersz.</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>1652 - 1655</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-956</identifier>
+        <datestamp>2019-05-29T14:48:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38058</identifier>
+          <identifier>RP-P-BI-956</identifier>
+          <title>Twee geiten</title>
+          <title>Geiten</title>
+          <title>Animalia ad vivum delineata et aqua forti aeri impressa Studio et Arte Nicolai Berchemi</title>
+          <creator>Berchem, Nicolaes Pietersz.</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>1648 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1955-473</identifier>
+        <datestamp>2021-01-28T13:09:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37459</identifier>
+          <identifier>RP-P-1955-473</identifier>
+          <title>Geseling van Christus</title>
+          <title>De Kleine Passie</title>
+          <creator>Cornelisz. van Oostsanen, Jacob</creator>
+          <date>1520 - 1521</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1927-426-15</identifier>
+        <datestamp>2020-11-20T13:40:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37703</identifier>
+          <identifier>RP-P-1927-426-15</identifier>
+          <title>Stamboom van het Habsburgse huis, blad vijftien</title>
+          <title>Stamboom van het Habsburgse Huis</title>
+          <creator>Péril, Robert</creator>
+          <contributor>Péril, Robert</contributor>
+          <subject>Maximiliaan I van Habsburg (keizer van het Heilige Roomse Rijk)</subject>
+          <subject>Habsburgse huis</subject>
+          <date>1533 - 1535</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1093</identifier>
+        <datestamp>2021-10-02T12:11:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37709</identifier>
+          <identifier>RP-P-OB-1093</identifier>
+          <title>De heilige Bernardus knielend voor Maria met kind</title>
+          <creator>Meester IAM van Zwoll</creator>
+          <date>1470 - 1485</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1986-320</identifier>
+        <datestamp>2021-01-28T13:10:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37958</identifier>
+          <identifier>RP-P-1986-320</identifier>
+          <title>Twee weeskinderen met stuk brood</title>
+          <title>Parish Orphans</title>
+          <creator>Baillie, William</creator>
+          <contributor>Lenain, Antoine (l'aîne)</contributor>
+          <contributor>anoniem</contributor>
+          <date>1770</date>
+          <date>1771-05-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4827</identifier>
+        <datestamp>2019-05-29T14:49:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38195</identifier>
+          <identifier>RP-P-BI-4827</identifier>
+          <title>Ruïne van het Colosseum</title>
+          <title>Romeinse ruïnes</title>
+          <title>Verscheijden Vervallen gebouwe Soo binnen als buyten Romen</title>
+          <creator>Breenbergh, Bartholomeus</creator>
+          <contributor>Breenbergh, Bartholomeus</contributor>
+          <subject>Colosseum</subject>
+          <date>1639 - 1640</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4831</identifier>
+        <datestamp>2019-05-29T14:49:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38201</identifier>
+          <identifier>RP-P-BI-4831</identifier>
+          <title>Herberg nabij de Prima Porta</title>
+          <title>Romeinse ruïnes</title>
+          <title>Verscheyden Vervallen gebouwen Soo binnen als buyten Romen</title>
+          <creator>Breenbergh, Bartholomeus</creator>
+          <contributor>Breenbergh, Bartholomeus</contributor>
+          <subject>Prima Porta</subject>
+          <date>1639 - 1640</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-102</identifier>
+        <datestamp>2021-10-02T12:10:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37309</identifier>
+          <identifier>RP-P-BI-102</identifier>
+          <title>De maaltijd</title>
+          <title>Het verhaal van Sorgheloos</title>
+          <creator>Anthonisz., Cornelis</creator>
+          <contributor>Ewoutsz., Jan</contributor>
+          <contributor>Ewoutsz., Jan</contributor>
+          <date>1541</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2146</identifier>
+        <datestamp>2019-05-29T14:48:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37803</identifier>
+          <identifier>RP-P-OB-2146</identifier>
+          <title>Madonna met kind</title>
+          <creator>anoniem</creator>
+          <contributor>Gossart, Jan</contributor>
+          <date>1488 - 1585</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2147</identifier>
+        <datestamp>2019-05-09T15:53:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37809</identifier>
+          <identifier>RP-P-OB-2147</identifier>
+          <title>Portret van een man</title>
+          <creator>Hogenberg, Nicolaas</creator>
+          <date>1500 - 1539</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1884-A-7841</identifier>
+        <datestamp>2020-05-06T11:49:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37852</identifier>
+          <identifier>RP-P-1884-A-7841</identifier>
+          <title>Victoria omringd door gevangenen en trofeeën</title>
+          <title>De overwinning, allegorie</title>
+          <creator>Floris, Frans (I)</creator>
+          <contributor>Floris, Frans (I)</contributor>
+          <contributor>Cock, Hieronymus</contributor>
+          <subject>Turken</subject>
+          <subject>Nederland onder de Habsburgers</subject>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <subject>Filips II (koning van Spanje)</subject>
+          <date>1552</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-790-A</identifier>
+        <datestamp>2021-11-03T19:26:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37410</identifier>
+          <identifier>BK-1978-790-A</identifier>
+          <title>Lijfje met aangeknipte schoot en losse mouwen van doorgestikt satijn</title>
+          <creator>anoniem</creator>
+          <date>ca. 1690 - ca. 1750</date>
+          <type>kinderkleding</type>
+          <type>lijfje</type>
+          <type>hongerlijn</type>
+          <format>satijn</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2313</identifier>
+        <datestamp>2021-10-02T12:11:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37660</identifier>
+          <identifier>RP-P-OB-2313</identifier>
+          <title>Kinderkruistocht</title>
+          <creator>Monogrammist LIW</creator>
+          <date>1522 - 1532</date>
+          <date>1700 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-772</identifier>
+        <datestamp>2019-05-09T15:54:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37903</identifier>
+          <identifier>RP-P-BI-772</identifier>
+          <title>Zingende man en luisterend publiek onder wie kind en man</title>
+          <title>De zanger</title>
+          <creator>Bega, Cornelis Pietersz.</creator>
+          <contributor>Bega, Cornelis Pietersz.</contributor>
+          <date>1642 - 1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMDAw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

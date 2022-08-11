@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0OTU2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-48.725</identifier>
+        <datestamp>2017-10-31T09:22:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125929</identifier>
+          <identifier>RP-P-OB-48.725</identifier>
+          <title>Portret van Johan Evertsen</title>
+          <title>Jan Evertsen</title>
+          <creator>Houbraken, Jacob</creator>
+          <contributor>Schouman, Aert</contributor>
+          <contributor>Tirion, Isaak</contributor>
+          <subject>Evertsen, Johan</subject>
+          <date>1749 - 1759</date>
+          <date>1760</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-48.622</identifier>
+        <datestamp>2019-05-29T15:48:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.126093</identifier>
+          <identifier>RP-P-OB-48.622</identifier>
+          <title>Portret van Joan van den Honert</title>
+          <title>Johan van den Honert, T.H. Zoon</title>
+          <creator>Houbraken, Jacob</creator>
+          <contributor>Mij, Hieronymus van der</contributor>
+          <contributor>Snakenburg, Hendrik</contributor>
+          <contributor>Luchtmans, Samuel (I)</contributor>
+          <subject>Honert, Joan van den</subject>
+          <date>1738 - 1780</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-13580</identifier>
+        <datestamp>2021-01-28T20:22:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.99767</identifier>
+          <identifier>RP-P-1888-A-13580</identifier>
+          <title>Wapensmid aan het werk</title>
+          <creator>Craeyvanger, Reinier</creator>
+          <contributor>Craeyvanger, Reinier</contributor>
+          <date>1822 - 1880</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6675</identifier>
+        <datestamp>2020-03-24T16:14:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.100236</identifier>
+          <identifier>RP-P-BI-6675</identifier>
+          <title>Portret van Philippe-Emmanuel de Lorraine hertog van Mercœur</title>
+          <title>Portretten van bekende personen uit de zestiende eeuw</title>
+          <title>Atrium Heroicum</title>
+          <creator>Custos, Dominicus</creator>
+          <subject>Mercoeur, Philippe-Emmanuel de Lorraine hertog van</subject>
+          <date>1600 - 1604</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Augsburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1912-567</identifier>
+        <datestamp>2021-01-28T20:20:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.99542</identifier>
+          <identifier>RP-P-1912-567</identifier>
+          <title>Twee waterdraagsters rusten uit</title>
+          <creator>Couwenberg, Henricus Wilhelmus</creator>
+          <contributor>Nuijen, Wijnand</contributor>
+          <date>1830 - 1845</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-28.593</identifier>
+        <datestamp>2020-08-01T03:47:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125241</identifier>
+          <identifier>RP-P-OB-28.593</identifier>
+          <title>Nehalennia-altaar en fragment met tekst, pl. XI</title>
+          <title>Romeinse beelden en bouwfragmenten uit Zeeland</title>
+          <creator>Hooiberg, Tiemen</creator>
+          <subject>Romeinse periode in Nederland</subject>
+          <subject>Zeeland</subject>
+          <date>1843 - 1845</date>
+          <type>prent</type>
+          <type>historisch objectvoorstelling</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-48.969</identifier>
+        <datestamp>2019-05-29T15:46:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125275</identifier>
+          <identifier>RP-P-OB-48.969</identifier>
+          <title>Portret van Jacob Cornelisz.</title>
+          <creator>Hove, Frederick Hendrick van den</creator>
+          <contributor>Visscher, Cornelis (II)</contributor>
+          <subject>Cornelisz., Jacob (1608-1663)</subject>
+          <date>ca. 1660 - 1663</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-3136</identifier>
+        <datestamp>2016-10-20T21:11:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125532</identifier>
+          <identifier>RP-P-1907-3136</identifier>
+          <title>Portret van Pieter de Witte</title>
+          <creator>Hosspanion, Johannes</creator>
+          <contributor>Tangena, Johannes (17e eeuw)</contributor>
+          <subject>Witte, Pieter de</subject>
+          <date>1687 - 1691</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-48.528</identifier>
+        <datestamp>2019-05-29T15:49:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.126230</identifier>
+          <identifier>RP-P-OB-48.528</identifier>
+          <title>Portret van Petrus Lotichius Secundus</title>
+          <title>Petrvs Lotichivs Secvndvs</title>
+          <creator>Houbraken, Jacob</creator>
+          <contributor>Lotichius, Petrus (Secundus)</contributor>
+          <contributor>Lotichius, Johannes Petrus</contributor>
+          <subject>Lotichius, Petrus (Secundus)</subject>
+          <date>1708 - 1780</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-48.795</identifier>
+        <datestamp>2019-05-29T15:46:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125693</identifier>
+          <identifier>RP-P-OB-48.795</identifier>
+          <title>Portret van Christianus Carolus Henricus van der Aa</title>
+          <creator>Houbraken, Jacob</creator>
+          <contributor>Marinkel, Joseph</contributor>
+          <subject>Aa, Christianus Carolus Hendricus van der</subject>
+          <date>1770 - 1772</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7227</identifier>
+        <datestamp>2019-05-29T15:31:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106601</identifier>
+          <identifier>RP-P-BI-7227</identifier>
+          <title>Allegorie op de gerechtigheid</title>
+          <creator>Dubourg, Louis Fabritius</creator>
+          <contributor>onbekend</contributor>
+          <date>1723</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1952-405</identifier>
+        <datestamp>2016-10-20T20:55:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106885</identifier>
+          <identifier>RP-P-1952-405</identifier>
+          <title>Zachtmoedigheid overwint Razernij</title>
+          <title>Zeven deugden en zeven ondeugden</title>
+          <creator>Furnius, Pieter Jalhea</creator>
+          <contributor>Furnius, Pieter Jalhea</contributor>
+          <date>1550 - 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7451X</identifier>
+        <datestamp>2019-05-29T15:34:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107572</identifier>
+          <identifier>RP-P-BI-7451X</identifier>
+          <title>Penning met buste van Lodewijk XIV</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Coypel, Antoine</contributor>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1702</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1753</identifier>
+        <datestamp>2016-10-20T20:57:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108532</identifier>
+          <identifier>RP-P-1910-1753</identifier>
+          <title>Titelpagina voor Ulisse et Circé, in Le Théâtre Italien de Gherardi, Parijs 1700.</title>
+          <title>Ulisse et Circé</title>
+          <creator>Ertinger, Franz</creator>
+          <contributor>Ertinger, Franz</contributor>
+          <date>1694 - 1700</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-878</identifier>
+        <datestamp>2016-10-20T20:54:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106041</identifier>
+          <identifier>RP-P-1904-878</identifier>
+          <title>H. Hieronymus schrijvend in zijn grot</title>
+          <creator>Dolendo, Bartholomeus Willemsz.</creator>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <date>1589 - 1626</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15351</identifier>
+        <datestamp>2018-05-09T00:46:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106574</identifier>
+          <identifier>RP-P-1890-A-15351</identifier>
+          <title>Vrijstaande loofboom in landschap</title>
+          <title>Vijf etsproeven</title>
+          <creator>Dubourcq, Pierre Louis</creator>
+          <date>1840</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7254</identifier>
+        <datestamp>2019-05-29T15:31:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107061</identifier>
+          <identifier>RP-P-BI-7254</identifier>
+          <title>Gezicht op een brug over een rivier met een waterval</title>
+          <creator>Dupré, Daniël</creator>
+          <date>1777</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7408X</identifier>
+        <datestamp>2019-05-29T15:33:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107549</identifier>
+          <identifier>RP-P-BI-7408X</identifier>
+          <title>Portret van Titiaan</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Drevet, Pierre</contributor>
+          <subject>Titiaan</subject>
+          <date>1673 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1883-A-7580</identifier>
+        <datestamp>2016-10-20T20:56:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107927</identifier>
+          <identifier>RP-P-1883-A-7580</identifier>
+          <title>Ruiterportret van keizer Julius Caesar</title>
+          <title>Portretten van Romeinse keizers</title>
+          <creator>Eillarts, Laurens</creator>
+          <contributor>Tempesta, Antonio</contributor>
+          <subject>Julius Caesar</subject>
+          <date>1616 - 1620</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1960-181</identifier>
+        <datestamp>2021-10-02T13:13:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108509</identifier>
+          <identifier>RP-P-1960-181</identifier>
+          <title>Triomftocht van Bacchus en Ariadne</title>
+          <creator>Ertinger, Franz</creator>
+          <contributor>Lafage, Raymond de</contributor>
+          <contributor>Winter, Anthonie de</contributor>
+          <date>1652 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0OTU4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,463 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDI4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-323</identifier>
+        <datestamp>2022-03-02T15:11:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20336</identifier>
+          <identifier>BK-1975-323</identifier>
+          <title>Servet van wit linnendamast</title>
+          <creator>anoniem</creator>
+          <date>1663</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Holland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-691</identifier>
+        <datestamp>2021-10-02T01:09:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20585</identifier>
+          <identifier>RP-T-00-691</identifier>
+          <title>Oude zwerver met jongeman met zwaard</title>
+          <creator>Möller, Anton (der Ältere)</creator>
+          <date>1588-02-14</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-373</identifier>
+        <datestamp>2019-08-01T09:25:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20849</identifier>
+          <identifier>BK-BR-J-373</identifier>
+          <title>Zakdoek van borduurwerk met acht waaiers</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850</date>
+          <type>zakdoek</type>
+          <format>linnen</format>
+          <format>batist</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-538-B</identifier>
+        <datestamp>2021-08-19T16:59:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20136</identifier>
+          <identifier>BK-1980-538-B</identifier>
+          <title>Servet van wit linnendamast</title>
+          <creator>Spanjaard, S.J.</creator>
+          <date>1859</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Borne</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1983-93-A</identifier>
+        <datestamp>2021-12-09T14:55:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20185</identifier>
+          <identifier>BK-1983-93-A</identifier>
+          <title>Coupon zwart bedrukte zijde met silhouetten van mensen en planten</title>
+          <creator>Peche, Dagobert</creator>
+          <creator>Wiener Werkstätte</creator>
+          <date>1916</date>
+          <type>coupon</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Wenen</coverage>
+          <coverage>Wenen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1961-52</identifier>
+        <datestamp>2021-11-11T09:35:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20691</identifier>
+          <identifier>BK-1961-52</identifier>
+          <title>Alexander en Jaddua</title>
+          <title>De geschiedenis van Alexander de Grote</title>
+          <creator>Mander, Karel van (II)</creator>
+          <contributor>Mander, Karel van (II)</contributor>
+          <date>1617</date>
+          <date>1619</date>
+          <type>wandtapijt</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-6833-B</identifier>
+        <datestamp>2022-03-28T15:52:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20013</identifier>
+          <identifier>AK-NM-6833-B</identifier>
+          <title>Theepot met gestileerde lotusranken, ruyi-motief en decoratieve banden</title>
+          <creator>anoniem</creator>
+          <subject>Royer, Jean Theodore</subject>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>theepot</type>
+          <format>porselein</format>
+          <format>soft-paste porcelain</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-180</identifier>
+        <datestamp>2021-11-11T09:35:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20376</identifier>
+          <identifier>BK-NM-180</identifier>
+          <title>Eendenjagers vangen en boeien een stroper</title>
+          <title>Het volksleven naar Teniers</title>
+          <creator>anoniem</creator>
+          <contributor>Teniers, David (II)</contributor>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>wandtapijt</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-164</identifier>
+        <datestamp>2019-08-01T09:23:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20722</identifier>
+          <identifier>BK-BR-J-164</identifier>
+          <title>Strook naaldkant met kruisende ranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-197-B-1</identifier>
+        <datestamp>2019-08-01T09:23:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20399</identifier>
+          <identifier>BK-BR-J-197-B-1</identifier>
+          <title>Strook naaldkant met gestrekte S-rank</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1699</date>
+          <date>ca. 1875 - ca. 1909</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Burano</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-76-B</identifier>
+        <datestamp>2019-08-01T09:24:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20745</identifier>
+          <identifier>BK-BR-J-76-B</identifier>
+          <title>Strook gemengde kant met hartvormige blaadjes</title>
+          <creator>anoniem</creator>
+          <date>ca. 1790 - ca. 1799</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-676</identifier>
+        <datestamp>2021-10-02T01:06:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19946</identifier>
+          <identifier>RP-T-00-676</identifier>
+          <title>Pax</title>
+          <title>Ontwerptekeningen voor de prentenserie Diverse Allegorische Figuren</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <date>1548 - 1549</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-325</identifier>
+        <datestamp>2021-08-19T17:00:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20330</identifier>
+          <identifier>BK-1975-325</identifier>
+          <title>Tafellaken</title>
+          <date>1700 - 1800</date>
+          <type>tafellaken</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-210</identifier>
+        <datestamp>2019-08-01T09:23:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20672</identifier>
+          <identifier>BK-BR-J-210</identifier>
+          <title>Strook naaldkant met stengels en palmetbloemen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-332-A</identifier>
+        <datestamp>2021-11-03T19:21:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19978</identifier>
+          <identifier>BK-1978-332-A</identifier>
+          <title>Hoed met rozen</title>
+          <creator>Jacot, A.</creator>
+          <description>Deze hoed is gedragen door Mw. H.M.A.F. Six van Hillegom-Bosch Reitz, die hem omstreeks 1902 bij A. Jacot kocht. De hoed werd in de familie de ‘rozenhoed’ genoemd. Jacot was omstreeks 1900 één van de bekendste hoedenmaaksters (modistes) van Amsterdam.</description>
+          <date>ca. 1902</date>
+          <type>dameskleding</type>
+          <type>hoed</type>
+          <format>raffia</format>
+          <format>fluweel</format>
+          <format>tule</format>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-330-A</identifier>
+        <datestamp>2021-08-19T17:01:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20353</identifier>
+          <identifier>BK-1975-330-A</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1800 - 1900</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-40</identifier>
+        <datestamp>2021-10-02T01:11:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20699</identifier>
+          <identifier>BK-KOG-40</identifier>
+          <title>Tafelkleed</title>
+          <creator>Gucht, Maximiliaan van der</creator>
+          <contributor>Gucht, Maximiliaan van der</contributor>
+          <contributor>Couwenberg, Christiaen Gillisz. van</contributor>
+          <description>Tafelkleden met geborduurde bloempatronen waren een specialiteit van enkele Nederlandse weverijen. De Delftse weverij van Maximiliaan van der Gucht was na 1650 de belangrijkste in Noord-Nederland. In het medaillon in het midden is Flora voorgesteld, de Romeinse godin van de lente en de bloemen.</description>
+          <date>ca. 1650 - ca. 1675</date>
+          <type>tafelkleed</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Delft</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-157-E</identifier>
+        <datestamp>2021-08-19T16:58:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19802</identifier>
+          <identifier>BK-1967-157-E</identifier>
+          <title>Servet van linnendamast met de verheerlijking van Karel VI van Habsburg</title>
+          <creator>anoniem</creator>
+          <date>ca. 1711</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-6407-C</identifier>
+        <datestamp>2022-03-28T09:50:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19884</identifier>
+          <identifier>AK-NM-6407-C</identifier>
+          <title>Schotel in de vorm van een bloem</title>
+          <creator>anoniem</creator>
+          <subject>Royer, Jean Theodore</subject>
+          <date>ca. 1740 - ca. 1760</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-282</identifier>
+        <datestamp>2021-10-02T01:09:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20542</identifier>
+          <identifier>RP-T-1963-282</identifier>
+          <title>Johannes de Evangelist</title>
+          <creator>Baldung Grien, Hans</creator>
+          <date>1500 - 1599</date>
+          <type>tekening</type>
+          <format>geprepareerd papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDMwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

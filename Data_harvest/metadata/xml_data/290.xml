@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1Nzgw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.121</identifier>
+        <datestamp>2021-07-13T13:23:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34902</identifier>
+          <identifier>RP-P-OB-12.121</identifier>
+          <title>Christus en Maria en Johannes de Doper met heiligen Paulus en Catharina van Alexandrië</title>
+          <creator>anoniem</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <contributor>Romano, Giulio</contributor>
+          <contributor>Rossi, Giovanni Giacomo de'</contributor>
+          <contributor>Senaat van Rome</contributor>
+          <date>1518 - 1610</date>
+          <date>1665 - 1684</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.127</identifier>
+        <datestamp>2021-07-13T13:22:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34908</identifier>
+          <identifier>RP-P-OB-12.127</identifier>
+          <title>Alexander de Grote laat de werken van Homerus veilig opbergen</title>
+          <creator>anoniem</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <contributor>Rafaël</contributor>
+          <subject>Alexander de Grote</subject>
+          <date>1515 - 1575</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1950-511</identifier>
+        <datestamp>2021-01-28T13:07:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.35160</identifier>
+          <identifier>RP-P-1950-511</identifier>
+          <title>Christus aan het kruis en Maria ondersteund door Johannes tussen omstanders op Calvarieberg</title>
+          <title>Stazione XII</title>
+          <title>Kruiswegstaties</title>
+          <title>Via Crucis</title>
+          <creator>Tiepolo, Giovanni Domenico</creator>
+          <contributor>Tiepolo, Giovanni Domenico</contributor>
+          <date>1747 - 1749</date>
+          <date>1749</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12740</identifier>
+        <datestamp>2021-11-03T23:08:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34244</identifier>
+          <identifier>BK-NM-12740</identifier>
+          <title>Lijf van een witte katoenen kinderjurk, met trapeziumvormig voorstuk met bloem- en bladranken van Engels borduurwerk; afwerking met geschulpte gefestonneerde randen en ruches</title>
+          <creator>anoniem</creator>
+          <date>1800 - 1915</date>
+          <type>kleding</type>
+          <type>kinderkleding</type>
+          <type>bovenkleding</type>
+          <type>lijfje</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12940-B</identifier>
+        <datestamp>2021-11-03T19:26:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34251</identifier>
+          <identifier>BK-NM-12940-B</identifier>
+          <title>Kinderhemd van linnen, langs de lange mouw en hals afgezet met kant en strikveter.</title>
+          <creator>anoniem</creator>
+          <type>kinderkleding</type>
+          <type>ondergoed</type>
+          <type>hemd</type>
+          <format>linnen</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.987</identifier>
+        <datestamp>2019-05-29T14:39:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34753</identifier>
+          <identifier>RP-P-OB-11.987</identifier>
+          <title>Naakte man leunend tegen boom en naakte man met spiegel en twee slangen</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <date>1510 - 1527</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.993</identifier>
+        <datestamp>2021-07-13T13:33:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34759</identifier>
+          <identifier>RP-P-OB-11.993</identifier>
+          <title>Vrouw als personificatie van Rechtvaardigheid (Justitia) met weegschaal en zwaard staand in nis</title>
+          <title>Zeven Deugden</title>
+          <creator>anoniem</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <contributor>Rafaël</contributor>
+          <date>1510 - 1575</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.032</identifier>
+        <datestamp>2019-05-29T14:39:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34802</identifier>
+          <identifier>RP-P-OB-12.032</identifier>
+          <title>Naakte man met helm draagt een vlag staand bij een leeuw</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Rafaël</contributor>
+          <date>1510 - 1527</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-1961-168-47</identifier>
+        <datestamp>2022-03-02T15:16:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37162</identifier>
+          <identifier>BI-1961-168-47</identifier>
+          <title>Bedelaar en bedelares in gesprek</title>
+          <title>Recueil de quatre-vingt-cinq estampes originales</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Basan, Henry Louis</contributor>
+          <date>1630</date>
+          <date>1807 - 1808</date>
+          <type>prent</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-580</identifier>
+        <datestamp>2021-10-02T12:08:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36714</identifier>
+          <identifier>RP-P-OB-580</identifier>
+          <title>De eerste oosterse kop</title>
+          <title>Hoofden van Oosterlingen, 1 (4)</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Lievens, Jan</contributor>
+          <date>1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1884-A-374</identifier>
+        <datestamp>2021-01-28T13:08:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36763</identifier>
+          <identifier>RP-T-1884-A-374</identifier>
+          <title>Varken</title>
+          <creator>Jardin, Karel du</creator>
+          <date>1632 - 1678</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-OB-829</identifier>
+        <datestamp>2021-10-02T12:10:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37262</identifier>
+          <identifier>RP-P-H-OB-829</identifier>
+          <title>Landschap met een waterval, tweede versie</title>
+          <creator>Segers, Hercules</creator>
+          <contributor>Segers, Hercules</contributor>
+          <date>ca. 1625 - ca. 1627</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-438A</identifier>
+        <datestamp>2021-10-07T11:08:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36444</identifier>
+          <identifier>RP-P-OB-438A</identifier>
+          <title>Liggend vrouwelijk naakt</title>
+          <title>Liggende negerin ('la negresse couché')</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1658</date>
+          <type>prent</type>
+          <format>Japans papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-469</identifier>
+        <datestamp>2021-10-02T12:07:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36519</identifier>
+          <identifier>RP-P-OB-469</identifier>
+          <title>Het botenhuis</title>
+          <title>Het spelonkje</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1645</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1943-101</identifier>
+        <datestamp>2019-09-09T16:21:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36786</identifier>
+          <identifier>RP-T-1943-101</identifier>
+          <title>De bergrede (?)</title>
+          <creator>Coets, Herman</creator>
+          <date>1673 - 1763</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-664</identifier>
+        <datestamp>2021-10-02T12:09:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36860</identifier>
+          <identifier>RP-P-OB-664</identifier>
+          <title>Man met kalotje: buste; de vader van Rembrandt (?)</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Rijn, Harmen Gerritsz. van</subject>
+          <date>1630</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-1961-168-7</identifier>
+        <datestamp>2021-02-04T22:00:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37122</identifier>
+          <identifier>BI-1961-168-7</identifier>
+          <title>Rembrandt's moeder als weduwe met zwarte handschoenen</title>
+          <title>Recueil de quatre-vingt-cinq estampes originales</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Basan, Henry Louis</contributor>
+          <subject>Zuytbrouck, Neeltje Willemsdr.</subject>
+          <date>1631 - 1700</date>
+          <date>1807 - 1808</date>
+          <type>prent</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.233</identifier>
+        <datestamp>2019-05-29T14:40:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.35060</identifier>
+          <identifier>RP-P-OB-12.233</identifier>
+          <title>Liefdespaar</title>
+          <creator>Parmigianino</creator>
+          <contributor>Parmigianino</contributor>
+          <date>1513 - 1540</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-260</identifier>
+        <datestamp>2021-10-02T12:06:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36421</identifier>
+          <identifier>RP-P-OB-260</identifier>
+          <title>Zittende naakte vrouw</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <description>De houding van deze vrouw, zittend op een verhoging met haar kleding naast zich, komt overeen met oudtestamentische en mythologische baadsters, zoals Susanna, Bathseba of Diana. Toch geeft Rembrandt geen enkele aanwijzing om haar te kunnen identificeren. Hij schetst haar direct naar het leven en streeft duidelijk niet naar de weergave van een geïdealiseerd vrouwenlichaam. Heel direct kijkt ze ons aan.</description>
+          <date>ca. 1631</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-488</identifier>
+        <datestamp>2019-05-29T14:44:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36542</identifier>
+          <identifier>RP-P-OB-488</identifier>
+          <title>De houten brug</title>
+          <creator>With, Pieter de</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1650 - 1660</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1ODAw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,492 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMTQw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4864</identifier>
+        <datestamp>2019-05-29T14:57:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39314</identifier>
+          <identifier>RP-P-OB-4864</identifier>
+          <title>De reizigers</title>
+          <creator>Ruisdael, Jacob Isaacksz van</creator>
+          <contributor>Ruisdael, Jacob Isaacksz van</contributor>
+          <contributor>anoniem</contributor>
+          <date>1650 - 1699</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-5637</identifier>
+        <datestamp>2020-05-06T11:49:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39481</identifier>
+          <identifier>RP-P-OB-5637</identifier>
+          <title>Heuvel met bebossing</title>
+          <creator>Vlieger, Simon de</creator>
+          <contributor>Vlieger, Simon de</contributor>
+          <date>1610 - 1653</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11980</identifier>
+        <datestamp>2019-05-09T16:11:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39949</identifier>
+          <identifier>RP-P-1887-A-11980</identifier>
+          <title>Twee schepen liggen klaar voor reparatie</title>
+          <title>Dertien scènes met schepen</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <contributor>Allard, Carel</contributor>
+          <contributor>Tooker, Arthur</contributor>
+          <date>1650 - voor 1705</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.593</identifier>
+        <datestamp>2019-05-09T16:11:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39980</identifier>
+          <identifier>RP-P-OB-20.593</identifier>
+          <title>Baai met een hoeker en een oorlogsschip</title>
+          <title>Divers Embarquements et autre Faicts</title>
+          <title>Diverse inschepingen en dergelijken</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <contributor>Danckerts, Dancker</contributor>
+          <date>1651 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1879-A-3219</identifier>
+        <datestamp>2019-05-09T16:05:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39387</identifier>
+          <identifier>RP-P-1879-A-3219</identifier>
+          <title>Landschap met twee jagers</title>
+          <title>Drie landschappen</title>
+          <creator>Immenraet, Philips Augustijn</creator>
+          <contributor>Uden, Lucas van</contributor>
+          <contributor>Uden, Lucas van</contributor>
+          <date>1637 - 1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1893-A-17998</identifier>
+        <datestamp>2019-05-09T16:05:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39458</identifier>
+          <identifier>RP-P-1893-A-17998</identifier>
+          <title>Herder en herderin met vee</title>
+          <creator>Velde, Adriaen van de</creator>
+          <contributor>Velde, Adriaen van de</contributor>
+          <contributor>Houwens, Isaac</contributor>
+          <date>1653</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14326</identifier>
+        <datestamp>2019-05-13T11:47:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39880</identifier>
+          <identifier>RP-P-1889-A-14326</identifier>
+          <title>Zeeslag</title>
+          <title>Nieuwe Scheeps Batalien</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <contributor>Jonghe, Clement de</contributor>
+          <subject>zeeslag</subject>
+          <subject>Tromp, Maarten Harpertszoon</subject>
+          <date>1652 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4649</identifier>
+        <datestamp>2021-07-12T16:55:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40050</identifier>
+          <identifier>RP-P-OB-4649</identifier>
+          <title>Elias en de weduwe van Sarepta</title>
+          <title>Boerenerf</title>
+          <creator>Collignon, François</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1619 - 1657</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4719</identifier>
+        <datestamp>2019-05-29T14:59:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40124</identifier>
+          <identifier>RP-P-OB-4719</identifier>
+          <title>De Heilige Familie met Elisabet en Johannes</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Sarto, Andrea del</contributor>
+          <contributor>Mariette, Pierre (I)</contributor>
+          <contributor>Burellius, Johannis Maria</contributor>
+          <contributor>Nieuwerven, Bernard van</contributor>
+          <date>1613</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-15.544</identifier>
+        <datestamp>2021-07-13T15:54:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39507</identifier>
+          <identifier>RP-P-OB-15.544</identifier>
+          <title>Vijf personen zittend rond een tafel op een terras</title>
+          <creator>anoniem</creator>
+          <contributor>Velde, Esaias van de</contributor>
+          <date>1613 - 1680</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.877</identifier>
+        <datestamp>2019-05-29T14:57:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39352</identifier>
+          <identifier>RP-P-OB-12.877</identifier>
+          <title>Landschap met een man, vrouw en kind</title>
+          <title>Acht landschappen naar Lucas van Uden</title>
+          <creator>Immenraet, Philips Augustijn</creator>
+          <contributor>Uden, Lucas van</contributor>
+          <contributor>Wijngaerde, Frans van den</contributor>
+          <contributor>Uden, Lucas van</contributor>
+          <date>1637 - 1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.889</identifier>
+        <datestamp>2020-05-06T11:49:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39401</identifier>
+          <identifier>RP-P-OB-12.889</identifier>
+          <title>Landschap met de vlucht naar Egypte</title>
+          <creator>Uden, Lucas van</creator>
+          <contributor>Uden, Lucas van</contributor>
+          <contributor>Wijngaerde, Frans van den</contributor>
+          <date>1605 - 1673</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1881-A-4739</identifier>
+        <datestamp>2019-05-09T16:10:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39900</identifier>
+          <identifier>RP-P-1881-A-4739</identifier>
+          <title>Groot zeilschip en een roeiboot</title>
+          <title>Dertien scènes met schepen</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <date>1650 - 1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1941-20</identifier>
+        <datestamp>2021-01-28T13:12:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40030</identifier>
+          <identifier>RP-P-1941-20</identifier>
+          <title>Aanlegsteiger bij Honfleur</title>
+          <title>Jetée en bois dans le port de Honfleur</title>
+          <creator>Jongkind, Johan Barthold</creator>
+          <contributor>Delâtre, Auguste</contributor>
+          <contributor>Cadart &amp; Luquet</contributor>
+          <subject>Honfleur</subject>
+          <date>1865</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Honfleur</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-1688</identifier>
+        <datestamp>2021-07-13T16:27:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39637</identifier>
+          <identifier>RP-P-1878-A-1688</identifier>
+          <title>Ruïnes en een herder met schapen</title>
+          <title>Landschappen naar Esaias van de Velde</title>
+          <creator>anoniem</creator>
+          <contributor>Velde, Esaias van de</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <date>1610 - 1617</date>
+          <date>1617</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14336</identifier>
+        <datestamp>2019-05-09T16:10:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39886</identifier>
+          <identifier>RP-P-1889-A-14336</identifier>
+          <title>Zeeslag</title>
+          <title>Nieuwe Scheeps Batalien</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <contributor>Valck, Gerard</contributor>
+          <subject>zeeslag</subject>
+          <date>1652 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1944-2762</identifier>
+        <datestamp>2019-05-09T16:12:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40044</identifier>
+          <identifier>RP-P-1944-2762</identifier>
+          <title>Uitgang van ziekenhuis Cochin (Faubourg Saint-Jacques, Parijs)</title>
+          <creator>Jongkind, Johan Barthold</creator>
+          <contributor>Jongkind, Johan Barthold</contributor>
+          <contributor>Delorière, Ch.</contributor>
+          <subject>Faubourg Saint-Jacques</subject>
+          <subject>Cochin, maison</subject>
+          <date>1878-11-03</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4938</identifier>
+        <datestamp>2019-05-29T15:00:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40293</identifier>
+          <identifier>RP-P-OB-4938</identifier>
+          <title>Een hert likt de wond van een ander hert</title>
+          <title>Amor mensura doloris</title>
+          <title>Leven van Maria in emblemen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Charlot, Anthoine</contributor>
+          <date>1625 - 1629</date>
+          <type>prent</type>
+          <type>embleem</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-15.574</identifier>
+        <datestamp>2021-07-13T16:18:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39602</identifier>
+          <identifier>RP-P-OB-15.574</identifier>
+          <title>Schaatsers en kolfspelers bij boerderijen</title>
+          <title>Landschappen</title>
+          <creator>anoniem</creator>
+          <contributor>Velde, Esaias van de</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <date>1614</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15799</identifier>
+        <datestamp>2021-07-13T16:44:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39651</identifier>
+          <identifier>RP-P-1890-A-15799</identifier>
+          <title>Herder met geiten en schapen bij een rivier</title>
+          <title>Landschappen naar Esaias van de Velde</title>
+          <creator>anoniem</creator>
+          <contributor>Velde, Esaias van de</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <date>1610 - 1650</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMTYw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

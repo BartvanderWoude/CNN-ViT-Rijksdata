@@ -1,0 +1,494 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MDI2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-27.007</identifier>
+        <datestamp>2021-01-28T17:39:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89245</identifier>
+          <identifier>RP-P-OB-27.007</identifier>
+          <title>Diana en Actaeon</title>
+          <creator>Bry, Johann Theodor de</creator>
+          <contributor>Sadeler, Aegidius (II)</contributor>
+          <contributor>Heintz, Joseph (il Giovane)</contributor>
+          <date>1597 - 1623</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-13463</identifier>
+        <datestamp>2021-01-28T17:45:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89801</identifier>
+          <identifier>RP-P-1888-A-13463</identifier>
+          <title>Staande koe, naar rechts</title>
+          <title>Koeien en schapen</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Potter, Paulus</contributor>
+          <date>1657 - ca. 1677</date>
+          <date>1728 - ca. 1761</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.491</identifier>
+        <datestamp>2021-01-28T17:42:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89506</identifier>
+          <identifier>RP-P-OB-22.491</identifier>
+          <title>Cupido ontwapend door Euphrosyne</title>
+          <title>Cupid Disarm'd by Euphrosine</title>
+          <creator>Burke, Thomas</creator>
+          <contributor>Kauffmann, Angelica</contributor>
+          <contributor>Burke, Thomas</contributor>
+          <date>1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5357</identifier>
+        <datestamp>2021-01-28T17:45:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89778</identifier>
+          <identifier>RP-P-BI-5357</identifier>
+          <title>Liggende geit met lam</title>
+          <title>Geiten en bokken</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Potter, Paulus</contributor>
+          <date>1657 - ca. 1677</date>
+          <date>1728 - ca. 1761</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1898-A-19998</identifier>
+        <datestamp>2021-10-02T13:11:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89106</identifier>
+          <identifier>RP-P-1898-A-19998</identifier>
+          <title>Konijnen, eekhoorn, cavia en muis</title>
+          <title>Animalivm qvadrvpedvm</title>
+          <title>Dieren in landschappen</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Londerseel, Assuerus van</contributor>
+          <date>1594</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-13518</identifier>
+        <datestamp>2021-01-28T18:35:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89925</identifier>
+          <identifier>RP-P-1888-A-13518</identifier>
+          <title>Liggende beer bij deel van sierlijst</title>
+          <title>Beren</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Gheeraerts, Marcus (I)</contributor>
+          <subject>beer</subject>
+          <date>1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1902-A-22377</identifier>
+        <datestamp>2021-01-28T17:34:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88877</identifier>
+          <identifier>RP-P-1902-A-22377</identifier>
+          <title>Zesde dag van schepping: God schept de dieren en Adam en Eva</title>
+          <title>Van schepping tot verdrijving uit paradijs</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Londerseel, Assuerus van</contributor>
+          <date>1581 - 1656</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-12835</identifier>
+        <datestamp>2021-01-28T17:39:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89212</identifier>
+          <identifier>RP-P-1888-A-12835</identifier>
+          <title>Eerste levensfase van tien jaar met spelende kinderen</title>
+          <title>X</title>
+          <title>Tien levensfasen</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Goos, Pieter</contributor>
+          <date>1598 - 1602</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5370</identifier>
+        <datestamp>2021-01-28T17:45:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89818</identifier>
+          <identifier>RP-P-BI-5370</identifier>
+          <title>Stier, naar rechts, met kerktoren op achtergrond</title>
+          <title>Runderen</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Potter, Paulus</contributor>
+          <date>1649 - ca. 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-56.867</identifier>
+        <datestamp>2019-11-28T11:39:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90312</identifier>
+          <identifier>RP-P-OB-56.867</identifier>
+          <title>Beleg van Saint Martin op het Île de Ré, juli-november 1627 (randwerk, deel rechtsonder)</title>
+          <title>deffaicte des Anglois</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Bosse, Abraham</contributor>
+          <contributor>Delorme, Charles</contributor>
+          <subject>Ile de Ré</subject>
+          <date>1629 - 1631</date>
+          <type>prent</type>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-15011</identifier>
+        <datestamp>2021-01-28T17:36:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88971</identifier>
+          <identifier>RP-P-1889-A-15011</identifier>
+          <title>De verloren zoon ontvangt zijn erfdeel en gaat op reis</title>
+          <title>Filius acceptis opibus minor extera quaerit</title>
+          <title>Verhaal van de verloren zoon</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Londerseel, Assuerus van</contributor>
+          <date>1581 - 1656</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5099</identifier>
+        <datestamp>2021-01-28T17:37:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89057</identifier>
+          <identifier>RP-P-BI-5099</identifier>
+          <title>Zintuig gezicht</title>
+          <title>Vijf zintuigen</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Londerseel, Assuerus van</contributor>
+          <date>1581 - 1656</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5244</identifier>
+        <datestamp>2021-01-28T17:39:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89239</identifier>
+          <identifier>RP-P-BI-5244</identifier>
+          <title>Dansende boeren</title>
+          <creator>Bry, Johann Theodor de</creator>
+          <contributor>Stimmer, Tobias</contributor>
+          <contributor>Beham, Hans Sebald</contributor>
+          <contributor>Murer, Christoph</contributor>
+          <date>1588 - 1623</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5333</identifier>
+        <datestamp>2021-01-28T17:44:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89708</identifier>
+          <identifier>RP-P-BI-5333</identifier>
+          <title>Gezicht op de Noorderkerk te Amsterdam</title>
+          <title>De Noorder kerk</title>
+          <creator>Buysen jr., Pieter van</creator>
+          <contributor>anoniem</contributor>
+          <subject>Noorderkerk</subject>
+          <date>ca. 1700 - ca. 1750</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1934-125</identifier>
+        <datestamp>2021-01-28T17:44:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89723</identifier>
+          <identifier>RP-P-1934-125</identifier>
+          <title>Jozefs beker wordt gevonden in Benjamins zak</title>
+          <creator>Buysen, Andries van (Sr.)</creator>
+          <contributor>Hoet, Gerard (I)</contributor>
+          <date>ca. 1711 - ca. 1720</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-13465</identifier>
+        <datestamp>2021-01-28T17:45:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89807</identifier>
+          <identifier>RP-P-1888-A-13465</identifier>
+          <title>Twee staande koeien</title>
+          <title>Koeien en schapen</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Potter, Paulus</contributor>
+          <date>1657 - ca. 1677</date>
+          <date>1728 - ca. 1761</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5459</identifier>
+        <datestamp>2021-01-28T18:35:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89971</identifier>
+          <identifier>RP-P-BI-5459</identifier>
+          <title>Twee slapende honden</title>
+          <creator>Bye, Marcus de</creator>
+          <subject>hond</subject>
+          <date>1657</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5531</identifier>
+        <datestamp>2021-01-28T18:38:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90070</identifier>
+          <identifier>RP-P-BI-5531</identifier>
+          <title>Landschap met man zittend onder boom</title>
+          <title>Weids landschap met rivier, bergen en dorp</title>
+          <title>Landschappen, serie zes</title>
+          <creator>Kabel, Adriaen van der</creator>
+          <contributor>Kabel, Adriaen van der</contributor>
+          <contributor>Robert, N.</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>landschappen</subject>
+          <date>1648 - 1705</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5072</identifier>
+        <datestamp>2021-01-28T17:35:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88911</identifier>
+          <identifier>RP-P-BI-5072</identifier>
+          <title>Jozef legt dromen van de farao uit</title>
+          <title>Verhaal van Jozef</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1629</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1900-A-21976</identifier>
+        <datestamp>2021-01-28T17:35:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88923</identifier>
+          <identifier>RP-P-1900-A-21976</identifier>
+          <title>Besnijdenis van Christus</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <date>1620</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MDI4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDcyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1956-162(V)</identifier>
+        <datestamp>2021-01-28T12:56:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26506</identifier>
+          <identifier>RP-T-1956-162(V)</identifier>
+          <title>Landschapschets</title>
+          <creator>Sandoz-Rollin, David Alphonse de</creator>
+          <date>1750 - 1809</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1960-191(R)</identifier>
+        <datestamp>2021-10-02T11:41:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26827</identifier>
+          <identifier>RP-T-1960-191(R)</identifier>
+          <title>Gezicht over huizen in een hoog landschap</title>
+          <creator>Smythe, Patrick</creator>
+          <date>1814</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-159-34-A</identifier>
+        <datestamp>2021-08-19T17:08:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27293</identifier>
+          <identifier>BK-1984-159-34-A</identifier>
+          <title>Handschoen van bruine suede</title>
+          <creator>Alexandrine (winkelbedrijf)</creator>
+          <contributor>Maison de Bonneterie</contributor>
+          <date>ca. 1900 - ca. 1915</date>
+          <type>kleding</type>
+          <type>handschoen</type>
+          <format>suède</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2060</identifier>
+        <datestamp>2021-11-03T16:58:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26063</identifier>
+          <identifier>BK-KOG-2060</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1200 - ca. 1400</date>
+          <type>pijpsleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2325</identifier>
+        <datestamp>2021-11-03T17:00:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26328</identifier>
+          <identifier>BK-KOG-2325</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1700 - ca. 1800</date>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-380(R)</identifier>
+        <datestamp>2020-01-09T12:51:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26455</identifier>
+          <identifier>RP-T-1948-380(R)</identifier>
+          <title>Portret van Frans van Lotharingen (Frans I)</title>
+          <creator>Stampart, Frans van</creator>
+          <subject>Frans I Stefan (Duits keizer)</subject>
+          <date>1685 - 1750</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1974-71-B-1</identifier>
+        <datestamp>2021-10-02T11:42:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26971</identifier>
+          <identifier>BK-1974-71-B-1</identifier>
+          <title>Ondermouw van batist, versierd met moesjes en wit borduurwerk</title>
+          <creator>anoniem</creator>
+          <date>ca. 1860</date>
+          <type>dameskleding</type>
+          <type>ondermouw</type>
+          <format>batist</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BFR-397</identifier>
+        <datestamp>2021-10-02T11:43:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27317</identifier>
+          <identifier>BK-BFR-397</identifier>
+          <title>Tegel met voorstelling van twee bedelaars</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1625</date>
+          <type>tegel</type>
+          <format>aardewerk</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2036</identifier>
+        <datestamp>2021-11-03T16:58:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26040</identifier>
+          <identifier>BK-KOG-2036</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2348</identifier>
+        <datestamp>2021-11-03T17:00:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26351</identifier>
+          <identifier>BK-KOG-2348</identifier>
+          <title>Kamerheersleutel</title>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>sleutel</type>
+          <type>kamerheersleutel</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1984-120</identifier>
+        <datestamp>2021-10-02T11:42:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26928</identifier>
+          <identifier>RP-T-1984-120</identifier>
+          <title>In het park van de Villa Mondragone in Frascati</title>
+          <creator>Towne, Francis</creator>
+          <subject>Villa Mondragone</subject>
+          <date>1781</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11237</identifier>
+        <datestamp>2021-10-02T11:43:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27342</identifier>
+          <identifier>BK-NM-11237</identifier>
+          <title>Kapiteel</title>
+          <subject>Sint-Odiliënberg</subject>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>kapiteel</type>
+          <type>bouwfragment</type>
+          <format>steen (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1956-149(V)</identifier>
+        <datestamp>2021-01-28T12:56:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26526</identifier>
+          <identifier>RP-T-1956-149(V)</identifier>
+          <title>Figuurtje in een bos</title>
+          <creator>Sandoz-Rollin, David Alphonse de</creator>
+          <date>1750 - 1809</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1991-14</identifier>
+        <datestamp>2020-06-22T14:23:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26904</identifier>
+          <identifier>RP-T-1991-14</identifier>
+          <title>Vier karikaturale koppen</title>
+          <creator>Rowlandson, Thomas</creator>
+          <date>1795 - 1800</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12186-10</identifier>
+        <datestamp>2021-10-02T11:38:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25968</identifier>
+          <identifier>BK-NM-12186-10</identifier>
+          <title>Ceintuur van zijdebrokaat; op een zwarte ondergrond is een zich herhalend patroon aangebracht dat bestaat uit een bloem, vruchten en bessentak in wit</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1750</date>
+          <type>kleding</type>
+          <type>ceintuur</type>
+          <type>lint</type>
+          <format>zijde</format>
+          <format>brokaat</format>
+          <format>gouddraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-83</identifier>
+        <datestamp>2021-08-23T16:37:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26498</identifier>
+          <identifier>BK-KOG-83</identifier>
+          <title>Kousenband van groene zijde doorweven met zilverdraad; met de tekst: 'IEUDG EN DEUGDE DEUGD EN VREUGDE VREUGD EN IEUGDE TOT EEN KRANS T SAAM GESTRENGELD SCHOON VER MENGELD DAT VER ENGELT D ECHT BY KANS W V MAURIK'</title>
+          <creator>anoniem</creator>
+          <date>voor 1877</date>
+          <type>kleding</type>
+          <type>kousenband</type>
+          <format>zijde</format>
+          <format>zilverdraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12980-W</identifier>
+        <datestamp>2021-10-02T11:41:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26690</identifier>
+          <identifier>BK-NM-12980-W</identifier>
+          <title>Strook kloskant met spitsovalen in vier rijen opengewerkte ruiten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Buckingham</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2149</identifier>
+        <datestamp>2021-11-03T16:59:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26152</identifier>
+          <identifier>BK-KOG-2149</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5744</identifier>
+        <datestamp>2021-10-02T11:43:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27221</identifier>
+          <identifier>BK-NM-5744</identifier>
+          <title>Fragmenten van steen met Gotisch profiel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>steen (objectnaam)</type>
+          <type>bouwfragment</type>
+          <format>steen (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2248</identifier>
+        <datestamp>2021-11-03T16:59:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26250</identifier>
+          <identifier>BK-KOG-2248</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1600</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDc0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

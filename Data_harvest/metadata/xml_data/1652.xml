@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzAyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1976-44</identifier>
+        <datestamp>2021-10-02T00:22:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17198</identifier>
+          <identifier>BK-1976-44</identifier>
+          <title>Wijnproefschaal</title>
+          <creator>anoniem</creator>
+          <date>1631</date>
+          <type>drinkschaal</type>
+          <type>wijnproefschaal</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-258</identifier>
+        <datestamp>2021-10-02T00:12:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16285</identifier>
+          <identifier>BK-NM-12400-258</identifier>
+          <title>Papegaai</title>
+          <creator>anoniem</creator>
+          <date>ca. 1729</date>
+          <type>decoratief object</type>
+          <type>dierfiguur</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-132</identifier>
+        <datestamp>2019-12-12T13:38:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16967</identifier>
+          <identifier>RP-T-1963-132</identifier>
+          <title>Boomgroep op een bolwerk</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-17-E</identifier>
+        <datestamp>2017-09-11T14:09:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17247</identifier>
+          <identifier>BK-1984-17-E</identifier>
+          <title>Lepel</title>
+          <creator>Knuysting, Cornelis</creator>
+          <date>1802</date>
+          <type>theelepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-49</identifier>
+        <datestamp>2021-10-02T00:24:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17349</identifier>
+          <identifier>BK-1977-49</identifier>
+          <title>Sauskom</title>
+          <creator>Shaw, William</creator>
+          <contributor>Priest, William</contributor>
+          <date>1754</date>
+          <type>sauskom</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16065-B</identifier>
+        <datestamp>2021-10-02T01:15:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21336</identifier>
+          <identifier>BK-16065-B</identifier>
+          <title>Jacob worstelt met de engel</title>
+          <title>De geschiedenis van Jakob, binnen een bloemenkrans</title>
+          <creator>anoniem</creator>
+          <contributor>Schut, Pieter Hendricksz.</contributor>
+          <date>ca. 1660 - ca. 1675</date>
+          <type>kussen</type>
+          <type>kussenovertrek</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14367-170</identifier>
+        <datestamp>2021-10-02T01:18:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21710</identifier>
+          <identifier>BK-NM-14367-170</identifier>
+          <title>Strook kloskant met eend en vierkant</title>
+          <creator>anoniem</creator>
+          <date>ca. 1925 - ca. 1938</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Piemonte</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-77</identifier>
+        <datestamp>2021-10-02T01:20:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21957</identifier>
+          <identifier>BK-1973-77</identifier>
+          <title>Strook kloskant met halve ruitvormige en gelobde cirkelvormige medaillons</title>
+          <creator>anoniem</creator>
+          <date>ca. 1730 - ca. 1740</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Mechelen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-277-A</identifier>
+        <datestamp>2021-10-02T00:10:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16126</identifier>
+          <identifier>BK-NM-12400-277-A</identifier>
+          <title>Schaal, versierd met bloemenmand binnen lambrequinrand</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Kocx, Pieter Adriaensz.</contributor>
+          <date>ca. 1705 - ca. 1725</date>
+          <type>schaal</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1958-37-D</identifier>
+        <datestamp>2022-01-31T11:06:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16449</identifier>
+          <identifier>BK-1958-37-D</identifier>
+          <title>Mannenfiguur van faience</title>
+          <creator>anoniem</creator>
+          <date>1760 - 1785</date>
+          <type>decoratief object</type>
+          <type>mannenfiguur</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-182(R)</identifier>
+        <datestamp>2019-12-11T10:30:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16905</identifier>
+          <identifier>RP-T-1963-182(R)</identifier>
+          <title>Landschap met twee molens</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-767-A</identifier>
+        <datestamp>2021-10-02T01:14:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21265</identifier>
+          <identifier>BK-1980-767-A</identifier>
+          <title>Lambrekijn</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <description>Deze lambrekijn – een geplooide versiering – is buitengewoon knap gemaakt. Hij is afkomstig van kasteel Twickel bij Delden (Overijssel), en diende daar mogelijk als lampenkap of als versiering voor de rand van een bed. Mogelijk was zelfs de hele kamer met sits gedecoreerd. In de 18de eeuw bleef sits in gebruik in Nederland, ook aan het hof.</description>
+          <date>ca. 1735 - ca. 1740</date>
+          <type>lambrekijn</type>
+          <format>katoen</format>
+          <format>verf</format>
+          <format>beits</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Coromandelkust</coverage>
+          <coverage>Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13242</identifier>
+        <datestamp>2021-10-02T01:18:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21741</identifier>
+          <identifier>BK-NM-13242</identifier>
+          <title>Strook kloskant met waaierbloem in trapeziumvormige vaas</title>
+          <creator>anoniem</creator>
+          <date>ca. 1630 - ca. 1640</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12761</identifier>
+        <datestamp>2021-10-02T01:19:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21924</identifier>
+          <identifier>BK-NM-12761</identifier>
+          <title>Strook kloskant met grillig omlijste cartouche en drielobbig motief</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1799</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Mechelen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15233-B</identifier>
+        <datestamp>2021-10-02T00:14:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16426</identifier>
+          <identifier>BK-15233-B</identifier>
+          <title>Twee peren</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1775</date>
+          <type>decoratief object</type>
+          <type>kunstfruit</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-17-K</identifier>
+        <datestamp>2016-10-20T19:29:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17253</identifier>
+          <identifier>BK-1984-17-K</identifier>
+          <title>Lepel</title>
+          <creator>Knuysting, Cornelis</creator>
+          <date>1802</date>
+          <type>theelepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5598</identifier>
+        <datestamp>2021-11-03T19:20:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16172</identifier>
+          <identifier>BK-NM-5598</identifier>
+          <title>Reticule in een plat model, van zwart fluweel, versierd met een regelmatig patroon van noppen van zilverkleurige stalen kralen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1870</date>
+          <type>reticule</type>
+          <format>fluweel</format>
+          <format>staal</format>
+          <format>linnen</format>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12900-A</identifier>
+        <datestamp>2021-10-02T00:11:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16183</identifier>
+          <identifier>BK-NM-12900-A</identifier>
+          <title>Broche</title>
+          <creator>anoniem</creator>
+          <date>ca. 1820 - ca. 1840</date>
+          <type>sieraad</type>
+          <type>broche</type>
+          <format>ijzer</format>
+          <format>Berlijns ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15232-A</identifier>
+        <datestamp>2022-01-26T10:53:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16406</identifier>
+          <identifier>BK-15232-A</identifier>
+          <title>Druiventros van faience</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1775</date>
+          <type>decoratief object</type>
+          <type>kunstfruit</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-248(V)</identifier>
+        <datestamp>2019-12-11T10:05:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16855</identifier>
+          <identifier>RP-T-1963-248(V)</identifier>
+          <title>Schets van heuvellandschap</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzA0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

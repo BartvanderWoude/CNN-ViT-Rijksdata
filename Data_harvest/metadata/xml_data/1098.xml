@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMTk0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-12822</identifier>
+        <datestamp>2021-01-28T15:56:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78478</identifier>
+          <identifier>RP-P-1888-A-12822</identifier>
+          <title>Riviergezicht met man in zeilboot en donkere wolkenlucht</title>
+          <creator>Berg, Hendrik</creator>
+          <date>1765</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-2977</identifier>
+        <datestamp>2016-10-20T20:27:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78576</identifier>
+          <identifier>RP-P-1907-2977</identifier>
+          <title>Portret van Johannes Brandt op 39-jarige leeftijd</title>
+          <creator>Berge, Pieter van den</creator>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Hoogstraten, David Fransz. van</contributor>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Brandt, Joannes</subject>
+          <date>1699</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-1787</identifier>
+        <datestamp>2021-01-28T16:11:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80769</identifier>
+          <identifier>RP-P-1907-1787</identifier>
+          <title>Flora met een bloesemtak in haar hand</title>
+          <creator>Bisschop, Jan de</creator>
+          <date>1638 - 1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.645</identifier>
+        <datestamp>2021-01-28T16:11:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80775</identifier>
+          <identifier>RP-P-OB-26.645</identifier>
+          <title>Studie voor een naakte, vliegende engel</title>
+          <title>Paradigmata graphices variorum artificum</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>Cesari, Giuseppe</contributor>
+          <subject>engelen</subject>
+          <date>1668 - 1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-6575</identifier>
+        <datestamp>2021-01-28T16:12:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80848</identifier>
+          <identifier>RP-P-1905-6575</identifier>
+          <title>De heilige Benedictus zittend tussen de heiligen Bruno en Bernard</title>
+          <title>Paradigmata graphices variorum artificum</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>Vanni, Francesco</contributor>
+          <contributor>Vanni, Francesco</contributor>
+          <contributor>Lanfranco, Giovanni</contributor>
+          <date>1668 - 1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1893-A-18001</identifier>
+        <datestamp>2021-01-28T15:56:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78501</identifier>
+          <identifier>RP-P-1893-A-18001</identifier>
+          <title>Landschap met herderin en hond bij kudde schapen</title>
+          <creator>Berg, Simon van den</creator>
+          <date>1822 - 1899</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-4496</identifier>
+        <datestamp>2021-01-28T16:11:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80794</identifier>
+          <identifier>RP-P-1907-4496</identifier>
+          <title>Antieke buste van een vrouw</title>
+          <title>Faustina major</title>
+          <title>Paradigmata graphices variorum artificum</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>anoniem</contributor>
+          <date>1666 - 1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-254</identifier>
+        <datestamp>2021-01-28T16:12:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80825</identifier>
+          <identifier>RP-P-1904-254</identifier>
+          <title>Zwevende engel met banderol</title>
+          <title>Paradigmata graphices variorum artificum</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>Cesari, Giuseppe</contributor>
+          <date>1668 - 1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1036</identifier>
+        <datestamp>2021-07-30T11:46:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78392</identifier>
+          <identifier>RP-P-BI-1036</identifier>
+          <title>Herderin op ezel en herder op paard steken beek over</title>
+          <creator>anoniem</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>1652 - 1733</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.555</identifier>
+        <datestamp>2021-01-28T15:58:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78622</identifier>
+          <identifier>RP-P-OB-22.555</identifier>
+          <title>Boer uit Vlieland</title>
+          <title>Boer van Vlielant / Paysan de Vlielant</title>
+          <title>Nederlandse klederdrachten naar Pieter van den Berge</title>
+          <creator>Pickaert, Pieter</creator>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>in of voor 1689 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5483</identifier>
+        <datestamp>2021-01-28T16:10:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80580</identifier>
+          <identifier>RP-P-BI-5483</identifier>
+          <title>Landschap met koe en paard</title>
+          <creator>Bijlaert, Joannis Jacobus</creator>
+          <contributor>Potter, Paulus</contributor>
+          <date>1777</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-4493</identifier>
+        <datestamp>2021-01-28T16:13:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80897</identifier>
+          <identifier>RP-P-1907-4493</identifier>
+          <title>Weidelandschap met man met emmer bij drie koeien</title>
+          <creator>Bisschop, Cornelis (1762-1829)</creator>
+          <date>1777 - 1829</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4525</identifier>
+        <datestamp>2021-01-28T15:56:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78436</identifier>
+          <identifier>RP-P-OB-4525</identifier>
+          <title>Kaart van Delfland (blad midden)</title>
+          <title>Ware afbeeldinghe van Delflandt</title>
+          <creator>Berckenrode, Floris Balthasarsz. van</creator>
+          <contributor>Berckenrode, Balthasar Florisz. van</contributor>
+          <subject>Delfland</subject>
+          <date>1612</date>
+          <type>prent</type>
+          <type>kaart</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14808</identifier>
+        <datestamp>2021-08-30T10:14:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78599</identifier>
+          <identifier>RP-P-1889-A-14808</identifier>
+          <title>Vrouw uit Friesland</title>
+          <title>Femme de Frise</title>
+          <title>Nederlandse klederdrachten, tweede serie</title>
+          <creator>Berge, Pieter van den</creator>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>in of na 1694 - 1737</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-13684</identifier>
+        <datestamp>2021-01-28T16:10:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80608</identifier>
+          <identifier>RP-P-1888-A-13684</identifier>
+          <title>Blad met vijf vignetten en initiaal</title>
+          <creator>Bilderdijk, Willem</creator>
+          <date>1766 - 1785</date>
+          <type>prent</type>
+          <type>vignet</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2161</identifier>
+        <datestamp>2021-01-28T16:12:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80871</identifier>
+          <identifier>RP-P-1906-2161</identifier>
+          <title>Laocoon en zijn zonen</title>
+          <title>Signorum Veterum Icones I</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Donker, Pieter P.</contributor>
+          <date>ca. 1663 - in of na 1668</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-2284</identifier>
+        <datestamp>2021-01-28T15:53:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78136</identifier>
+          <identifier>RP-P-1908-2284</identifier>
+          <title>Twee gezichten bij haven en sluis van IJlst</title>
+          <title>Ylst van de zijl gezien</title>
+          <title>Ylst naar de zijl gezien</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Bulthuis, Jan</contributor>
+          <subject>IJlst</subject>
+          <date>1786 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-1798</identifier>
+        <datestamp>2019-01-02T17:39:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78947</identifier>
+          <identifier>RP-P-1905-1798</identifier>
+          <title>Portret van een onbekende man, mogelijk Georg Carel Hageman</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <date>1847-09-29</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Alphen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1125</identifier>
+        <datestamp>2021-01-28T16:09:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80400</identifier>
+          <identifier>RP-P-BI-1125</identifier>
+          <title>Italianiserend landschap met herders die op veerpont wachten</title>
+          <creator>Best, Johannes Alexander Rudolf</creator>
+          <contributor>Velde, Adriaen van de</contributor>
+          <date>1807 - 1855</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17477</identifier>
+        <datestamp>2021-01-28T16:15:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81054</identifier>
+          <identifier>RP-P-1892-A-17477</identifier>
+          <title>Studieblad met drie figuren</title>
+          <creator>Bles, David</creator>
+          <date>1856</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMTk2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

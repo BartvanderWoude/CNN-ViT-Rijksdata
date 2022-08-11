@@ -1,0 +1,532 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MjUwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-453</identifier>
+        <datestamp>2021-01-28T19:52:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97326</identifier>
+          <identifier>RP-P-1904-453</identifier>
+          <title>Nederigheid brengt vrede voort</title>
+          <title>Kringloop van het menselijk handelen</title>
+          <title>Circvlvs Vicissitvdinis Rervm Hvmanarvm</title>
+          <creator>Collaert, Jan (II)</creator>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Galle, Joannes</contributor>
+          <contributor>Kiliaan, Cornelis</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>1610 - 1676</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-161</identifier>
+        <datestamp>2021-01-28T19:56:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97676</identifier>
+          <identifier>RP-P-1905-161</identifier>
+          <title>Portret van de Antwerpse abt Macarius Simeomo</title>
+          <creator>Collin, Richard</creator>
+          <contributor>Quellinus, Hubert</contributor>
+          <subject>Simeomo, Macarius</subject>
+          <date>1669</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6535X</identifier>
+        <datestamp>2021-01-28T20:01:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98174</identifier>
+          <identifier>RP-P-BI-6535X</identifier>
+          <title>Derde voorwendsel: pas getrouwd</title>
+          <title>Gelijkenis van een bruiloftsfeest</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <date>1558 - 1559</date>
+          <date>1581 - 1633</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6607</identifier>
+        <datestamp>2016-11-30T04:49:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98337</identifier>
+          <identifier>RP-P-BI-6607</identifier>
+          <title>Belegering van de Engelenburcht, 1527</title>
+          <title>Overwinningen van Karel V</title>
+          <title>Divi Caroli. V. imp. opt. max. victoriae, ex multis praecipuae</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>Cock, Hieronymus</contributor>
+          <subject>Inname van Rome</subject>
+          <subject>Engelenburcht</subject>
+          <subject>Engelenbrug</subject>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <subject>Clemens VII</subject>
+          <date>1555 - 1556</date>
+          <type>prent</type>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-6750</identifier>
+        <datestamp>2021-01-28T20:06:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98510</identifier>
+          <identifier>RP-P-1882-A-6750</identifier>
+          <title>Hagar in de woestijn</title>
+          <creator>Cootwijck, Jurriaan</creator>
+          <contributor>Lesueur, Eustache</contributor>
+          <date>1759</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6365X</identifier>
+        <datestamp>2021-01-28T20:10:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98727</identifier>
+          <identifier>RP-P-BI-6365X</identifier>
+          <title>Bosbeekje</title>
+          <creator>Cornet, Jacobus Ludovicus</creator>
+          <contributor>Cornet, Jacobus Ludovicus</contributor>
+          <date>1825 - 1882</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1966-150</identifier>
+        <datestamp>2021-01-28T19:51:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97303</identifier>
+          <identifier>RP-P-1966-150</identifier>
+          <title>Heilige Dominicus</title>
+          <creator>Collaert, Jan (II)</creator>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Vrints, Johannes Baptista (I)</contributor>
+          <date>1576 - 1628</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1935-1063(R)</identifier>
+        <datestamp>2021-01-28T19:57:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97746</identifier>
+          <identifier>RP-P-1935-1063(R)</identifier>
+          <title>Alfabetten in verschillende lettertypes</title>
+          <creator>Condet, Johannes</creator>
+          <contributor>Holtrop, Willem</contributor>
+          <date>1781</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-3662</identifier>
+        <datestamp>2022-03-02T15:25:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98151</identifier>
+          <identifier>RP-P-1904-3662</identifier>
+          <title>Oordeel van Salomo</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Floris, Frans (I)</contributor>
+          <contributor>Cock, Hieronymus</contributor>
+          <contributor>onbekend</contributor>
+          <date>1556</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6628</identifier>
+        <datestamp>2018-09-05T10:08:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98360</identifier>
+          <identifier>RP-P-BI-6628</identifier>
+          <title>Overgave van de hertog van Saksen op het slagveld van Mühlberg, 1547</title>
+          <title>Overwinningen van Karel V</title>
+          <title>Divi Caroli. V. imp. opt. max. victoriae, ex multis praecipuae</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>Mallery, Karel van</contributor>
+          <subject>Slag bij Mühlberg</subject>
+          <subject>Mühlberg</subject>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <subject>Johan Frederik I (keurvorst van Saksen)</subject>
+          <subject>Ferdinand I van Habsburg (Duits keizer)</subject>
+          <subject>Álvarez de Toledo, Fernando (3e hertog van Alva)</subject>
+          <date>1555 - 1556</date>
+          <date>1581 - 1635</date>
+          <type>prent</type>
+          <type>propagandaprent</type>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-5612</identifier>
+        <datestamp>2017-04-20T17:49:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110245</identifier>
+          <identifier>RP-P-1908-5612</identifier>
+          <title>Rivierlandschap met gezicht op Soisy</title>
+          <title>Veuë de Soisy, et de la Maison de Monsieur le President Baillieu (...)</title>
+          <title>Landschappen, landhuizen en kastelen</title>
+          <creator>Flamen, Albert</creator>
+          <contributor>Flamen, Albert</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Soisy-sur-Seine</subject>
+          <date>1648 - 1672</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-6681</identifier>
+        <datestamp>2016-10-20T20:59:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110880</identifier>
+          <identifier>RP-P-1882-A-6681</identifier>
+          <title>Landschap met vrouw met hoed</title>
+          <creator>Fock, Hermanus</creator>
+          <date>1781 - 1822</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1965-435</identifier>
+        <datestamp>2021-01-28T20:02:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98198</identifier>
+          <identifier>RP-P-1965-435</identifier>
+          <title>Geloof overwint de zinnelijke liefde</title>
+          <title>Triomfen van Petrarca</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <date>1532 - 1590</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6403X</identifier>
+        <datestamp>2021-01-28T20:08:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98594</identifier>
+          <identifier>RP-P-BI-6403X</identifier>
+          <title>Jongetje met hoed</title>
+          <creator>Cornet, Jacobus Ludovicus</creator>
+          <contributor>Cornet, Jacobus Ludovicus</contributor>
+          <date>1851</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-H-1130</identifier>
+        <datestamp>2021-01-28T20:12:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98874</identifier>
+          <identifier>RP-P-H-H-1130</identifier>
+          <title>Aanbidding door de herders</title>
+          <creator>Cort, Cornelis</creator>
+          <contributor>Pino, Marco</contributor>
+          <contributor>Orlandi, Giovanni</contributor>
+          <date>1569</date>
+          <date>1602</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11779</identifier>
+        <datestamp>2021-01-28T19:51:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97287</identifier>
+          <identifier>RP-P-1887-A-11779</identifier>
+          <title>Samaritaanse vrouw</title>
+          <title>Mvlier Samaritana</title>
+          <title>Beroemde vrouwen uit het Nieuwe Testament</title>
+          <title>Icones Illvstrivm Feminarvm Novi Testamenti</title>
+          <creator>Mallery, Karel van</creator>
+          <contributor>Collaert, Jan (II)</contributor>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Kiliaan, Cornelis</contributor>
+          <date>1595 - 1599</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1985-229</identifier>
+        <datestamp>2021-01-28T20:01:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98144</identifier>
+          <identifier>RP-P-1985-229</identifier>
+          <title>Dood van de godsman door een leeuw</title>
+          <title>Verhaal van de ongehoorzame godsman</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>anoniem</contributor>
+          <date>1548 - 1554</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-5028</identifier>
+        <datestamp>2016-10-20T20:58:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.110639</identifier>
+          <identifier>RP-P-1882-A-5028</identifier>
+          <title>Visitekaart van Hermanus Fock</title>
+          <creator>Fock, Hermanus</creator>
+          <date>1781 - 1822</date>
+          <type>prent</type>
+          <type>visitekaartje</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6136</identifier>
+        <datestamp>2022-02-24T17:09:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97669</identifier>
+          <identifier>RP-P-BI-6136</identifier>
+          <title>Portret van de beeldhouwer Artus Quellinus op 53-jarige leeftijd</title>
+          <creator>Collin, Richard</creator>
+          <contributor>Quellinus, Erasmus (II)</contributor>
+          <subject>Quellinus, Artus</subject>
+          <date>1662</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-10376</identifier>
+        <datestamp>2020-05-06T11:44:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98244</identifier>
+          <identifier>RP-P-1886-A-10376</identifier>
+          <title>Onwetendheid verhult dat de vrede slechts schijn is</title>
+          <title>Ontaarding van de katholieke geestelijkheid</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Weerdt, Adriaan de</contributor>
+          <contributor>Hondius, Hendrick (I)</contributor>
+          <subject>Inquisitie</subject>
+          <subject>Tachtigjarige Oorlog</subject>
+          <subject>Beeldenstorm (1566)</subject>
+          <subject>Lage Landen</subject>
+          <date>1604</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+          <coverage>Keulen</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MjUyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

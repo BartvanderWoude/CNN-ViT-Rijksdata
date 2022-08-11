@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxODk2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-30.922</identifier>
+        <datestamp>2019-09-11T12:43:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49051</identifier>
+          <identifier>RP-P-OB-30.922</identifier>
+          <title>Titelprent met portret van kunstenaar Andrea Mantegna</title>
+          <creator>Andreani, Andrea</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Malpizzi, Bernardo</contributor>
+          <contributor>Mantegna, Andrea</contributor>
+          <contributor>Malpizzi, Bernardo</contributor>
+          <contributor>Gonzaga, Vincenzo (hertog van Mantua en Monferrato)</contributor>
+          <subject>Mantegna, Andrea</subject>
+          <date>1599</date>
+          <type>titelprent</type>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Mantua</coverage>
+          <coverage>Mantua</coverage>
+          <coverage>Mantua</coverage>
+          <coverage>Mantua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-30.940</identifier>
+        <datestamp>2020-06-18T16:51:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49106</identifier>
+          <identifier>RP-P-OB-30.940</identifier>
+          <title>Triomftocht van Julius Caesar</title>
+          <creator>Andreani, Andrea</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Malpizzi, Bernardo</contributor>
+          <contributor>Mantegna, Andrea</contributor>
+          <subject>spreekwoorden, gezegden etc.</subject>
+          <subject>Julius Caesar</subject>
+          <date>1599</date>
+          <type>prent</type>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Mantua</coverage>
+          <coverage>Mantua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1954-169</identifier>
+        <datestamp>2018-12-06T15:02:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49672</identifier>
+          <identifier>RP-T-1954-169</identifier>
+          <title>Staande geestelijke</title>
+          <creator>Cesari, Giuseppe</creator>
+          <date>1578 - 1640</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1955-116(R)</identifier>
+        <datestamp>2019-09-09T16:22:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49529</identifier>
+          <identifier>RP-T-1955-116(R)</identifier>
+          <title>Zes ontwerpen voor zwikvullingen met zwevende engelen</title>
+          <creator>Alberti, Cherubino</creator>
+          <date>1563 - 1615</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-564</identifier>
+        <datestamp>2020-08-19T00:03:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49371</identifier>
+          <identifier>RP-P-1988-564</identifier>
+          <title>Twee mannen in een graanschuur</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <contributor>Frölich, Jacob (uitgever)</contributor>
+          <date>1539</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.117(R)</identifier>
+        <datestamp>2020-04-20T12:12:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48855</identifier>
+          <identifier>RP-P-OB-22.117(R)</identifier>
+          <title>Glaucus en Scylla</title>
+          <title>Glaucus amat Scyllam</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.204</identifier>
+        <datestamp>2021-10-02T12:18:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48953</identifier>
+          <identifier>RP-P-OB-22.204</identifier>
+          <title>Laatste Oordeel</title>
+          <creator>Solis, Virgilius</creator>
+          <subject>Laatste Oordeel</subject>
+          <date>1524 - 1562</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-552</identifier>
+        <datestamp>2020-09-09T23:39:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49228</identifier>
+          <identifier>RP-P-1988-552</identifier>
+          <title>Koning wordt bestolen, een man wordt door een leeuw gebeten en een executie met een guillotine</title>
+          <creator>anoniem</creator>
+          <creator>Weiditz, Hans (II)</creator>
+          <contributor>Steiner, Heinrich</contributor>
+          <subject>Literatuur</subject>
+          <date>1532</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.394(R)</identifier>
+        <datestamp>2020-04-28T09:26:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49472</identifier>
+          <identifier>RP-P-OB-22.394(R)</identifier>
+          <title>Verhaal van de verloren zoon</title>
+          <creator>anoniem</creator>
+          <creator>Lucius, Jakob (der Ältere)</creator>
+          <date>1540 - 1597</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2166(V)</identifier>
+        <datestamp>2021-01-28T13:29:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49729</identifier>
+          <identifier>RP-T-1889-A-2166(V)</identifier>
+          <title>Vier hoofden van paarden</title>
+          <creator>Carpi, Girolamo da</creator>
+          <date>1549 - 1553</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.753</identifier>
+        <datestamp>2021-01-14T23:32:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49057</identifier>
+          <identifier>RP-P-OB-17.753</identifier>
+          <title>Portret van William Wake</title>
+          <creator>Faber, John (II)</creator>
+          <contributor>Ellys, John</contributor>
+          <subject>Wake, William</subject>
+          <date>1716 - 1756</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1966-89(R)</identifier>
+        <datestamp>2021-10-02T12:19:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49580</identifier>
+          <identifier>RP-T-1966-89(R)</identifier>
+          <title>Twee studies van een vliegende engel</title>
+          <creator>Beccafumi, Domenico</creator>
+          <date>1519 - 1547</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3750</identifier>
+        <datestamp>2021-10-02T12:19:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49629</identifier>
+          <identifier>BK-NM-3750</identifier>
+          <title>Fragment roodbruin met crèmekleurig weefsel in wol en linnen; damast</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1899</date>
+          <type>wandbespanning</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.175</identifier>
+        <datestamp>2019-10-16T06:28:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48922</identifier>
+          <identifier>RP-P-OB-22.175</identifier>
+          <title>Apostelen verkondigen het evangelie in alle landen</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Geißler, Valentin</contributor>
+          <date>1552</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.331</identifier>
+        <datestamp>2020-09-09T23:47:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49280</identifier>
+          <identifier>RP-P-OB-22.331</identifier>
+          <title>Doornenkroning</title>
+          <creator>Lützelburger, Hans</creator>
+          <creator>anoniem</creator>
+          <contributor>Grüninger, Johann</contributor>
+          <date>1502 - 1510</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Straatsburg (Frankrijk)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3735-A</identifier>
+        <datestamp>2021-10-02T12:19:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49621</identifier>
+          <identifier>BK-NM-3735-A</identifier>
+          <title>Fragment veelkleurige gebrocheerde zijde</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1750</date>
+          <type>gebrocheerde zijde</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.197</identifier>
+        <datestamp>2019-10-16T04:30:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48945</identifier>
+          <identifier>RP-P-OB-22.197</identifier>
+          <title>Christus aan het volk getoond (Ecce Homo)</title>
+          <creator>Solis, Virgilius</creator>
+          <date>1558</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.337</identifier>
+        <datestamp>2021-07-29T14:23:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49303</identifier>
+          <identifier>RP-P-OB-22.337</identifier>
+          <title>Drie heilige vrouwen</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1500 - 1550</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1958-52</identifier>
+        <datestamp>2021-10-02T12:19:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49644</identifier>
+          <identifier>RP-T-1958-52</identifier>
+          <title>Studie van een rechtervoet, schuin van voren</title>
+          <creator>Carracci, Agostino</creator>
+          <date>1567 - 1602</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.129</identifier>
+        <datestamp>2019-10-16T06:59:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48876</identifier>
+          <identifier>RP-P-OB-22.129</identifier>
+          <title>Verleiding van Eva</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Geißler, Valentin</contributor>
+          <date>1552</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxODk4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

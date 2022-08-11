@@ -1,0 +1,485 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTYwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1964-165</identifier>
+        <datestamp>2021-01-28T13:13:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41371</identifier>
+          <identifier>RP-P-1964-165</identifier>
+          <title>Hoofd van een jongeman</title>
+          <title>Suite van kleine genrestukjes en koppen</title>
+          <creator>Boucher, François</creator>
+          <contributor>Chéreau, François (II)</contributor>
+          <date>1727 - 1755</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-5747</identifier>
+        <datestamp>2019-05-09T16:23:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41420</identifier>
+          <identifier>RP-P-OB-5747</identifier>
+          <title>Buste van een jonge vrouw</title>
+          <title>Tête de femme</title>
+          <creator>Bonnet, Louis Marin</creator>
+          <contributor>Boucher, François</contributor>
+          <contributor>Bonnet, Louis Marin</contributor>
+          <contributor>Chéreau, weduwe François (II)</contributor>
+          <date>1767 - 1768</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1971-6</identifier>
+        <datestamp>2021-01-28T13:17:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41950</identifier>
+          <identifier>RP-P-1971-6</identifier>
+          <title>Boeket met anemonen, een hyacint en riddersporen</title>
+          <title>Diverses Fleurs mises en Boucquets</title>
+          <creator>Bailly, Jacques (I)</creator>
+          <contributor>Bailly, Jacques (I)</contributor>
+          <contributor>Bailly, Jacques (I)</contributor>
+          <date>ca. 1670</date>
+          <type>ornamentprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.575</identifier>
+        <datestamp>2021-10-02T12:17:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47057</identifier>
+          <identifier>RP-P-OB-17.575</identifier>
+          <title>Man toont een prent aan een vrouw, bij kaarslicht</title>
+          <creator>Verkolje, Nicolaas</creator>
+          <contributor>Houbraken, Arnold</contributor>
+          <date>1683 - 1746</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1921-2082</identifier>
+        <datestamp>2020-12-14T13:31:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42753</identifier>
+          <identifier>RP-P-1921-2082</identifier>
+          <title>Zij hebben gevlogen</title>
+          <title>Volaverunt</title>
+          <title>Los Caprichos</title>
+          <creator>Goya, Francisco de</creator>
+          <contributor>Goya, Francisco de</contributor>
+          <date>1797 - 1799</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-158</identifier>
+        <datestamp>2019-05-23T15:54:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46362</identifier>
+          <identifier>RP-P-1909-158</identifier>
+          <title>Kaartspelers rond een vat</title>
+          <creator>Somer, Jan van</creator>
+          <contributor>Both, Jan</contributor>
+          <date>1655 - 1693</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1891-A-16295</identifier>
+        <datestamp>2016-10-20T19:53:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46368</identifier>
+          <identifier>RP-P-1891-A-16295</identifier>
+          <title>Lierspeler</title>
+          <title>Muzikanten</title>
+          <creator>Somer, Jan van</creator>
+          <contributor>Brouwer, Adriaen</contributor>
+          <date>1655 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-Q-39</identifier>
+        <datestamp>2018-11-16T10:17:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46665</identifier>
+          <identifier>RP-P-H-Q-39</identifier>
+          <title>Tekenende jongen</title>
+          <creator>Vaillant, Wallerant</creator>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-11277</identifier>
+        <datestamp>2021-06-22T13:35:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46708</identifier>
+          <identifier>RP-P-1886-A-11277</identifier>
+          <title>Buste van een donkere man</title>
+          <creator>Vaillant, Wallerant</creator>
+          <subject>personen van Afrikaanse oorsprong</subject>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10179-B</identifier>
+        <datestamp>2021-10-19T16:24:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42364</identifier>
+          <identifier>BK-NM-10179-B</identifier>
+          <title>Ruit met een vrouwenbuste</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1600</date>
+          <type>ruit</type>
+          <format>glas</format>
+          <format>lood</format>
+          <format>glas-in-lood</format>
+          <format>grisailleverf</format>
+          <format>zilvergeel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-9701</identifier>
+        <datestamp>2019-05-29T15:10:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46515</identifier>
+          <identifier>RP-P-OB-9701</identifier>
+          <title>Socrates bekijkt zichzelf in een spiegel</title>
+          <title>Filosofen naar Spaanse voorbeelden</title>
+          <creator>Vaillant, Bernard</creator>
+          <contributor>Ribera, Jusepe de</contributor>
+          <date>1672</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1901-A-22318</identifier>
+        <datestamp>2016-10-20T19:53:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46759</identifier>
+          <identifier>RP-P-1901-A-22318</identifier>
+          <title>Herbergscène</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Teniers, David (II)</contributor>
+          <contributor>Wit, Frederik de</contributor>
+          <date>1658 - 1706</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-623</identifier>
+        <datestamp>2019-05-09T16:24:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41540</identifier>
+          <identifier>RP-P-1961-623</identifier>
+          <title>Interieur van de Saint Eustache kerk</title>
+          <title>Vue de l'interieur de l'Eglise St. Eustache a Paris</title>
+          <title>Vues pittoresques des principaux Edifices de Paris</title>
+          <creator>Janinet, Jean François</creator>
+          <contributor>Durand, Jean-Nicolas-Louis</contributor>
+          <contributor>Esnauts &amp; Rapilly</contributor>
+          <contributor>Lodewijk XVI (koning van Frankrijk)</contributor>
+          <subject>Saint-Eustache</subject>
+          <date>1772 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2891</identifier>
+        <datestamp>2016-10-20T19:49:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42967</identifier>
+          <identifier>RP-P-1906-2891</identifier>
+          <title>Portret van Johann Dietrich Schaffhausen</title>
+          <creator>Berge, Pieter van den</creator>
+          <subject>wet en jurisprudentie</subject>
+          <subject>Schaffhausen, Johann Dietrich</subject>
+          <date>1691</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Hamburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1915-1157</identifier>
+        <datestamp>2016-10-20T19:50:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43016</identifier>
+          <identifier>RP-P-1915-1157</identifier>
+          <title>Portret van Ulrich Jasper Seetzen</title>
+          <creator>Bierweiler, Frederik Christiaan</creator>
+          <contributor>Dunker, E.C.</contributor>
+          <contributor>Garlichs, A.</contributor>
+          <subject>Seetzen, Ulrich Jasper</subject>
+          <date>1818</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jever</coverage>
+          <coverage>Jever</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1880A</identifier>
+        <datestamp>2019-05-29T15:07:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43090</identifier>
+          <identifier>RP-P-BI-1880A</identifier>
+          <title>Portret van Bartholomeus van der Helst</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Helst, Bartholomeus van der</contributor>
+          <subject>Helst, Bartholomeus van der</subject>
+          <subject>Reynst, Constantia</subject>
+          <date>1652 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1963-29</identifier>
+        <datestamp>2021-01-28T13:13:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41446</identifier>
+          <identifier>RP-P-1963-29</identifier>
+          <title>Putti, muziekinstrumenten en een vaas</title>
+          <creator>anoniem</creator>
+          <contributor>Le Barbier, Jean Jacques François</contributor>
+          <date>1748 - 1850</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-462</identifier>
+        <datestamp>2021-01-28T13:23:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42823</identifier>
+          <identifier>RP-P-1961-462</identifier>
+          <title>Het ontvoerende paard</title>
+          <title>El caballo raptor</title>
+          <title>Los Disparates (De dwaasheden)</title>
+          <title>Los Proverbios (De spreekwoorden)</title>
+          <creator>Goya, Francisco de</creator>
+          <contributor>Goya, Francisco de</contributor>
+          <contributor>Real Academia de Nobles Artes de San Fernando</contributor>
+          <date>1815 - 1820</date>
+          <date>1864</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+          <coverage>Madrid</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-468</identifier>
+        <datestamp>2021-01-28T13:23:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42829</identifier>
+          <identifier>RP-P-1961-468</identifier>
+          <title>Drievoudige dwaasheid</title>
+          <title>Disparate triple</title>
+          <title>Los Disparates (De dwaasheden)</title>
+          <title>Los Proverbios (De spreekwoorden)</title>
+          <creator>Goya, Francisco de</creator>
+          <contributor>Goya, Francisco de</contributor>
+          <contributor>Real Academia de Nobles Artes de San Fernando</contributor>
+          <date>1815 - 1820</date>
+          <date>1864</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+          <coverage>Madrid</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2908</identifier>
+        <datestamp>2016-10-20T19:50:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42996</identifier>
+          <identifier>RP-P-1906-2908</identifier>
+          <title>Portret van Edzard I de Grote</title>
+          <creator>Bierweiler, Frederik Christiaan</creator>
+          <contributor>Cranach, Lucas (II)</contributor>
+          <subject>Edzard I de Grote (graaf van Oost-Friesland)</subject>
+          <date>1818</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jever</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTYyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,456 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTg4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-1104</identifier>
+        <datestamp>2016-10-20T19:53:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46880</identifier>
+          <identifier>RP-P-H-1104</identifier>
+          <title>Soldaten in een herberg</title>
+          <creator>anoniem</creator>
+          <contributor>Palamedesz., Anthonie</contributor>
+          <contributor>Somer, Jan van</contributor>
+          <contributor>Vaillant, Wallerant</contributor>
+          <date>1658 - 1727</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-83</identifier>
+        <datestamp>2016-10-20T19:53:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46886</identifier>
+          <identifier>RP-P-1911-83</identifier>
+          <title>Lezende vrouw met een hond</title>
+          <creator>anoniem</creator>
+          <contributor>Vaillant, Wallerant</contributor>
+          <date>1650 - 1750</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-Q-55</identifier>
+        <datestamp>2018-11-16T10:17:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46536</identifier>
+          <identifier>RP-P-H-Q-55</identifier>
+          <title>Droom van Jakob</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Bronchorst, Johannes van</contributor>
+          <contributor>Vaillant, Wallerant</contributor>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-75</identifier>
+        <datestamp>2016-10-20T19:53:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46786</identifier>
+          <identifier>RP-P-1961-75</identifier>
+          <title>Borstbeeld van een kind, naar links</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Du Quesnoy, François</contributor>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-185</identifier>
+        <datestamp>2021-10-27T09:43:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47029</identifier>
+          <identifier>RP-P-1911-185</identifier>
+          <title>Portret van Bernard Picart</title>
+          <creator>Verkolje, Nicolaas</creator>
+          <contributor>Nattier, Jean-Marc</contributor>
+          <subject>Picart, Bernard</subject>
+          <date>1714</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1652</identifier>
+        <datestamp>2019-05-23T15:56:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47279</identifier>
+          <identifier>RP-P-1910-1652</identifier>
+          <title>Muzikanten in een herberg</title>
+          <creator>anoniem</creator>
+          <date>1650 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.428</identifier>
+        <datestamp>2016-10-20T19:53:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46587</identifier>
+          <identifier>RP-P-OB-17.428</identifier>
+          <title>Adonis sterft in de armen van Venus</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Quellinus, Erasmus (II)</contributor>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.437</identifier>
+        <datestamp>2019-05-29T15:11:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46637</identifier>
+          <identifier>RP-P-OB-17.437</identifier>
+          <title>Naakt kind met een hond</title>
+          <creator>Vaillant, Wallerant</creator>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1883-A-7016</identifier>
+        <datestamp>2016-10-20T19:53:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47129</identifier>
+          <identifier>RP-P-1883-A-7016</identifier>
+          <title>Portret van Johannes Beukelman</title>
+          <creator>Wakkerdak, Pieter Anthony</creator>
+          <contributor>Wakkerdak, Pieter Anthony</contributor>
+          <contributor>Brasser, P.M.</contributor>
+          <contributor>Wakkerdak, Pieter Anthony</contributor>
+          <contributor>Cruys, Samuel</contributor>
+          <subject>Beukelman, Johannes</subject>
+          <date>1740 - 1774</date>
+          <date>1751</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1959-540</identifier>
+        <datestamp>2016-10-20T19:53:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47178</identifier>
+          <identifier>RP-P-1959-540</identifier>
+          <title>Oude vrouw bekijkt munten</title>
+          <creator>Wilt, Thomas van der</creator>
+          <date>1670 - 1733</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.377</identifier>
+        <datestamp>2019-05-29T15:10:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46508</identifier>
+          <identifier>RP-P-OB-17.377</identifier>
+          <title>Maria als Mater Dolorosa</title>
+          <creator>Vaillant, Bernard</creator>
+          <date>1642 - 1698</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-57</identifier>
+        <datestamp>2016-10-20T19:53:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46579</identifier>
+          <identifier>RP-P-1911-57</identifier>
+          <title>Slapende Amor</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Netscher, Caspar</contributor>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-6817</identifier>
+        <datestamp>2019-05-23T15:55:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46841</identifier>
+          <identifier>RP-P-1910-6817</identifier>
+          <title>Zelfportret van Wallerant Vaillant</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Leopold, Joseph Friedrich</contributor>
+          <subject>Vaillant, Wallerant</subject>
+          <date>1678 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1570</identifier>
+        <datestamp>2019-05-23T15:56:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47173</identifier>
+          <identifier>RP-P-1910-1570</identifier>
+          <title>Slapende Venus en Amor</title>
+          <creator>Werff, Adriaen van der</creator>
+          <contributor>Werff, Adriaen van der</contributor>
+          <date>1669 - 1722</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+          <coverage>Düsseldorf</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14259</identifier>
+        <datestamp>2016-10-20T19:53:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46485</identifier>
+          <identifier>RP-P-1889-A-14259</identifier>
+          <title>Portret van Anne Windham</title>
+          <creator>Tromp, Outgert</creator>
+          <contributor>Wissing, Willem</contributor>
+          <subject>Windham, Anne</subject>
+          <date>1650 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-6897</identifier>
+        <datestamp>2019-05-23T15:55:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46602</identifier>
+          <identifier>RP-P-1910-6897</identifier>
+          <title>Man met een boekje</title>
+          <title>Geleerden of filosofen</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Wit, Frederik de</contributor>
+          <date>1658 - 1706</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1985-474</identifier>
+        <datestamp>2021-01-28T13:13:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41438</identifier>
+          <identifier>RP-P-1985-474</identifier>
+          <title>Moeder met kind en dienstmeisje</title>
+          <title>Les soins maternels</title>
+          <creator>Bonnet, Louis Marin</creator>
+          <contributor>Huet, Jean Baptiste (le vieux)</contributor>
+          <contributor>Bonnet, Louis Marin</contributor>
+          <date>1782-06-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1921-2098</identifier>
+        <datestamp>2021-01-28T13:23:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42771</identifier>
+          <identifier>RP-P-1921-2098</identifier>
+          <title>De een tegen de ander</title>
+          <title>Unos à otros</title>
+          <title>Los Caprichos</title>
+          <creator>Goya, Francisco de</creator>
+          <contributor>Goya, Francisco de</contributor>
+          <date>1797 - 1799</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-460</identifier>
+        <datestamp>2021-01-28T13:23:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42821</identifier>
+          <identifier>RP-P-1961-460</identifier>
+          <title>Mannen in zakken</title>
+          <title>Los Ensacados</title>
+          <title>Los Disparates (De dwaasheden)</title>
+          <title>Los Proverbios (De spreekwoorden)</title>
+          <creator>Goya, Francisco de</creator>
+          <contributor>Goya, Francisco de</contributor>
+          <contributor>Real Academia de Nobles Artes de San Fernando</contributor>
+          <date>1815 - 1820</date>
+          <date>1864</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+          <coverage>Madrid</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1625</identifier>
+        <datestamp>2019-05-23T15:56:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47219</identifier>
+          <identifier>RP-P-1910-1625</identifier>
+          <title>Kop van een man, in profiel naar links</title>
+          <creator>anoniem</creator>
+          <date>1680 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTkwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

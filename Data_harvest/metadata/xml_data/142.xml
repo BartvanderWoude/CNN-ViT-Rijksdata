@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyODIw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2304H</identifier>
+        <datestamp>2022-02-25T10:44:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37686</identifier>
+          <identifier>RP-P-OB-2304H</identifier>
+          <title>Bruiloftsoptocht</title>
+          <title>Zeden en Gewoonten der Turken</title>
+          <creator>Coecke van Aelst, Pieter (I)</creator>
+          <contributor>Bessemers, Marie</contributor>
+          <contributor>Karel V van Habsburg (Duits keizer en koning van Spanje)</contributor>
+          <subject>Istanboel</subject>
+          <date>1553</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4204</identifier>
+        <datestamp>2019-05-29T14:49:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38178</identifier>
+          <identifier>RP-P-BI-4204</identifier>
+          <title>Landschap met een ossewagen, gezicht tussen Ancona en Senigallia</title>
+          <title>Italiaanse Landschappen</title>
+          <creator>Both, Jan</creator>
+          <contributor>Both, Jan</contributor>
+          <contributor>Matham, Theodor</contributor>
+          <subject>Ancona</subject>
+          <subject>Senigallia</subject>
+          <date>1644 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-110</identifier>
+        <datestamp>2021-10-02T12:11:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37583</identifier>
+          <identifier>RP-P-BI-110</identifier>
+          <title>Schijn bedriegt</title>
+          <title>Schijn bedrieght</title>
+          <title>Verderf-traps beeld-schrift ofte heiligh letteren dat is. Hieroglifica.</title>
+          <creator>anoniem</creator>
+          <subject>spreekwoorden, gezegden etc.</subject>
+          <date>1520 - 1560</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1986-2</identifier>
+        <datestamp>2021-01-28T13:10:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37832</identifier>
+          <identifier>RP-P-1986-2</identifier>
+          <title>Naakte vrouw met wapenschild</title>
+          <creator>Vellert, Dirck</creator>
+          <date>1525</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-980</identifier>
+        <datestamp>2019-05-29T14:49:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38078</identifier>
+          <identifier>RP-P-BI-980</identifier>
+          <title>Ooi met twee lammeren</title>
+          <title>Schapen</title>
+          <title>Animalia ad vivum delineata et aqua forti aeri impressa Studio et Arte Nicolai Berchemi</title>
+          <creator>Berchem, Nicolaes Pietersz.</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <contributor>Matham, Theodor</contributor>
+          <date>1646 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-12207</identifier>
+        <datestamp>2019-05-09T15:51:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37436</identifier>
+          <identifier>RP-P-1887-A-12207</identifier>
+          <title>De heiligen Christoffel en Sebastiaan</title>
+          <title>Heiligen met Anna te Drieën</title>
+          <creator>Cornelisz. van Oostsanen, Jacob</creator>
+          <date>1509 - 1513</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4920</identifier>
+        <datestamp>2019-05-09T15:54:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37978</identifier>
+          <identifier>RP-P-BI-4920</identifier>
+          <title>Landschap met gesloten hekje</title>
+          <creator>Brosterhuyzen, Jan van</creator>
+          <contributor>Brosterhuyzen, Jan van</contributor>
+          <date>1610 - 1650</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-661</identifier>
+        <datestamp>2019-05-09T15:56:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38224</identifier>
+          <identifier>RP-P-1878-A-661</identifier>
+          <title>Rotskust in Campania met stad en reizigers</title>
+          <creator>Bril, Paul</creator>
+          <contributor>Bril, Paul</contributor>
+          <contributor>Orlandi, Giovanni</contributor>
+          <subject>Campania</subject>
+          <date>1590</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1927-426-18</identifier>
+        <datestamp>2020-11-20T13:40:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37706</identifier>
+          <identifier>RP-P-1927-426-18</identifier>
+          <title>Stamboom van het Habsburgse huis, blad achttien</title>
+          <title>Stamboom van het Habsburgse Huis</title>
+          <creator>Péril, Robert</creator>
+          <contributor>Péril, Robert</contributor>
+          <subject>Habsburgse huis</subject>
+          <date>1533 - 1535</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4834</identifier>
+        <datestamp>2019-05-29T14:49:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38204</identifier>
+          <identifier>RP-P-BI-4834</identifier>
+          <title>Via Flaminia nabij Rome</title>
+          <title>Romeinse ruïnes</title>
+          <title>Verscheyden Vervallen gebouwen Soo binnen als buyten Romen</title>
+          <creator>Breenbergh, Bartholomeus</creator>
+          <contributor>Breenbergh, Bartholomeus</contributor>
+          <subject>Via Flaminia</subject>
+          <date>1639 - 1640</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6241</identifier>
+        <datestamp>2019-05-29T14:47:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37563</identifier>
+          <identifier>RP-P-BI-6241</identifier>
+          <title>Mozes ontvangt de Stenen Tafelen</title>
+          <creator>anoniem</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <contributor>Cornelisz. van Oostsanen, Jacob</contributor>
+          <date>1525 - 1530</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-959</identifier>
+        <datestamp>2019-05-29T14:48:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38061</identifier>
+          <identifier>RP-P-BI-959</identifier>
+          <title>Staande en liggende geit of bok</title>
+          <title>Geiten</title>
+          <title>Animalia ad vivum delineata et aqua forti aeri impressa Studio et Arte Nicolai Berchemi</title>
+          <creator>Berchem, Nicolaes Pietersz.</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>1648 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-663</identifier>
+        <datestamp>2019-05-09T15:56:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38227</identifier>
+          <identifier>RP-P-1878-A-663</identifier>
+          <title>Rotskust in Campania met stad en reizigers</title>
+          <creator>Bril, Paul</creator>
+          <contributor>Bril, Paul</contributor>
+          <contributor>Cenci, Vincenzo</contributor>
+          <subject>Campania</subject>
+          <date>1590</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6320</identifier>
+        <datestamp>2020-05-06T11:48:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37493</identifier>
+          <identifier>RP-P-BI-6320</identifier>
+          <title>De profeet Zacharia</title>
+          <title>De Profeten</title>
+          <creator>Cornelisz. van Oostsanen, Jacob</creator>
+          <date>1521 - 1525</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-1919</identifier>
+        <datestamp>2019-05-09T15:53:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37826</identifier>
+          <identifier>RP-P-1909-1919</identifier>
+          <title>Faun</title>
+          <creator>Vellert, Dirck</creator>
+          <date>1522-09-14</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-986</identifier>
+        <datestamp>2019-05-29T14:49:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38084</identifier>
+          <identifier>RP-P-BI-986</identifier>
+          <title>Blatend schaap tussen twee schapen en een lam</title>
+          <title>Schapen</title>
+          <title>Animalia ad vivum delineata et aqua forti aeri impressa Studio et Arte Nicolai Berchemi</title>
+          <creator>Berchem, Nicolaes Pietersz.</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>1646 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4217</identifier>
+        <datestamp>2021-07-12T16:39:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38155</identifier>
+          <identifier>RP-P-BI-4217</identifier>
+          <title>Smaak</title>
+          <title>De Smaek</title>
+          <title>Vijf Zintuigen</title>
+          <creator>Both, Jan</creator>
+          <contributor>Both, Andries</contributor>
+          <date>1620 - 1638</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1912-334</identifier>
+        <datestamp>2020-05-06T11:49:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37800</identifier>
+          <identifier>RP-P-1912-334</identifier>
+          <title>Man van Smarten</title>
+          <title>Ecce homo</title>
+          <creator>Crabbe van Espleghem, Frans</creator>
+          <date>1490 - 1552</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2165</identifier>
+        <datestamp>2019-05-09T15:53:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37849</identifier>
+          <identifier>RP-P-OB-2165</identifier>
+          <title>Nebukadnezar werpt de drie jongelingen in de vurige oven</title>
+          <creator>Key, Adriaen Thomasz.</creator>
+          <date>1554 - 1589</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1932-173</identifier>
+        <datestamp>2022-02-23T15:45:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37369</identifier>
+          <identifier>RP-P-1932-173</identifier>
+          <title>Portret van Anna van Oostenrijk</title>
+          <creator>Anthonisz., Cornelis</creator>
+          <contributor>Liefrinck, Hans (I)</contributor>
+          <contributor>Liefrinck, Hans (I)</contributor>
+          <contributor>Liefrinck, Hans (I)</contributor>
+          <subject>Anna (koningin van Hongarije)</subject>
+          <date>1540 - voor 1547</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyODQw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

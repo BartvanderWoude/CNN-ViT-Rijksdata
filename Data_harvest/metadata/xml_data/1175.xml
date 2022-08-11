@@ -1,0 +1,448 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzQ4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1959-182(V)</identifier>
+        <datestamp>2021-10-02T12:19:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49801</identifier>
+          <identifier>RP-T-1959-182(V)</identifier>
+          <title>Enige vrouwenhoofden</title>
+          <creator>Muziano, Girolamo</creator>
+          <date>1538 - 1592</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1954-179</identifier>
+        <datestamp>2019-01-30T13:01:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50048</identifier>
+          <identifier>RP-T-1954-179</identifier>
+          <title>Soldaat in gesprek met een man met een tulband</title>
+          <creator>anoniem</creator>
+          <date>1550 - 1590</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3008-B</identifier>
+        <datestamp>2021-11-02T08:30:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50314</identifier>
+          <identifier>BK-NM-3008-B</identifier>
+          <title>Vork</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1625</date>
+          <type>vork</type>
+          <format>ivoor</format>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Königsberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1921-276(V)</identifier>
+        <datestamp>2021-10-12T21:17:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50613</identifier>
+          <identifier>RP-T-1921-276(V)</identifier>
+          <title>Astrolabium</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1699</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1887-A-1405</identifier>
+        <datestamp>2021-10-02T12:19:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49901</identifier>
+          <identifier>RP-T-1887-A-1405</identifier>
+          <title>Mercurius en Io op de grond gezeten</title>
+          <creator>Primaticcio, Francesco</creator>
+          <date>1541 - 1547</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.767</identifier>
+        <datestamp>2022-03-02T15:18:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50148</identifier>
+          <identifier>RP-P-OB-17.767</identifier>
+          <title>Gezicht op een zeehaven bij rotsachtige kust met Romeins bouwwerk</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1774-01-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8478</identifier>
+        <datestamp>2021-10-02T12:22:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50474</identifier>
+          <identifier>BK-NM-8478</identifier>
+          <title>Rivierlandschap</title>
+          <creator>Vianen, Paulus Willemsz. van</creator>
+          <description>Paulus van Vianen bezat het vermogen om zijn eigen tekeningen van landschappen en stadsgezichten te vertalen in ragfijn drijfwerk in zilver. Dit reliëf is een bloemlezing uit tekeningen die de kunstenaar in en om Praag maakte. Het is een uitzonderlijk werk voor Vianen: een voorstelling van de alledaagse werkelijkheid, zonder enige verwijzing naar religie of mythologie.</description>
+          <date>1607</date>
+          <type>plaquette</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Praag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3810-A</identifier>
+        <datestamp>2021-10-02T12:23:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50760</identifier>
+          <identifier>BK-NM-3810-A</identifier>
+          <title>Fragment veelkleurig, gestreept zijden mexicaine</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>mexicaine</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1959-155(R)</identifier>
+        <datestamp>2021-10-02T12:20:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49919</identifier>
+          <identifier>RP-T-1959-155(R)</identifier>
+          <title>Twee hoofden van mannen met hoofddeksels</title>
+          <title>Hoofden van mannen met uitheemse hoofddeksels</title>
+          <creator>Ripanda, Jacopo</creator>
+          <date>1500 - 1525</date>
+          <type>tekening</type>
+          <format>geprepareerd papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-30.959</identifier>
+        <datestamp>2019-05-22T12:34:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50187</identifier>
+          <identifier>RP-P-OB-30.959</identifier>
+          <title>Vier kerkvaders</title>
+          <creator>Beccafumi, Domenico</creator>
+          <date>1542 - 1546</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-4887</identifier>
+        <datestamp>2021-11-02T08:31:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50373</identifier>
+          <identifier>BK-NM-4887</identifier>
+          <title>Knipmes met email heft</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>knipmes</type>
+          <format>koper</format>
+          <format>email</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5034-C</identifier>
+        <datestamp>2021-10-02T12:22:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50446</identifier>
+          <identifier>BK-NM-5034-C</identifier>
+          <title>Tiberius Julius Caesar Augustus.</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1800</date>
+          <type>medaillon</type>
+          <format>parelmoer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1913-156</identifier>
+        <datestamp>2019-01-03T16:49:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50748</identifier>
+          <identifier>RP-T-1913-156</identifier>
+          <title>Boerderij aan een weg</title>
+          <creator>Goyen, Jan van</creator>
+          <date>1629 - 1631</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-307</identifier>
+        <datestamp>2021-10-02T12:19:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49775</identifier>
+          <identifier>RP-T-1948-307</identifier>
+          <title>Maria als middelares en Christus als Heer der Wereld</title>
+          <creator>Morazzone, Pier Francesco</creator>
+          <date>1581 - 1626</date>
+          <type>tekening</type>
+          <format>geprepareerd papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1964-80</identifier>
+        <datestamp>2021-10-02T12:19:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49824</identifier>
+          <identifier>RP-T-1964-80</identifier>
+          <title>Achteroverliggende naakte jongeman</title>
+          <creator>Palma, Jacopo (il Giovane)</creator>
+          <date>1554 - 1628</date>
+          <type>tekening</type>
+          <format>kardoespapier</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3859</identifier>
+        <datestamp>2021-11-02T08:30:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50288</identifier>
+          <identifier>BK-NM-3859</identifier>
+          <title>Suikerstrooilepel met ronde opengewerkte bak met gedraaide, gekartelde rand</title>
+          <creator>Schmidt, Johan Hendrik</creator>
+          <date>ca. 1800</date>
+          <type>lepel</type>
+          <type>suikerstrooier</type>
+          <format>zilver</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2139</identifier>
+        <datestamp>2021-10-02T12:20:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49968</identifier>
+          <identifier>RP-T-1889-A-2139</identifier>
+          <title>Caius Fabricius Luscinus in het kamp van Pyrrhus</title>
+          <creator>Raffaellino da Reggio</creator>
+          <contributor>Polidoro da Caravaggio</contributor>
+          <date>1560 - 1578</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1958-119</identifier>
+        <datestamp>2021-10-02T12:20:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50131</identifier>
+          <identifier>RP-T-1958-119</identifier>
+          <title>Ontwerp voor een grafmonument met ruiterbeeld</title>
+          <creator>Leoni, Leone</creator>
+          <date>1520 - 1590</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1952-110A</identifier>
+        <datestamp>2018-12-06T15:29:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49895</identifier>
+          <identifier>RP-T-1952-110A</identifier>
+          <title>Ontwerp voor de beschildering van een gewelf met figuren, putti, dieren en ornamenten</title>
+          <creator>Poccetti, Bernardino</creator>
+          <date>1558 - 1612</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1981-24</identifier>
+        <datestamp>2021-10-02T12:20:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49945</identifier>
+          <identifier>RP-T-1981-24</identifier>
+          <title>Neptunus voor een nis met Amphitrite (?)</title>
+          <creator>Salviati, Francesco</creator>
+          <description>De schilder Salviati werd hier voor de neerwaarts gerichte arm van Neptunus geïnspireerd door de rechterarm van Michelangelo’s beeld de Avond. Een afbeelding van dit beeld van het graf van Lorenzo de’ Medici in Florence is ook te zien in deze zaal. Ook uit andere schetsen blijkt dat Salviati Michelangelo’s beelden goed heeft bestudeerd. Op deze tekening experimenteerde hij met de stand van de hand.</description>
+          <date>1520 - 1563</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzUwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

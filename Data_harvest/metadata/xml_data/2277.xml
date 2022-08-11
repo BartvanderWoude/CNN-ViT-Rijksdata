@@ -1,0 +1,496 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NTUyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1879-A-11</identifier>
+        <datestamp>2020-03-20T08:29:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63631</identifier>
+          <identifier>RP-T-1879-A-11</identifier>
+          <title>Portrait van een jonge vrouw</title>
+          <creator>Visscher, Cornelis (II)</creator>
+          <date>ca. 1654 - ca. 1658</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1979-497-H</identifier>
+        <datestamp>2021-10-07T16:29:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69286</identifier>
+          <identifier>NG-1979-497-H</identifier>
+          <title>Hals van een wijnfles uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>wijnfles</type>
+          <type>hals (objectnaam)</type>
+          <type>scherf</type>
+          <format>groen glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-3144-2</identifier>
+        <datestamp>2021-10-19T15:38:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69534</identifier>
+          <identifier>NG-1980-27-H-3144-2</identifier>
+          <title>Scherven van borden uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>bord (vaatwerk)</type>
+          <type>scherf</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-1620</identifier>
+        <datestamp>2021-10-19T15:39:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69620</identifier>
+          <identifier>NG-1980-27-H-1620</identifier>
+          <title>Scherven van een kan uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>steengoed</type>
+          <type>kan</type>
+          <type>scherf</type>
+          <format>steengoed</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Westerwald</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1975-50A-H-502</identifier>
+        <datestamp>2021-10-02T13:06:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69866</identifier>
+          <identifier>NG-1975-50A-H-502</identifier>
+          <title>Staafje zegellak uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>zegellak</type>
+          <format>was</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2524</identifier>
+        <datestamp>2021-10-07T16:28:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.68966</identifier>
+          <identifier>NG-1980-27-H-2524</identifier>
+          <title>Fragment pijpensteel uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>rook- en tabakwaar</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>pijpensteel</type>
+          <format>pijpaarde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1941-13(V)</identifier>
+        <datestamp>2021-01-28T13:40:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69219</identifier>
+          <identifier>RP-T-1941-13(V)</identifier>
+          <title>Fragment van een studie van mannelijk naakt</title>
+          <creator>Schobbens, Quellinus</creator>
+          <date>1682 - 1711</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-950</identifier>
+        <datestamp>2016-10-20T20:10:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64329</identifier>
+          <identifier>RP-F-00-950</identifier>
+          <title>Versieringen in Den Haag ter gelegenheid van de inhuldiging van koningin Wilhelmina, 1898</title>
+          <creator>anoniem</creator>
+          <subject>Koninklijk Huis</subject>
+          <subject>inhuldiging</subject>
+          <subject>Inhuldiging van Wilhelmina als koningin der Nederlanden</subject>
+          <subject>Amsterdam</subject>
+          <subject>Den Haag</subject>
+          <subject>Wilhelmina (koningin der Nederlanden)</subject>
+          <date>1898</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1982-53</identifier>
+        <datestamp>2019-09-09T16:25:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64699</identifier>
+          <identifier>RP-T-1982-53</identifier>
+          <title>Ontwerp voor een hoekstuk van een plafond met zittende figuren, putti en buste van een sater</title>
+          <title>Vier delen van een plafondontwerp</title>
+          <creator>Terwesten, Mattheus</creator>
+          <contributor>Terwesten, Augustinus (I)</contributor>
+          <date>1680 - 1757</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-309-B</identifier>
+        <datestamp>2019-08-01T09:42:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63857</identifier>
+          <identifier>BK-BR-J-309-B</identifier>
+          <title>Japonstrook van applicatiekant met de peervormige medaillons</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-488</identifier>
+        <datestamp>2021-01-28T13:40:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69233</identifier>
+          <identifier>RP-T-1948-488</identifier>
+          <title>Naaktfiguur met gebogen hoofd</title>
+          <creator>Thulden, Theodoor van</creator>
+          <contributor>Herreyns, Jacob (I)</contributor>
+          <date>1616 - 1669</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-983</identifier>
+        <datestamp>2021-03-10T09:01:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64439</identifier>
+          <identifier>RP-F-00-983</identifier>
+          <title>Gezicht op Graz, Oostenrijk</title>
+          <title>Panorama vom Murufer gesehen</title>
+          <title>Graz</title>
+          <creator>Weingartshofer, Karl</creator>
+          <subject>Graz</subject>
+          <date>1867 - 1900</date>
+          <type>kabinetfoto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Graz</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1902-A-4624</identifier>
+        <datestamp>2020-09-21T12:00:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63625</identifier>
+          <identifier>RP-T-1902-A-4624</identifier>
+          <title>Zelfportret met een schedel</title>
+          <creator>Visscher, Cornelis (II)</creator>
+          <subject>Visscher, Cornelis (II)</subject>
+          <date>1653-04-10</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-321-H-2</identifier>
+        <datestamp>2019-08-01T09:42:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63925</identifier>
+          <identifier>BK-BR-J-321-H-2</identifier>
+          <title>Mouwstrook van kloskant met losse roosjes</title>
+          <creator>anoniem</creator>
+          <date>ca. 1910</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1979-492-H</identifier>
+        <datestamp>2021-10-07T16:29:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69277</identifier>
+          <identifier>NG-1979-492-H</identifier>
+          <title>Bodemfragment wijnfles uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>wijnfles</type>
+          <type>scherf</type>
+          <format>groen glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1879-A-61</identifier>
+        <datestamp>2020-04-17T14:15:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64649</identifier>
+          <identifier>RP-T-1879-A-61</identifier>
+          <title>Brug over de slotgracht van kasteel Boetzelaer</title>
+          <creator>Saftleven, Herman</creator>
+          <subject>Burcht Boetzelaer</subject>
+          <date>1619 - 1685</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2516-B</identifier>
+        <datestamp>2021-10-19T15:37:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69528</identifier>
+          <identifier>NG-1980-27-H-2516-B</identifier>
+          <title>Scherven van borden uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>bord (vaatwerk)</type>
+          <type>scherf</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1001</identifier>
+        <datestamp>2017-10-04T23:59:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64489</identifier>
+          <identifier>RP-F-00-1001</identifier>
+          <title>Fotoreproductie van tekening een tekening van plaatsen langs de Rijn en de liedtekst van het Rheinlied</title>
+          <creator>Becker Geschw.</creator>
+          <contributor>Becker Geschw.</contributor>
+          <subject>Zevengebergte</subject>
+          <subject>Rijn</subject>
+          <subject>Rolandseck</subject>
+          <date>1893</date>
+          <type>kabinetfoto</type>
+          <type>reproductie</type>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Königswinter</coverage>
+          <coverage>Königswinter</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-1632</identifier>
+        <datestamp>2021-10-19T15:40:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69970</identifier>
+          <identifier>NG-1980-27-H-1632</identifier>
+          <title>Onderdelen klisteerspuit uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>medische wetenschap</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>klisteerspuit</type>
+          <format>tin</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-20</identifier>
+        <datestamp>2019-01-03T16:46:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64425</identifier>
+          <identifier>RP-T-00-20</identifier>
+          <title>Rivierlandschap met vee en enkele huizen</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NTU0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

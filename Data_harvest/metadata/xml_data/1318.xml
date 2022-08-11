@@ -1,0 +1,496 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjM0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-258</identifier>
+        <datestamp>2021-10-20T13:41:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57410</identifier>
+          <identifier>NG-VG-1-258</identifier>
+          <title>Interim van Augsburg, door Karel V op de Rijksdag afgekondigd</title>
+          <creator>anoniem</creator>
+          <subject>protestantisme</subject>
+          <subject>Augsburger Interim</subject>
+          <subject>Augsburg</subject>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <date>1549</date>
+          <type>spotpenning</type>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Maagdenburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-520</identifier>
+        <datestamp>2021-10-20T14:35:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57696</identifier>
+          <identifier>NG-VG-1-520</identifier>
+          <title>Filips II, koning van Spanje</title>
+          <creator>anoniem</creator>
+          <subject>Filips II (koning van Spanje)</subject>
+          <date>1598</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-598</identifier>
+        <datestamp>2021-10-20T13:43:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57767</identifier>
+          <identifier>NG-VG-1-598</identifier>
+          <title>Herdenking van de nederlaag van Bossu op de Zuiderzee</title>
+          <creator>Uyttenwael, Jacob (1611-1648)</creator>
+          <contributor>Wijntgens, Caspar</contributor>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>herdenking</subject>
+          <subject>Tachtigjarige Oorlog</subject>
+          <subject>Slag op de Zuiderzee</subject>
+          <subject>Zuiderzee</subject>
+          <subject>Maximiliaan (graaf van Hennin-Lietard, graaf van Boussu)</subject>
+          <date>1615</date>
+          <type>historiepenning</type>
+          <type>triomfpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Friesland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.418</identifier>
+        <datestamp>2020-05-06T11:49:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55331</identifier>
+          <identifier>RP-P-OB-22.418</identifier>
+          <title>Ornament met triton en sirene</title>
+          <creator>Leyden, Lucas van</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1508 - 1512</date>
+          <type>prent</type>
+          <type>ornamentprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1909-48</identifier>
+        <datestamp>2019-05-23T15:56:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56490</identifier>
+          <identifier>RP-T-1909-48</identifier>
+          <title>Dame aan tafel zittend</title>
+          <creator>Netscher, Caspar</creator>
+          <contributor>Netscher, Caspar</contributor>
+          <date>1649 - 1684</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-590-A</identifier>
+        <datestamp>2021-10-02T12:34:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57142</identifier>
+          <identifier>BK-1978-590-A</identifier>
+          <title>Strook kloskant met aaneengeschakelde schildvormige cartouches</title>
+          <creator>anoniem</creator>
+          <date>ca. 1840 - ca. 1849</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lille</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-336</identifier>
+        <datestamp>2021-10-20T14:35:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57485</identifier>
+          <identifier>NG-VG-1-336</identifier>
+          <title>Jan Walravenz, rederijker uit Brussel</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>kunsten</subject>
+          <subject>rederijkers</subject>
+          <subject>satire</subject>
+          <subject>Brussel (stad)</subject>
+          <subject>Walravenz, Jan</subject>
+          <date>1563</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-546</identifier>
+        <datestamp>2021-10-20T13:43:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57719</identifier>
+          <identifier>NG-VG-1-546</identifier>
+          <title>Verenigde Amsterdamse Compagnie, munt ter vervanging van de Spaanse 1 reaal</title>
+          <creator>Jonge, Jacob de (muntmeester)</creator>
+          <subject>muntwezen</subject>
+          <subject>betalingsverkeer</subject>
+          <subject>Nederlands Oost-Indië</subject>
+          <subject>Dordrecht</subject>
+          <subject>Verenigde Amsterdamse Compagnie</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>1601</date>
+          <type>munt</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-199</identifier>
+        <datestamp>2020-04-01T16:24:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55816</identifier>
+          <identifier>RP-T-00-199</identifier>
+          <title>Berglandschap met gezicht op de pas op de Loiblberg</title>
+          <creator>Meyering, Albert</creator>
+          <subject>Loiblpas</subject>
+          <date>ca. 1677 - ca. 1678</date>
+          <date>ca. 1687 - ca. 1690</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-594-B</identifier>
+        <datestamp>2021-11-02T11:51:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56918</identifier>
+          <identifier>BK-KOG-594-B</identifier>
+          <title>Paneel met opengewerkt symmetrisch ornament van acanthusranken met bloemen en putti en in het midden een adelaar en putto op festoen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1650 - ca. 1700</date>
+          <type>meubilair</type>
+          <type>betimmering</type>
+          <type>onderdeel</type>
+          <type>paneel</type>
+          <format>hout</format>
+          <format>eikenhout</format>
+          <format>notenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-25</identifier>
+        <datestamp>2021-10-20T14:34:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57199</identifier>
+          <identifier>NG-VG-1-25</identifier>
+          <title>Huwelijk van Maximiliaan, aartshertog van Oostenrijk met Maria, hertogin van Bourgondie</title>
+          <creator>anoniem</creator>
+          <subject>Maximiliaan I van Habsburg (keizer van het Heilige Roomse Rijk)</subject>
+          <subject>Maria (hertogin van Bourgondië)</subject>
+          <date>1477</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-314</identifier>
+        <datestamp>2021-10-20T13:41:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57462</identifier>
+          <identifier>NG-VG-1-314</identifier>
+          <title>Overlijden van Maria I, koningin van Engeland</title>
+          <creator>Dassier, Jean</creator>
+          <subject>Maria I (koningin van Engeland)</subject>
+          <date>1731 - 1732</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Genève</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-53</identifier>
+        <datestamp>2021-10-20T14:34:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57223</identifier>
+          <identifier>NG-VG-1-53</identifier>
+          <title>Girolamo Savonarola, Dominicaans predikant te Florence</title>
+          <creator>Fiorentino, Niccolo</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>katholicisme</subject>
+          <subject>kloosterwezen</subject>
+          <subject>Dominicanen</subject>
+          <subject>Florence</subject>
+          <subject>Savonarola, Girolamo</subject>
+          <date>1498</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-287</identifier>
+        <datestamp>2021-10-20T13:41:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57439</identifier>
+          <identifier>NG-VG-1-287</identifier>
+          <title>Herstel van het katholicisme in Engeland, penning ter ere van paus Julius III</title>
+          <creator>Cavino, Giovanni</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>katholicisme</subject>
+          <subject>herstel van katholicisme</subject>
+          <subject>Engeland</subject>
+          <subject>Julius III</subject>
+          <subject>Maria I (koningin van Engeland)</subject>
+          <subject>Filips II (koning van Spanje)</subject>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <subject>Pole, Reginald</subject>
+          <date>1554</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1887-A-1343</identifier>
+        <datestamp>2021-10-02T12:32:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55606</identifier>
+          <identifier>RP-T-1887-A-1343</identifier>
+          <title>Gezicht door een portiek en zuilenrij</title>
+          <creator>Marot, Daniël (I)</creator>
+          <date>1672 - 1752</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-81</identifier>
+        <datestamp>2021-10-20T14:34:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57246</identifier>
+          <identifier>NG-VG-1-81</identifier>
+          <title>Niccolo Ursini, graaf van Pitigliano en Nola, benoemd tot veldheer van Venetië</title>
+          <creator>anoniem</creator>
+          <subject>Ursini, Niccolo (graaf van Pitigliano-Nola)</subject>
+          <date>1509</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-264</identifier>
+        <datestamp>2021-10-20T14:35:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57416</identifier>
+          <identifier>NG-VG-1-264</identifier>
+          <title>Jubeljaar afgekondigd door paus Julius III</title>
+          <creator>anoniem</creator>
+          <subject>katholicisme</subject>
+          <subject>jubeljaar</subject>
+          <subject>paus</subject>
+          <subject>Julius III</subject>
+          <date>1550</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.422</identifier>
+        <datestamp>2020-05-06T11:49:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55341</identifier>
+          <identifier>RP-P-OB-22.422</identifier>
+          <title>De tandarts</title>
+          <creator>Leyden, Lucas van</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1523</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-598</identifier>
+        <datestamp>2021-10-02T12:34:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57133</identifier>
+          <identifier>BK-1978-598</identifier>
+          <title>Strook naaldkant met golvende bladerrank</title>
+          <creator>anoniem</creator>
+          <date>ca. 1770 - ca. 1785</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Argentan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-108</identifier>
+        <datestamp>2021-10-20T13:40:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57270</identifier>
+          <identifier>NG-VG-1-108</identifier>
+          <title>Religieuze penning</title>
+          <creator>anoniem</creator>
+          <date>1521</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjM2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

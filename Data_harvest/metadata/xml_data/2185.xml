@@ -1,0 +1,491 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MzY4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.289</identifier>
+        <datestamp>2021-01-28T13:42:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70459</identifier>
+          <identifier>RP-P-OB-50.289</identifier>
+          <title>Landschap met hut en molensteen</title>
+          <title>De molensteen</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1969-2</identifier>
+        <datestamp>2020-05-26T15:05:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64855</identifier>
+          <identifier>RP-T-1969-2</identifier>
+          <title>Gezicht op een vijver bij Ahmadabad</title>
+          <title>De Groote Tangh Buyten Amadabat</title>
+          <title>Gezichten in India uit de jaren 1678-1679</title>
+          <creator>anoniem</creator>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Ahmadabad</subject>
+          <subject>India</subject>
+          <date>1678</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-62</identifier>
+        <datestamp>2021-08-10T16:49:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71762</identifier>
+          <identifier>RP-P-BI-62</identifier>
+          <title>Voorjaar</title>
+          <title>Ver</title>
+          <title>De vier jaargetijden</title>
+          <creator>Almeloveen, Jan van</creator>
+          <contributor>Hollar, Wenceslaus</contributor>
+          <contributor>Saftleven, Herman</contributor>
+          <date>1662 - 1683</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2512</identifier>
+        <datestamp>2021-10-07T16:33:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70157</identifier>
+          <identifier>NG-1980-27-H-2512</identifier>
+          <title>Messenheft uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>messenheft</type>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2558</identifier>
+        <datestamp>2021-10-19T15:41:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70232</identifier>
+          <identifier>NG-1980-27-H-2558</identifier>
+          <title>Decoratief beslag uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>beslag</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-5019</identifier>
+        <datestamp>2022-02-25T17:06:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70435</identifier>
+          <identifier>RP-P-1882-A-5019</identifier>
+          <title>Twee molens aan het water</title>
+          <creator>Everdingen, Adrianus van</creator>
+          <date>1842 - 1882</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-2896</identifier>
+        <datestamp>2021-01-28T13:55:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71533</identifier>
+          <identifier>RP-P-1911-2896</identifier>
+          <title>Laan met rijtuigen en wandelaars op Honselaarsdijk</title>
+          <title>De groote laan, van voor 's konings-huis, na Delft te zien</title>
+          <title>Hollands Lustpark besluitende zyn Britannische majesteits hof-gebouw tot Honslaardyk</title>
+          <creator>Allard, Carel</creator>
+          <contributor>Allard, Carel</contributor>
+          <subject>Paleis Honselaarsdijk</subject>
+          <date>1689 - 1702</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1880-A-4570</identifier>
+        <datestamp>2021-01-28T14:01:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.72071</identifier>
+          <identifier>RP-P-1880-A-4570</identifier>
+          <title>Titelpagina voor Alexander ab Alexandro, Genialium dierum,  deel 2, 1673</title>
+          <creator>Appelmans, Gonsales</creator>
+          <contributor>Webber, Zacharias (II)</contributor>
+          <date>1673</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-1100</identifier>
+        <datestamp>2021-10-07T16:32:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70131</identifier>
+          <identifier>NG-1980-27-H-1100</identifier>
+          <title>Messenheft uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>messenheft</type>
+          <format>hout</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-256</identifier>
+        <datestamp>2021-10-07T16:33:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70181</identifier>
+          <identifier>NG-1980-27-H-256</identifier>
+          <title>Messenheftring uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>messenheft</type>
+          <type>beslagring</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1940-623</identifier>
+        <datestamp>2021-03-19T16:32:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65819</identifier>
+          <identifier>RP-T-1940-623</identifier>
+          <title>Twee ornamentale schoorsteenontwerpen</title>
+          <creator>Bigari, Vittorio Maria</creator>
+          <contributor>Vittorio, Alessandro</contributor>
+          <date>1702 - 1776</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1913-59(R)</identifier>
+        <datestamp>2021-01-28T13:40:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70344</identifier>
+          <identifier>RP-T-1913-59(R)</identifier>
+          <title>Gezicht op het kasteel Cantecroy (?)</title>
+          <creator>Uden, Lucas van</creator>
+          <subject>Kantekrooi</subject>
+          <subject>Antwerpen (stad)</subject>
+          <date>1605 - 1673</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1957-245</identifier>
+        <datestamp>2021-12-01T14:48:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65230</identifier>
+          <identifier>RP-T-1957-245</identifier>
+          <title>Portret van een onbekende staande man</title>
+          <creator>anoniem</creator>
+          <contributor>Cortona, Pietro da</contributor>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-436(R)</identifier>
+        <datestamp>2019-01-31T08:52:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65770</identifier>
+          <identifier>RP-T-1953-436(R)</identifier>
+          <title>Toren van een kerk</title>
+          <title>Schetsbladen met figuurstudies</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Verona</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1958-94(R)</identifier>
+        <datestamp>2019-09-10T11:45:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64965</identifier>
+          <identifier>RP-T-1958-94(R)</identifier>
+          <title>Staande man bij een piedestal</title>
+          <creator>Carpioni, Giulio (I)</creator>
+          <date>1621 - 1674</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2381</identifier>
+        <datestamp>2021-10-07T16:33:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70151</identifier>
+          <identifier>NG-1980-27-H-2381</identifier>
+          <title>Fragment messenheft uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>messenheft</type>
+          <type>fragment</type>
+          <format>hout</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1142</identifier>
+        <datestamp>2022-01-24T11:04:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64939</identifier>
+          <identifier>RP-F-00-1142</identifier>
+          <title>Restanten van de Venustempel te Pompeï</title>
+          <title>Tempio di Venere</title>
+          <title>Pompei</title>
+          <creator>Brogi, Giacomo</creator>
+          <contributor>Brogi, Giacomo</contributor>
+          <subject>Venustempel</subject>
+          <date>1864 - 1881</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pompeï</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1981-53(V)</identifier>
+        <datestamp>2021-10-02T12:49:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64988</identifier>
+          <identifier>RP-T-1981-53(V)</identifier>
+          <title>Knielende geestelijke in dalmatiek</title>
+          <creator>Domenichino</creator>
+          <date>1591 - 1641</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15263</identifier>
+        <datestamp>2021-01-28T14:01:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.72063</identifier>
+          <identifier>RP-P-1890-A-15263</identifier>
+          <title>Gezicht op de haven van Napels</title>
+          <creator>Apostool, Cornelis</creator>
+          <contributor>Ricci, Marco</contributor>
+          <subject>Napels</subject>
+          <subject>Vesuvius</subject>
+          <date>1772 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.372</identifier>
+        <datestamp>2021-01-28T13:43:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70579</identifier>
+          <identifier>RP-P-OB-50.372</identifier>
+          <title>Berglandschap met kerk</title>
+          <title>Naaldbomen in een nauwe doorgang</title>
+          <creator>Everdingen, Allaert van</creator>
+          <date>1631 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MzcwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

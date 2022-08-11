@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTc2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1888-A-1615</identifier>
+        <datestamp>2021-07-26T20:51:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51814</identifier>
+          <identifier>RP-T-1888-A-1615</identifier>
+          <title>Gezicht op het fort St. Michiel bij 's-Hertogenbosch</title>
+          <creator>Grave, Josua de</creator>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <subject>Pettelaarse schans (Den Bosch)</subject>
+          <date>1672</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>'s-Hertogenbosch</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1897-A-3416</identifier>
+        <datestamp>2019-01-03T16:49:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51208</identifier>
+          <identifier>RP-T-1897-A-3416</identifier>
+          <title>Veedrijvers en vee op een helling</title>
+          <creator>Goyen, Jan van</creator>
+          <subject>koe</subject>
+          <date>1630 - 1633</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.866</identifier>
+        <datestamp>2022-03-02T15:20:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51303</identifier>
+          <identifier>RP-P-OB-17.866</identifier>
+          <title>Landschap met twee steden op heuvels en veedrijvers die rivier oversteken</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>1775-09-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.878</identifier>
+        <datestamp>2022-03-02T15:20:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51564</identifier>
+          <identifier>RP-P-OB-17.878</identifier>
+          <title>Landschap met de Triomfboog van Constantijn, het Colosseum en tekenaar</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <subject>Colosseum</subject>
+          <subject>Boog van Constantijn</subject>
+          <subject>Lorrain, Claude</subject>
+          <date>1775-09-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.910</identifier>
+        <datestamp>2022-03-02T15:20:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51671</identifier>
+          <identifier>RP-P-OB-17.910</identifier>
+          <title>Landschap met Jacob, Laban, Lea en Rachel bij een kudde schapen</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1776-09-02</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.203</identifier>
+        <datestamp>2019-05-22T12:39:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52057</identifier>
+          <identifier>RP-P-OB-31.203</identifier>
+          <title>Maria met Kind</title>
+          <creator>anoniem</creator>
+          <contributor>Sarto, Andrea del</contributor>
+          <date>in of na ca. 1496</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3672-A</identifier>
+        <datestamp>2021-10-02T12:25:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52106</identifier>
+          <identifier>BK-NM-3672-A</identifier>
+          <title>Fragment veelkleurige gebrocheerde zijde</title>
+          <date>ca. 1700 - ca. 1730</date>
+          <type>gebrocheerde zijde</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-333-B</identifier>
+        <datestamp>2021-10-02T12:25:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52145</identifier>
+          <identifier>BK-1955-333-B</identifier>
+          <title>Veld van vier tegels</title>
+          <creator>anoniem</creator>
+          <date>ca. 1620 - ca. 1640</date>
+          <type>tegel</type>
+          <type>tegelveld</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.144</identifier>
+        <datestamp>2019-05-22T12:38:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51756</identifier>
+          <identifier>RP-P-OB-31.144</identifier>
+          <title>Aanbidding door de koningen</title>
+          <creator>Vicentino, Niccolò</creator>
+          <contributor>Parmigianino</contributor>
+          <contributor>Andreani, Andrea</contributor>
+          <date>1605</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5836</identifier>
+        <datestamp>2021-10-02T12:24:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52049</identifier>
+          <identifier>BK-NM-5836</identifier>
+          <title>Deur van een muurkast</title>
+          <creator>anoniem</creator>
+          <date>1500</date>
+          <type>interieuronderdeel</type>
+          <type>bouwfragment</type>
+          <type>fragment</type>
+          <type>meubilair</type>
+          <type>deur</type>
+          <type>kastdeur</type>
+          <format>hout</format>
+          <format>eikenhout</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-391-D</identifier>
+        <datestamp>2021-10-02T12:24:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51857</identifier>
+          <identifier>BK-BR-391-D</identifier>
+          <title>Fragment oosterse textiel</title>
+          <date>ca. 1800 - ca. 1850</date>
+          <type>gebrocheerde zijde</type>
+          <format>zijde</format>
+          <format>katoen</format>
+          <format>filégouddraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Indië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1897-A-3414</identifier>
+        <datestamp>2019-01-03T16:49:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51202</identifier>
+          <identifier>RP-T-1897-A-3414</identifier>
+          <title>Twee figuren bij een waterput</title>
+          <creator>Goyen, Jan van</creator>
+          <date>1653</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.048</identifier>
+        <datestamp>2019-05-22T12:36:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51312</identifier>
+          <identifier>RP-P-OB-31.048</identifier>
+          <title>Lezende Sibille met kind</title>
+          <creator>anoniem</creator>
+          <contributor>Trento, Antonio da</contributor>
+          <contributor>Carpi, Ugo da</contributor>
+          <contributor>Rafaël</contributor>
+          <subject>lezen</subject>
+          <date>in of na ca. 1516</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.913</identifier>
+        <datestamp>2022-03-02T15:21:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51677</identifier>
+          <identifier>RP-P-OB-17.913</identifier>
+          <title>Landschap met Mercurius die Argus in slaap speelt met zijn fluit</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1776-09-02</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1928-67</identifier>
+        <datestamp>2021-05-17T15:33:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51978</identifier>
+          <identifier>RP-T-1928-67</identifier>
+          <title>Gezicht op een denkbeeldige Italiaanse haven</title>
+          <creator>Grave, Josua de</creator>
+          <date>in of na ca. 1667 - </date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1886-A-598(R)</identifier>
+        <datestamp>2019-01-03T15:15:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51394</identifier>
+          <identifier>RP-T-1886-A-598(R)</identifier>
+          <title>Muziekgezelschap</title>
+          <creator>Hoet, Gerard (I)</creator>
+          <date>1658 - 1733</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11903-35-B</identifier>
+        <datestamp>2022-03-14T14:24:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51504</identifier>
+          <identifier>BK-NM-11903-35-B</identifier>
+          <title>Fragment zijden ciseléfluweel</title>
+          <creator>anoniem</creator>
+          <date>ca. 1550 - ca. 1650</date>
+          <type>ciseléfluweel</type>
+          <format>zijde</format>
+          <format>fluweel</format>
+          <format>ciseléfluweel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1959-122</identifier>
+        <datestamp>2021-10-02T12:25:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52100</identifier>
+          <identifier>RP-T-1959-122</identifier>
+          <title>Portret van een jongeman met de hand vooruitgestoken</title>
+          <creator>Hals, Frans</creator>
+          <date>1600 - 1716</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1992-7</identifier>
+        <datestamp>2021-11-03T17:00:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52151</identifier>
+          <identifier>BK-1992-7</identifier>
+          <title>Kraag- of schijfkandelaar van messing</title>
+          <creator>anoniem</creator>
+          <date>1675 - 1725</date>
+          <type>kandelaar</type>
+          <type>kraagkandelaar</type>
+          <format>messing</format>
+          <format>ijzer</format>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.101</identifier>
+        <datestamp>2019-05-22T12:37:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51534</identifier>
+          <identifier>RP-P-OB-31.101</identifier>
+          <title>Heilige Andreas redt een bisschop</title>
+          <creator>Parasole, Geronima Cagnaccia</creator>
+          <contributor>Tempesta, Antonio</contributor>
+          <subject>duivel(s) en demonen</subject>
+          <date>ca. 1579 - 1622</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTc4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

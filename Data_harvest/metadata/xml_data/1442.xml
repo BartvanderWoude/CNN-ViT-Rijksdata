@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyODgyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-995</identifier>
+        <datestamp>2021-11-03T16:51:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14612</identifier>
+          <identifier>BK-KOG-995</identifier>
+          <title>Kandelaar van messing</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1450 - 1500</date>
+          <type>kandelaar</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1969-26</identifier>
+        <datestamp>2021-10-01T23:50:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14791</identifier>
+          <identifier>BK-1969-26</identifier>
+          <title>Vijzel met opschrift: ALLEX ENNDORFFER DER GOS MICH 1538</title>
+          <creator>Endorfer, Alexander</creator>
+          <date>1538</date>
+          <type>vijzel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Innsbruck</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-486</identifier>
+        <datestamp>2021-08-19T16:55:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13922</identifier>
+          <identifier>BK-1980-486</identifier>
+          <title>Servet van linnen met pellenpatroon</title>
+          <date>1750 - 1850</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-531-B</identifier>
+        <datestamp>2021-12-13T10:03:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13972</identifier>
+          <identifier>BK-1980-531-B</identifier>
+          <title>Servet van wit linnen</title>
+          <date>1700 - 1799</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-2</identifier>
+        <datestamp>2021-11-03T19:17:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14058</identifier>
+          <identifier>BK-1978-2</identifier>
+          <title>Vouwwaaier met een parelmoeren montuur en een blad van applicatiekant met tussenzetsel van beschilderde zijde met musicerende engelen</title>
+          <creator>Stouder, L.</creator>
+          <contributor>anoniem</contributor>
+          <contributor>anoniem</contributor>
+          <contributor>anoniem</contributor>
+          <date>ca. 1880 - ca. 1900</date>
+          <type>vouwwaaier</type>
+          <format>tule</format>
+          <format>zijde</format>
+          <format>tempera</format>
+          <format>parelmoer</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16918</identifier>
+        <datestamp>2021-11-03T16:51:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14561</identifier>
+          <identifier>BK-16918</identifier>
+          <title>Kandelaar met driezijdige voet, versierd met drakenkoppen en mensfiguren temidden van ranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1200 - ca. 1300</date>
+          <date>ca. 1400 - ca. 1500</date>
+          <type>kandelaar</type>
+          <format>koperlegering</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2410</identifier>
+        <datestamp>2021-10-01T23:48:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14687</identifier>
+          <identifier>BK-NM-2410</identifier>
+          <title>Wandarm van messing</title>
+          <creator>anoniem</creator>
+          <date>ca. 1475 - ca. 1500</date>
+          <type>wandarm</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1960-57</identifier>
+        <datestamp>2021-11-03T19:18:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14142</identifier>
+          <identifier>BK-1960-57</identifier>
+          <title>Brisé-waaier van gesneden ivoor, waarin een centraal medaillon waarop met aquarel het huwelijk van Cupido en Psyche is geschilderd, stalen en zilveren versiering op de buitenbenen</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <subject>huwelijk</subject>
+          <subject>huwelijk</subject>
+          <subject>waaier</subject>
+          <date>ca. 1777 - ca. 1800</date>
+          <type>briséwaaier</type>
+          <format>ivoor</format>
+          <format>waterverf</format>
+          <format>zijde</format>
+          <format>metaal</format>
+          <format>zilver</format>
+          <format>staal</format>
+          <format>glas</format>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8242</identifier>
+        <datestamp>2022-03-07T13:45:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14405</identifier>
+          <identifier>BK-NM-8242</identifier>
+          <title>Twee schotels</title>
+          <creator>Verstraeten, Willem Jansz.</creator>
+          <description>Halverwege de 17de eeuw probeerden Nederlandse pottenbakkers aardewerk te maken dat steeds meer op het Chinese porselein ging lijken. Zij pasten de baktechnieken aan, zodat de schotels dunner werden en het witte glazuur beter. Hoewel de schilder van deze schotels zich liet inspireren door Chinees porselein, voegde hij gefantaseerde motieven toe, zoals het spreekgestoelte en delen van de landschappen.</description>
+          <date>ca. 1650 - ca. 1660</date>
+          <type>schotel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1019</identifier>
+        <datestamp>2021-10-01T23:48:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14657</identifier>
+          <identifier>BK-KOG-1019</identifier>
+          <title>Kaarsenkroon met zes armen</title>
+          <creator>anoniem</creator>
+          <date>1795 - 1800</date>
+          <type>kroonluchter</type>
+          <format>messing</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8489</identifier>
+        <datestamp>2021-11-03T16:52:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14841</identifier>
+          <identifier>BK-NM-8489</identifier>
+          <title>Wijnmengel</title>
+          <creator>anoniem</creator>
+          <date>1758</date>
+          <type>wijnmengel</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1986-62</identifier>
+        <datestamp>2021-11-03T19:19:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14939</identifier>
+          <identifier>BK-1986-62</identifier>
+          <title>Onderjurk van zalmkleurige crêpe de chine met brede stroken Chantilly-kant.</title>
+          <creator>Watrigant, Madame</creator>
+          <date>ca. 1925 - ca. 1930</date>
+          <type>lingerie</type>
+          <type>onderjurk</type>
+          <format>kant (materiaal)</format>
+          <format>crêpe de Chine</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1535</identifier>
+        <datestamp>2021-10-01T23:41:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14262</identifier>
+          <identifier>BK-KOG-1535</identifier>
+          <title>Drie beschilderde kannen</title>
+          <creator>De Roos</creator>
+          <contributor>De Witte Starre</contributor>
+          <contributor>Hofdijck, Dammas</contributor>
+          <contributor>Lange, Jacobus de</contributor>
+          <description>Tussen 1705 en 1711 waren de plateelbakkerijen De Roos en De Witte Ster in handen van dezelfde eigenaren. Vermoedelijk was er toen sprake van een levendige uitwisseling van motieven en schilders, want het is niet uit te maken wat in de ene en wat in de andere fabriek gemaakt werd.</description>
+          <date>ca. 1695 - ca. 1720</date>
+          <type>kan</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9238</identifier>
+        <datestamp>2021-10-01T23:41:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14299</identifier>
+          <identifier>BK-NM-9238</identifier>
+          <title>Zijde van een voetstuk van een bloempiramide, beschilderd met een voorstelling van een dame bij een vaas met bloemen</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Kocx, Adrianus</contributor>
+          <date>ca. 1690 - ca. 1700</date>
+          <type>bloempiramide</type>
+          <type>fragment</type>
+          <type>plaat</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2681-A</identifier>
+        <datestamp>2021-10-01T23:42:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14311</identifier>
+          <identifier>BK-NM-2681-A</identifier>
+          <title>bordje van faience</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Kocx, Adrianus</contributor>
+          <date>ca. 1687</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BFR-373</identifier>
+        <datestamp>2021-10-01T23:50:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14805</identifier>
+          <identifier>BK-BFR-373</identifier>
+          <title>Luiklok</title>
+          <creator>Christianus</creator>
+          <subject>Stad en land</subject>
+          <date>1285</date>
+          <type>muziekinstrument</type>
+          <type>slaginstrument</type>
+          <type>klok (idiofoon)</type>
+          <type>luiklok</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-476</identifier>
+        <datestamp>2021-10-01T23:44:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14455</identifier>
+          <identifier>BK-NM-476</identifier>
+          <title>Plaat met legerkamp</title>
+          <creator>anoniem</creator>
+          <contributor>Wouwerman, Philips</contributor>
+          <date>ca. 1660 - ca. 1675</date>
+          <type>plaat</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1310</identifier>
+        <datestamp>2021-11-03T16:52:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14707</identifier>
+          <identifier>BK-NM-1310</identifier>
+          <title>Bekken met de Annunciatie</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1510</date>
+          <type>bekken (schaal)</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-473-A</identifier>
+        <datestamp>2021-08-19T16:55:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13914</identifier>
+          <identifier>BK-1980-473-A</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1890 - 1910</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-527-C</identifier>
+        <datestamp>2021-08-19T16:55:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13966</identifier>
+          <identifier>BK-1980-527-C</identifier>
+          <title>Servet van linnen met pellenpatroon</title>
+          <date>1850 - 1870</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyODg0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzY0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-15919-B</identifier>
+        <datestamp>2021-05-28T11:39:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17970</identifier>
+          <identifier>AK-RBK-15919-B</identifier>
+          <title>Eivormige dekselpot met bloemenmanden en geluksvoorwerpen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1899</date>
+          <type>dekselpot</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10244-B</identifier>
+        <datestamp>2021-10-02T00:38:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18139</identifier>
+          <identifier>BK-NM-10244-B</identifier>
+          <title>Kan en schaal</title>
+          <creator>Lutma, Johannes (1584-1669)</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Tromp, Maarten Harpertszoon</subject>
+          <subject>Tromp, Cornelis</subject>
+          <description>Lutma vervaardigde dit machtige ensemble voor Joan van Hellemont, een aanzienlijk burger van Amsterdam. Al gaat het kwabornament bijna schuil onder de veelheid aan zeegoden en andere wezens, het bepaalt toch het model en de structuur van de voorwerpen. De voorstellingen
+symboliseren de rijkdommen van de zee en de landbouw. Ook de vormen van de kan en de schaal drukken die overdaad uit.</description>
+          <date>1647</date>
+          <type>kan</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-1</identifier>
+        <datestamp>2021-10-02T00:43:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18364</identifier>
+          <identifier>BK-1967-1</identifier>
+          <title>Theepot</title>
+          <creator>Pruysen, Hendrik Danielsz van</creator>
+          <description>Dit is een vroeg voorbeeld van een Nederlandse zilveren theepot. De versiering van gegraveerde bloemenvazen is apart gemaakt en vervolgens op de geruwde achtergrond aangebracht. Deze techniek, cut card genoemd, was geïnspireerd op Chinese zilveren voorbeelden.</description>
+          <date>1696</date>
+          <type>theepot</type>
+          <format>zilver</format>
+          <format>been</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-595</identifier>
+        <datestamp>2022-03-15T14:30:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18495</identifier>
+          <identifier>BK-BR-595</identifier>
+          <title>Monstrans van het Maagdenhuis</title>
+          <creator>Bogaert, Thomas</creator>
+          <date>1642</date>
+          <type>monstrans</type>
+          <format>zilver</format>
+          <format>glas</format>
+          <format>diamant</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1960-87-D</identifier>
+        <datestamp>2021-10-02T00:44:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18416</identifier>
+          <identifier>BK-1960-87-D</identifier>
+          <title>Zoutvat bolvormig op vierkante voet</title>
+          <creator>Bennewitz en Zonen, Fa.</creator>
+          <date>1830</date>
+          <type>zoutvat</type>
+          <format>zilver</format>
+          <format>glas</format>
+          <format>gips</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17007</identifier>
+        <datestamp>2022-02-17T11:01:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17412</identifier>
+          <identifier>BK-17007</identifier>
+          <title>Kaart van het Iberische Schiereiland</title>
+          <creator>Hirschvogel, Augustin</creator>
+          <contributor>Jamnitzer, Wenzel</contributor>
+          <description>Cartografie en kunst zijn verenigd: de kaart geeft de laatste stand van wetenschap weer en het voorwerp is samengesteld uit kostbare materialen. Op de achterzijde van de gepolijste ronde plaat is de kaart van Spanje en Portugal geschilderd. Het oorspronkelijk heldere blauw van het kostbare lapis lazuli (blauwe steen) is door de eeuwen heen bijna geheel verkleurd tot dof grijs.</description>
+          <date>ca. 1553</date>
+          <type>tafelstuk</type>
+          <format>zilver</format>
+          <format>bergkristal</format>
+          <format>brons</format>
+          <format>leisteen</format>
+          <format>goud</format>
+          <format>lapis lazuli</format>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1960-97</identifier>
+        <datestamp>2021-11-02T08:24:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17492</identifier>
+          <identifier>BK-1960-97</identifier>
+          <title>Reukfles van zilver</title>
+          <creator>anoniem</creator>
+          <date>1800 - 1801</date>
+          <type>reukfles</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Birmingham</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-38-B</identifier>
+        <datestamp>2021-10-02T00:27:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17498</identifier>
+          <identifier>BK-1955-38-B</identifier>
+          <title>Mosterdpot</title>
+          <creator>anoniem</creator>
+          <date>1908 - 1909</date>
+          <type>mosterdpot</type>
+          <format>zilver</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12307-A</identifier>
+        <datestamp>2021-10-02T00:39:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18213</identifier>
+          <identifier>BK-NM-12307-A</identifier>
+          <title>Koffiekan, balustervormig, met drie kranen</title>
+          <creator>Warenberg, Christiaan</creator>
+          <date>1717</date>
+          <type>koffiekan</type>
+          <type>kraantjeskan</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-43</identifier>
+        <datestamp>2021-11-02T08:25:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18295</identifier>
+          <identifier>BK-1968-43</identifier>
+          <title>Spiegel van zilver, versierd met "De Dansles" van Jan Steen.</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1909</date>
+          <type>meubilair</type>
+          <type>spiegel</type>
+          <format>zilver</format>
+          <format>glas</format>
+          <format>amalgaam</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Friesland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7418</identifier>
+        <datestamp>2021-10-02T00:25:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17435</identifier>
+          <identifier>BK-NM-7418</identifier>
+          <title>Bijl met voorstelling van het mijnwezen</title>
+          <creator>Muhlhausen, A.</creator>
+          <subject>Koninklijk Huis</subject>
+          <subject>economische geschiedenis</subject>
+          <subject>industrie</subject>
+          <subject>mijnbouw</subject>
+          <subject>arbeiders</subject>
+          <subject>Willem I (koning der Nederlanden)</subject>
+          <date>1837 - 1839-08-25</date>
+          <type>bijl (gereedschap)</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Freiberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17083</identifier>
+        <datestamp>2021-10-02T00:26:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17472</identifier>
+          <identifier>BK-17083</identifier>
+          <title>Harlekijn</title>
+          <creator>anoniem</creator>
+          <contributor>Kohler</contributor>
+          <date>voor 1725</date>
+          <type>decoratief object</type>
+          <format>goud</format>
+          <format>barokparel</format>
+          <format>edelsteen</format>
+          <format>email</format>
+          <format>parel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Dresden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15149</identifier>
+        <datestamp>2021-10-02T00:40:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18270</identifier>
+          <identifier>BK-15149</identifier>
+          <title>Schip van zilver, driemaster</title>
+          <creator>anoniem</creator>
+          <date>1840 - 1860</date>
+          <type>schip</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8782</identifier>
+        <datestamp>2021-11-03T16:54:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17554</identifier>
+          <identifier>BK-NM-8782</identifier>
+          <title>Hengsel van vertind ijzer met bladmotieven</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1800</date>
+          <type>hengsel</type>
+          <format>ijzer</format>
+          <format>tin</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8479</identifier>
+        <datestamp>2021-11-02T08:25:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18341</identifier>
+          <identifier>BK-NM-8479</identifier>
+          <title>Kluwenhouder, opgebouwd uit C-voluten versierd met bladeren, schuim- en rocaillemotieven en bloemen</title>
+          <creator>Froger, Dirk</creator>
+          <date>1775</date>
+          <type>textielbewerkingsgereedschap</type>
+          <type>kluwenhouder</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9012-A</identifier>
+        <datestamp>2021-11-03T16:54:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17521</identifier>
+          <identifier>BK-NM-9012-A</identifier>
+          <title>Hengsel</title>
+          <date>ca. 1400 - voor 1950</date>
+          <type>hengsel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7899</identifier>
+        <datestamp>2021-11-02T08:25:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18318</identifier>
+          <identifier>BK-NM-7899</identifier>
+          <title>Tabaksdoos met het beeld der Waakzaamheid</title>
+          <creator>Koppenol, C.</creator>
+          <date>1769</date>
+          <type>tabaksdoos</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17034-B</identifier>
+        <datestamp>2021-10-02T00:30:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17710</identifier>
+          <identifier>BK-17034-B</identifier>
+          <title>Cloches (stolpen), glazenkoelers, soepterrine, sauskommen, peper-, zout- en mosterdvaten</title>
+          <creator>Odiot, Jean Baptiste Claude</creator>
+          <description>Een vertrouwelinge van de Russische keizerin bestelde een 140-delig servies, waarvan hier enkele onderdelen te zien zijn. Zilversmid Odiot, schilder Prud’hon en architect Cavelier presenteerden de modellen vol trots op de Franse natio-nale nijverheidstentoonstelling van 1819. Opvallend zijn de grote figuren, zoals de knielende engelen die de soep-terrine dragen. Zij zijn kenmerkend voor het late empire.</description>
+          <date>ca. 1819</date>
+          <type>sauskom</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-537-A</identifier>
+        <datestamp>2021-10-02T00:37:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18122</identifier>
+          <identifier>BK-BR-537-A</identifier>
+          <title>Kandelaar</title>
+          <creator>Knuysting, Cornelis</creator>
+          <date>1789 - 1791</date>
+          <type>kandelaar</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15767</identifier>
+        <datestamp>2021-10-02T00:43:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18381</identifier>
+          <identifier>BK-15767</identifier>
+          <title>Melkkan, peervormige</title>
+          <creator>Schiff, Willem</creator>
+          <date>1778 - 1779</date>
+          <type>melkkan</type>
+          <format>zilver</format>
+          <format>ebbenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijmegen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzY2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,461 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NTAw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-1961-168-112</identifier>
+        <datestamp>2018-06-06T09:41:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37227</identifier>
+          <identifier>BI-1961-168-112</identifier>
+          <title>Landschap met een koets</title>
+          <title>Recueil de quatre-vingt-cinq estampes originales</title>
+          <creator>anoniem</creator>
+          <creator>Koninck, Philips</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>Basan, Henry Louis</contributor>
+          <subject>landschappen</subject>
+          <date>1629 - 1807</date>
+          <date>1807 - 1808</date>
+          <type>prent</type>
+          <type>kopie naar prent</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1962-90</identifier>
+        <datestamp>2021-10-02T12:07:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36527</identifier>
+          <identifier>RP-P-1962-90</identifier>
+          <title>De windmolen</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <description>Rembrandts vader was een molenaar in Leiden, en lang werd aangenomen dat dit de molen van de familie Van Rijn was. Dit exemplaar
+stond echter in Amsterdam, op het bolwerk De Passeerder. Daar werd hij gebruikt door het zeemleerbereidersgilde bij het zachter maken van leer met levertraan. De stank die hierbij vrijkwam gaf de molen zijn bijnaam, ‘de kleine stinkmolen’.</description>
+          <date>1641</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.995</identifier>
+        <datestamp>2019-05-29T14:39:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34761</identifier>
+          <identifier>RP-P-OB-11.995</identifier>
+          <title>Vrouw als personificatie van Kracht (Fortitudo) leunend op zuil staand in nis</title>
+          <title>Zeven Deugden</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Rafaël</contributor>
+          <date>1510 - 1527</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-548</identifier>
+        <datestamp>2021-10-02T12:08:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36651</identifier>
+          <identifier>RP-P-OB-548</identifier>
+          <title>De goudsmid Jan Lutma</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <subject>Lutma, Johannes (1584-1669)</subject>
+          <date>1656</date>
+          <type>prent</type>
+          <format>Oosters papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.241</identifier>
+        <datestamp>2019-05-29T14:40:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.35105</identifier>
+          <identifier>RP-P-OB-12.241</identifier>
+          <title>Christus verschijnt aan de Heilige Franciscus</title>
+          <title>Il perdono di San Francesco</title>
+          <creator>Barocci, Federico</creator>
+          <contributor>Barocci, Federico</contributor>
+          <contributor>Gregorius XIII</contributor>
+          <date>1581</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Urbino</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1889</identifier>
+        <datestamp>2019-05-29T14:38:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34406</identifier>
+          <identifier>RP-P-OB-1889</identifier>
+          <title>Maria met kind zittend op een troon</title>
+          <creator>Mocetto, Girolamo</creator>
+          <contributor>Mocetto, Girolamo</contributor>
+          <date>1470 - 1531</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1951</identifier>
+        <datestamp>2019-05-29T14:39:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34455</identifier>
+          <identifier>RP-P-OB-1951</identifier>
+          <title>Senatoren in triomftocht van Julius Caesar</title>
+          <title>Triomf van Caesar</title>
+          <creator>Mantegna, Andrea</creator>
+          <contributor>Mantegna, Andrea</contributor>
+          <date>1486 - 1492</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.743</identifier>
+        <datestamp>2019-05-09T15:34:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34475</identifier>
+          <identifier>RP-P-OB-11.743</identifier>
+          <title>Christus verlost Adam en Eva uit voorgeborchte</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <date>1500 - 1527</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.895</identifier>
+        <datestamp>2021-07-13T13:25:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34641</identifier>
+          <identifier>RP-P-OB-11.895</identifier>
+          <title>Heilige Cecilia met muziekinstrumenten</title>
+          <title>S CICILI</title>
+          <creator>anoniem</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <date>1500 - 1575</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.901</identifier>
+        <datestamp>2021-07-13T14:21:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34647</identifier>
+          <identifier>RP-P-OB-11.901</identifier>
+          <title>Heilige Margaretha van Antiochië met draak aan touw</title>
+          <creator>anoniem</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <date>1500 - 1575</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-OB-802</identifier>
+        <datestamp>2021-10-02T12:10:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37270</identifier>
+          <identifier>RP-P-H-OB-802</identifier>
+          <title>Een weg met bomen en een stad in de achtergrond</title>
+          <creator>Segers, Hercules</creator>
+          <contributor>Segers, Hercules</contributor>
+          <subject>Amersfoort</subject>
+          <date>ca. 1622 - ca. 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-1092</identifier>
+        <datestamp>2021-10-02T12:06:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36354</identifier>
+          <identifier>RP-P-1961-1092</identifier>
+          <title>Het ledikant</title>
+          <title>Le lit à la française</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1646</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-247</identifier>
+        <datestamp>2021-10-02T12:06:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36366</identifier>
+          <identifier>RP-P-OB-247</identifier>
+          <title>De fluitspeler</title>
+          <title>Uilenspiegel</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1642</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1962-68</identifier>
+        <datestamp>2021-10-02T12:06:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36403</identifier>
+          <identifier>RP-P-1962-68</identifier>
+          <title>Jonge man, zittend op de grond met één been uitgestrekt</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1646</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-669</identifier>
+        <datestamp>2021-10-02T12:09:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36865</identifier>
+          <identifier>RP-P-OB-669</identifier>
+          <title>Kaalhoofdige oude man met korte baard: profiel naar rechts</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>ca. 1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-681</identifier>
+        <datestamp>2021-10-02T12:09:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36877</identifier>
+          <identifier>RP-P-OB-681</identifier>
+          <title>Oude man met bontmuts en lange baard</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <description>Rembrandts tronies van mannen hebben, door de wijze waarop hij zijn modellen uitbeeldt, vaak een verstilde sfeer. Ze doen niets. Hier zette hij een van de grijsaards in een meer verhalende omgeving. De man staat achter een tafel en leunt peinzend op een boek. Voor hem is nog net een deel van een globe te zien. Misschien is hij een geleerde, of filosoof.</description>
+          <date>ca. 1631</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-714</identifier>
+        <datestamp>2021-10-02T12:09:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36914</identifier>
+          <identifier>RP-P-OB-714</identifier>
+          <title>Zelfportret blootshoofds</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <subject>Rijn, Rembrandt van</subject>
+          <description>Nadat hij rond 1628 een hoogst ongewoon zelfportret had geschilderd met zijn gezicht in de schaduw (elders in deze zaal), probeerde Rembrandt dezelfde aanpak in zijn etsen. Dat bleek nog niet zo makkelijk. Aanvankelijk slaagde hij er niet in de details in de schaduw herkenbaar te houden. Pas bij een nieuwe poging in 1633 (midden), lukte het wel.</description>
+          <date>ca. 1629</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-752</identifier>
+        <datestamp>2021-10-02T12:09:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36971</identifier>
+          <identifier>RP-P-OB-752</identifier>
+          <title>Oude vrouw in een met bont afgezette mantel en een zware hoofdbedekking</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>anoniem</contributor>
+          <date>1631</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1929</identifier>
+        <datestamp>2021-10-02T12:03:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34426</identifier>
+          <identifier>RP-P-OB-1929</identifier>
+          <title>De strijd van de zeegoden met links de Afgunst (Invidia)</title>
+          <creator>Mantegna, Andrea</creator>
+          <contributor>Mantegna, Andrea</contributor>
+          <description>Andrea Mantegna maakte als eerste Italiaanse schilder prenten om zijn gedurfde ontwerpen overal te kunnen verspreiden. De afbeelding met zeegoden is de linkerhelft van een fries (lange verhalende voorstelling) en is geïnspireerd op een antiek reliëf. Hiervan maakte Mantegna een fantastisch gevecht van goden en monsters, aangemoedigd door de Afgunst (Invidia), neergezet als naakte, oude vrouw.</description>
+          <date>1485 - 1488</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.852</identifier>
+        <datestamp>2021-07-13T14:31:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34598</identifier>
+          <identifier>RP-P-OB-11.852</identifier>
+          <title>Heilige Stefanus met stenen</title>
+          <creator>anoniem</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <date>1500 - 1575</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NTIw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

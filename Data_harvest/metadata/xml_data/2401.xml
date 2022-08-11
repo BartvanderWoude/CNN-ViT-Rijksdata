@@ -1,0 +1,505 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0ODAwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14413</identifier>
+        <datestamp>2019-01-14T14:14:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116314</identifier>
+          <identifier>RP-P-1889-A-14413</identifier>
+          <title>Landschap met beek</title>
+          <title>Landschappen</title>
+          <creator>Genoels, Abraham</creator>
+          <contributor>Genoels, Abraham</contributor>
+          <contributor>Meulen, Adam Frans van der</contributor>
+          <date>1650 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1898-A-20571</identifier>
+        <datestamp>2020-03-09T17:56:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116482</identifier>
+          <identifier>RP-P-1898-A-20571</identifier>
+          <title>Portret van Gerbrand Adriaensz. Bredero</title>
+          <creator>Gerritsz, Hessel</creator>
+          <contributor>Buytewech, Willem Pietersz.</contributor>
+          <contributor>Coster, Samuel</contributor>
+          <contributor>Hooft, Pieter Corneliszoon</contributor>
+          <contributor>Vondel, Joost van den</contributor>
+          <contributor>Scriverius, Petrus</contributor>
+          <contributor>Plasse, Cornelis Lodewijcksz. van der</contributor>
+          <subject>Bredero, Gerbrand Adriaensz.</subject>
+          <date>1622</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-60.022</identifier>
+        <datestamp>2016-10-20T21:05:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118015</identifier>
+          <identifier>RP-P-OB-60.022</identifier>
+          <title>Portret van Steven Blankaart</title>
+          <creator>Gouwen, Gilliam van der</creator>
+          <contributor>Plas, David van der</contributor>
+          <contributor>Smids, Ludolph</contributor>
+          <subject>Blankaart, Steven</subject>
+          <date>1670 - ca. 1740</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1877-A-203</identifier>
+        <datestamp>2022-02-18T11:12:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118495</identifier>
+          <identifier>RP-P-1877-A-203</identifier>
+          <title>Gezicht op het Zuiderzee nabij Spakenburg</title>
+          <creator>Greive, Johan Conrad</creator>
+          <subject>Zuiderzee</subject>
+          <subject>Spakenburg</subject>
+          <date>1847 - 1877</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.488</identifier>
+        <datestamp>2019-05-29T15:41:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115643</identifier>
+          <identifier>RP-P-OB-52.488</identifier>
+          <title>Apostel Petrus</title>
+          <title>S. Petrvs</title>
+          <creator>Gauw, Gerrit</creator>
+          <contributor>Matham, Jacob</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <date>1604 - 1638</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-55.669</identifier>
+        <datestamp>2016-10-20T21:04:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116903</identifier>
+          <identifier>RP-P-OB-55.669</identifier>
+          <title>Studie van een Madonna met kind</title>
+          <creator>Gijselaar, Nicolaas Cornelis de</creator>
+          <contributor>Eyck, Jan van</contributor>
+          <contributor>Bouts, Dieric</contributor>
+          <date>1829</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-4951</identifier>
+        <datestamp>2016-10-20T21:05:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118148</identifier>
+          <identifier>RP-P-1882-A-4951</identifier>
+          <title>Bacchanaal</title>
+          <creator>Grandjean, Jean</creator>
+          <date>1765 - 1781</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1883-A-7338</identifier>
+        <datestamp>2016-10-20T21:05:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118472</identifier>
+          <identifier>RP-P-1883-A-7338</identifier>
+          <title>Gezicht op de gebouwen van de roeivereniging de Hoop</title>
+          <creator>Greive, Johan Conrad</creator>
+          <subject>Amstel</subject>
+          <subject>Amsterdam</subject>
+          <subject>Koninklijke Amsterdamsche Zeil- en Roeivereniging "de Hoop"</subject>
+          <date>1847 - 1891</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.615</identifier>
+        <datestamp>2016-10-20T21:03:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116708</identifier>
+          <identifier>RP-P-OB-52.615</identifier>
+          <title>Prins Willem van Oranje op het strand van Scheveningen</title>
+          <title>Promenade du Prince d'orange au village de schevelingen</title>
+          <creator>Ghendt, Emmanuel Jean Nepomucene de</creator>
+          <contributor>Velde, Adriaen van de</contributor>
+          <contributor>Ghendt, Emmanuel Jean Nepomucene de</contributor>
+          <contributor>Desmarest</contributor>
+          <subject>Scheveningen</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1748 - 1815</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.879</identifier>
+        <datestamp>2016-10-20T21:04:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117607</identifier>
+          <identifier>RP-P-OB-52.879</identifier>
+          <title>Portret van Gregorio Leti</title>
+          <creator>Gole, Jacob</creator>
+          <subject>Leti, Gregorio</subject>
+          <date>1689</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-3876</identifier>
+        <datestamp>2016-10-20T21:05:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118264</identifier>
+          <identifier>RP-P-1911-3876</identifier>
+          <title>Werther tekent te Wahlheim</title>
+          <title>Scènes uit het leven van de jonge Werther</title>
+          <creator>Grave, Jan Evert</creator>
+          <subject>Goethe, Johann Wolfgang von</subject>
+          <date>1787</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-1104</identifier>
+        <datestamp>2020-01-27T15:10:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118445</identifier>
+          <identifier>RP-T-00-1104</identifier>
+          <title>Vrouw met hond in park</title>
+          <creator>Andriessen, Jurriaan</creator>
+          <date>ca. 1752 - ca. 1819</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>grafiet</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.598</identifier>
+        <datestamp>2021-10-02T13:14:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116377</identifier>
+          <identifier>RP-P-OB-52.598</identifier>
+          <title>Zeezicht met ronde toren</title>
+          <creator>Genoels, Abraham</creator>
+          <contributor>Genoels, Abraham</contributor>
+          <date>1650 - 1723</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.505</identifier>
+        <datestamp>2016-10-20T21:03:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116676</identifier>
+          <identifier>RP-P-OB-52.505</identifier>
+          <title>Fabel van het wilde zwijn en de ezel</title>
+          <creator>Gheeraerts, Marcus (I)</creator>
+          <contributor>Gheeraerts, Marcus (I)</contributor>
+          <contributor>Clerck, Pieter de</contributor>
+          <contributor>Gheeraerts, Marcus (I)</contributor>
+          <date>1567</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brugge</coverage>
+          <coverage>Brugge</coverage>
+          <coverage>Brugge</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1922-262</identifier>
+        <datestamp>2017-07-06T16:24:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117167</identifier>
+          <identifier>RP-P-1922-262</identifier>
+          <title>Ceres verhindert de moord op Triptolemus</title>
+          <title>Lyncus en Loup-cervier</title>
+          <title>Bijbelse, mythologische en allegorische voorstellingen</title>
+          <creator>Glauber, Johannes</creator>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Schenk, Leonard</contributor>
+          <date>1656 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.844</identifier>
+        <datestamp>2016-10-20T21:04:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117491</identifier>
+          <identifier>RP-P-OB-52.844</identifier>
+          <title>Embleem: luipaard</title>
+          <title>Portret van Alexander de Grote</title>
+          <creator>Goeree, Jan</creator>
+          <contributor>Goeree, Jan</contributor>
+          <contributor>Linden, Gerard onder de</contributor>
+          <contributor>Braam, Johannes van</contributor>
+          <subject>Alexander de Grote</subject>
+          <date>1723</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17516</identifier>
+        <datestamp>2016-10-20T21:05:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117824</identifier>
+          <identifier>RP-P-1892-A-17516</identifier>
+          <title>September</title>
+          <title>De twaalf maanden</title>
+          <creator>Goltzius, Julius</creator>
+          <contributor>Mostaert, Gillis (I)</contributor>
+          <contributor>Luyck, Hans van</contributor>
+          <date>ca. 1560 - 1595</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23271</identifier>
+        <datestamp>2016-10-20T21:02:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115499</identifier>
+          <identifier>RP-P-1903-A-23271</identifier>
+          <title>Lierdraaier in een herberg</title>
+          <title>Verzameling prenten naar Vlaamse, Duitse en Nederlandse schilders</title>
+          <title>Galerie des peintres flamands, hollandais et allemands de Le Brun</title>
+          <creator>Garreau, Louis E.F.</creator>
+          <contributor>Mieris, Willem van</contributor>
+          <contributor>Poignant, Etienne Léon</contributor>
+          <contributor>Brun, Jean Baptiste Piere Le</contributor>
+          <date>1788</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.858</identifier>
+        <datestamp>2016-10-20T21:04:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117505</identifier>
+          <identifier>RP-P-OB-52.858</identifier>
+          <title>Allegorie op de keuze tussen wereldlijk en geestelijk goed</title>
+          <title>Titelpagina voor Marcellus Palingenius, Zodiacus Vitae, 1722</title>
+          <title>Zodiacvs Vitae</title>
+          <creator>Goeree, Jan</creator>
+          <contributor>Goeree, Jan</contributor>
+          <contributor>Hofhout, Johannes</contributor>
+          <subject>dierenriem; de twaalf tekens van de dierenriem bij elkaar</subject>
+          <date>1722</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-60.016</identifier>
+        <datestamp>2016-10-20T21:05:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118009</identifier>
+          <identifier>RP-P-OB-60.016</identifier>
+          <title>Pelgrim met een hond</title>
+          <title>Icon peregrini</title>
+          <creator>Gouwen, Gilliam van der</creator>
+          <contributor>Picart, Bernard</contributor>
+          <date>1670 - 1740</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0ODAyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0OTU4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-10732</identifier>
+        <datestamp>2016-10-20T20:57:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108729</identifier>
+          <identifier>RP-P-1886-A-10732</identifier>
+          <title>Boer met drie koeien</title>
+          <creator>Faber, Frédéric Théodore</creator>
+          <contributor>Roy, De</contributor>
+          <date>1808 - 1810</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.507</identifier>
+        <datestamp>2019-05-29T15:35:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108676</identifier>
+          <identifier>RP-P-OB-50.507</identifier>
+          <title>De roof van Europa</title>
+          <creator>Eynhoudts, Remoldus</creator>
+          <contributor>Schut, Cornelis (I)</contributor>
+          <date>1626 - 1680</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7221C</identifier>
+        <datestamp>2019-05-29T15:31:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106624</identifier>
+          <identifier>RP-P-BI-7221C</identifier>
+          <title>Arcadisch landschap met vissers bij een stenen brug</title>
+          <creator>Dubourg, Louis Fabritius</creator>
+          <contributor>Dubourg, Louis Fabritius</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>1713 - 1775</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.178</identifier>
+        <datestamp>2016-10-20T20:56:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107595</identifier>
+          <identifier>RP-P-OB-50.178</identifier>
+          <title>Titelpagina voor La dioptrique oculaire van Chérubin d'Orléans, Parijs 1671</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Lepautre, Jean</contributor>
+          <date>1671</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-3066</identifier>
+        <datestamp>2019-05-23T16:01:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108598</identifier>
+          <identifier>RP-P-1907-3066</identifier>
+          <title>Portret van J. J. Kicherer</title>
+          <creator>Evans, Sophia Wilhelmina</creator>
+          <contributor>Berg, Gijsbertus Johannus van den</contributor>
+          <contributor>onbekend</contributor>
+          <subject>Kicherer, Johannes Jacobus</subject>
+          <date>1782 - 1816</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+          <coverage>Rotterdam</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-5575</identifier>
+        <datestamp>2016-10-20T20:56:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107401</identifier>
+          <identifier>RP-P-1908-5575</identifier>
+          <title>Portret van Jean-Baptiste de Blye</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Ladam, Ghislain François</contributor>
+          <subject>Blye, Jean-Baptiste de</subject>
+          <date>1652 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7492</identifier>
+        <datestamp>2019-05-29T15:32:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107407</identifier>
+          <identifier>RP-P-BI-7492</identifier>
+          <title>Portret van John Dryden</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Kneller, Gottfried</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Dryden, John</subject>
+          <date>1666 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>onbekend</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.174</identifier>
+        <datestamp>2019-05-29T15:33:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107480</identifier>
+          <identifier>RP-P-OB-50.174</identifier>
+          <title>Portret van Jules Hardouin Mansart</title>
+          <title>Julius Hardouin Mansart</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Vivien, Joseph</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <contributor>onbekend</contributor>
+          <subject>Hardouin-Mansart, Jules</subject>
+          <date>1666 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>onbekend</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1939-146</identifier>
+        <datestamp>2016-10-20T20:56:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107425</identifier>
+          <identifier>RP-P-1939-146</identifier>
+          <title>Portret van Ferdinand von Fürstenberg</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Michelin, Jean</contributor>
+          <subject>Fürstenberg, Ferdinand van</subject>
+          <date>1652 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7532</identifier>
+        <datestamp>2019-05-29T15:32:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107456</identifier>
+          <identifier>RP-P-BI-7532</identifier>
+          <title>Portret van Madeleine de Lamoignon</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Sève, Gilbert de</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Lamoignon, Madeleine de</subject>
+          <date>1687 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-893</identifier>
+        <datestamp>2020-04-28T12:48:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107327</identifier>
+          <identifier>RP-P-1878-A-893</identifier>
+          <title>Susanna en de ouderlingen</title>
+          <creator>Dyck, Daniël van den</creator>
+          <contributor>Dyck, Daniël van den</contributor>
+          <date>ca. 1635 - ca. 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1939-268</identifier>
+        <datestamp>2018-08-17T09:51:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107526</identifier>
+          <identifier>RP-P-1939-268</identifier>
+          <title>Portret van Claude de Sainte-Marthe</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Jouvenet, Jean Baptiste</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Sainte-Marthe, Claude de</subject>
+          <date>1666 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7470</identifier>
+        <datestamp>2019-05-29T15:32:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107378</identifier>
+          <identifier>RP-P-BI-7470</identifier>
+          <title>Portret van Pierre van Bouc</title>
+          <title>David Bok</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Drevet, Pierre</contributor>
+          <subject>Boucle, Peter van</subject>
+          <date>1673 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7573</identifier>
+        <datestamp>2021-08-16T09:21:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107503</identifier>
+          <identifier>RP-P-BI-7573</identifier>
+          <title>Portret van Blaise Pascal</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Monogrammist LVQ</contributor>
+          <contributor>Desprez Typ.</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Pascal, Blaise</subject>
+          <date>1666 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>onbekend</coverage>
+          <coverage>onbekend</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1986-45</identifier>
+        <datestamp>2017-02-17T13:52:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106891</identifier>
+          <identifier>RP-P-1986-45</identifier>
+          <title>Toorn</title>
+          <title>Zeven doodzonden</title>
+          <creator>Furnius, Pieter Jalhea</creator>
+          <date>1550 - 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7446X</identifier>
+        <datestamp>2021-06-04T11:46:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107566</identifier>
+          <identifier>RP-P-BI-7446X</identifier>
+          <title>Penning met bustes van de hertog en hertogin van Bourgondië</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Edelinck, Gerard</contributor>
+          <subject>Lodewijk van Frankrijk (hertog van Bourgondië)</subject>
+          <subject>Savoye, Maria Adelheid van</subject>
+          <date>1702</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.268</identifier>
+        <datestamp>2016-10-20T20:57:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108526</identifier>
+          <identifier>RP-P-OB-50.268</identifier>
+          <title>Soldaten overvallen door een plaag van monsterlijke slangen</title>
+          <creator>Ertinger, Franz</creator>
+          <contributor>Lafage, Raymond de</contributor>
+          <date>1652 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7190</identifier>
+        <datestamp>2016-10-20T20:55:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106568</identifier>
+          <identifier>RP-P-BI-7190</identifier>
+          <title>Gezicht op de dijk tussen Maren en Alem met kruiend ijs</title>
+          <creator>Dubourcq, Pierre Louis</creator>
+          <contributor>Trigt, Hendrik Albert van</contributor>
+          <subject>Watersnood maart 1855</subject>
+          <subject>Alem</subject>
+          <subject>Maren</subject>
+          <date>1855</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7414X</identifier>
+        <datestamp>2019-05-29T15:33:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107555</identifier>
+          <identifier>RP-P-BI-7414X</identifier>
+          <title>Portret van Jean Varin</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Varin, Jean</subject>
+          <date>1666 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1883-A-7586</identifier>
+        <datestamp>2016-10-20T20:56:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107933</identifier>
+          <identifier>RP-P-1883-A-7586</identifier>
+          <title>Ruiterportret van keizer Galba</title>
+          <title>Portretten van Romeinse keizers</title>
+          <creator>Eillarts, Laurens</creator>
+          <contributor>Tempesta, Antonio</contributor>
+          <subject>Galba (keizer van het Romeinse Rijk)</subject>
+          <date>1616 - 1620</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0OTYwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

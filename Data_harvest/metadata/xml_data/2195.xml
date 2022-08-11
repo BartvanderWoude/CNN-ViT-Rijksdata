@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0Mzg4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1302</identifier>
+        <datestamp>2021-03-10T09:01:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65527</identifier>
+          <identifier>RP-F-00-1302</identifier>
+          <title>Portret van de schilder Jean Heyermans, halffiguur</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Heyermans, Jean</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4137</identifier>
+        <datestamp>2021-10-20T14:40:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66020</identifier>
+          <identifier>NG-VG-1-4137</identifier>
+          <title>Vijfentwintigjarig bestaan van het genootschap "Hooger zij ons Doel"</title>
+          <creator>anoniem</creator>
+          <subject>genootschap</subject>
+          <subject>Rotterdam</subject>
+          <subject>Letterlievende Vereeniging Hooger zij ons doel</subject>
+          <date>1860</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1888-A-1461</identifier>
+        <datestamp>2021-10-02T12:49:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64767</identifier>
+          <identifier>RP-T-1888-A-1461</identifier>
+          <title>Gezicht op Rhenen</title>
+          <creator>Waterloo, Anthonie</creator>
+          <subject>Rhenen</subject>
+          <date>1619 - 1690</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-406</identifier>
+        <datestamp>2019-01-03T14:50:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64773</identifier>
+          <identifier>RP-T-00-406</identifier>
+          <title>Portret van het Engelse first rate oorlogsschip Prince, gezien aan stuurboord, met een tweetal scheepsboten</title>
+          <creator>Velde, Willem van de (I)</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Royal Prince (schip)</subject>
+          <date>1670 - 1693</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1154</identifier>
+        <datestamp>2022-01-24T11:04:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65003</identifier>
+          <identifier>RP-F-00-1154</identifier>
+          <title>Bronzen deur van de kathedraal van Ravello</title>
+          <title>(Contorni d'Amalfi). Porta in bronzo della Cattedrale; 1179</title>
+          <title>Ravello</title>
+          <creator>Brogi, Giacomo</creator>
+          <subject>Dom</subject>
+          <date>1864 - 1881</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ravello</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-1475</identifier>
+        <datestamp>2021-10-07T16:32:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70135</identifier>
+          <identifier>NG-1980-27-H-1475</identifier>
+          <title>Messenheft uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>messenheft</type>
+          <format>hout</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1316</identifier>
+        <datestamp>2021-03-10T09:01:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65575</identifier>
+          <identifier>RP-F-00-1316</identifier>
+          <title>Portret van de schilder Jean Louis Van Kuyck, halffiguur</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Van Kuyck, Jean Louis</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4107</identifier>
+        <datestamp>2021-10-20T14:40:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65989</identifier>
+          <identifier>NG-VG-1-4107</identifier>
+          <title>Verwerping van het ontwerp-reglement betreffende het kanaal van Steenenhoek, penning geslagen ter ere van de Staten van Gelderland</title>
+          <creator>Wiener, Karel</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>institutionele geschiedenis</subject>
+          <subject>waterbouwkunde</subject>
+          <subject>kanaalaanleg</subject>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>provinciaal bestuur</subject>
+          <subject>Kanaal van Steenenhoek</subject>
+          <subject>Staten van Gelderland</subject>
+          <date>1858</date>
+          <type>erepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1115</identifier>
+        <datestamp>2022-01-24T09:08:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64796</identifier>
+          <identifier>RP-F-00-1115</identifier>
+          <title>Gezicht op Kleef, met haven op de voorgrond</title>
+          <creator>anoniem</creator>
+          <subject>Kleef</subject>
+          <date>1880 - 1900</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kleef</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1958-62(R)</identifier>
+        <datestamp>2021-10-02T12:49:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64980</identifier>
+          <identifier>RP-T-1958-62(R)</identifier>
+          <title>Studieblad met handen</title>
+          <creator>Cavedone, Giacomo</creator>
+          <contributor>Carracci, Annibale</contributor>
+          <contributor>Lanfranco, Giovanni</contributor>
+          <contributor>Schedoni, Bartolomeo</contributor>
+          <date>1587 - 1660</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1979-402-H</identifier>
+        <datestamp>2021-10-07T16:32:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70086</identifier>
+          <identifier>NG-1979-402-H</identifier>
+          <title>Messenheften uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>messenheft</type>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-453-G</identifier>
+        <datestamp>2021-10-02T12:50:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65635</identifier>
+          <identifier>BK-BR-453-G</identifier>
+          <title>Weefselfragment met clavus</title>
+          <creator>anoniem</creator>
+          <date>ca. 600 - ca. 799</date>
+          <type>clavus</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Egypte</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-13</identifier>
+        <datestamp>2021-01-28T13:50:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71274</identifier>
+          <identifier>RP-P-BI-13</identifier>
+          <title>Rivierlandschap met boot</title>
+          <title>Tien landschappen</title>
+          <creator>Aken, Jan van</creator>
+          <contributor>Jonghe, Clement de</contributor>
+          <date>1624 - 1661</date>
+          <date>1640 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-3265</identifier>
+        <datestamp>2021-10-19T15:41:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70063</identifier>
+          <identifier>NG-1980-27-H-3265</identifier>
+          <title>Speld uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>zeilmakersgereedschap</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>speld</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-592</identifier>
+        <datestamp>2021-10-07T16:32:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70112</identifier>
+          <identifier>NG-1980-27-H-592</identifier>
+          <title>Messenheft uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-07-13</date>
+          <type>messenheft</type>
+          <format>hout</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-4273</identifier>
+        <datestamp>2021-01-28T13:46:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.70764</identifier>
+          <identifier>RP-P-1909-4273</identifier>
+          <title>Portret van bisshop Otho van Milan</title>
+          <title>Otho Archiepiscopvs et Vicecomes Mediolanensis</title>
+          <creator>Aa, Hillebrand van der</creator>
+          <contributor>Aa, Hillebrand van der</contributor>
+          <date>ca. 1680 - voor 1721</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-24</identifier>
+        <datestamp>2021-01-28T13:50:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71297</identifier>
+          <identifier>RP-P-BI-24</identifier>
+          <title>Landschap met reizigers</title>
+          <creator>Aken, Jan van</creator>
+          <contributor>Pot., P.</contributor>
+          <contributor>Aken, Jan van</contributor>
+          <date>1624 - 1661</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-873</identifier>
+        <datestamp>2021-01-28T13:50:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71317</identifier>
+          <identifier>RP-P-1906-873</identifier>
+          <title>Titelpagina voor Arithmetica oft Rekenkonst van Jan van der Schuere</title>
+          <title>Arithmetica oft Reken-konst (...)</title>
+          <creator>Akersloot, Willem Outgertsz.</creator>
+          <contributor>Rammazeyn, Pieter</contributor>
+          <subject>Schuere, Jacob van der</subject>
+          <date>1632</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Gouda</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-27.521</identifier>
+        <datestamp>2021-01-28T13:59:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.71876</identifier>
+          <identifier>RP-P-OB-27.521</identifier>
+          <title>Twee saters bekijken een monument</title>
+          <title>Titelprent voor: spreekwoorden</title>
+          <title>Spreekwoorden</title>
+          <creator>Armand</creator>
+          <contributor>Amand</contributor>
+          <date>1867 - 1894</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-453-O</identifier>
+        <datestamp>2021-10-02T12:50:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65695</identifier>
+          <identifier>BK-BR-453-O</identifier>
+          <title>Weefselfragment met tabula</title>
+          <creator>anoniem</creator>
+          <date>ca. 200 - ca. 499</date>
+          <type>tabula</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Egypte</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MzkwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,437 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNTg4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1958-100</identifier>
+        <datestamp>2021-11-11T09:37:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22453</identifier>
+          <identifier>BK-1958-100</identifier>
+          <title>Bloemenkleed</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>anoniem</contributor>
+          <date>ca. 1840 - ca. 1900</date>
+          <type>Oosters tapijt</type>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kaukasus</coverage>
+          <coverage>Shirvan</coverage>
+          <coverage>Kuba</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-47-D</identifier>
+        <datestamp>2019-08-01T09:31:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22721</identifier>
+          <identifier>BK-BR-J-47-D</identifier>
+          <title>Strook van kloskant met holle en bolle dubbele lijsten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1860</date>
+          <type>strook</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-666</identifier>
+        <datestamp>2021-10-02T01:29:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22866</identifier>
+          <identifier>BK-1978-666</identifier>
+          <title>Strook kloskant met liggend hartenpatroon</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1899</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1970-185</identifier>
+        <datestamp>2021-10-02T01:31:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23088</identifier>
+          <identifier>BK-1970-185</identifier>
+          <title>Strook naaldkant met vogels</title>
+          <creator>anoniem</creator>
+          <date>ca. 1675 - ca. 1699</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-13709-B</identifier>
+        <datestamp>2021-10-02T01:32:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23164</identifier>
+          <identifier>AK-NM-13709-B</identifier>
+          <title>Achthoekige kop met lotusranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>kop</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17272</identifier>
+        <datestamp>2021-11-11T09:36:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22404</identifier>
+          <identifier>BK-17272</identifier>
+          <title>Tapijt met in het midden concentrische medaillons met florale ranken en vogels en in de hoeken schepen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1650</date>
+          <type>Oosters tapijt</type>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Perzië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-39-D</identifier>
+        <datestamp>2019-08-01T09:32:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22768</identifier>
+          <identifier>BK-BR-J-39-D</identifier>
+          <title>Strook applicatiekant van machinaal lintjeskant met sterbloempjes op machinale tule</title>
+          <creator>anoniem</creator>
+          <date>ca. 1920</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-161</identifier>
+        <datestamp>2021-10-02T01:28:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22810</identifier>
+          <identifier>BK-1979-161</identifier>
+          <title>Strook kloskant met ruitpatroon en schulpenrand</title>
+          <creator>anoniem</creator>
+          <date>ca. 1925 - ca. 1935</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1970-239</identifier>
+        <datestamp>2021-10-02T01:32:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23147</identifier>
+          <identifier>BK-1970-239</identifier>
+          <title>Strook naaldkant met stippen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1799</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8724</identifier>
+        <datestamp>2021-11-03T16:56:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22631</identifier>
+          <identifier>BK-NM-8724</identifier>
+          <title>Slot</title>
+          <date>1600 - 1699</date>
+          <type>slot</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1943-26</identifier>
+        <datestamp>2022-01-12T12:43:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22641</identifier>
+          <identifier>RP-T-1943-26</identifier>
+          <title>Ontwerp (?) voor een interieur</title>
+          <creator>Werner, Fritz</creator>
+          <date>1848-05-17</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14367-HH</identifier>
+        <datestamp>2021-10-02T01:29:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22928</identifier>
+          <identifier>BK-NM-14367-HH</identifier>
+          <title>Strook goudkant met vierkantjes in een ruit</title>
+          <creator>anoniem</creator>
+          <date>ca. 1925 - ca. 1930</date>
+          <type>strook</type>
+          <format>gouddraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Volvic</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14367-154</identifier>
+        <datestamp>2021-10-02T01:29:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22934</identifier>
+          <identifier>BK-NM-14367-154</identifier>
+          <title>Strook goudkant met waaiers en cirkels rond een v-vorm</title>
+          <creator>anoniem</creator>
+          <date>ca. 1920</date>
+          <type>strook</type>
+          <format>gouddraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lyon</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-789-L</identifier>
+        <datestamp>2021-10-02T01:36:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23473</identifier>
+          <identifier>BK-1980-789-L</identifier>
+          <title>Val van batist met machinale kant, voor een taboeret</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1920</date>
+          <type>val</type>
+          <format>batist</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1976-234-B</identifier>
+        <datestamp>2021-11-11T13:16:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22321</identifier>
+          <identifier>BK-1976-234-B</identifier>
+          <title>Ondermouw van tricot met manchet van machinale kant</title>
+          <creator>anoniem</creator>
+          <date>ca. 1935</date>
+          <type>kleding</type>
+          <type>ondermouw</type>
+          <format>katoen</format>
+          <format>kant (materiaal)</format>
+          <format>tricot</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-110-A</identifier>
+        <datestamp>2019-08-01T09:32:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22758</identifier>
+          <identifier>BK-BR-J-110-A</identifier>
+          <title>Strook applicatiekant met mimosatakjes</title>
+          <creator>anoniem</creator>
+          <date>ca. 1890 - ca. 1909</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1970-72</identifier>
+        <datestamp>2021-10-02T01:35:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23371</identifier>
+          <identifier>BK-1970-72</identifier>
+          <title>Strook applicatiekant met strooipatroon en eenzijdig gebogen bloemtakken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1825</date>
+          <type>strook</type>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-273-B</identifier>
+        <datestamp>2021-10-02T01:23:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22246</identifier>
+          <identifier>BK-1979-273-B</identifier>
+          <title>Strook zwarte machinale kant met een onderzijde van j-vormige gevederde bladeren met bloem</title>
+          <creator>anoniem</creator>
+          <date>ca. 1885 - ca. 1895</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Calais</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1911-5856</identifier>
+        <datestamp>2021-10-02T01:26:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22566</identifier>
+          <identifier>RP-T-1911-5856</identifier>
+          <title>Landschap met reizigers op een landweg</title>
+          <creator>Wagner, Johann Georg</creator>
+          <date>1754 - 1767</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14361-C</identifier>
+        <datestamp>2021-10-02T01:29:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22879</identifier>
+          <identifier>BK-NM-14361-C</identifier>
+          <title>Strook kloskant met bult op rechthoek en spitsovaal</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1909</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Normandië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNTkwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

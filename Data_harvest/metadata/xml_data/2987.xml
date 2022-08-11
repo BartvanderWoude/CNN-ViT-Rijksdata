@@ -1,0 +1,473 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTcyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1897-A-3328</identifier>
+        <datestamp>2021-05-13T16:05:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51784</identifier>
+          <identifier>RP-T-1897-A-3328</identifier>
+          <title>Gezicht op Huis Pot bij Nivelles, Waals-Brabant</title>
+          <creator>Grave, Josua de</creator>
+          <subject>Huis Pot</subject>
+          <date>1676-06-04</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijvel</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.020</identifier>
+        <datestamp>2019-05-22T12:35:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51228</identifier>
+          <identifier>RP-P-OB-31.020</identifier>
+          <title>Wonderbare visvangst</title>
+          <creator>Carpi, Ugo da</creator>
+          <contributor>Rafaël</contributor>
+          <contributor>Andreani, Andrea</contributor>
+          <date>1609</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Mantua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.884</identifier>
+        <datestamp>2022-03-02T15:20:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51582</identifier>
+          <identifier>RP-P-OB-17.884</identifier>
+          <title>Landschap met zes ossen aan een oever en herder die fluit speelt voor een herderin</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1776-01-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3629</identifier>
+        <datestamp>2021-10-02T12:24:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52025</identifier>
+          <identifier>BK-NM-3629</identifier>
+          <title>Fragment van karmijnrood damast met goudkleurig zijdeweefsel met een patroon van gestileerde bladeren en bloemen met gebogen tuilen van bloemen, bladeren en vruchten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1695 - ca. 1760</date>
+          <type>zijdedamast</type>
+          <format>zijde</format>
+          <format>filégouddraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11833-B</identifier>
+        <datestamp>2021-10-02T12:24:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51251</identifier>
+          <identifier>BK-NM-11833-B</identifier>
+          <title>Fragment geel en blauw gekleurd zijdeweefsel</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1699</date>
+          <type>lampas</type>
+          <format>zijde</format>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1898-A-3665</identifier>
+        <datestamp>2021-07-27T11:03:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51931</identifier>
+          <identifier>RP-T-1898-A-3665</identifier>
+          <title>Gezicht op een kampement van het leger van Willem III bij Grand-Hallet, Luik</title>
+          <creator>Grave, Josua de</creator>
+          <subject>GRAND HALLET</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1675-10-09</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Luik</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12310-B-2</identifier>
+        <datestamp>2021-11-03T19:26:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51094</identifier>
+          <identifier>BK-NM-12310-B-2</identifier>
+          <title>Paar schoenen met striklinten</title>
+          <creator>Berenbak, Hendrik Willem</creator>
+          <subject>dragen</subject>
+          <subject>ontvangst</subject>
+          <subject>schoen</subject>
+          <subject>gedragen</subject>
+          <subject>Den Haag</subject>
+          <subject>Steengracht van Oostkapelle-van Nellesteyn, Cornelia Johanna</subject>
+          <description>Op het eerste gezicht zijn dit gewone schoenen uit het eerste kwart van de 19de eeuw. Het bijzondere is het
+gedrukte papieren etiket op de binnenzool. Hierop staat de naam van de schoenmaker met zijn adres (Plaats 15 in Den Haag). Tot de 19de eeuw werkten vrijwel alle ambachtslieden anoniem. Verder is aangeduid welke schoen voor de linker- en welke voor de rechtervoet is.</description>
+          <date>ca. 1813 - ca. 1825</date>
+          <type>schoen</type>
+          <format>zijde</format>
+          <format>zijde</format>
+          <format>leer</format>
+          <format>papier</format>
+          <format>drukinkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1971-231-B</identifier>
+        <datestamp>2021-10-02T12:24:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51770</identifier>
+          <identifier>BK-1971-231-B</identifier>
+          <title>Fragment veelkleurige zijden mexicaine</title>
+          <creator>anoniem</creator>
+          <date>1765 - 1770</date>
+          <type>mexicaine</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1888-A-1610</identifier>
+        <datestamp>2021-05-17T14:53:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51958</identifier>
+          <identifier>RP-T-1888-A-1610</identifier>
+          <title>Ruïne van het kasteel te Heusden, Noord-Brabant</title>
+          <creator>Grave, Josua de</creator>
+          <subject>Heusden</subject>
+          <date>1691-08-17</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Heusden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16002-B</identifier>
+        <datestamp>2021-10-02T12:23:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50926</identifier>
+          <identifier>BK-16002-B</identifier>
+          <title>Strook naaldkant met rijen takjes en boogjeslijnen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1790 - ca. 1799</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Alençon</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.081</identifier>
+        <datestamp>2019-05-22T12:37:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51433</identifier>
+          <identifier>RP-P-OB-31.081</identifier>
+          <title>Kracht</title>
+          <creator>Carpi, Ugo da</creator>
+          <contributor>Parmigianino</contributor>
+          <date>1502 - 1532</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.166</identifier>
+        <datestamp>2019-05-22T12:39:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51793</identifier>
+          <identifier>RP-P-OB-31.166</identifier>
+          <title>Hercules en de Nemeïsche leeuw</title>
+          <creator>anoniem</creator>
+          <creator>Vicentino, Niccolò</creator>
+          <contributor>Rafaël</contributor>
+          <date>in of na ca. 1540</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-152</identifier>
+        <datestamp>2019-01-03T16:50:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51985</identifier>
+          <identifier>RP-T-00-152</identifier>
+          <title>Markttafereel</title>
+          <creator>Groot, Johannes de</creator>
+          <contributor>Velde, Jan van de (II)</contributor>
+          <date>1666-02-13</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.057</identifier>
+        <datestamp>2019-05-22T12:36:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51344</identifier>
+          <identifier>RP-P-OB-31.057</identifier>
+          <title>Jason met het Gulden Vlies</title>
+          <creator>anoniem</creator>
+          <contributor>Parmigianino</contributor>
+          <contributor>Andreani, Andrea</contributor>
+          <date>1601 - 1609</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Mantua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-330</identifier>
+        <datestamp>2019-01-03T15:15:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51498</identifier>
+          <identifier>RP-T-00-330</identifier>
+          <title>Feestvierende boeren</title>
+          <creator>Holsteyn, Pieter (II)</creator>
+          <date>1624 - 1673</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1908-22</identifier>
+        <datestamp>2021-05-12T12:58:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51548</identifier>
+          <identifier>RP-T-1908-22</identifier>
+          <title>Gezicht op een boerderij bij Mechelen</title>
+          <creator>Grave, Josua de</creator>
+          <subject>Berghen</subject>
+          <date>1674-10-16</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Mechelen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1985-106</identifier>
+        <datestamp>2021-10-02T12:23:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50869</identifier>
+          <identifier>BK-1985-106</identifier>
+          <title>Kleed van linnen met rondom een rand kloskant met gestileerd 'klokje'-patroon van patroonontwerpster De Jager Meezenbroek-van Beverwijk</title>
+          <creator>Jager Meezenbroek-van Beverwijk, L.P.J. de</creator>
+          <contributor>Kantwerkschool Ieder voor allen (Wijdenes)</contributor>
+          <date>ca. 1924</date>
+          <type>kleed</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Wijdenes</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12635</identifier>
+        <datestamp>2021-10-02T12:23:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50876</identifier>
+          <identifier>BK-NM-12635</identifier>
+          <title>Palladoek van naaldkant met geometrische motieven en spitse punten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1615</date>
+          <type>palla</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1913-158(R)</identifier>
+        <datestamp>2019-01-03T16:50:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51518</identifier>
+          <identifier>RP-T-1913-158(R)</identifier>
+          <title>IJsvermaak</title>
+          <creator>Grasdorp, Gerrit</creator>
+          <date>1661 - 1693</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.935</identifier>
+        <datestamp>2022-03-02T15:21:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51736</identifier>
+          <identifier>RP-P-OB-17.935</identifier>
+          <title>Bergachtig landschap met fluitspelende herder op een rots</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>1776-12-03</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTc0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

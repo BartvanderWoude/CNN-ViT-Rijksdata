@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NTU2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1898-A-4019</identifier>
+        <datestamp>2020-04-10T15:50:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63771</identifier>
+          <identifier>RP-T-1898-A-4019</identifier>
+          <title>Portret van een man, mogelijk de schilder Philips Wouwerman (1619-1668)</title>
+          <creator>Visscher, Cornelis (II)</creator>
+          <subject>Wouwerman, Philips</subject>
+          <date>ca. 1650 - ca. 1700</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2345-D</identifier>
+        <datestamp>2021-10-19T15:38:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69594</identifier>
+          <identifier>NG-1980-27-H-2345-D</identifier>
+          <title>Scherven van kannen uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>steengoed</type>
+          <type>kan</type>
+          <type>scherf</type>
+          <format>steengoed</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Keulen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2412-B</identifier>
+        <datestamp>2021-10-19T15:39:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69643</identifier>
+          <identifier>NG-1980-27-H-2412-B</identifier>
+          <title>Scherven van potten en een glasscherf uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>steengoed</type>
+          <type>pot</type>
+          <type>scherf</type>
+          <format>steengoed</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Westerwald</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-1146</identifier>
+        <datestamp>2021-10-07T16:30:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69402</identifier>
+          <identifier>NG-1980-27-H-1146</identifier>
+          <title>Fragment rechte steel van glas uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>glas</type>
+          <type>fluitglas</type>
+          <type>steel</type>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2505</identifier>
+        <datestamp>2021-10-07T16:30:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69408</identifier>
+          <identifier>NG-1980-27-H-2505</identifier>
+          <title>Fragment rechte steel van glas uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>glas</type>
+          <type>fluitglas</type>
+          <type>steel</type>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1979-484-H</identifier>
+        <datestamp>2021-10-02T13:02:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69257</identifier>
+          <identifier>NG-1979-484-H</identifier>
+          <title>Wijnfles uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>wijnfles</type>
+          <format>groen glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-1386</identifier>
+        <datestamp>2021-10-02T13:03:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69300</identifier>
+          <identifier>NG-1980-27-H-1386</identifier>
+          <title>Hals met kurk van een wijnfles uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>wijnfles</type>
+          <type>hals (objectnaam)</type>
+          <type>scherf</type>
+          <format>groen glas</format>
+          <format>kurk</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1902-A-4623</identifier>
+        <datestamp>2019-01-03T16:45:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63593</identifier>
+          <identifier>RP-T-1902-A-4623</identifier>
+          <title>Gezicht op een boerderij</title>
+          <title>Genummerde dorps- en poldergezichten</title>
+          <creator>Visscher, Claes Jansz. (II)</creator>
+          <date>1596 - 1652</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1900-A-4452</identifier>
+        <datestamp>2021-10-02T13:02:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69200</identifier>
+          <identifier>RP-T-1900-A-4452</identifier>
+          <title>Zittende hond, zich ontlastend, van opzij gezien</title>
+          <creator>Snijders, Frans</creator>
+          <date>1589 - 1657</date>
+          <type>tekening</type>
+          <format>geprepareerd papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2624-P</identifier>
+        <datestamp>2021-10-19T15:37:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69451</identifier>
+          <identifier>NG-1980-27-H-2624-P</identifier>
+          <title>Scherf van een bord uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>bord (vaatwerk)</type>
+          <type>scherf</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11958</identifier>
+        <datestamp>2021-10-02T12:48:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64401</identifier>
+          <identifier>BK-NM-11958</identifier>
+          <title>Wangentafel van notenhout met trekbladen. Met sleeppoten verbonden door voetregels waarop drie gekoppelde Toscaanse colonnettten met vier bogen.</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1550 - 1600</date>
+          <type>meubilair</type>
+          <type>tafel</type>
+          <type>wangtafel</type>
+          <format>hout</format>
+          <format>notenhout</format>
+          <format>eikenhout</format>
+          <format>ebbenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2456</identifier>
+        <datestamp>2021-10-19T15:38:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69600</identifier>
+          <identifier>NG-1980-27-H-2456</identifier>
+          <title>Scherven van porselein en steengoed uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>steengoed</type>
+          <type>scherf</type>
+          <format>steengoed</format>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Keulen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-445</identifier>
+        <datestamp>2021-01-28T13:40:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69242</identifier>
+          <identifier>RP-T-00-445</identifier>
+          <title>Oordeel van Salomo</title>
+          <creator>Thulden, Theodoor van</creator>
+          <date>1616 - 1669</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1926-14</identifier>
+        <datestamp>2020-04-01T08:48:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64041</identifier>
+          <identifier>RP-T-1926-14</identifier>
+          <title>Ruïnelandschap in Italië</title>
+          <creator>Monogrammist PL (tekenaar)</creator>
+          <subject>Italië</subject>
+          <date>1666</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-28</identifier>
+        <datestamp>2019-01-03T16:40:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64047</identifier>
+          <identifier>RP-T-00-28</identifier>
+          <title>Niobide</title>
+          <creator>Monogrammist WBVH</creator>
+          <date>1680</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1041</identifier>
+        <datestamp>2021-01-06T12:46:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64617</identifier>
+          <identifier>RP-F-00-1041</identifier>
+          <title>Zuidelijke toegangspoort van de Jardin des Tuileries te Parijs</title>
+          <title>Porte Sud des Tuileries</title>
+          <creator>Dontenville, Edouard</creator>
+          <date>ca. 1870 - ca. 1885</date>
+          <type>foto</type>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1046</identifier>
+        <datestamp>2017-10-05T00:02:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64623</identifier>
+          <identifier>RP-F-00-1046</identifier>
+          <title>Gezicht op het Rattenfängerhaus in Hamelen</title>
+          <title>Rattenfängerhaus</title>
+          <title>Hameln a/w</title>
+          <creator>Tieleman, B.</creator>
+          <subject>Hamelen</subject>
+          <date>ca. 1870 - ca. 1890</date>
+          <type>kabinetfoto</type>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Hamelen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1071</identifier>
+        <datestamp>2022-01-24T09:08:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64672</identifier>
+          <identifier>RP-F-00-1071</identifier>
+          <title>Lievevrouwepoort te Bergen op Zoom, gezien vanuit de Rijkebuurtstraat, met links het atelier van de fotograaf</title>
+          <creator>Melle, Jannis Jacobus van</creator>
+          <subject>Gevangenpoort</subject>
+          <date>1877 - ca. 1900</date>
+          <type>kabinetfoto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bergen op Zoom</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1934-4</identifier>
+        <datestamp>2021-10-02T13:02:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69188</identifier>
+          <identifier>RP-T-1934-4</identifier>
+          <title>Antieke camee met portretkop, in profiel naar links</title>
+          <creator>Rubens, Peter Paul</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Pontius, Paulus</contributor>
+          <date>1613 - 1640</date>
+          <type>tekening</type>
+          <type>prent</type>
+          <format>papier</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-1872-C</identifier>
+        <datestamp>2021-10-07T16:30:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69362</identifier>
+          <identifier>NG-1980-27-H-1872-C</identifier>
+          <title>Scherven van wijnflessen uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>wijnfles</type>
+          <type>scherf</type>
+          <format>groen glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NTU4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

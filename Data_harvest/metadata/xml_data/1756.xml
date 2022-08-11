@@ -1,0 +1,458 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNTEwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1919-30(R)</identifier>
+        <datestamp>2021-11-04T11:14:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27155</identifier>
+          <identifier>RP-T-1919-30(R)</identifier>
+          <title>De thuiskomst van de eendenjagers</title>
+          <title>Eendenjagers terugkerend van de jacht</title>
+          <creator>Avercamp, Hendrick</creator>
+          <subject>eend</subject>
+          <date>ca. 1610 - ca. 1615</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1886-A-684</identifier>
+        <datestamp>2021-10-02T11:42:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27161</identifier>
+          <identifier>RP-T-1886-A-684</identifier>
+          <title>Jager met eend aan zijn gordel</title>
+          <creator>Avercamp, Hendrick</creator>
+          <date>voor 1620</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2204-A</identifier>
+        <datestamp>2021-11-03T16:59:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26204</identifier>
+          <identifier>BK-KOG-2204-A</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2209-A</identifier>
+        <datestamp>2021-11-03T16:59:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26210</identifier>
+          <identifier>BK-KOG-2209-A</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1957-173</identifier>
+        <datestamp>2021-10-02T11:42:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27005</identifier>
+          <identifier>RP-T-1957-173</identifier>
+          <title>Ontwerp voor een monstrans</title>
+          <creator>Monogrammist WA met de sleutel</creator>
+          <contributor>anoniem</contributor>
+          <date>1475 - 1499</date>
+          <date>1480 - 1520</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederrijngebied</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-38</identifier>
+        <datestamp>2021-10-02T11:42:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27014</identifier>
+          <identifier>RP-T-1953-38</identifier>
+          <title>Doortocht van soldaten op de St. Bernard</title>
+          <creator>Müller, Johann Christian Ernst</creator>
+          <subject>Napoleontische oorlogen</subject>
+          <subject>Alpen</subject>
+          <subject>Grote Sint-Bernhardpas</subject>
+          <date>1800 - 1824</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-15809-C</identifier>
+        <datestamp>2022-03-17T10:55:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23935</identifier>
+          <identifier>AK-RBK-15809-C</identifier>
+          <title>Kom met vakdecoratie met een vrouw in een landschap</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>kom</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10251-B</identifier>
+        <datestamp>2021-11-03T19:22:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24121</identifier>
+          <identifier>BK-NM-10251-B</identifier>
+          <title>Bril van ijzer, met ronde, gedeeltelijk hoornen glazen en uitvouwbare benen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1850</date>
+          <type>bril</type>
+          <format>ijzer</format>
+          <format>glas</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-259-B</identifier>
+        <datestamp>2021-10-02T01:56:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24696</identifier>
+          <identifier>BK-1968-259-B</identifier>
+          <title>Vierkante fles met prunus en chrysant</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <description>Drie vierkante flessen.
+Het was niet ongebruikelijk in Europa om ongedecoreerd Aziatisch porselein hier te voorzien van decoratie. De beschildering op de twee Japanse flessen rechts is gedaan in Kakiemon stijl, maar is mogelijk in Meissen uitgevoerd.</description>
+          <date>ca. 1670 - ca. 1730</date>
+          <type>fles</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Meissen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-100-B-7</identifier>
+        <datestamp>2019-08-01T09:36:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23813</identifier>
+          <identifier>BK-BR-J-100-B-7</identifier>
+          <title>Strook gehaakte kant met vijfpuntige sterren en bloemen gemaakt met open cirkels</title>
+          <creator>anoniem</creator>
+          <date>ca. 1890 - ca. 1909</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ierland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-15827-B</identifier>
+        <datestamp>2022-03-15T15:43:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23909</identifier>
+          <identifier>AK-RBK-15827-B</identifier>
+          <title>Rozenwater druppelaar of puntfles met celadongroen en chrysanten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>puntfles</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-159-17-A</identifier>
+        <datestamp>2021-11-03T19:23:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27274</identifier>
+          <identifier>BK-1984-159-17-A</identifier>
+          <title>Handschoen van wit leer</title>
+          <creator>Maison de Bonneterie</creator>
+          <date>ca. 1900 - ca. 1915</date>
+          <type>kleding</type>
+          <type>handschoen</type>
+          <format>leer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1956-147</identifier>
+        <datestamp>2021-01-28T12:56:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26517</identifier>
+          <identifier>RP-T-1956-147</identifier>
+          <title>Stier in galop in de aanval</title>
+          <creator>Sandoz-Rollin, David Alphonse de</creator>
+          <subject>stier</subject>
+          <date>1750 - 1809</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-159-3-A</identifier>
+        <datestamp>2021-11-03T19:23:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27260</identifier>
+          <identifier>BK-1984-159-3-A</identifier>
+          <title>Handschoen van groen leer</title>
+          <creator>Maison de Bonneterie</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1915 - ca. 1950</date>
+          <type>kleding</type>
+          <type>handschoen</type>
+          <format>leer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Verenigde Staten van Amerika</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2291</identifier>
+        <datestamp>2021-11-03T17:00:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26293</identifier>
+          <identifier>BK-KOG-2291</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1700 - ca. 1800</date>
+          <type>sleutel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-393</identifier>
+        <datestamp>2021-10-02T11:40:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26546</identifier>
+          <identifier>BK-1975-393</identifier>
+          <title>Muts van batist met drie volants met geschulpte randen en kinnebanden</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850</date>
+          <type>dameskleding</type>
+          <type>muts</type>
+          <format>batist</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1978-71</identifier>
+        <datestamp>2021-10-02T11:42:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27076</identifier>
+          <identifier>RP-T-1978-71</identifier>
+          <title>Drie mannen bij een brug</title>
+          <creator>Almeloveen, Jan van</creator>
+          <date>1682-05-27</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-159-25-A</identifier>
+        <datestamp>2021-08-19T17:08:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27283</identifier>
+          <identifier>BK-1984-159-25-A</identifier>
+          <title>Handschoen van grijs, beige zeemleer</title>
+          <creator>anoniem</creator>
+          <contributor>Maison de Bonneterie</contributor>
+          <date>ca. 1900 - ca. 1915</date>
+          <type>kleding</type>
+          <type>handschoen</type>
+          <format>zeemleer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-98-D</identifier>
+        <datestamp>2019-08-01T09:36:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23844</identifier>
+          <identifier>BK-BR-J-98-D</identifier>
+          <title>Oplegstuk van gehaakte kant imitatie grove Venetiaanse kant</title>
+          <creator>anoniem</creator>
+          <date>ca. 1890 - ca. 1909</date>
+          <type>oplegstuk</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ierland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-590</identifier>
+        <datestamp>2021-10-02T01:40:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23875</identifier>
+          <identifier>RP-T-1948-590</identifier>
+          <title>Planten en grassen bij oude wilgenstammen</title>
+          <creator>Ridinger, Johann Elias</creator>
+          <date>1724</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNTEyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

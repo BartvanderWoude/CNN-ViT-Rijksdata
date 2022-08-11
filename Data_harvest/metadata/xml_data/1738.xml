@@ -1,0 +1,442 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDc0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2260</identifier>
+        <datestamp>2021-11-03T16:59:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26262</identifier>
+          <identifier>BK-KOG-2260</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1956-138</identifier>
+        <datestamp>2021-01-28T12:56:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26553</identifier>
+          <identifier>RP-T-1956-138</identifier>
+          <title>Bergbeek gezien tegen het egale grijs van een bergrug</title>
+          <creator>Sandoz-Rollin, David Alphonse de</creator>
+          <date>1750 - 1809</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-120-A</identifier>
+        <datestamp>2021-10-02T11:41:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26761</identifier>
+          <identifier>BK-1984-120-A</identifier>
+          <title>Halsband van zwart satijn versierd met kralen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1915</date>
+          <type>sieraad</type>
+          <type>halsband</type>
+          <type>lint</type>
+          <format>satijn</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11236</identifier>
+        <datestamp>2021-10-02T11:42:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27085</identifier>
+          <identifier>BK-NM-11236</identifier>
+          <title>Basement</title>
+          <subject>Rolduc</subject>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>basement</type>
+          <type>bouwfragment</type>
+          <format>steen (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rolduc</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2200</identifier>
+        <datestamp>2021-11-03T16:59:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26200</identifier>
+          <identifier>BK-KOG-2200</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1700 - ca. 1800</date>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1970-50</identifier>
+        <datestamp>2020-11-03T15:23:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27166</identifier>
+          <identifier>RP-T-1970-50</identifier>
+          <title>Kustgezicht met uit het water oprijzende rotsen</title>
+          <creator>Asselijn, Jan</creator>
+          <date>1620 - 1652</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2213</identifier>
+        <datestamp>2021-11-03T16:59:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26214</identifier>
+          <identifier>BK-KOG-2213</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1600</date>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-121-D</identifier>
+        <datestamp>2021-10-02T11:41:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26651</identifier>
+          <identifier>BK-1984-121-D</identifier>
+          <title>Corsage, orchidee van violet fluweel, met korte steel</title>
+          <creator>anoniem</creator>
+          <date>ca. 1930 - ca. 1950</date>
+          <type>dameskleding</type>
+          <type>corsage</type>
+          <format>fluweel</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-240-F</identifier>
+        <datestamp>2021-10-02T11:41:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26697</identifier>
+          <identifier>BK-1979-240-F</identifier>
+          <title>Vestknoop van koper met parelmoer met vast oogje</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1940</date>
+          <type>herenkleding</type>
+          <type>vestknoop</type>
+          <format>koper</format>
+          <format>parelmoer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1883-A-241</identifier>
+        <datestamp>2022-04-05T11:30:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27151</identifier>
+          <identifier>RP-T-1883-A-241</identifier>
+          <title>Vissers met schepnetten langs een jaagpad</title>
+          <creator>Avercamp, Hendrick</creator>
+          <subject>binnenscheepvaart</subject>
+          <subject>trekschuit</subject>
+          <subject>visserij</subject>
+          <date>ca. 1625 - ca. 1630</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>dekverf</format>
+          <format>waterverf</format>
+          <format>grafiet</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2054</identifier>
+        <datestamp>2021-10-02T11:38:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26057</identifier>
+          <identifier>BK-KOG-2054</identifier>
+          <title>39 sleutels uit de collectie van Emmanuel Vita Israël</title>
+          <creator>anoniem</creator>
+          <description>De Amsterdamse apotheker en kunstverzamelaar Emmanuel Vita Israël schonk zijn collectie, met sleutels van de Romeinse oudheid tot de 19de eeuw, in 1937 aan het Koninklijk Oudheidkundig Genootschap. Naar eigen zeggen kwam zijn sleutelcollectie min of meer per toeval tot stand. Omdat hij een van de weinige verzamelaars was, wisten handelaren hem automatisch te vinden.</description>
+          <date>ca. 1200 - ca. 1400</date>
+          <type>pijpsleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1962-498</identifier>
+        <datestamp>2016-10-20T19:36:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26482</identifier>
+          <identifier>RP-T-1962-498</identifier>
+          <title>Jacob ontvlucht Laban in het land Kanaan</title>
+          <creator>Jegli, Hans (II)</creator>
+          <contributor>Mander, Karel van (I)</contributor>
+          <contributor>Borch, Gerard ter (I)</contributor>
+          <date>1590 - 1700</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10297-4</identifier>
+        <datestamp>2021-10-02T11:41:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26855</identifier>
+          <identifier>BK-NM-10297-4</identifier>
+          <title>Gebreide muts van wit katoen met open rondjes, zigzagranden en over het midden een opengewerkte rand</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>dameskleding</type>
+          <type>muts</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8320</identifier>
+        <datestamp>2021-10-02T11:41:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26863</identifier>
+          <identifier>BK-NM-8320</identifier>
+          <title>Slaapmuts van gebreide zijde, met ingebreid de tekst: Wie wijs is vind zijn vreugd, In vrienschap, kunst en deugd</title>
+          <creator>anoniem</creator>
+          <date>voor 1886</date>
+          <type>kleding</type>
+          <type>slaapmuts</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-FM-113</identifier>
+        <datestamp>2016-10-20T19:36:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26635</identifier>
+          <identifier>RP-T-FM-113</identifier>
+          <title>Biddende monnik naar G. Dou</title>
+          <creator>Płoński, Michał</creator>
+          <contributor>Dou, Gerard</contributor>
+          <date>1807</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>dekverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2101</identifier>
+        <datestamp>2021-11-03T16:58:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26104</identifier>
+          <identifier>BK-KOG-2101</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1300 - ca. 1400</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1940-617</identifier>
+        <datestamp>2021-03-19T12:36:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26776</identifier>
+          <identifier>RP-T-1940-617</identifier>
+          <title>Blad met antieke objecten en relief</title>
+          <creator>Flaxman, John (II)</creator>
+          <subject>de Griekse heldenverhalen</subject>
+          <date>1765 - 1826</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-159-19-A</identifier>
+        <datestamp>2021-08-19T17:08:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27276</identifier>
+          <identifier>BK-1984-159-19-A</identifier>
+          <title>Handschoen van lichtblauw leer</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1915</date>
+          <type>kleding</type>
+          <type>handschoen</type>
+          <format>leer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2207</identifier>
+        <datestamp>2021-11-03T16:59:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26208</identifier>
+          <identifier>BK-KOG-2207</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1969-9</identifier>
+        <datestamp>2020-05-26T15:05:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27012</identifier>
+          <identifier>RP-T-1969-9</identifier>
+          <title>Gezicht op de Straat van Gibraltar</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <subject>Straat van Gibraltar</subject>
+          <date>1668 - 1669</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDc2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

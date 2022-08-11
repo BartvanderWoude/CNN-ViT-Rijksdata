@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0Nzk4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-1097(V)</identifier>
+        <datestamp>2016-10-20T21:05:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118439</identifier>
+          <identifier>RP-T-00-1097(V)</identifier>
+          <title>Laenas trekt een cirkel in het zand rond Antiochus IV Epiphanes</title>
+          <creator>Andriessen, Jurriaan</creator>
+          <date>1752 - 1819</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-4076</identifier>
+        <datestamp>2016-10-20T21:03:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116670</identifier>
+          <identifier>RP-P-1907-4076</identifier>
+          <title>Fabel van de wolf en het schaap</title>
+          <creator>Sadeler, Aegidius (II)</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Gheeraerts, Marcus (I)</contributor>
+          <contributor>Gheeraerts, Marcus (I)</contributor>
+          <contributor>Sadeler, Aegidius (II)</contributor>
+          <subject>fabels</subject>
+          <date>1608 - 1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Praag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.872</identifier>
+        <datestamp>2016-10-20T21:04:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117522</identifier>
+          <identifier>RP-P-OB-52.872</identifier>
+          <title>Allegorie op de huwelijksverbintenis tussen Abraham Lestevenon en Geertrui de Vroede</title>
+          <title>Ter Bruiloft van den heer Abraham Lestevenon en Mejuff. Geertruda de Vroede</title>
+          <creator>Goeree, Jan</creator>
+          <contributor>Goeree, Jan</contributor>
+          <contributor>Schijnvoet, Simon</contributor>
+          <contributor>Schijnvoet, Simon</contributor>
+          <subject>engelen</subject>
+          <subject>Lestevenon, Abraham</subject>
+          <subject>Vroede, Geertrui de</subject>
+          <date>1700</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1937-783</identifier>
+        <datestamp>2019-05-21T09:58:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118403</identifier>
+          <identifier>RP-P-1937-783</identifier>
+          <title>Gevecht in een herberg</title>
+          <creator>Greenwood, Frans</creator>
+          <contributor>Willis, Arnold</contributor>
+          <date>1733</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.751</identifier>
+        <datestamp>2016-10-20T21:04:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117112</identifier>
+          <identifier>RP-P-OB-52.751</identifier>
+          <title>Ravijn met een kudde schapen</title>
+          <title>Landschappen in het Chartreuzer-gebergte</title>
+          <creator>Glauber, Johannes</creator>
+          <contributor>Glauber, Johannes</contributor>
+          <subject>Massif de la Chartreuse</subject>
+          <date>1656 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1883-A-7065M</identifier>
+        <datestamp>2021-05-28T16:14:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117675</identifier>
+          <identifier>RP-P-1883-A-7065M</identifier>
+          <title>Opstanding van Christus</title>
+          <title>De Passie</title>
+          <creator>Siceram, Ludovicus</creator>
+          <contributor>Vorsterman, Lucas (I)</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <date>1623</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1937-789</identifier>
+        <datestamp>2019-05-21T09:58:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118489</identifier>
+          <identifier>RP-P-1937-789</identifier>
+          <title>Gezicht op de Vondelstraat van Amsterdam</title>
+          <creator>Greive, Johan Conrad</creator>
+          <subject>Vondelstraat</subject>
+          <subject>Eerste Constantijn Huygensstraat</subject>
+          <subject>Vondelkerk</subject>
+          <date>1882</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-2044</identifier>
+        <datestamp>2016-11-20T06:40:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116868</identifier>
+          <identifier>RP-P-1878-A-2044</identifier>
+          <title>Titelpagina voor Johan Konijnenburg en Martinus Stuart, Taferelen van de staatsomwenteling in Frankrijk, 1827</title>
+          <creator>Gier, Willem de</creator>
+          <subject>Russische Veldtocht</subject>
+          <subject>Bonaparte, Napoleon I</subject>
+          <date>1827</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zaltbommel</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1957-681</identifier>
+        <datestamp>2020-05-12T09:20:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117626</identifier>
+          <identifier>RP-P-1957-681</identifier>
+          <title>In- en verkoopster van vet</title>
+          <title>Straatventers in Londen</title>
+          <title>The Cryes of the City of London</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Savage, John</contributor>
+          <contributor>Laroon, Marcellus (I)</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Provincie Holland</contributor>
+          <date>1688 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-426-G</identifier>
+        <datestamp>2022-03-14T14:28:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118463</identifier>
+          <identifier>BK-BR-426-G</identifier>
+          <title>Fragment van een weefsel met leeuwen en bloemen versierd</title>
+          <creator>anoniem</creator>
+          <date>ca. 1300 - ca. 1399</date>
+          <type>weefsel</type>
+          <type>fragment</type>
+          <format>zijde</format>
+          <format>linnen</format>
+          <format>lamel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.497</identifier>
+        <datestamp>2016-10-20T21:03:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116155</identifier>
+          <identifier>RP-P-OB-52.497</identifier>
+          <title>Kaart van Palestina</title>
+          <title>Terrae Sanctae seu terrae promissionis nova descripto</title>
+          <creator>Geelkercken, Nicolaes van</creator>
+          <contributor>Geilkercken, Arnoldus van</contributor>
+          <contributor>Geelkercken, Nicolaes van</contributor>
+          <subject>kaarten, atlassen</subject>
+          <subject>Egypte</subject>
+          <subject>Palestina</subject>
+          <subject>Israël</subject>
+          <date>1621</date>
+          <type>prent</type>
+          <type>kaart</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1913-2075</identifier>
+        <datestamp>2016-10-20T21:03:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116193</identifier>
+          <identifier>RP-P-1913-2075</identifier>
+          <title>Portret van een oude man</title>
+          <creator>Geisweit van der Netten, Cornelis Justinus</creator>
+          <date>1858</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17508</identifier>
+        <datestamp>2016-10-20T21:05:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117816</identifier>
+          <identifier>RP-P-1892-A-17508</identifier>
+          <title>Januari</title>
+          <title>Ianvarivs</title>
+          <title>De twaalf maanden</title>
+          <creator>Goltzius, Julius</creator>
+          <contributor>Mostaert, Gillis (I)</contributor>
+          <contributor>Luyck, Hans van</contributor>
+          <date>ca. 1560 - 1595</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1782</identifier>
+        <datestamp>2016-10-20T21:05:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117963</identifier>
+          <identifier>RP-P-1910-1782</identifier>
+          <title>Portret van admiraal Cornelis Tromp</title>
+          <title>Fortes Creantor Fortibus</title>
+          <creator>Goutsbloem, Cornelis</creator>
+          <contributor>Eeckhout, Gerbrand van den</contributor>
+          <contributor>Mosijn, Michiel</contributor>
+          <contributor>Jonghe, Clement de</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Zeeslag bij Livorno</subject>
+          <subject>Tromp, Cornelis</subject>
+          <date>1653 - ca. 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.993</identifier>
+        <datestamp>2019-05-29T15:43:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117969</identifier>
+          <identifier>RP-P-OB-52.993</identifier>
+          <title>Oordeel van Salomo</title>
+          <creator>Gouwen, Gilliam van der</creator>
+          <contributor>Picart, Bernard</contributor>
+          <contributor>Hondt, Pieter de</contributor>
+          <date>1728</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.516</identifier>
+        <datestamp>2019-05-29T15:41:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116285</identifier>
+          <identifier>RP-P-OB-52.516</identifier>
+          <title>Landschap met wassende vrouwen</title>
+          <creator>Genoels, Abraham</creator>
+          <contributor>Genoels, Abraham</contributor>
+          <contributor>Genoels, Abraham</contributor>
+          <date>1650 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.521</identifier>
+        <datestamp>2019-05-29T15:41:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116291</identifier>
+          <identifier>RP-P-OB-52.521</identifier>
+          <title>Arcadisch landschap met rotswand</title>
+          <creator>Genoels, Abraham</creator>
+          <contributor>Genoels, Abraham</contributor>
+          <date>1650 - 1723</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.951</identifier>
+        <datestamp>2019-05-29T15:43:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117792</identifier>
+          <identifier>RP-P-OB-52.951</identifier>
+          <title>Hemelvaart van Maria</title>
+          <creator>Goltzius, Julius</creator>
+          <contributor>Monogrammist AB (eind 16e eeuw; schrijver)</contributor>
+          <contributor>Vrints, Johannes Baptista (I)</contributor>
+          <date>1575 - 1595</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1921-267</identifier>
+        <datestamp>2016-10-20T21:05:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117986</identifier>
+          <identifier>RP-P-1921-267</identifier>
+          <title>Christus roept apostelen onder de vissers / Maria en de vier apocalyptische dieren</title>
+          <creator>Gouwen, Gilliam van der</creator>
+          <contributor>Picart, Bernard</contributor>
+          <date>1709 - ca. 1740</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-60.007</identifier>
+        <datestamp>2016-10-20T21:05:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117992</identifier>
+          <identifier>RP-P-OB-60.007</identifier>
+          <title>Triomfwagen van Mercurius</title>
+          <title>Titelpagina voor Gillis van Limburg, De Haagse Mercurius, 1698</title>
+          <title>De Haagse Mercurius</title>
+          <creator>Gouwen, Gilliam van der</creator>
+          <contributor>Kaarsgieter, François de</contributor>
+          <contributor>Limburg, Gillis van</contributor>
+          <date>1698</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0ODAwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,473 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NzA4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2186</identifier>
+        <datestamp>2021-10-01T21:35:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5885</identifier>
+          <identifier>SK-A-2186</identifier>
+          <title>Zelfportret</title>
+          <creator>Bakhuysen, Ludolf</creator>
+          <subject>zelfportret</subject>
+          <subject>Bakhuysen, Ludolf</subject>
+          <date>1690 - 1708</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3726</identifier>
+        <datestamp>2021-10-01T21:40:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6053</identifier>
+          <identifier>SK-A-3726</identifier>
+          <title>Het gestoorde gebed</title>
+          <creator>Bisschop, Christoffel</creator>
+          <date>1850 - 1904</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1942-120(V)</identifier>
+        <datestamp>2021-10-01T21:47:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6325</identifier>
+          <identifier>RP-T-1942-120(V)</identifier>
+          <title>Schetsen van een liggende vrouw met een kind aan de borst</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1800</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-299</identifier>
+        <datestamp>2022-02-25T23:54:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5567</identifier>
+          <identifier>SK-C-299</identifier>
+          <title>Een landman met een vrouw en kind</title>
+          <creator>Teniers, David (II)</creator>
+          <subject>landschap</subject>
+          <date>ca. 1650 - ca. 1655</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-203</identifier>
+        <datestamp>2021-10-01T22:07:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7318</identifier>
+          <identifier>RP-T-1953-203</identifier>
+          <title>Madame Greuze op een chaise-longue met haar hondje</title>
+          <creator>Greuze, Jean-Baptiste</creator>
+          <subject>Greuze, Anne Gabrielle</subject>
+          <date>1757 - 1760</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>grafiet</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4673</identifier>
+        <datestamp>2022-01-22T21:38:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5620</identifier>
+          <identifier>SK-A-4673</identifier>
+          <title>De dochter van de farao vindt Mozes in het biezen mandje</title>
+          <creator>Wtenbrouck, Moyses van</creator>
+          <description>Te midden van de badende vrouwen is met enige moeite de kleine Mozes zichtbaar met het biezen mandje waarin hij is aangespoeld. Wtenbrouck laat duidelijk zien dat het Bijbelverhaal zich in Egypte afspeelt: op de voorgrond is een beeld van een sfinx met hondenkop te zien, op de achtergrond een begroeide obelisk.</description>
+          <date>ca. 1625 - ca. 1627</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2033</identifier>
+        <datestamp>2021-10-01T21:30:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5658</identifier>
+          <identifier>SK-A-2033</identifier>
+          <title>Man van het eiland Patmos</title>
+          <creator>Vanmour, Jean Baptiste</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Turkije</subject>
+          <subject>Patmos</subject>
+          <date>1700 - 1737</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Istanboel</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1952-71</identifier>
+        <datestamp>2021-10-01T21:59:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6866</identifier>
+          <identifier>RP-T-1952-71</identifier>
+          <title>Gezicht op het dorp Marigny</title>
+          <title>Vue de Clocher et partie du Village de Marigny prise du Salon du Château</title>
+          <creator>Cochin, Charles Nicolas (II)</creator>
+          <subject>Marigny</subject>
+          <date>1760</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2292</identifier>
+        <datestamp>2021-10-01T21:34:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5819</identifier>
+          <identifier>SK-A-2292</identifier>
+          <title>In het weeshuis te Katwijk-Binnen</title>
+          <creator>Artz, David Adolph Constant</creator>
+          <subject>Katwijk Binnen</subject>
+          <date>ca. 1870 - ca. 1890</date>
+          <type>schilderij</type>
+          <format>olieverf</format>
+          <format>doek</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1467</identifier>
+        <datestamp>2022-05-02T13:16:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6372</identifier>
+          <identifier>SK-A-1467</identifier>
+          <title>Episode uit de zeeslag in de Sont tussen de Hollandse en de Zweedse vloten, 8 november 1658</title>
+          <creator>Velde, Willem van de (I)</creator>
+          <subject>marine</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>militaire geschiedenis</subject>
+          <subject>zeeslag</subject>
+          <subject>Slag in de Sont</subject>
+          <subject>Noordse oorlogen</subject>
+          <subject>Sont</subject>
+          <date>1658 - 1693</date>
+          <type>schilderij</type>
+          <type>penschildering</type>
+          <format>doek</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1716</identifier>
+        <datestamp>2022-05-20T08:59:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6378</identifier>
+          <identifier>SK-A-1716</identifier>
+          <title>Het gevecht van Michiel Adriaensz de Ruyter tegen de hertog van York op de 'Royal Prince' tijdens de zeeslag bij Solebay, 7 juni 1672: episode uit de Derde Engelse Zeeoorlog (1672-74)</title>
+          <creator>Velde, Willem van de (II)</creator>
+          <subject>marine</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>militaire geschiedenis</subject>
+          <subject>zeeslag</subject>
+          <subject>Zeeslag bij Solebay</subject>
+          <subject>Derde Engelse Oorlog</subject>
+          <subject>Sole Bay</subject>
+          <subject>Ruyter, Michiel Adriaansz. de</subject>
+          <date>1691</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-921</identifier>
+        <datestamp>2022-06-01T16:29:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7056</identifier>
+          <identifier>SK-A-921</identifier>
+          <title>Johan Boudaen Courten (1635-1716), heer van St Laurens, Schellach en Popkensburg. Raad van Middelburg en bewindhebber der VOC</title>
+          <title>Jan Boudaen Courten (1635-1716), heer van St Laurens, Schellach en Popkensburg. Raad van Middelburg en bewindhebber der VOC</title>
+          <creator>Janssens van Ceulen, Cornelis (II)</creator>
+          <subject>portret</subject>
+          <subject>Boudaen Courten, Johan</subject>
+          <date>1668</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-929</identifier>
+        <datestamp>2021-10-01T22:03:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7063</identifier>
+          <identifier>SK-A-929</identifier>
+          <title>Wapenbord met de wapens van Boudaen en Fourmenois, 1623 (het wapen van Fourmenois omgewend)</title>
+          <creator>anoniem</creator>
+          <date>1623</date>
+          <type>heraldisch object</type>
+          <type>familiewapen</type>
+          <type>wapenbord</type>
+          <format>koper</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1198</identifier>
+        <datestamp>2022-02-25T15:46:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7212</identifier>
+          <identifier>SK-A-1198</identifier>
+          <title>Portret van Joseph II van Oostenrijk (1741-90), Rooms-Duits keizer en later koning van Hongarije en Bohemen</title>
+          <creator>Liotard, Jean-Etienne</creator>
+          <subject>Jozef II (Duits keizer)</subject>
+          <date>1778</date>
+          <type>pastel</type>
+          <type>tekening</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-509</identifier>
+        <datestamp>2022-05-10T16:18:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6834</identifier>
+          <identifier>SK-A-509</identifier>
+          <title>Portret van Albrecht van Oostenrijk (1559-1621), aartshertog van Oostenrijk</title>
+          <creator>Pourbus, Frans (II)</creator>
+          <contributor>anoniem</contributor>
+          <subject>Oostenrijk, Albrecht aartshertog van</subject>
+          <date>ca. 1600</date>
+          <type>schilderij</type>
+          <format>koper</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-608</identifier>
+        <datestamp>2021-10-01T22:01:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6949</identifier>
+          <identifier>SK-A-608</identifier>
+          <title>Het slot Teylingen</title>
+          <creator>anoniem</creator>
+          <date>1640</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Holland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2451</identifier>
+        <datestamp>2021-10-01T22:15:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7777</identifier>
+          <identifier>SK-A-2451</identifier>
+          <title>Oud paar in een nieuw aangelegd park</title>
+          <creator>Mauve, Anton</creator>
+          <date>1848 - 1888</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-466</identifier>
+        <datestamp>2021-10-01T21:52:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6540</identifier>
+          <identifier>SK-A-466</identifier>
+          <title>Venus door Amor gekust</title>
+          <creator>Werff, Adriaen van der</creator>
+          <date>1700 - 1725</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1729</identifier>
+        <datestamp>2022-05-02T15:29:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5767</identifier>
+          <identifier>SK-A-1729</identifier>
+          <title>Stilleven met oosterse muilen</title>
+          <creator>Allebé, August</creator>
+          <subject>stillevens van diverse voorwerpen</subject>
+          <subject>stilleven</subject>
+          <date>1873</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-32</identifier>
+        <datestamp>2021-10-01T21:40:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6047</identifier>
+          <identifier>SK-A-32</identifier>
+          <title>Ruth en Boas</title>
+          <creator>Berchem, Nicolaes Pietersz.</creator>
+          <subject>historiestuk</subject>
+          <date>1640 - 1650</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NzEwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

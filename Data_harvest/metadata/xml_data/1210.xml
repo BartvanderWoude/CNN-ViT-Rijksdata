@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNDE4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1949-554(V)</identifier>
+        <datestamp>2021-10-02T12:19:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49803</identifier>
+          <identifier>RP-T-1949-554(V)</identifier>
+          <title>Zittende mansfiguur (profeet?)</title>
+          <creator>Muziano, Girolamo</creator>
+          <date>1549 - 1555</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1978-2</identifier>
+        <datestamp>2021-10-02T12:20:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50142</identifier>
+          <identifier>RP-T-1978-2</identifier>
+          <title>Ontwerp voor een wandmonument met Cosimo I dei Medici</title>
+          <creator>Ligozzi, Jacopo</creator>
+          <date>1594 - 1596</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1887-A-1410(R)</identifier>
+        <datestamp>2021-10-02T12:19:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49903</identifier>
+          <identifier>RP-T-1887-A-1410(R)</identifier>
+          <title>Alexander temt het paard Bucephalos</title>
+          <creator>Pino, Marco</creator>
+          <date>1530 - 1588</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15731</identifier>
+        <datestamp>2021-11-02T08:29:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50255</identifier>
+          <identifier>BK-15731</identifier>
+          <title>Gedachtenislepel met gegraveerde initialen T.R.</title>
+          <creator>Bel, Claes</creator>
+          <contributor>Bel, Reyndert</contributor>
+          <date>1670</date>
+          <type>gedachtenislepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Hoorn</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14899</identifier>
+        <datestamp>2021-11-02T08:29:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50261</identifier>
+          <identifier>BK-14899</identifier>
+          <title>Lepel</title>
+          <creator>anoniem</creator>
+          <date>1750 - 1800</date>
+          <type>lepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Friesland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8190</identifier>
+        <datestamp>2022-03-02T15:19:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50476</identifier>
+          <identifier>BK-NM-8190</identifier>
+          <title>Diana, rustend bij een bron</title>
+          <creator>Vianen, Paulus Willemsz. van</creator>
+          <contributor>Vianen, Paulus Willemsz. van</contributor>
+          <date>1659</date>
+          <type>plaquette</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-366</identifier>
+        <datestamp>2021-10-02T12:19:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49849</identifier>
+          <identifier>RP-T-1948-366</identifier>
+          <title>Studie van een landschap</title>
+          <creator>Parmigianino</creator>
+          <date>1513 - 1540</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-125</identifier>
+        <datestamp>2021-10-02T12:20:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50096</identifier>
+          <identifier>RP-T-1953-125</identifier>
+          <title>Staand vrouwelijk naakt</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1599</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lombardije</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10401</identifier>
+        <datestamp>2021-11-02T08:31:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50368</identifier>
+          <identifier>BK-NM-10401</identifier>
+          <title>Heft</title>
+          <date>1500 - 1600</date>
+          <type>heft</type>
+          <type>messenheft</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1992-10-A</identifier>
+        <datestamp>2021-12-20T13:58:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50661</identifier>
+          <identifier>NG-1992-10-A</identifier>
+          <title>Derde eeuwfeest van Rembrandts geboorte</title>
+          <creator>Sturm, Georg</creator>
+          <contributor>Goor, Jacob Jan van</contributor>
+          <contributor>Koninklijke Utrechtsche Fabriek van Zilverwerken van C.J. Begeer</contributor>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>schone kunsten</subject>
+          <subject>schilderkunst</subject>
+          <subject>300-jarig jubileum</subject>
+          <subject>Westerkerk</subject>
+          <subject>Leiden</subject>
+          <subject>Rijn, Rembrandt van</subject>
+          <description>Rembrandt van Rijn wordt gezien als de belangrijkste schilder van Nederland. Steeds opnieuw worden penningen over hem gemaakt, vaak wanneer zijn geboorteof sterfjaar wordt herdacht. Beeldhouwer Piet Esser (1914-2004) was zijn hele leven door Rembrandt gefascineerd. Vooral zijn kop bleef hem bezighouden. Hij maakte talloze portretpenningen, steeds weer anders, en modelleerde ze met zijn handen waarna hij ze in klei bakte of in brons liet gieten.</description>
+          <date>1906</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-316</identifier>
+        <datestamp>2021-10-02T12:20:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49950</identifier>
+          <identifier>RP-T-1948-316</identifier>
+          <title>Staande figuur, in profiel naar links</title>
+          <creator>Schiavone</creator>
+          <date>1510 - 1563</date>
+          <type>tekening</type>
+          <format>geprepareerd papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3764</identifier>
+        <datestamp>2021-10-02T12:20:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50204</identifier>
+          <identifier>BK-NM-3764</identifier>
+          <title>Fragment veelkleurig zijdeweefsel</title>
+          <creator>anoniem</creator>
+          <date>1725 - 1750</date>
+          <type>gebrocheerde zijde</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10944-A</identifier>
+        <datestamp>2021-11-02T08:32:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50547</identifier>
+          <identifier>BK-NM-10944-A</identifier>
+          <title>Argus, de koe Io bewakende</title>
+          <creator>Vianen, Paulus Willemsz. van</creator>
+          <date>ca. 1610</date>
+          <type>plaquette</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Praag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.835</identifier>
+        <datestamp>2022-03-02T15:19:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50814</identifier>
+          <identifier>RP-P-OB-17.835</identifier>
+          <title>Schipbreuk bij een rotskust met toren</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1774-11-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1921-1</identifier>
+        <datestamp>2021-11-30T17:28:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50062</identifier>
+          <identifier>RP-T-1921-1</identifier>
+          <title>Aanbidding door de herders</title>
+          <creator>anoniem</creator>
+          <contributor>Caccianemici, Vincenzo</contributor>
+          <date>1500 - 1600</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-BR-1948-11</identifier>
+        <datestamp>2021-10-02T12:20:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50133</identifier>
+          <identifier>RP-T-BR-1948-11</identifier>
+          <title>De verkondiging</title>
+          <creator>Cambiaso, Luca</creator>
+          <date>1537 - 1585</date>
+          <type>tekening</type>
+          <format>potlood</format>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12943</identifier>
+        <datestamp>2021-11-02T08:30:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50319</identifier>
+          <identifier>BK-NM-12943</identifier>
+          <title>Heft</title>
+          <date>1500 - 1600</date>
+          <type>heft</type>
+          <type>messenheft</type>
+          <format>balein</format>
+          <format>hoorn (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuid-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2051</identifier>
+        <datestamp>2021-01-28T13:31:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50630</identifier>
+          <identifier>RP-T-1889-A-2051</identifier>
+          <title>De kruisdraging</title>
+          <creator>Goudt, Hendrick</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>Elsheimer, Adam</contributor>
+          <subject>Jezus Christus</subject>
+          <date>1580 - 1650</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.811</identifier>
+        <datestamp>2022-03-02T15:19:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50701</identifier>
+          <identifier>RP-P-OB-17.811</identifier>
+          <title>Landschap met ruïnes en vrouwen die een lichaam in een sarcofaag leggen</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1774-09-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1950-112</identifier>
+        <datestamp>2021-10-02T12:20:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49990</identifier>
+          <identifier>RP-T-1950-112</identifier>
+          <title>Portret van Titiaan</title>
+          <creator>Titiaan</creator>
+          <contributor>anoniem</contributor>
+          <subject>Titiaan</subject>
+          <date>1510 - 1620</date>
+          <type>tekening</type>
+          <format>kardoespapier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNDIwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

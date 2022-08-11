@@ -1,0 +1,471 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNDkyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-327-B</identifier>
+        <datestamp>2021-10-02T12:29:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.53861</identifier>
+          <identifier>BK-1955-327-B</identifier>
+          <title>Veld van vier tegels</title>
+          <creator>anoniem</creator>
+          <date>ca. 1640 - ca. 1670</date>
+          <type>tegel</type>
+          <type>tegelveld</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15581</identifier>
+        <datestamp>2021-10-02T12:30:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.54409</identifier>
+          <identifier>BK-15581</identifier>
+          <title>Tegel met de verloren zoon</title>
+          <creator>anoniem</creator>
+          <date>1740 - 1780</date>
+          <type>tegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14205</identifier>
+        <datestamp>2021-10-02T12:32:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55098</identifier>
+          <identifier>BK-NM-14205</identifier>
+          <title>Randtegel met bladranken.</title>
+          <creator>anoniem</creator>
+          <date>1620 - 1640</date>
+          <type>tegel</type>
+          <type>randtegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-D-00-263</identifier>
+        <datestamp>2022-05-17T01:56:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.53427</identifier>
+          <identifier>RP-D-00-263</identifier>
+          <title>Blad met ranken met bloemen</title>
+          <creator>Reimund, Paul</creator>
+          <date>1783 - 1815</date>
+          <type>brokaatpapier</type>
+          <format>papier</format>
+          <format>goudkleurig bladmetaal</format>
+          <format>verf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-D-00-314</identifier>
+        <datestamp>2022-05-17T01:02:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.53504</identifier>
+          <identifier>RP-D-00-314</identifier>
+          <title>Blad met grote ranken met grote bloemen</title>
+          <creator>Meyer, Johann Wilhelm</creator>
+          <date>1740 - 1780</date>
+          <type>brokaatpapier</type>
+          <type>omslag</type>
+          <format>papier</format>
+          <format>goudkleurig bladmetaal</format>
+          <format>verf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Augsburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-LXXX-L</identifier>
+        <datestamp>2020-04-13T17:18:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.54034</identifier>
+          <identifier>BK-LXXX-L</identifier>
+          <title>Ruit met een vogel op een tak</title>
+          <creator>anoniem</creator>
+          <date>ca. 1650 - ca. 1675</date>
+          <type>ruit</type>
+          <format>glas</format>
+          <format>lood</format>
+          <format>glas-in-lood</format>
+          <format>grisailleverf</format>
+          <format>zilvergeel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-73</identifier>
+        <datestamp>2021-10-02T12:30:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.54440</identifier>
+          <identifier>BK-1955-73</identifier>
+          <title>Tegel met in blauw geschilderde decoratie van een vaas op een naar beneden hangend kleed binnen een driepas, omgeven door een cartouche met omkrullende acanthusbladeren en bloemen</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Kocx, Adriaen</contributor>
+          <contributor>Marot, Daniël (I)</contributor>
+          <date>1689 - 1694</date>
+          <type>tegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1940-94</identifier>
+        <datestamp>2021-05-21T16:18:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.54627</identifier>
+          <identifier>RP-T-1940-94</identifier>
+          <title>Portret van Christian Henning</title>
+          <creator>Henning, Christian</creator>
+          <subject>Henning, Christian</subject>
+          <date>1751 - 1822</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-D-00-298</identifier>
+        <datestamp>2022-05-17T00:15:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.53478</identifier>
+          <identifier>RP-D-00-298</identifier>
+          <title>Blad met bloemen en vruchten</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1800</date>
+          <type>brokaatpapier</type>
+          <format>papier</format>
+          <format>goudkleurig bladmetaal</format>
+          <format>verf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1940-54</identifier>
+        <datestamp>2021-05-21T16:18:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.54000</identifier>
+          <identifier>RP-T-1940-54</identifier>
+          <title>Portret van Denys Dulignon</title>
+          <creator>Fokke, Simon</creator>
+          <subject>Dulignon, Denys</subject>
+          <date>1750 - 1784</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-334</identifier>
+        <datestamp>2021-10-02T12:31:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.54480</identifier>
+          <identifier>RP-T-00-334</identifier>
+          <title>Ontwerp voor een titelblad met een allegorische voorstelling</title>
+          <creator>Lairesse, Gerard de</creator>
+          <date>1650 - 1711</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1940-452</identifier>
+        <datestamp>2021-05-21T16:17:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.53598</identifier>
+          <identifier>RP-T-1940-452</identifier>
+          <title>Portret van Cornelis Cels</title>
+          <creator>Schmidt, Willem Hendrik</creator>
+          <subject>Cels, Cornelis</subject>
+          <date>1819 - 1849</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2544</identifier>
+        <datestamp>2022-03-14T14:27:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.53686</identifier>
+          <identifier>BK-KOG-2544</identifier>
+          <title>Tegelveld van acht tegels</title>
+          <creator>anoniem</creator>
+          <date>1725 - 1840</date>
+          <type>tegel</type>
+          <type>tegelveld</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-91</identifier>
+        <datestamp>2021-10-02T12:31:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.54735</identifier>
+          <identifier>BK-1980-91</identifier>
+          <title>Fragment van een tegel</title>
+          <creator>anoniem</creator>
+          <date>1580 - 1625</date>
+          <type>tegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11956-D</identifier>
+        <datestamp>2021-07-14T16:51:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55073</identifier>
+          <identifier>BK-NM-11956-D</identifier>
+          <title>Tegel uit het kasteel van Breda</title>
+          <creator>anoniem</creator>
+          <subject>kasteel</subject>
+          <subject>Breda</subject>
+          <subject>Koninklijke Militaire Academie</subject>
+          <date>ca. 1500 - ca. 1550</date>
+          <type>tegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-425</identifier>
+        <datestamp>2021-10-02T12:29:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.53565</identifier>
+          <identifier>BK-BR-425</identifier>
+          <title>Fragment veelkleurig zijdelampas</title>
+          <creator>anoniem</creator>
+          <date>1720 - 1730</date>
+          <type>lampas</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8184</identifier>
+        <datestamp>2021-10-02T12:29:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.53746</identifier>
+          <identifier>BK-NM-8184</identifier>
+          <title>Orgel van gepolychromeerd eikenhout uit de Nederlands Hervormde Kerk te Scheemda</title>
+          <creator>Emedensis, Johannis</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Swart van Groningen, Jan</contributor>
+          <date>ca. 1526</date>
+          <type>muziekinstrument</type>
+          <type>toetsinstrument</type>
+          <type>orgel</type>
+          <type>kerkorgel</type>
+          <format>hout</format>
+          <format>eikenhout</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1940-59</identifier>
+        <datestamp>2021-05-21T16:18:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.53900</identifier>
+          <identifier>RP-T-1940-59</identifier>
+          <title>Zelfportret van Erin Corr</title>
+          <creator>Corr, Erin</creator>
+          <subject>Corr, Erin</subject>
+          <date>1841 - 1842</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1940-128</identifier>
+        <datestamp>2021-05-21T16:18:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.54693</identifier>
+          <identifier>RP-T-1940-128</identifier>
+          <title>Zelfportret van Willem Jacob Herreyns</title>
+          <creator>Herreyns, Willem Jacob</creator>
+          <contributor>Herreyns, Willem Jacob</contributor>
+          <subject>Herreyns, Willem Jacob</subject>
+          <date>1783 - 1827</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-295-G</identifier>
+        <datestamp>2022-03-14T14:28:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.54907</identifier>
+          <identifier>BK-1955-295-G</identifier>
+          <title>Veld van zestien tegels met vogels</title>
+          <creator>anoniem</creator>
+          <date>ca. 1640 - ca. 1660</date>
+          <type>tegel</type>
+          <type>tegelveld</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNDk0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

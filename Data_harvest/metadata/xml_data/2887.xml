@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NzcyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10305-A</identifier>
+        <datestamp>2021-11-03T19:15:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7315</identifier>
+          <identifier>BK-NM-10305-A</identifier>
+          <title>Damesmuiltje met voorblad van blauwe zijdendamast, binnenzool en hak overtrokken met wit glacéleer</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>dameskleding</type>
+          <type>muiltje</type>
+          <format>zijde</format>
+          <format>glacéleer</format>
+          <format>glacéleer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-733</identifier>
+        <datestamp>2022-06-01T13:13:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7004</identifier>
+          <identifier>SK-A-733</identifier>
+          <title>Christus en de hoofdman over honderd</title>
+          <creator>Camerarius, Adam</creator>
+          <subject>historiestuk</subject>
+          <date>1644 - 1665</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2197</identifier>
+        <datestamp>2021-10-01T21:36:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5888</identifier>
+          <identifier>SK-A-2197</identifier>
+          <title>Jan de Hooghe (1650-1731). Neef van Anna de Hooghe, in jachtkostuum</title>
+          <creator>Bakhuysen, Ludolf</creator>
+          <subject>portret</subject>
+          <subject>Hooghe, Johannes de (1650-1731)</subject>
+          <date>1700</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1790</identifier>
+        <datestamp>2022-06-01T16:28:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6005</identifier>
+          <identifier>SK-A-1790</identifier>
+          <title>Nicolaes Eichelberg (gest. 1699). Koopman te Haarlem, echtgenoot van Helena van der Schalcke</title>
+          <creator>Berckheyde, Job Adriaensz</creator>
+          <subject>portret</subject>
+          <date>1667</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1978-127-12217-W</identifier>
+        <datestamp>2021-07-19T12:56:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7346</identifier>
+          <identifier>NG-1978-127-12217-W</identifier>
+          <title>Scherven van een martavaan uit V.O.C.-schip de 'Witte Leeuw'</title>
+          <creator>anoniem</creator>
+          <subject>martavaan</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>voor 1613</date>
+          <type>scherf</type>
+          <type>martavaan</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidoost-Azië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2268</identifier>
+        <datestamp>2021-10-01T22:14:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7695</identifier>
+          <identifier>SK-A-2268</identifier>
+          <title>Portret van een vrouw</title>
+          <creator>Hodges, Charles Howard</creator>
+          <subject>portret</subject>
+          <date>ca. 1812 - ca. 1813</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2454</identifier>
+        <datestamp>2021-10-01T22:15:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7780</identifier>
+          <identifier>SK-A-2454</identifier>
+          <title>Gezicht op de Turfmarkt met de Eendjespoort in Haarlem</title>
+          <creator>Weissenbruch, Johan Hendrik</creator>
+          <subject>Haarlem</subject>
+          <subject>Eendjespoort</subject>
+          <description>Op deze aquarel is de Turfmarkt in Haarlem afgebeeld. Links is de Lange Brug over het Zuider Spaarne te zien en rechts de Eendjespoort of Leidse Waterpoort. Daar legde de beurtschepen van en naar Leiden aan. De voorstelling is vlot gepenseeld op vier bladen die aan elkaar zijn vast gemaakt. Weissenbruch koos dit grauwe papier wellicht vanwege de kleur, die goed past bij een stemmig stadsgezicht.</description>
+          <date>na 1865</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <format>gouache (waterverf)</format>
+          <format>waterverf</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-88</identifier>
+        <datestamp>2021-10-01T21:34:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5822</identifier>
+          <identifier>SK-C-88</identifier>
+          <title>Boomrijk landschap</title>
+          <creator>Asch, Pieter Jansz. van</creator>
+          <subject>landschap</subject>
+          <date>1640 - 1678</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2346</identifier>
+        <datestamp>2022-03-15T09:16:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7726</identifier>
+          <identifier>SK-A-2346</identifier>
+          <title>Stilleven met vruchten</title>
+          <creator>Walscapelle, Jacob van</creator>
+          <subject>stilleven</subject>
+          <description>Verschillende fruitsoorten staan in een rieten mand op een stenen tafel. We zien onder meer trossen blauwe en witte druiven, aalbessen, abrikozen, perziken, kastanjes, kersen en frambozen. Tussen de vruchten krioelen insecten en zit zelfs een slak. Opvallend is het levendige kleurgebruik en gevoel voor textuur waarmee Van Walscapelle de vruchten heeft afgebeeld.</description>
+          <date>ca. 1670 - ca. 1727</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-445</identifier>
+        <datestamp>2022-06-01T13:13:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6812</identifier>
+          <identifier>SK-A-445</identifier>
+          <title>Prins Maurits vergezeld door zijn twee broeders, Frederik V, keurvorst van de Palts en enkele graven van Nassau te paard</title>
+          <creator>Venne, Adriaen Pietersz. van de</creator>
+          <subject>historiestuk</subject>
+          <subject>Koninklijk Huis</subject>
+          <subject>Maurits (prins van Oranje)</subject>
+          <subject>Frederik V (keurvorst van de Palts, koning van Bohemen)</subject>
+          <subject>Filips Willem (prins van Oranje)</subject>
+          <subject>Frederik Hendrik (prins van Oranje)</subject>
+          <subject>Nassau-Dillenburg, Willem Lodewijk graaf van</subject>
+          <subject>Nassau-Dietz, Ernst Casimir graaf van</subject>
+          <subject>Nassau, Lodewijk Gunther graaf van</subject>
+          <date>ca. 1625</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3554</identifier>
+        <datestamp>2021-10-01T21:46:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6276</identifier>
+          <identifier>SK-A-3554</identifier>
+          <title>Kermis</title>
+          <creator>Breitner, George Hendrik</creator>
+          <date>1880 - 1923</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1199</identifier>
+        <datestamp>2022-02-25T15:47:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7213</identifier>
+          <identifier>SK-A-1199</identifier>
+          <title>Portret van aartshertog Maximiliaan Franz van Oostenrijk (1756-1801), later aartsbisschop en keurvorst van Keulen en prins bisschop van Münster</title>
+          <creator>Liotard, Jean-Etienne</creator>
+          <subject>Maximiliaan Frans van Oostenrijk (keurvorst van Keulen)</subject>
+          <date>1778</date>
+          <type>pastel</type>
+          <type>tekening</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2136</identifier>
+        <datestamp>2022-03-15T09:16:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7628</identifier>
+          <identifier>SK-A-2136</identifier>
+          <title>De Amsterdamse doopsgezinde familie Brak</title>
+          <creator>Regters, Tibout</creator>
+          <subject>familie, relatie, afkomst</subject>
+          <subject>Brak, familie</subject>
+          <date>1752</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-513</identifier>
+        <datestamp>2022-03-07T12:29:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6835</identifier>
+          <identifier>SK-A-513</identifier>
+          <title>Paus Adrianus VI (1459-1523)</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <subject>Adrianus VI</subject>
+          <date>na ca. 1520 - 1599</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-959</identifier>
+        <datestamp>2022-06-01T13:13:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7081</identifier>
+          <identifier>SK-A-959</identifier>
+          <title>Boudewijn van Heusden (?-870) en zijn echtgenote Sophia, ontvangen eerbewijzen van de gezant van koning Edmund</title>
+          <creator>Venne, Adriaen Pietersz. van de</creator>
+          <subject>historiestuk</subject>
+          <date>ca. 1626</date>
+          <type>schilderij</type>
+          <type>grisaille</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1004</identifier>
+        <datestamp>2022-03-04T11:22:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5943</identifier>
+          <identifier>SK-A-1004</identifier>
+          <title>'s Lands fregat 'Rotterdam' op de Maas voor Rotterdam</title>
+          <creator>Baur, Nicolaas</creator>
+          <subject>marine</subject>
+          <subject>Maas</subject>
+          <subject>Rotterdam</subject>
+          <subject>Rotterdam (schip)</subject>
+          <date>1807</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-681</identifier>
+        <datestamp>2021-10-01T21:38:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5999</identifier>
+          <identifier>SK-A-681</identifier>
+          <title>Het Oude Zijds Herenlogement te Amsterdam</title>
+          <creator>Berckheyde, Gerrit</creator>
+          <subject>Huis aan de Drie Grachten</subject>
+          <date>1660 - 1680</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3073</identifier>
+        <datestamp>2021-10-01T21:40:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6039</identifier>
+          <identifier>SK-A-3073</identifier>
+          <title>Koeien bij een plas</title>
+          <creator>Bilders, Gerard</creator>
+          <subject>landschap</subject>
+          <date>1856 - 1858</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1095</identifier>
+        <datestamp>2022-03-04T10:33:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7147</identifier>
+          <identifier>SK-A-1095</identifier>
+          <title>Stilleven met bloemen, vruchten en gevogelte</title>
+          <creator>Os, Jan van</creator>
+          <date>1774</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2256</identifier>
+        <datestamp>2021-10-01T22:13:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7688</identifier>
+          <identifier>SK-A-2256</identifier>
+          <title>Antonius Kuyper (1743-1822). Predikant te Amsterdam</title>
+          <creator>Tischbein, Johann Friedrich August</creator>
+          <subject>portret</subject>
+          <subject>Kuyper, Antonius</subject>
+          <date>1791</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1Nzc0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

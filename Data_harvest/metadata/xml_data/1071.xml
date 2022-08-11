@@ -1,0 +1,510 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMTQwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1936-22</identifier>
+        <datestamp>2021-10-02T13:10:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87940</identifier>
+          <identifier>RP-T-1936-22</identifier>
+          <title>Voorovergebogen oude man</title>
+          <creator>Herreyns, Willem Jacob</creator>
+          <date>1818</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4893</identifier>
+        <datestamp>2021-01-28T17:26:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88037</identifier>
+          <identifier>RP-P-BI-4893</identifier>
+          <title>Brokstukken van zuilen en kapitelen</title>
+          <title>Antiquitatis aestimator et (...) mens vivum mori</title>
+          <title>Romeinse ruïnes</title>
+          <creator>Bronckhorst, Jan Gerritsz. van</creator>
+          <contributor>Poelenburch, Cornelis van</contributor>
+          <date>1613 - 1661</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-368</identifier>
+        <datestamp>2017-04-11T15:00:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88226</identifier>
+          <identifier>RP-P-1905-368</identifier>
+          <title>Pruisische troepen vallen Amsterdamse schutters aan bij Ouderkerk aan de Amstel op 1 oktober 1787</title>
+          <title>Aanval by Ouderkerk aan den Amstel (...) den 1te october 1787</title>
+          <title>Vue du poste devant Ouderkerk sur l'Amstel (...) le 1er octre. 1787</title>
+          <creator>Brouwer, Cornelis</creator>
+          <contributor>Teissier, Jean George</contributor>
+          <contributor>Langeveld, Dirk Meland</contributor>
+          <subject>Pruisische inval in de Republiek</subject>
+          <subject>Ouderkerk aan de Amstel</subject>
+          <date>1790</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-16.108</identifier>
+        <datestamp>2021-01-28T17:23:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87769</identifier>
+          <identifier>RP-P-OB-16.108</identifier>
+          <title>Portret van Willem Teelinck op 50-jarige leeftijd</title>
+          <creator>Bremden, Daniël van den</creator>
+          <contributor>Langnouwer, Joachim</contributor>
+          <contributor>Somer, D.</contributor>
+          <contributor>Later, Anthony de</contributor>
+          <subject>Teellinck, Willem</subject>
+          <date>1630</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Middelburg</coverage>
+          <coverage>Vlissingen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-5209</identifier>
+        <datestamp>2022-01-06T21:18:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87914</identifier>
+          <identifier>RP-P-1905-5209</identifier>
+          <title>De verloren zoon dansend en drinkend</title>
+          <title>Verquisting</title>
+          <title>Parabel van de verloren zoon</title>
+          <creator>Broen, Gerrit de (I)</creator>
+          <contributor>Broen, Gerrit de (I)</contributor>
+          <contributor>Broen, Gerrit de (I)</contributor>
+          <date>ca. 1684 - ca. 1740</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.882</identifier>
+        <datestamp>2018-01-24T09:40:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87416</identifier>
+          <identifier>RP-P-OB-26.882</identifier>
+          <title>Portret van Paulus Gevers</title>
+          <creator>Brasser, Leendert</creator>
+          <contributor>Sansom, Franciscus</contributor>
+          <contributor>Metellus, G.</contributor>
+          <contributor>Verveer, Jan</contributor>
+          <contributor>Leeuw, Jan de (uitgever)</contributor>
+          <contributor>Krap Az, Jan</contributor>
+          <subject>Gevers, Paulus</subject>
+          <date>1786</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+          <coverage>Rotterdam</coverage>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1929-22</identifier>
+        <datestamp>2021-01-28T17:25:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87974</identifier>
+          <identifier>RP-T-1929-22</identifier>
+          <title>Thuiskomst van een oude soldaat, na de slag bij Waterloo</title>
+          <title>Retour de Waterloo 1815.</title>
+          <creator>Block, Eugène François de</creator>
+          <subject>na de strijd</subject>
+          <subject>historische gebeurtenissen en situaties</subject>
+          <subject>Slag bij Waterloo</subject>
+          <subject>Waterloo</subject>
+          <date>1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-5546</identifier>
+        <datestamp>2021-01-28T17:28:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88263</identifier>
+          <identifier>RP-P-1882-A-5546</identifier>
+          <title>Landschap met hertenjacht</title>
+          <creator>Brouwer, Cornelis</creator>
+          <contributor>Pijnacker, Adam</contributor>
+          <contributor>Roos, Cornelis Sebille (uitgever)</contributor>
+          <date>1741 - 1803</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-5532</identifier>
+        <datestamp>2021-01-28T17:29:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88275</identifier>
+          <identifier>RP-P-1882-A-5532</identifier>
+          <title>Ponte Molle bij Rome</title>
+          <creator>Brouwer, Cornelis</creator>
+          <contributor>Ulft, Jacob van der</contributor>
+          <date>1741 - 1803</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.976</identifier>
+        <datestamp>2021-04-26T10:15:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88795</identifier>
+          <identifier>RP-P-OB-26.976</identifier>
+          <title>Poolse ruiters</title>
+          <creator>Bruyn, Abraham de</creator>
+          <contributor>Bruyn, Abraham de</contributor>
+          <contributor>Rutz, Caspar</contributor>
+          <date>1577</date>
+          <type>kostuumprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Keulen</coverage>
+          <coverage>Keulen</coverage>
+          <coverage>Keulen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1936-850A</identifier>
+        <datestamp>2021-11-29T21:23:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86918</identifier>
+          <identifier>RP-P-1936-850A</identifier>
+          <title>Baarstoel</title>
+          <creator>Bouttats, Philibert (II)</creator>
+          <subject>bevallen</subject>
+          <subject>gynaecologie</subject>
+          <date>1701</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1960-168</identifier>
+        <datestamp>2021-11-30T15:37:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87091</identifier>
+          <identifier>RP-P-1960-168</identifier>
+          <title>Portret van generaal Stonewall Jackson</title>
+          <creator>anoniem</creator>
+          <contributor>Brady, Mathew Benjamin</contributor>
+          <contributor>Virtue &amp; Yorston</contributor>
+          <subject>Amerikaanse Burgeroorlog</subject>
+          <subject>Jackson, Thomas Jonathan "Stonewall"</subject>
+          <date>1863 - 1890</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Verenigde Staten van Amerika</coverage>
+          <coverage>Verenigde Staten van Amerika</coverage>
+          <coverage>New York</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-674</identifier>
+        <datestamp>2021-01-28T17:27:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88100</identifier>
+          <identifier>RP-P-1878-A-674</identifier>
+          <title>Drie figuurstudies van vrouw en man</title>
+          <creator>Brondgeest, Albertus</creator>
+          <date>1796 - 1849</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-3912</identifier>
+        <datestamp>2021-01-28T17:27:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88155</identifier>
+          <identifier>RP-P-1905-3912</identifier>
+          <title>Gezicht op de dorpsstraat van Klaaswaal</title>
+          <title>Het dorp Klaaswaal</title>
+          <creator>Brouwer, Anna Catharina</creator>
+          <contributor>Diepenhuijsen, Johannes van</contributor>
+          <subject>Klaaswaal</subject>
+          <date>1791 - 1793</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1938-22</identifier>
+        <datestamp>2021-01-28T17:27:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88167</identifier>
+          <identifier>RP-P-1938-22</identifier>
+          <title>Gezicht op het dorp Nieuw-Beijerland</title>
+          <title>'t Dorp Nieuw-Beiërland</title>
+          <creator>Brouwer, Anna Catharina</creator>
+          <contributor>Diepenhuijsen, Johannes van</contributor>
+          <subject>Nieuw-Beijerland</subject>
+          <date>1791 - 1793</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-322</identifier>
+        <datestamp>2021-01-28T17:20:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87244</identifier>
+          <identifier>RP-P-1904-322</identifier>
+          <title>De strijd om de broek</title>
+          <title>Vier spreekwoorden</title>
+          <creator>Braeu, Nicolaas</creator>
+          <contributor>Mander, Karel van (I)</contributor>
+          <contributor>Honervogt, Jacques (I)</contributor>
+          <date>ca. 1608 - ca. 1666</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11447</identifier>
+        <datestamp>2021-01-28T17:21:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87469</identifier>
+          <identifier>RP-P-1887-A-11447</identifier>
+          <title>Verschillende gebeurtenissen in Europa in het jaar 1650</title>
+          <title>Titelpagina voor: Hollantse Mercurius, Historisch wijs vervatende het voornaemste in Christenryck Ao 1650 voorgevallen, Haarlem</title>
+          <title>Hollantse Mercvrivs, Historisch wijs vervatende het voornaemste in Christenryck Ao 1650 voorgevallen</title>
+          <creator>Bray, Dirck de</creator>
+          <contributor>Casteleyn, Pieter</contributor>
+          <date>1651</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1940-613</identifier>
+        <datestamp>2021-02-05T13:45:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.87934</identifier>
+          <identifier>RP-T-1940-613</identifier>
+          <title>Ontwerp voor een grafmonument voor een abt of bisschop</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1800</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4902</identifier>
+        <datestamp>2021-01-28T17:26:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88043</identifier>
+          <identifier>RP-P-BI-4902</identifier>
+          <title>Ruïnes van het Nymphaeum Alexandri</title>
+          <title>Ruïnes van de Trofeeën van Marius</title>
+          <title>Romeinse ruïnes</title>
+          <creator>Bronckhorst, Jan Gerritsz. van</creator>
+          <contributor>Poelenburch, Cornelis van</contributor>
+          <date>1613 - 1661</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-98</identifier>
+        <datestamp>2021-01-28T17:31:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88689</identifier>
+          <identifier>RP-P-1958-98</identifier>
+          <title>Christelijke processie onder de galerijen rond het San Marco Plein</title>
+          <title>Solemnis per plateam D. Marci processio in die Corporis Christi (...)</title>
+          <title>Solennità dogali</title>
+          <creator>Brustoloni, Giovanni Battista</creator>
+          <contributor>Canaletto</contributor>
+          <contributor>Furlani, Ludovico</contributor>
+          <contributor>Senaat van Venetië</contributor>
+          <subject>Venetië</subject>
+          <subject>San Marcoplein</subject>
+          <date>1766</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Venetië</coverage>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMTQyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

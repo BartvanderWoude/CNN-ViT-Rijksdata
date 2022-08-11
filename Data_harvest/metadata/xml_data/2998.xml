@@ -1,0 +1,491 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTk0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1911-100</identifier>
+        <datestamp>2021-05-14T14:24:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51835</identifier>
+          <identifier>RP-T-1911-100</identifier>
+          <title>Gezicht op de schans Navagne in Limburg</title>
+          <creator>Grave, Josua de</creator>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <subject>Kasteel Navagne</subject>
+          <subject>Moelingen</subject>
+          <date>1670-08-08</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Eijsden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.852</identifier>
+        <datestamp>2022-03-02T15:20:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51180</identifier>
+          <identifier>RP-P-OB-17.852</identifier>
+          <title>Bergachtig landschap met jager en herder bij zonsondergang</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1775-05-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.105</identifier>
+        <datestamp>2018-03-29T01:08:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51546</identifier>
+          <identifier>RP-P-OB-31.105</identifier>
+          <title>Tuin der gedachten</title>
+          <title>Giardino di Pensieri</title>
+          <creator>Marcolini, Francesco</creator>
+          <contributor>Salviati, Giuseppe</contributor>
+          <date>1540</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.902</identifier>
+        <datestamp>2022-03-02T15:20:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51627</identifier>
+          <identifier>RP-P-OB-17.902</identifier>
+          <title>Kust van Naxos met Bacchus en Ariadne</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <subject>Naxos</subject>
+          <date>1776-01-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.954</identifier>
+        <datestamp>2022-03-02T15:21:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51843</identifier>
+          <identifier>RP-P-OB-17.954</identifier>
+          <title>Landschap met Filippus die de eunuch doopt</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1777-03-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-FM-58</identifier>
+        <datestamp>2019-01-03T16:50:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52149</identifier>
+          <identifier>RP-T-FM-58</identifier>
+          <title>Drie vlinders en een wesp of vlieg</title>
+          <creator>Henstenburgh, Herman</creator>
+          <date>ca. 1677 - ca. 1726</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>dekverf</format>
+          <format>waterverf</format>
+          <format>gouache (waterverf)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.846</identifier>
+        <datestamp>2022-03-02T15:20:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51157</identifier>
+          <identifier>RP-P-OB-17.846</identifier>
+          <title>Landschap met vijf koeien en een herder die een rivier oversteken</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>1775-05-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.946</identifier>
+        <datestamp>2022-03-02T15:21:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51820</identifier>
+          <identifier>RP-P-OB-17.946</identifier>
+          <title>Kustlandschap met Aeneas en de Sibille van Cumae</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1777-03-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14278-C</identifier>
+        <datestamp>2021-08-23T16:39:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51046</identifier>
+          <identifier>BK-NM-14278-C</identifier>
+          <title>Kousenband</title>
+          <creator>anoniem</creator>
+          <description>Kousenbanden werden strak om het bovenbeen geknoopt om lange gebreide kousen op te houden. Ze werden vaak voorzien van spreuken of opdrachten, veelal in relatie tot de liefde. Op deze kousenband staat: ‘Il ne reviendra pas souvent’ (Hij zal niet vaak terugkomen). Mogelijk verwijst de tekst naar het gebruik waarbij een minnaar de kousenband ‘veroverde’ en meenam als aandenken.</description>
+          <date>ca. 1815</date>
+          <type>kousenband</type>
+          <format>zijde</format>
+          <format>rips</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1908-8</identifier>
+        <datestamp>2019-01-03T15:15:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51496</identifier>
+          <identifier>RP-T-1908-8</identifier>
+          <title>Bacchus</title>
+          <creator>Holsteyn, Cornelis</creator>
+          <date>1628 - 1658</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-143</identifier>
+        <datestamp>2021-07-26T20:51:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51902</identifier>
+          <identifier>RP-T-00-143</identifier>
+          <title>Gezicht op een kampement van het leger van Willem III bij Binche, Henegouwen</title>
+          <creator>Grave, Josua de</creator>
+          <subject>Guerre de Hollande</subject>
+          <subject>Binche</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1675-09-10</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Binche</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13080-B-1</identifier>
+        <datestamp>2021-11-03T19:26:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51070</identifier>
+          <identifier>BK-NM-13080-B-1</identifier>
+          <title>Avondjapon</title>
+          <creator>anoniem</creator>
+          <date>1850 - 1856</date>
+          <type>kleding</type>
+          <type>dameskleding</type>
+          <type>kinderkleding</type>
+          <type>japon</type>
+          <format>zijde</format>
+          <format>satijn</format>
+          <format>tarlatan</format>
+          <format>tule</format>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.080</identifier>
+        <datestamp>2018-03-31T02:57:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51430</identifier>
+          <identifier>RP-P-OB-31.080</identifier>
+          <title>Hoop</title>
+          <creator>Carpi, Ugo da</creator>
+          <contributor>Parmigianino</contributor>
+          <date>1502 - 1532</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2228</identifier>
+        <datestamp>2019-01-03T16:50:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51523</identifier>
+          <identifier>RP-T-1889-A-2228</identifier>
+          <title>Wintergezicht</title>
+          <creator>Grasdorp, Gerrit</creator>
+          <date>1661 - 1693</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.071</identifier>
+        <datestamp>2019-05-22T12:36:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51375</identifier>
+          <identifier>RP-P-OB-31.071</identifier>
+          <title>Saturnus</title>
+          <creator>Vicentino, Niccolò</creator>
+          <creator>Carpi, Ugo da</creator>
+          <contributor>Pordenone</contributor>
+          <contributor>Andreani, Andrea</contributor>
+          <date>1604</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Mantua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.962</identifier>
+        <datestamp>2022-03-02T15:21:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51869</identifier>
+          <identifier>RP-P-OB-17.962</identifier>
+          <title>Landschap met roeiboot op een rivier, drie herders en vee</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>1777-03-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.187</identifier>
+        <datestamp>2019-05-22T12:39:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51936</identifier>
+          <identifier>RP-P-OB-31.187</identifier>
+          <title>Bekering van Paulus</title>
+          <creator>Monogrammist GGN</creator>
+          <contributor>Cambiaso, Luca</contributor>
+          <contributor>Stefanoni, Pietro</contributor>
+          <date>1599 - 1627</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1960-66-C-1</identifier>
+        <datestamp>2019-08-01T09:38:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50932</identifier>
+          <identifier>BK-1960-66-C-1</identifier>
+          <title>Strook naaldkant met s-vormige sierband en iris</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1760 - ca. 1770</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Alençon</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15588</identifier>
+        <datestamp>2021-11-03T23:07:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51690</identifier>
+          <identifier>BK-15588</identifier>
+          <title>Heupband van oosterse textiel; batik</title>
+          <creator>anoniem</creator>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>kleding</type>
+          <type>heupdoek</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1905-64</identifier>
+        <datestamp>2021-07-27T14:08:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51799</identifier>
+          <identifier>RP-T-1905-64</identifier>
+          <title>Landschap met huis Kluys bij Brussel</title>
+          <creator>Grave, Josua de</creator>
+          <subject>Huis de Kluys</subject>
+          <date>1674</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTk2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

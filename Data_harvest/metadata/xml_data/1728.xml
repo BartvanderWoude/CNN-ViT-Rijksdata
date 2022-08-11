@@ -1,0 +1,456 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDU0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-710-B</identifier>
+        <datestamp>2021-08-19T17:02:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20509</identifier>
+          <identifier>BK-1980-710-B</identifier>
+          <title>Lendensloop</title>
+          <date>1755 - 1795</date>
+          <type>lendensloop</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1971-146-D</identifier>
+        <datestamp>2021-12-09T14:38:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19743</identifier>
+          <identifier>BK-1971-146-D</identifier>
+          <title>Wandbespanning</title>
+          <creator>Lebeau, Chris</creator>
+          <date>1911 - 1915</date>
+          <type>wandbespanning</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Eindhoven</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-153-B</identifier>
+        <datestamp>2022-01-17T13:37:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19794</identifier>
+          <identifier>BK-1967-153-B</identifier>
+          <title>Servet van linnendamast met een jachttafereel</title>
+          <creator>anoniem</creator>
+          <date>ca. 1625 - ca. 1650</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1966-145-A</identifier>
+        <datestamp>2021-08-19T16:58:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19818</identifier>
+          <identifier>BK-1966-145-A</identifier>
+          <title>Servet van linnendamast met de boom van Jesse</title>
+          <date>1600 - 1625</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Holland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8345</identifier>
+        <datestamp>2021-10-02T01:08:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20388</identifier>
+          <identifier>BK-NM-8345</identifier>
+          <title>De berouwvolle Maria Magdalena</title>
+          <creator>Manufacture Royale des Gobelins</creator>
+          <contributor>Cozette, Pierre-François</contributor>
+          <contributor>Neilson, Jacques</contributor>
+          <contributor>Reni, Guido</contributor>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Dyck, Anthony van</contributor>
+          <date>ca. 1750 - ca. 1790</date>
+          <date>ca. 1800</date>
+          <type>wandtapijt</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Brussel (stad)</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7942</identifier>
+        <datestamp>2022-03-02T15:11:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17991</identifier>
+          <identifier>BK-NM-7942</identifier>
+          <title>Een paar zilveren schoengespen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1770</date>
+          <type>sieraad</type>
+          <type>schoengesp</type>
+          <format>zilver</format>
+          <format>leer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Middelburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-6606</identifier>
+        <datestamp>2022-03-28T11:38:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18542</identifier>
+          <identifier>AK-NM-6606</identifier>
+          <title>Kom met geschulpte rand en een groen glazuur</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1825</date>
+          <type>kom</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8784-A</identifier>
+        <datestamp>2021-11-03T16:54:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17545</identifier>
+          <identifier>BK-NM-8784-A</identifier>
+          <title>Hengsel van vertind ijzer met bladmotieven</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1800</date>
+          <type>hengsel</type>
+          <format>ijzer</format>
+          <format>tin</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12232-D-1</identifier>
+        <datestamp>2021-10-02T00:33:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17833</identifier>
+          <identifier>BK-NM-12232-D-1</identifier>
+          <title>Kalkbak</title>
+          <creator>anoniem</creator>
+          <date>ca. 1699 - ca. 1799</date>
+          <type>bak</type>
+          <type>kalkbak</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Sulawesi</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-AM-10</identifier>
+        <datestamp>2021-10-02T00:38:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18159</identifier>
+          <identifier>BK-AM-10</identifier>
+          <title>Keten van het Amsterdamse kloveniersgilde</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <subject>economische geschiedenis</subject>
+          <subject>sociale geschiedenis</subject>
+          <subject>gilde</subject>
+          <subject>kloveniersgilde</subject>
+          <subject>Amsterdam</subject>
+          <subject>Amsterdam, schutterij van</subject>
+          <description>Sommige schakels van deze keten zijn met klauwen versierd, een symbool van het Amsterdamse kloveniersgilde. De winnaar van de schietwedstrijd van de kloveniers – de schutterskoning – mocht de keten een jaar lang dragen. De namen van twee winnaars zijn in de 17de eeuw aan de keten bevestigd.</description>
+          <date>ca. 1500 - ca. 1524</date>
+          <type>schuttersketen</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1960-13-B</identifier>
+        <datestamp>2021-12-02T14:55:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18422</identifier>
+          <identifier>BK-1960-13-B</identifier>
+          <title>Twee zoutvaten</title>
+          <creator>Lutma, Johannes (1584-1669)</creator>
+          <description>De stam van deze zoutvaten heeft de vorm van een jongetje dat door een dolfijn wordt gedragen. Lutma gaat bewust de vergelijking aan met Adam van Vianen, die ook zoutvaten en schalen met een menselijke figuur als stam had gemaakt. De voeten zijn uit kwabornament opgebouwd, en de schelpvormige bakjes eindigen in een kwabachtige monsterkop.</description>
+          <date>1639</date>
+          <type>zoutvat</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-69-B-6</identifier>
+        <datestamp>2019-08-01T09:24:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20731</identifier>
+          <identifier>BK-BR-J-69-B-6</identifier>
+          <title>Strook gemengde kant met brede spiraalrank</title>
+          <creator>anoniem</creator>
+          <date>ca. 1690 - ca. 1699</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Milaan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15650</identifier>
+        <datestamp>2021-10-02T00:41:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18310</identifier>
+          <identifier>BK-15650</identifier>
+          <title>Kandijbak in de vorm van een koelvat</title>
+          <creator>anoniem</creator>
+          <date>1744</date>
+          <type>kandijbak</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17152</identifier>
+        <datestamp>2021-10-02T00:31:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17781</identifier>
+          <identifier>BK-17152</identifier>
+          <title>Snuifdoos</title>
+          <creator>Bréant, Vincent</creator>
+          <date>ca. 1767 - ca. 1768</date>
+          <type>snuifdoos</type>
+          <format>goud</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-308-A</identifier>
+        <datestamp>2019-08-01T09:24:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20836</identifier>
+          <identifier>BK-BR-J-308-A</identifier>
+          <title>Strook applicatiekant met à-jour bloem- en bladtak</title>
+          <creator>anoniem</creator>
+          <date>ca. 1840 - ca. 1850</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-175-B</identifier>
+        <datestamp>2019-08-01T09:25:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20885</identifier>
+          <identifier>BK-BR-J-175-B</identifier>
+          <title>Mutsenslip van kloskant met rivières</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1760</date>
+          <type>mutsenslip</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15641</identifier>
+        <datestamp>2021-10-02T00:39:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18211</identifier>
+          <identifier>BK-15641</identifier>
+          <title>Driekranenkan</title>
+          <creator>Vos, Johannes Jans de</creator>
+          <date>1700</date>
+          <type>kraantjeskan</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leeuwarden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-15-F</identifier>
+        <datestamp>2021-08-19T16:58:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20099</identifier>
+          <identifier>BK-1984-15-F</identifier>
+          <title>Servet van damast met geornamenteerde lengtestrepen binnen een rand met voluten, bloemen en een bloemenmand.</title>
+          <date>1840 - 1860</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-328-F</identifier>
+        <datestamp>2021-08-19T17:00:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20345</identifier>
+          <identifier>BK-1975-328-F</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1919</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16114</identifier>
+        <datestamp>2021-11-11T09:35:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20781</identifier>
+          <identifier>BK-16114</identifier>
+          <title>Verdure met dieren</title>
+          <creator>anoniem</creator>
+          <date>ca. 1550 - ca. 1600</date>
+          <type>wandtapijt</type>
+          <type>verdure</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Edingen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDU2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

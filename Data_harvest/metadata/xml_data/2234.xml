@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NDY2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-443</identifier>
+        <datestamp>2021-01-28T14:32:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73748</identifier>
+          <identifier>RP-P-BI-443</identifier>
+          <title>Drie koeien bij een wilg</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <contributor>Janson, Pieter</contributor>
+          <date>1814</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-451</identifier>
+        <datestamp>2021-01-28T14:32:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73754</identifier>
+          <identifier>RP-P-BI-451</identifier>
+          <title>Een stier en een koe in een weiland</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <contributor>Bagelaar, Ernst Willem Jan</contributor>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-545X</identifier>
+        <datestamp>2021-01-28T14:39:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74323</identifier>
+          <identifier>RP-P-BI-545X</identifier>
+          <title>Portret van Jan van Arnhem, heer van Rosendael</title>
+          <creator>Baptist, Jacobus</creator>
+          <contributor>Borstius, Gerardus</contributor>
+          <date>1693 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4212-A</identifier>
+        <datestamp>2021-10-20T14:41:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66095</identifier>
+          <identifier>NG-VG-1-4212-A</identifier>
+          <title>Vijftigjarige herdenking van de slag bij Waterloo, ter ere van Wellington, Willem II en Blucher</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Slag bij Waterloo</subject>
+          <subject>Waterloo</subject>
+          <subject>Wellington, Arthur Wellesley of</subject>
+          <subject>Willem II (koning der Nederlanden)</subject>
+          <subject>Blücher von Wahlstatt, Gebhard Leberecht vorst</subject>
+          <date>1865</date>
+          <type>historiepenning</type>
+          <format>tin</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-206</identifier>
+        <datestamp>2021-01-28T14:24:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73146</identifier>
+          <identifier>RP-P-BI-206</identifier>
+          <title>Schepen op de Maas bij Rotterdam</title>
+          <title>Zeegezichten</title>
+          <creator>Bakhuysen, Ludolf</creator>
+          <contributor>Bakhuysen, Ludolf</contributor>
+          <contributor>Bakhuysen, Ludolf</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Maas</subject>
+          <subject>Grote of Sint-Laurenskerk</subject>
+          <date>1701</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-240</identifier>
+        <datestamp>2021-01-28T14:26:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73396</identifier>
+          <identifier>RP-P-BI-240</identifier>
+          <title>Portret van de heer Hagedorn koopman uit Bremen</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <subject>Hagedorn, Hermann</subject>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-1269</identifier>
+        <datestamp>2019-05-23T15:57:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73900</identifier>
+          <identifier>RP-P-1906-1269</identifier>
+          <title>Portret van Hermannus Mylius von Gnadenfeld</title>
+          <title>Hermannus Mylius: in Gnadenfelt (...) comitia ratisbonensia legatus</title>
+          <creator>Bailliu, Pieter de (I)</creator>
+          <contributor>Hulle, Anselm van</contributor>
+          <contributor>Bailliu, Pieter de (I)</contributor>
+          <contributor>onbekend</contributor>
+          <subject>Gnadenfeld, Hermann Mylius von</subject>
+          <date>1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1891-A-16356</identifier>
+        <datestamp>2021-01-28T14:04:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.72267</identifier>
+          <identifier>RP-P-1891-A-16356</identifier>
+          <title>Portret van Martinus Antonius Kuytenbrouwer</title>
+          <creator>Arnaud Gerkens, Johannes Christiaan d'</creator>
+          <subject>Kuytenbrouwer jr., Martinus Antonius</subject>
+          <date>1833 - 1892</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2105</identifier>
+        <datestamp>2021-01-28T14:27:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73448</identifier>
+          <identifier>RP-P-1909-2105</identifier>
+          <title>Vrouw met zwavelstok en lamp</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <contributor>Luyken, Jan</contributor>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1492</identifier>
+        <datestamp>2021-01-28T13:38:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67039</identifier>
+          <identifier>RP-F-00-1492</identifier>
+          <title>Polderlandschap met molens en koeien in Nederland</title>
+          <title>Holland</title>
+          <creator>anoniem</creator>
+          <subject>Zaandijk</subject>
+          <date>1870 - in of voor 1888</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-220</identifier>
+        <datestamp>2021-01-28T14:39:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74417</identifier>
+          <identifier>RP-P-1904-220</identifier>
+          <title>Apostel Jakobus de Meerdere (Jacobus Maior) met pelgrimsstaf in omlijsting met architectuur ornamenten</title>
+          <title>S. Iacobvs Maior</title>
+          <title>SS. Apostolorum et Evangelistorum Icones</title>
+          <creator>Barbé, Jan-Baptist</creator>
+          <contributor>Loon, Theodoor van</contributor>
+          <contributor>Barbé, Jan-Baptist</contributor>
+          <contributor>Cools, J.</contributor>
+          <date>1588 - 1648</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-223</identifier>
+        <datestamp>2021-01-28T14:39:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74420</identifier>
+          <identifier>RP-P-1904-223</identifier>
+          <title>Evangelist Mattheus met hellebaard in omlijsting met architectuur ornamenten</title>
+          <title>S. Matthaevs</title>
+          <title>SS. Apostolorum et Evangelistorum Icones</title>
+          <creator>Barbé, Jan-Baptist</creator>
+          <contributor>Loon, Theodoor van</contributor>
+          <contributor>Barbé, Jan-Baptist</contributor>
+          <contributor>Cools, J.</contributor>
+          <date>1588 - 1648</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1509</identifier>
+        <datestamp>2022-01-24T11:05:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67095</identifier>
+          <identifier>RP-F-00-1509</identifier>
+          <title>Sculptuur van Victoria</title>
+          <title>Victoria nach Professor Rauch</title>
+          <creator>anoniem</creator>
+          <contributor>Rauch, Christian Daniel</contributor>
+          <date>1851 - 1900</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-2959</identifier>
+        <datestamp>2021-01-28T14:34:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73995</identifier>
+          <identifier>RP-P-1907-2959</identifier>
+          <title>Portret van predikant Jacobus Covijn</title>
+          <creator>Bakker, Barent de</creator>
+          <contributor>Mieris, Frans van (II)</contributor>
+          <date>1762</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-190</identifier>
+        <datestamp>2021-01-28T14:23:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73075</identifier>
+          <identifier>RP-P-BI-190</identifier>
+          <title>Staand engeltje met sinaasappel</title>
+          <title>Kinderen en engelen</title>
+          <creator>Avont, Pieter van</creator>
+          <contributor>Wit, Frederik de</contributor>
+          <subject>engelen</subject>
+          <date>1630 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-516</identifier>
+        <datestamp>2021-01-28T14:34:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73880</identifier>
+          <identifier>RP-P-BI-516</identifier>
+          <title>Dood van Maria Magdalena in armen van twee engelen</title>
+          <title>Gloriosvs obitvs beatae Mariae Magdalenae</title>
+          <creator>Bailliu, Pieter de (I)</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Wijngaerde, Frans van den</contributor>
+          <date>1623 - 1660</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1964-669</identifier>
+        <datestamp>2021-01-28T14:36:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74154</identifier>
+          <identifier>RP-P-1964-669</identifier>
+          <title>Allegorieën op de liefde van kinderen voor hun ouders</title>
+          <creator>Baltens, Peeter</creator>
+          <date>1540 - 1584</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.388</identifier>
+        <datestamp>2021-01-28T14:27:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73471</identifier>
+          <identifier>RP-P-OB-26.388</identifier>
+          <title>Man met kalotje: buste; de vader van Rembrandt (?)</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-342</identifier>
+        <datestamp>2021-01-28T14:35:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74073</identifier>
+          <identifier>RP-P-1905-342</identifier>
+          <title>Rondgaan van de drinkbeker tijdens het Heilig Avondmaal in de Doopsgezinde Kerk De Arke Noach te Amsterdam</title>
+          <title>Arke Noach / Afbeelding van het ombrengen van den Drinkbeeker in 't H. Avondmaal, by de Doopsgezinden</title>
+          <creator>Bakker, Frans de</creator>
+          <contributor>Winter, Hendrik de</contributor>
+          <subject>Doopsgezinde Kerk De Arke Noach</subject>
+          <date>1743</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15735</identifier>
+        <datestamp>2021-01-28T14:04:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.72270</identifier>
+          <identifier>RP-P-1890-A-15735</identifier>
+          <title>Portret van Martinus Antonius Kuytenbrouwer in profiel</title>
+          <creator>Arnaud Gerkens, Johannes Christiaan d'</creator>
+          <subject>Kuytenbrouwer jr., Martinus Antonius</subject>
+          <date>1833 - 1892</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NDY4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

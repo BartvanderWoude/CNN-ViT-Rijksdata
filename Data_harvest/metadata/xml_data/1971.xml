@@ -1,0 +1,499 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTQwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-4544</identifier>
+        <datestamp>2021-11-16T22:46:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81709</identifier>
+          <identifier>RP-P-1907-4544</identifier>
+          <title>Geit</title>
+          <title>Het teekenboek van Abraham Bloemaert</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Nicolaes (II)</contributor>
+          <date>ca. 1679 - ca. 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1688</identifier>
+        <datestamp>2021-01-28T16:25:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81832</identifier>
+          <identifier>RP-P-BI-1688</identifier>
+          <title>Kustlandschap</title>
+          <title>Kleine landschappen</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Frederick</contributor>
+          <date>na 1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15256</identifier>
+        <datestamp>2021-01-28T16:19:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81392</identifier>
+          <identifier>RP-P-1890-A-15256</identifier>
+          <title>Schepping van Pandora</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Diepenbeeck, Abraham van</contributor>
+          <date>1655</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-817</identifier>
+        <datestamp>2021-02-05T09:54:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82227</identifier>
+          <identifier>RP-P-1905-817</identifier>
+          <title>Titelpagina voor Hugo de Groots Nederlandtsche Jaerboeken en Historien, 1681</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Webber, Zacharias (II)</contributor>
+          <contributor>Someren, weduwe Joannes van</contributor>
+          <contributor>Wolfgang, Abraham</contributor>
+          <contributor>Boom, Hendrick en Dirk</contributor>
+          <date>1679 - 1681</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1374</identifier>
+        <datestamp>2021-01-28T16:20:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81452</identifier>
+          <identifier>RP-P-BI-1374</identifier>
+          <title>Een rustende marskramer</title>
+          <title>Pastorale scènes</title>
+          <title>Otia delectant</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Cornelis (II)</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>na ca. 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-276</identifier>
+        <datestamp>2021-01-28T16:24:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81749</identifier>
+          <identifier>RP-P-1904-276</identifier>
+          <title>Vrouw met kelk en scepter</title>
+          <title>De kleine figuren</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <subject>de Griekse heldenverhalen (II): heldinnen</subject>
+          <date>na 1635 - 1669</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1534</identifier>
+        <datestamp>2021-01-28T16:25:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81786</identifier>
+          <identifier>RP-P-BI-1534</identifier>
+          <title>Gehoor</title>
+          <title>Auditus</title>
+          <title>Vijf zintuigen</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>1632 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1848</identifier>
+        <datestamp>2021-01-28T16:30:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82167</identifier>
+          <identifier>RP-P-BI-1848</identifier>
+          <title>Leeuw met leeuwin</title>
+          <title>Variæ leonum Icones</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <date>1655 - 1690</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-3902</identifier>
+        <datestamp>2021-01-28T16:17:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81195</identifier>
+          <identifier>RP-P-1905-3902</identifier>
+          <title>Allegorie met vrouwelijke personificatie en vier evangelisten</title>
+          <title>Titelpagina voor: Dirk Smout, Het leven van den heiland Jesus Christus, volgens de harmonie der vier H. evangelisten, Leiden 1723</title>
+          <title>Het leven van den heiland Jesus Christus, volgens de harmonie der vier H. evangelisten in dichtmaat begrepen</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>Mij, Hieronymus van der</contributor>
+          <contributor>Luchtmans, Samuel (I)</contributor>
+          <date>1681 - 1723</date>
+          <date>1723</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1271</identifier>
+        <datestamp>2021-01-28T16:18:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81346</identifier>
+          <identifier>RP-P-BI-1271</identifier>
+          <title>De Heilige Drieëenheid</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Mola, Pier Francesco</contributor>
+          <date>1633 - 1692</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.656-14</identifier>
+        <datestamp>2021-01-28T16:22:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81593</identifier>
+          <identifier>RP-P-OB-26.656-14</identifier>
+          <title>Lucht</title>
+          <title>16 prenten uit verschillende series van Cornelis en Frederik Bloemaert</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <subject>lucht (een van de vier elementen)</subject>
+          <date>1700 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-4528</identifier>
+        <datestamp>2021-01-28T16:23:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81692</identifier>
+          <identifier>RP-P-1907-4528</identifier>
+          <title>Drie mannen en een vrouw</title>
+          <title>Het teekenboek van Abraham Bloemaert</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>ca. 1650 - ca. 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1921-425</identifier>
+        <datestamp>2021-01-28T16:30:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82181</identifier>
+          <identifier>RP-P-1921-425</identifier>
+          <title>Gezicht op de Hogesluis vanaf de Utrechtse zijde</title>
+          <title>Amstelgezichten</title>
+          <title>Amstel-Gesichies</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Ruisdael, Jacob Isaacksz van</contributor>
+          <contributor>Sweerts, Hieronymus</contributor>
+          <subject>Amsterdam</subject>
+          <subject>Hogesluis</subject>
+          <date>1663 - 1692</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1332</identifier>
+        <datestamp>2021-01-28T16:19:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81406</identifier>
+          <identifier>RP-P-BI-1332</identifier>
+          <title>Fluitspeler</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Guidi, Giovanni Citosibio</contributor>
+          <date>ca. 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-4538</identifier>
+        <datestamp>2021-01-28T16:23:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81703</identifier>
+          <identifier>RP-P-1907-4538</identifier>
+          <title>Twee mannelijke naakten</title>
+          <title>Het teekenboek van Abraham Bloemaert</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Nicolaes (II)</contributor>
+          <date>ca. 1679 - ca. 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23880</identifier>
+        <datestamp>2021-01-28T16:24:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81740</identifier>
+          <identifier>RP-P-1903-A-23880</identifier>
+          <title>Zittende geitenhoeder</title>
+          <title>De kleine figuren</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>na 1635 - 1669</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1813</identifier>
+        <datestamp>2021-01-28T16:27:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81955</identifier>
+          <identifier>RP-P-BI-1813</identifier>
+          <title>Vrouw kijkt in een wieg</title>
+          <creator>Blommers, Bernardus Johannes</creator>
+          <date>1855 - 1914</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-57</identifier>
+        <datestamp>2016-10-20T20:32:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82121</identifier>
+          <identifier>RP-P-1958-57</identifier>
+          <title>Portret van Aert Jansz. van Nes</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Jongh, Ludolf de</contributor>
+          <contributor>Jonghe, Clement de</contributor>
+          <contributor>anoniem</contributor>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Nes, Aert Jansz. van</subject>
+          <date>ca. 1670 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1249</identifier>
+        <datestamp>2021-01-28T16:17:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81306</identifier>
+          <identifier>RP-P-BI-1249</identifier>
+          <title>Zittende Madonna</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Lodewijk XIII (koning van Frankrijk)</contributor>
+          <date>ca. 1630 - ca. 1633</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1520</identifier>
+        <datestamp>2021-01-28T16:23:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81646</identifier>
+          <identifier>RP-P-BI-1520</identifier>
+          <title>Geiten op een boerenerf</title>
+          <title>Dieren</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <contributor>Staten-Generaal</contributor>
+          <date>na 1635 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTQyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,447 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDA2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1959-58</identifier>
+        <datestamp>2021-12-06T14:30:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27021</identifier>
+          <identifier>RP-T-1959-58</identifier>
+          <title>Fontein van Neptunus</title>
+          <creator>anoniem</creator>
+          <contributor>Giambologna</contributor>
+          <subject>Bologna</subject>
+          <date>1650 - 1800</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2062</identifier>
+        <datestamp>2021-11-03T16:58:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26065</identifier>
+          <identifier>BK-KOG-2062</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1200 - ca. 1300</date>
+          <type>pijpsleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1986-48-A</identifier>
+        <datestamp>2021-11-03T19:22:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26608</identifier>
+          <identifier>BK-1986-48-A</identifier>
+          <title>Haarkam van imitatie schildpad met opbollende, onversierde rug</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1949</date>
+          <type>kam (haarsieraad)</type>
+          <format>celluloid</format>
+          <format>cellulose acetaat</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2038</identifier>
+        <datestamp>2021-11-03T16:58:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26042</identifier>
+          <identifier>BK-KOG-2038</identifier>
+          <title>Hefsleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <type>hefsleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1956-158(V)</identifier>
+        <datestamp>2021-01-28T12:56:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26555</identifier>
+          <identifier>RP-T-1956-158(V)</identifier>
+          <title>Twee vogels</title>
+          <creator>Sandoz-Rollin, David Alphonse de</creator>
+          <date>1750 - 1809</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1989-6</identifier>
+        <datestamp>2020-01-29T11:17:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26930</identifier>
+          <identifier>RP-T-1989-6</identifier>
+          <title>Gezicht op het meer van Nemi</title>
+          <creator>Williams, Hugh William</creator>
+          <subject>Lago di Nemi</subject>
+          <subject>Nemi</subject>
+          <date>1818</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2202</identifier>
+        <datestamp>2021-11-03T16:59:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26202</identifier>
+          <identifier>BK-KOG-2202</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-159-21-A</identifier>
+        <datestamp>2021-08-19T17:08:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27278</identifier>
+          <identifier>BK-1984-159-21-A</identifier>
+          <title>Handschoen van wit zeemleer met kunsstof parelmoerkleurige knoop</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1915</date>
+          <type>kleding</type>
+          <type>handschoen</type>
+          <format>zeemleer</format>
+          <format>kunststof</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2298</identifier>
+        <datestamp>2021-11-03T17:00:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26300</identifier>
+          <identifier>BK-KOG-2298</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>sleutel</type>
+          <format>koper</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2311</identifier>
+        <datestamp>2021-11-03T17:00:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26313</identifier>
+          <identifier>BK-KOG-2311</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-64</identifier>
+        <datestamp>2021-11-03T19:22:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26653</identifier>
+          <identifier>BK-1984-64</identifier>
+          <title>Rokophouder van metaal met onversierde haak voor in de taille en ronde klem, versierd met een floraal motief</title>
+          <creator>anoniem</creator>
+          <date>ca. 1880 - ca. 1910</date>
+          <type>rokophouder</type>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11020-1</identifier>
+        <datestamp>2021-10-02T11:41:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26845</identifier>
+          <identifier>BK-NM-11020-1</identifier>
+          <title>Muts van batist versierd met bladeren in kettingsteek en een strook Rijsselse kant</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1875</date>
+          <type>dameskleding</type>
+          <type>muts</type>
+          <format>batist</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15786</identifier>
+        <datestamp>2021-11-11T09:38:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23662</identifier>
+          <identifier>BK-15786</identifier>
+          <title>Kussenovertrek met het gemeentewapen van Den Haag</title>
+          <creator>Gucht, Jacobus van der</creator>
+          <date>1693</date>
+          <type>kussenovertrek</type>
+          <type>kussen</type>
+          <type>magistratenkussen</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-148</identifier>
+        <datestamp>2021-11-11T09:38:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23668</identifier>
+          <identifier>BK-1975-148</identifier>
+          <title>Oosters tapijt</title>
+          <date>1700 - 1900</date>
+          <type>Oosters tapijt</type>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Klein-Azië</coverage>
+          <coverage>Bergama</coverage>
+          <coverage>Sivrihisar</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1905-210(V)</identifier>
+        <datestamp>2021-10-02T11:42:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27208</identifier>
+          <identifier>RP-T-1905-210(V)</identifier>
+          <title>Vouwblad met figuurstudies</title>
+          <creator>Bakhuysen, Ludolf</creator>
+          <date>1695 - 1705</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>grafiet</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2103</identifier>
+        <datestamp>2021-10-02T11:38:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26106</identifier>
+          <identifier>BK-KOG-2103</identifier>
+          <title>39 sleutels uit de collectie van Emmanuel Vita Israël</title>
+          <creator>anoniem</creator>
+          <description>De Amsterdamse apotheker en kunstverzamelaar Emmanuel Vita Israël schonk zijn collectie, met sleutels van de Romeinse oudheid tot de 19de eeuw, in 1937 aan het Koninklijk Oudheidkundig Genootschap. Naar eigen zeggen kwam zijn sleutelcollectie min of meer per toeval tot stand. Omdat hij een van de weinige verzamelaars was, wisten handelaren hem automatisch te vinden.</description>
+          <date>ca. 1300 - ca. 1400</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1956-137</identifier>
+        <datestamp>2021-01-28T12:56:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26538</identifier>
+          <identifier>RP-T-1956-137</identifier>
+          <title>Zittende man naast een boom aan het water</title>
+          <creator>Sandoz-Rollin, David Alphonse de</creator>
+          <date>1750 - 1809</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-92</identifier>
+        <datestamp>2021-11-03T19:22:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26544</identifier>
+          <identifier>BK-1984-92</identifier>
+          <title>Motormuts van wit leer met kinband, voorzien van oorwarmers van bont</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1925</date>
+          <type>dameskleding</type>
+          <type>muts</type>
+          <type>motormuts</type>
+          <format>leer</format>
+          <format>bont</format>
+          <format>metaal</format>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1980-17</identifier>
+        <datestamp>2021-10-02T11:41:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26916</identifier>
+          <identifier>RP-T-1980-17</identifier>
+          <title>Ruïne van Glastonbury Abbey met de toren van St. John op de achtergrond</title>
+          <creator>Rooker, Michael Angelo</creator>
+          <subject>Glastonbury Abbey</subject>
+          <subject>Church of St John the Baptist</subject>
+          <date>1794</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-850</identifier>
+        <datestamp>2021-10-02T01:51:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24465</identifier>
+          <identifier>BK-NM-850</identifier>
+          <title>Doop van Christus</title>
+          <creator>Tissenaken, Tobias van</creator>
+          <date>ca. 1600 - ca. 1624</date>
+          <type>beeldhouwwerk</type>
+          <format>albast (mineraal)</format>
+          <format>eikenhout</format>
+          <format>stucwerk</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Mechelen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDA4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

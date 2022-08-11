@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNzcwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3400</identifier>
+        <datestamp>2016-10-20T19:51:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44181</identifier>
+          <identifier>RP-P-1906-3400</identifier>
+          <title>Portret van de predikant Wilhelm Leendert Krieger</title>
+          <creator>Hodges, Charles Howard</creator>
+          <subject>Krieger, Wilhelm Leendert</subject>
+          <date>1796</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5334</identifier>
+        <datestamp>2020-03-20T13:47:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43348</identifier>
+          <identifier>RP-P-BI-5334</identifier>
+          <title>Portret van Aegidius de Glabbais</title>
+          <creator>Buysen, Andries van (Sr.)</creator>
+          <subject>Glabbais, Aegidius de</subject>
+          <date>1717</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3096</identifier>
+        <datestamp>2016-11-22T15:38:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43397</identifier>
+          <identifier>RP-P-1906-3096</identifier>
+          <title>November</title>
+          <title>De twaalf maanden van het jaar, "Les XII Mois de l'Année"</title>
+          <creator>Dusart, Cornelis</creator>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Stadsbestuur Amsterdam</contributor>
+          <date>1679 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3234</identifier>
+        <datestamp>2016-10-20T19:50:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43804</identifier>
+          <identifier>RP-P-1906-3234</identifier>
+          <title>Monnik met een fluit</title>
+          <title>Le Fluteur</title>
+          <title>Karikaturen op de Franse geestelijkheid onder Lodewijk XIV, (B)</title>
+          <title>Renversement de la Morale Chrétienne par les désordres du Monachisme</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <date>1670 - 1724</date>
+          <date>1693 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.125</identifier>
+        <datestamp>2019-05-29T15:09:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43710</identifier>
+          <identifier>RP-P-OB-17.125</identifier>
+          <title>De Smaak: etende man</title>
+          <title>De vijf zintuigen</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Steen, Jan Havicksz.</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Staten van Holland</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3366</identifier>
+        <datestamp>2016-10-20T19:51:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44224</identifier>
+          <identifier>RP-P-1906-3366</identifier>
+          <title>Portret van Willem George Frederik, prins van Oranje-Nassau</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Tischbein, Johann Friedrich August</contributor>
+          <subject>Willem George Frederik (prins van Oranje-Nassau)</subject>
+          <date>1794</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1971-105</identifier>
+        <datestamp>2016-12-22T08:19:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44230</identifier>
+          <identifier>RP-P-1971-105</identifier>
+          <title>Geboorte van Christus en aanbidding door herders</title>
+          <title>De geboorte van den heiland</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Carracci, Annibale</contributor>
+          <date>1809</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.068</identifier>
+        <datestamp>2016-10-20T19:50:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43560</identifier>
+          <identifier>RP-P-OB-17.068</identifier>
+          <title>Portret van Pierre Jurieu</title>
+          <creator>Gole, Jacob</creator>
+          <subject>Jurieu, Pierre</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3152</identifier>
+        <datestamp>2016-10-20T19:50:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43566</identifier>
+          <identifier>RP-P-1906-3152</identifier>
+          <title>Portret van Gerbrand van Leeuwen</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Opoeteren, Pieter van</contributor>
+          <subject>Leeuwen, Gerbrand van</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.085</identifier>
+        <datestamp>2016-10-20T19:50:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43609</identifier>
+          <identifier>RP-P-OB-17.085</identifier>
+          <title>Portret van Paulus Steenwinkel</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Gole, Jacob</contributor>
+          <subject>Steenwinkel, Paulus</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1912-1193</identifier>
+        <datestamp>2016-10-20T19:50:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43733</identifier>
+          <identifier>RP-P-1912-1193</identifier>
+          <title>Zilveren eeuw</title>
+          <title>L'Aage d'Argent</title>
+          <title>De vier tijdperken</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3361</identifier>
+        <datestamp>2016-10-20T19:50:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44065</identifier>
+          <identifier>RP-P-1906-3361</identifier>
+          <title>Portret van Johan de Witt</title>
+          <creator>Hellemans, Cornelis A.</creator>
+          <contributor>Baen, Jan de</contributor>
+          <subject>Witt, Johan de</subject>
+          <date>1660 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3371</identifier>
+        <datestamp>2016-10-20T19:51:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44130</identifier>
+          <identifier>RP-P-1906-3371</identifier>
+          <title>Portret van de predikant Abraham Bowier</title>
+          <creator>Hodges, Charles Howard</creator>
+          <subject>Bowier, Abraham</subject>
+          <date>1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7298</identifier>
+        <datestamp>2020-09-08T12:50:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43417</identifier>
+          <identifier>RP-P-BI-7298</identifier>
+          <title>De Oost-Indiëvaarder, 1695</title>
+          <title>De algemene blijdschap om de inname van Namen door stadhouder Willem III, koning van Engeland op 2 september 1695, 6</title>
+          <creator>Dusart, Cornelis</creator>
+          <subject>Viering van de verovering van Namen</subject>
+          <date>1695 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7364</identifier>
+        <datestamp>2019-05-29T15:09:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43491</identifier>
+          <identifier>RP-P-BI-7364</identifier>
+          <title>Pijprokende vrouw (de Smaak)</title>
+          <creator>Dusart, Cornelis</creator>
+          <date>1679 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.105</identifier>
+        <datestamp>2019-05-29T15:09:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43660</identifier>
+          <identifier>RP-P-OB-17.105</identifier>
+          <title>Schaatsenrijder</title>
+          <title>Le Hollandois sur la glace</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7312</identifier>
+        <datestamp>2019-05-29T15:08:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43440</identifier>
+          <identifier>RP-P-BI-7312</identifier>
+          <title>Wij zijn zeven</title>
+          <title>Wir sind sieben / Nos sumus septem / Nous sommes sept / Wy zyn seven / We are seven</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <date>1695 - 1754</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.065</identifier>
+        <datestamp>2019-07-02T09:39:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43546</identifier>
+          <identifier>RP-P-OB-17.065</identifier>
+          <title>Portret van Jan Antonides van der Goes</title>
+          <creator>Gole, Jacob</creator>
+          <subject>Antonides van der Goes, Jan</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3221</identifier>
+        <datestamp>2016-10-20T19:50:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43796</identifier>
+          <identifier>RP-P-1906-3221</identifier>
+          <title>Geestelijke met een roofdier</title>
+          <title>l'Insatiable</title>
+          <title>Karikaturen op de Franse geestelijkheid onder Lodewijk XIV, (B)</title>
+          <title>Renversement de la Morale Chrétienne par les désordres du Monachisme</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <date>1670 - 1724</date>
+          <date>1693 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3335</identifier>
+        <datestamp>2016-10-20T19:50:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44039</identifier>
+          <identifier>RP-P-1906-3335</identifier>
+          <title>Zelfportret</title>
+          <creator>Halen, Arnoud van</creator>
+          <subject>Halen, Arnoud van</subject>
+          <date>1683 - 1732</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNzcyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

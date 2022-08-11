@@ -1,0 +1,498 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMzQw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14333</identifier>
+        <datestamp>2019-05-09T16:10:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39875</identifier>
+          <identifier>RP-P-1889-A-14333</identifier>
+          <title>Titelblad met de uitrusting van een oorlogsschip en een trompetspeler</title>
+          <title>Nouvelles inventions de Combats Navaeles par Reinier Zeeman</title>
+          <title>Nieuwe Scheeps Batalien in het licht gebracht door Reinier Zeeman</title>
+          <title>Nieuwe Scheeps Batalien</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <contributor>Valck, Gerard</contributor>
+          <date>1652 - 1656</date>
+          <date>1661 - 1726</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4800</identifier>
+        <datestamp>2019-05-29T15:00:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40208</identifier>
+          <identifier>RP-P-OB-4800</identifier>
+          <title>De dood van Judas Iskariot</title>
+          <title>Mors funesta Iudae Proditoris</title>
+          <title>De kleine apostelen</title>
+          <title>Het martelaarschap van de apostelen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1632 - 1634</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4866</identifier>
+        <datestamp>2021-10-02T12:13:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39318</identifier>
+          <identifier>RP-P-OB-4866</identifier>
+          <title>De drie eiken</title>
+          <creator>Ruisdael, Jacob Isaacksz van</creator>
+          <contributor>Ruisdael, Jacob Isaacksz van</contributor>
+          <contributor>Wijngaerde, Frans van den</contributor>
+          <date>1649</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-15.551</identifier>
+        <datestamp>2019-05-29T14:58:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39566</identifier>
+          <identifier>RP-P-OB-15.551</identifier>
+          <title>Dorp</title>
+          <title>Kleine landschappen</title>
+          <creator>Velde, Esaias van de</creator>
+          <contributor>Velde, Esaias van de</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <date>1614</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15602</identifier>
+        <datestamp>2019-05-09T16:08:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39723</identifier>
+          <identifier>RP-P-1890-A-15602</identifier>
+          <title>Gezicht op een waterweg landinwaarts</title>
+          <title>Huit différentes Marines</title>
+          <title>Acht zeegezichten</title>
+          <creator>anoniem</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <contributor>Chéreau</contributor>
+          <date>1700 - 1799</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4655</identifier>
+        <datestamp>2019-05-29T14:59:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40056</identifier>
+          <identifier>RP-P-OB-4655</identifier>
+          <title>Christus aan het volk getoond (Ecce homo)</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Lodewijk XIII (koning van Frankrijk)</contributor>
+          <contributor>Burellius, Johannis Maria</contributor>
+          <contributor>Spiliatus, Franciscus</contributor>
+          <date>1613</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4667</identifier>
+        <datestamp>2019-05-29T14:59:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40068</identifier>
+          <identifier>RP-P-OB-4667</identifier>
+          <title>Christus aan het volk getoond (Ecce homo)</title>
+          <title>De grote Passie</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1619 - 1624</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.884</identifier>
+        <datestamp>2019-05-29T14:57:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39367</identifier>
+          <identifier>RP-P-OB-12.884</identifier>
+          <title>Landschap met een vrouw en een fluitspelende herder</title>
+          <title>Acht landschappen naar Lucas van Uden</title>
+          <creator>Immenraet, Philips Augustijn</creator>
+          <contributor>Uden, Lucas van</contributor>
+          <contributor>Wijngaerde, Frans van den</contributor>
+          <contributor>Uden, Lucas van</contributor>
+          <date>1637 - 1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1879-A-3213</identifier>
+        <datestamp>2020-05-06T11:49:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39379</identifier>
+          <identifier>RP-P-1879-A-3213</identifier>
+          <title>Landschap met twee herdersjongens</title>
+          <title>Vijf landschappen</title>
+          <creator>Uden, Lucas van</creator>
+          <contributor>Uden, Lucas van</contributor>
+          <contributor>Wijngaerde, Frans van den</contributor>
+          <date>1605 - 1673</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-15.554</identifier>
+        <datestamp>2019-05-29T14:58:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39577</identifier>
+          <identifier>RP-P-OB-15.554</identifier>
+          <title>Pad langs een boerderij</title>
+          <title>Kleine landschappen</title>
+          <creator>Velde, Esaias van de</creator>
+          <contributor>Velde, Esaias van de</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <date>1615 - 1616</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.971</identifier>
+        <datestamp>2019-05-09T16:08:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39712</identifier>
+          <identifier>RP-P-OB-12.971</identifier>
+          <title>Havenscène met een spiegelsloep</title>
+          <title>Havenscène met een landingsboot</title>
+          <title>Quelqe port dee Meer</title>
+          <title>Enkele zeehavens</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <date>1656</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-13549</identifier>
+        <datestamp>2019-05-09T16:10:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39909</identifier>
+          <identifier>RP-P-1888-A-13549</identifier>
+          <title>Groot zeilschip en een roeiboot</title>
+          <title>Dertien scènes met schepen</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <date>1650 - 1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1881-A-4741</identifier>
+        <datestamp>2019-05-09T16:10:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39921</identifier>
+          <identifier>RP-P-1881-A-4741</identifier>
+          <title>Waterdichtmaken van de romp van een schip</title>
+          <title>Dertien scènes met schepen</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <date>1650 - 1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.598</identifier>
+        <datestamp>2019-05-09T16:12:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40008</identifier>
+          <identifier>RP-P-OB-20.598</identifier>
+          <title>De vaart</title>
+          <title>Zes Hollandse gezichten</title>
+          <creator>Jongkind, Johan Barthold</creator>
+          <contributor>Delâtre, Auguste</contributor>
+          <subject>Holland</subject>
+          <date>1862</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4868</identifier>
+        <datestamp>2019-05-29T15:00:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40254</identifier>
+          <identifier>RP-P-OB-4868</identifier>
+          <title>Het Paradijs</title>
+          <title>Schilderijen en sculpturen te Rome</title>
+          <creator>Callot, Jacques</creator>
+          <date>1608 - 1611</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.549</identifier>
+        <datestamp>2019-05-09T16:10:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39861</identifier>
+          <identifier>RP-P-OB-20.549</identifier>
+          <title>Gezicht op de Overtoom</title>
+          <title>Den Overtoom</title>
+          <title>Verschillende schepen en stadsgezichten van Amsterdam, derde deel</title>
+          <title>Derde deel. Verscheijden Schepen en Gesichten van Amsterdam, naer t leven afgetekent en opt Cooper gebracht, door Reinier Nooms, alias Zeeman</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <subject>Amsterdam</subject>
+          <date>1652 - 1654</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1942-166</identifier>
+        <datestamp>2021-01-28T13:12:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40016</identifier>
+          <identifier>RP-P-1942-166</identifier>
+          <title>Gezicht op Maassluis</title>
+          <title>Vue de la ville de Maaslins (Hollande)</title>
+          <creator>Jongkind, Johan Barthold</creator>
+          <contributor>Delâtre, Auguste</contributor>
+          <contributor>Cadart &amp; F. Chevalier, A.</contributor>
+          <subject>Maassluis</subject>
+          <date>1862</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4879</identifier>
+        <datestamp>2019-05-29T15:00:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40265</identifier>
+          <identifier>RP-P-OB-4879</identifier>
+          <title>Hemelvaart van Maria</title>
+          <title>Schilderijen en sculpturen te Rome</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Muziano, Girolamo</contributor>
+          <date>1608 - 1611</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1935-1434</identifier>
+        <datestamp>2019-05-23T13:30:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39327</identifier>
+          <identifier>RP-P-1935-1434</identifier>
+          <title>Gezicht op Rhenen</title>
+          <creator>Ruyscher, Jan</creator>
+          <contributor>Waterloo, Anthonie</contributor>
+          <contributor>Ruyscher, Jan</contributor>
+          <contributor>Waterloo, Anthonie</contributor>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <subject>Rhenen</subject>
+          <date>1635 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1885-A-9376</identifier>
+        <datestamp>2021-07-13T16:22:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39623</identifier>
+          <identifier>RP-P-1885-A-9376</identifier>
+          <title>Landschap met ruïnes en herder met schapen</title>
+          <title>Landschappen naar Esaias van de Velde</title>
+          <creator>anoniem</creator>
+          <contributor>Velde, Esaias van de</contributor>
+          <contributor>Berendrecht, Johannes Pietersz.</contributor>
+          <date>1610 - 1617</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMzYw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

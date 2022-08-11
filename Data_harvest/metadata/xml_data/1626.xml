@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjUwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-44-B</identifier>
+        <datestamp>2021-11-02T08:21:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16756</identifier>
+          <identifier>BK-1977-44-B</identifier>
+          <title>Vork van zilver</title>
+          <creator>Gameren, Dirk van</creator>
+          <date>1764</date>
+          <type>vork</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-103(R)</identifier>
+        <datestamp>2019-12-11T10:55:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16962</identifier>
+          <identifier>RP-T-1963-103(R)</identifier>
+          <title>Seine-brug</title>
+          <creator>Michel, Georges</creator>
+          <subject>Parijs</subject>
+          <subject>Seine</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-52</identifier>
+        <datestamp>2021-11-02T08:24:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17344</identifier>
+          <identifier>BK-1977-52</identifier>
+          <title>Vinaigrettehouder</title>
+          <creator>Bettridge, John</creator>
+          <date>1823</date>
+          <type>eet- en drinkgerei</type>
+          <type>vaatwerk</type>
+          <type>vinaigrettehouder</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Birmingham</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-333</identifier>
+        <datestamp>2022-01-27T16:59:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16135</identifier>
+          <identifier>BK-NM-12400-333</identifier>
+          <title>Parfumbrander van veelkleurig beschilderde faïence</title>
+          <creator>anoniem</creator>
+          <date>ca. 1720 - ca. 1740</date>
+          <type>parfumbrander</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-306</identifier>
+        <datestamp>2022-01-26T11:39:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16345</identifier>
+          <identifier>BK-NM-12400-306</identifier>
+          <title>Schaal van veelkleurig beschilderde faïence</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Rijsselbergh, Adriaan van</contributor>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>schaal</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-48-D</identifier>
+        <datestamp>2021-11-02T08:22:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17068</identifier>
+          <identifier>BK-1977-48-D</identifier>
+          <title>Vork van zilver</title>
+          <creator>Keun, A.</creator>
+          <date>1821</date>
+          <type>vork</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1981-75-A</identifier>
+        <datestamp>2020-06-15T15:24:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17075</identifier>
+          <identifier>BK-1981-75-A</identifier>
+          <title>Mes met in reliëf geëmailleerde bloemen en een medaillon met een figuur in een landschap</title>
+          <creator>anoniem</creator>
+          <contributor>Calkoen, Johannes</contributor>
+          <date>ca. 1650</date>
+          <type>mes (culinair gereedschap)</type>
+          <format>goud</format>
+          <format>ijzer</format>
+          <format>email</format>
+          <format>edelsteen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15165</identifier>
+        <datestamp>2021-10-02T00:11:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16191</identifier>
+          <identifier>BK-15165</identifier>
+          <title>Broche</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1875</date>
+          <type>sieraad</type>
+          <type>broche</type>
+          <format>goud</format>
+          <format>git</format>
+          <format>parel</format>
+          <format>diamant</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15168</identifier>
+        <datestamp>2021-11-03T23:47:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16198</identifier>
+          <identifier>BK-15168</identifier>
+          <title>Broche</title>
+          <creator>anoniem</creator>
+          <date>1800 - 1900</date>
+          <type>sieraad</type>
+          <type>broche</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-144</identifier>
+        <datestamp>2016-10-20T19:29:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17020</identifier>
+          <identifier>RP-T-1963-144</identifier>
+          <title>Boerderij in het land</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-248</identifier>
+        <datestamp>2021-10-02T00:14:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16398</identifier>
+          <identifier>BK-NM-12400-248</identifier>
+          <title>Terrine in de vorm van een eend</title>
+          <creator>anoniem</creator>
+          <date>ca. 1760 - ca. 1775</date>
+          <type>terrine</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11906-8-A</identifier>
+        <datestamp>2021-11-02T08:23:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17125</identifier>
+          <identifier>BK-NM-11906-8-A</identifier>
+          <title>Vork, viertandig, bij de aanzet drietandig.</title>
+          <creator>Helweg, Jacob (I)</creator>
+          <date>1764</date>
+          <type>bestek</type>
+          <type>vork</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13344</identifier>
+        <datestamp>2022-01-27T11:53:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16286</identifier>
+          <identifier>BK-NM-13344</identifier>
+          <title>Maria met Christuskind van faience</title>
+          <creator>anoniem</creator>
+          <date>1748</date>
+          <type>decoratief object</type>
+          <type>vrouwenfiguur</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-132-B</identifier>
+        <datestamp>2021-10-02T00:17:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16712</identifier>
+          <identifier>BK-1978-132-B</identifier>
+          <title>Twee trommels</title>
+          <creator>Diemont, Fa.</creator>
+          <contributor>Adelaar, Egidius</contributor>
+          <date>1820</date>
+          <type>trommel (houder)</type>
+          <type>koektrommel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-102(R)</identifier>
+        <datestamp>2019-12-12T13:38:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16968</identifier>
+          <identifier>RP-T-1963-102(R)</identifier>
+          <title>Langs de Seine</title>
+          <creator>Michel, Georges</creator>
+          <subject>Parijs</subject>
+          <subject>Seine</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-17-F</identifier>
+        <datestamp>2016-10-20T19:29:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17248</identifier>
+          <identifier>BK-1984-17-F</identifier>
+          <title>Lepel</title>
+          <creator>Knuysting, Cornelis</creator>
+          <date>1802</date>
+          <type>theelepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-6</identifier>
+        <datestamp>2021-11-02T08:23:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17180</identifier>
+          <identifier>BK-1984-6</identifier>
+          <title>Suikerschep</title>
+          <creator>Jensen, Georg</creator>
+          <contributor>Rohde, Johan Gudmann</contributor>
+          <date>1915</date>
+          <type>lepel</type>
+          <type>schep</type>
+          <type>suikerschep</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kopenhagen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-239</identifier>
+        <datestamp>2022-01-27T11:53:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16401</identifier>
+          <identifier>BK-NM-12400-239</identifier>
+          <title>Doedelzakspeler van veelkleurig beschilderde faïence</title>
+          <creator>De Porceleyne Byl</creator>
+          <contributor>Brouwer, Justus</contributor>
+          <date>ca. 1760 - ca. 1785</date>
+          <type>decoratief object</type>
+          <type>mannenfiguur</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16956</identifier>
+        <datestamp>2022-04-21T10:55:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16856</identifier>
+          <identifier>BK-16956</identifier>
+          <title>Hek, vierhoekig, met verticaal geplaatste zig-zag-gebogen stangen. Gedateerd 1676. Uit verz. Mannheimer.</title>
+          <date>1676</date>
+          <type>hek</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-118</identifier>
+        <datestamp>2021-10-02T00:22:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17231</identifier>
+          <identifier>BK-1978-118</identifier>
+          <title>Mand</title>
+          <creator>Stellingwerff, Jacob Hendrik</creator>
+          <date>1806</date>
+          <type>broodmand</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjUyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

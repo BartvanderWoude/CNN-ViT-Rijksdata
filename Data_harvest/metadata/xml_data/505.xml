@@ -1,0 +1,447 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDA4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2048</identifier>
+        <datestamp>2021-11-03T16:58:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26051</identifier>
+          <identifier>BK-KOG-2048</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1200 - ca. 1300</date>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-240-G</identifier>
+        <datestamp>2021-10-02T11:41:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26700</identifier>
+          <identifier>BK-1979-240-G</identifier>
+          <title>Vestknoop van metaal</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1940</date>
+          <type>herenkleding</type>
+          <type>vestknoop</type>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2151</identifier>
+        <datestamp>2021-11-03T16:59:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26154</identifier>
+          <identifier>BK-KOG-2151</identifier>
+          <title>Sleutel</title>
+          <date>1700 - 1800</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-96-A</identifier>
+        <datestamp>2021-10-02T11:40:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26472</identifier>
+          <identifier>BK-KOG-96-A</identifier>
+          <title>Dissertatieband van groene zijde met zilver en goud gebrocheerd; met opschrift</title>
+          <creator>anoniem</creator>
+          <date>1728</date>
+          <type>herenkleding</type>
+          <type>dissertatieband</type>
+          <type>lint</type>
+          <format>zijde</format>
+          <format>zilverdraad</format>
+          <format>gouddraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10297-6</identifier>
+        <datestamp>2021-10-02T11:41:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26857</identifier>
+          <identifier>BK-NM-10297-6</identifier>
+          <title>Gebreide muts van witte katoen met zigzagranden en ruitvormen met rasterwerk</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>dameskleding</type>
+          <type>muts</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-243-3</identifier>
+        <datestamp>2022-03-29T09:14:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24705</identifier>
+          <identifier>BK-1968-243-3</identifier>
+          <title>Kop met heggen, bamboe, prunus en hoo-vogel</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1670 - ca. 1690</date>
+          <type>kop</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Arita</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-81-B</identifier>
+        <datestamp>2021-11-03T19:21:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23563</identifier>
+          <identifier>BK-1984-81-B</identifier>
+          <title>Kraag van duchesse met grote bloemenranken en point de Flandre met kleine bloemtakken</title>
+          <creator>Rouff, Maggy</creator>
+          <date>ca. 1936</date>
+          <type>dameskleding</type>
+          <type>kraag</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-290(R)</identifier>
+        <datestamp>2021-10-02T01:40:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23896</identifier>
+          <identifier>RP-T-1953-290(R)</identifier>
+          <title>Landschap met begroeide heuvels en trekkende reizigers</title>
+          <creator>Weirotter, Franz Edmund</creator>
+          <date>1740 - 1771</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-15803-C</identifier>
+        <datestamp>2022-03-17T09:47:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23967</identifier>
+          <identifier>AK-RBK-15803-C</identifier>
+          <title>Schaal met een jachttafereel, lotusranken en gelukssymbolen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>schaal</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-668-E</identifier>
+        <datestamp>2021-11-29T23:03:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24277</identifier>
+          <identifier>BK-KOG-668-E</identifier>
+          <title>Panelen van een orgelkast uit de Sint-Vituskerk in Naarden</title>
+          <creator>Schayck, Jan van</creator>
+          <contributor>Wesel, Adriaen van</contributor>
+          <description>Deze tien figuren tooiden het middeleeuwse orgel van de Sint-Vituskerk in Naarden. Zij dragen allen een wapen en houden aan een riem een wapenschild vast. Sommigen zijn uitgedost als ridders met harnas en helm, anderen zijn als vorsten of edelen gekleed. Mogelijk stellen ze graven van Holland voor. Oorspronkelijk waren alle wapenschilden beschilderd.</description>
+          <date>ca. 1510 - ca. 1520</date>
+          <type>orgelkast</type>
+          <format>eikenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1986-75-A</identifier>
+        <datestamp>2021-10-02T11:42:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27147</identifier>
+          <identifier>BK-1986-75-A</identifier>
+          <title>Paar avondhandschoenen met ingerimpelde stiksels</title>
+          <creator>Alexandrine (winkelbedrijf)</creator>
+          <description>Het Parijse merk Alexandrine was gespecialiseerd in luxe handshoenen maar verkocht ook (bijpassende) tassen en kousen. In Nederland waren de handschoenen onder andere bij Hirsch &amp; Cie. verkrijgbaar.</description>
+          <date>ca. 1950 - ca. 1960</date>
+          <type>kleding</type>
+          <type>avondhandschoen</type>
+          <format>wasleer</format>
+          <format>leer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-100-A</identifier>
+        <datestamp>2021-11-03T19:23:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27335</identifier>
+          <identifier>BK-1984-100-A</identifier>
+          <title>Handschoen van witte tricot met twee beige drukknopen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1930</date>
+          <type>kleding</type>
+          <type>handschoen</type>
+          <format>katoen</format>
+          <format>tricot</format>
+          <format>kunststof</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2068</identifier>
+        <datestamp>2021-11-03T16:58:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26071</identifier>
+          <identifier>BK-KOG-2068</identifier>
+          <title>Sleutel</title>
+          <date>1600 - 1699</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9625-B</identifier>
+        <datestamp>2021-10-02T11:40:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26488</identifier>
+          <identifier>BK-NM-9625-B</identifier>
+          <title>Haardsteen met voorstelling van Sint Joris te paard</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1575 - ca. 1599</date>
+          <type>haardsteen</type>
+          <format>aardewerk</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (provincie)</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14596</identifier>
+        <datestamp>2021-10-02T11:40:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26593</identifier>
+          <identifier>BK-14596</identifier>
+          <title>Muts van linnen met een patroon van ruiten in doorstikwerk</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>kleding</type>
+          <type>muts</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2045</identifier>
+        <datestamp>2021-11-03T16:58:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26048</identifier>
+          <identifier>BK-KOG-2045</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1300 - ca. 1400</date>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2094</identifier>
+        <datestamp>2021-11-03T16:58:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26097</identifier>
+          <identifier>BK-KOG-2094</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1500</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1982-68</identifier>
+        <datestamp>2021-10-02T11:42:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26949</identifier>
+          <identifier>RP-T-1982-68</identifier>
+          <title>Binnenhaven en kade te Fécamp</title>
+          <creator>Cotman, John Sell</creator>
+          <subject>Fécamp</subject>
+          <date>1818</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2019</identifier>
+        <datestamp>2021-11-03T16:58:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26022</identifier>
+          <identifier>BK-KOG-2019</identifier>
+          <title>Schuifsleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>schuifsleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-99-C-2</identifier>
+        <datestamp>2019-08-01T09:36:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23828</identifier>
+          <identifier>BK-BR-J-99-C-2</identifier>
+          <title>Manchet van gehaakte kant met getorst takje en stervormige bloem</title>
+          <creator>anoniem</creator>
+          <date>ca. 1890 - ca. 1909</date>
+          <type>manchet</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ierland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDEwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

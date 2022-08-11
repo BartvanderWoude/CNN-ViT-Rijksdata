@@ -1,0 +1,485 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MjA2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1894-A-18494</identifier>
+        <datestamp>2016-10-20T21:12:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.126164</identifier>
+          <identifier>RP-P-1894-A-18494</identifier>
+          <title>Portret van Lambert ten Kate</title>
+          <creator>Houbraken, Jacob</creator>
+          <contributor>Le Blon, Jacob Christof</contributor>
+          <subject>Kate, Lambert ten</subject>
+          <date>1708 - 1780</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-2662</identifier>
+        <datestamp>2016-10-20T21:12:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.126207</identifier>
+          <identifier>RP-P-1908-2662</identifier>
+          <title>Portret van Johann Kaspar Lavater</title>
+          <title>J.C. Lavater</title>
+          <creator>Houbraken, Jacob</creator>
+          <contributor>Schmoll, G.F.</contributor>
+          <contributor>Allart, Johannes</contributor>
+          <contributor>Cleef, Isaac van</contributor>
+          <subject>Lavater, Johann Caspar</subject>
+          <date>1778</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Den Haag</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-48.960</identifier>
+        <datestamp>2016-10-20T21:11:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125382</identifier>
+          <identifier>RP-P-OB-48.960</identifier>
+          <title>Schaaters bij knotwilgen</title>
+          <creator>Hoppenbrouwers, Johannes Franciscus</creator>
+          <contributor>Hartogensis, Joseph</contributor>
+          <contributor>Hoppenbrouwers, Johannes Franciscus</contributor>
+          <date>1857</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-10387</identifier>
+        <datestamp>2021-12-01T14:59:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.100753</identifier>
+          <identifier>RP-P-1886-A-10387</identifier>
+          <title>Naakte Fortuna op wereldbol draait het rad van fortuin rond, Hendrik VII steekt een stok in het rad</title>
+          <title>Titelpagina voor: Historia regni Henrici Septimi Angliæ regis, Amsterdam 1662</title>
+          <title>Historia regni Henrici Septimi Angliæ regis</title>
+          <creator>anoniem</creator>
+          <contributor>Dalen, Cornelis van (I)</contributor>
+          <contributor>Elzevier, Lowijs (III) en Daniel</contributor>
+          <subject>Hendrik VII (koning van Engeland)</subject>
+          <date>1662</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6542</identifier>
+        <datestamp>2021-12-01T12:55:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.99010</identifier>
+          <identifier>RP-P-BI-6542</identifier>
+          <title>Landschap met lezende Hieronymus</title>
+          <creator>anoniem</creator>
+          <contributor>Cort, Cornelis</contributor>
+          <contributor>Titiaan</contributor>
+          <date>na 1565 - voor ca. 1600</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6553</identifier>
+        <datestamp>2021-12-01T12:59:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.99016</identifier>
+          <identifier>RP-P-BI-6553</identifier>
+          <title>De marteling van de H. Laurentius</title>
+          <creator>anoniem</creator>
+          <contributor>Cort, Cornelis</contributor>
+          <contributor>Titiaan</contributor>
+          <date>in of na 1571 - voor 1666</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-H-1137</identifier>
+        <datestamp>2021-01-28T20:15:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.99059</identifier>
+          <identifier>RP-P-H-H-1137</identifier>
+          <title>Hercules steelt de gouden appelen van de Hesperiden</title>
+          <title>Werken van Hercules</title>
+          <creator>Cort, Cornelis</creator>
+          <contributor>Floris, Frans (I)</contributor>
+          <contributor>Cock, Hieronymus</contributor>
+          <date>ca. 1563</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-1643</identifier>
+        <datestamp>2019-09-06T13:50:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111429</identifier>
+          <identifier>RP-P-1909-1643</identifier>
+          <title>Vier voorstellingen uit de klassieke geschiedenis</title>
+          <title>Illustraties uit de klassieke geschiedenis</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23931</identifier>
+        <datestamp>2016-10-20T20:59:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111933</identifier>
+          <identifier>RP-P-1903-A-23931</identifier>
+          <title>Fakkeloptocht door een stad</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Folkema, Jacob</contributor>
+          <date>1702 - 1767</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1884-A-8068</identifier>
+        <datestamp>2016-10-20T20:50:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.100405</identifier>
+          <identifier>RP-P-1884-A-8068</identifier>
+          <title>Jonge man met hoed</title>
+          <contributor>Cuylenburgh, Cornelis van (II)</contributor>
+          <date>1768 - 1827</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6644</identifier>
+        <datestamp>2020-10-29T12:46:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.100411</identifier>
+          <identifier>RP-P-BI-6644</identifier>
+          <title>Twee koeien</title>
+          <title>Koeien</title>
+          <creator>Cuyp, Aelbert</creator>
+          <contributor>Cuyp, Aelbert</contributor>
+          <date>1630 - 1691</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1896-A-19074</identifier>
+        <datestamp>2016-10-20T20:50:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.100652</identifier>
+          <identifier>RP-P-1896-A-19074</identifier>
+          <title>Ruiterportret van Karel I, Koning van Engeland</title>
+          <title>The high and mighty Monarch Charles by y grace of God king of Great Brittaine France &amp; Ireland Defendor of the Fayth. etc.</title>
+          <title>De machtige heerser Karel met de zegen van God koning van Groot-Britannië, Frankrijk &amp; Ierland, verdediger van het geloof, enz.</title>
+          <creator>Dalen, Cornelis van (I)</creator>
+          <subject>Karel I (koning van Engeland)</subject>
+          <date>1625 - 1665</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1964-3432</identifier>
+        <datestamp>2019-05-27T16:52:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111380</identifier>
+          <identifier>RP-P-1964-3432</identifier>
+          <title>Oprichting van de Weduwenbeurzen, 1749</title>
+          <title>Ter oprichtinge van de Weduwenbeurzen in 't jaer 1749</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <subject>weduwebeurs</subject>
+          <subject>sociale zorg</subject>
+          <date>1749</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.925</identifier>
+        <datestamp>2019-02-26T17:01:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111478</identifier>
+          <identifier>RP-P-OB-50.925</identifier>
+          <title>Twaalf episodes uit de vaderlandse geschiedenis</title>
+          <title>Illustraties vaderlandse geschiedenis</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <subject>historische gebeurtenissen en situaties</subject>
+          <subject>historische personen (portretten en taferelen uit het leven)</subject>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6388</identifier>
+        <datestamp>2021-01-28T20:16:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.99111</identifier>
+          <identifier>RP-P-BI-6388</identifier>
+          <title>Arithmetica (Rekenkunde)</title>
+          <title>De zeven vrije kunsten (Artes Liberales)</title>
+          <creator>Cort, Cornelis</creator>
+          <contributor>Floris, Frans (I)</contributor>
+          <date>in of na 1565 - ca. 1600</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-48.653</identifier>
+        <datestamp>2020-04-24T18:05:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.126136</identifier>
+          <identifier>RP-P-OB-48.653</identifier>
+          <title>Portret van Herman Hubert</title>
+          <title>Herman Hubert</title>
+          <creator>Houbraken, Jacob</creator>
+          <contributor>Troost, Sara</contributor>
+          <contributor>Groot, G. de (uitgever)</contributor>
+          <subject>Hubert, Herman</subject>
+          <date>1769</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-2097</identifier>
+        <datestamp>2016-10-20T21:11:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125613</identifier>
+          <identifier>RP-P-1878-A-2097</identifier>
+          <title>Doodshoofd op een tafel</title>
+          <title>CVIII. Op het zien van een Dootshooft</title>
+          <creator>Houbraken, Arnold</creator>
+          <date>1682</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-10405</identifier>
+        <datestamp>2021-12-01T15:02:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.100802</identifier>
+          <identifier>RP-P-1886-A-10405</identifier>
+          <title>Element lucht als kind dat bellen blaast op wolk</title>
+          <title>Aer</title>
+          <title>Vier elementen</title>
+          <creator>anoniem</creator>
+          <contributor>Dalen, Cornelis van (II)</contributor>
+          <contributor>Diepenbeeck, Abraham van</contributor>
+          <contributor>Wit, Frederik de</contributor>
+          <subject>lucht (een van de vier elementen)</subject>
+          <date>1648 - 1706</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-10395</identifier>
+        <datestamp>2016-10-20T20:50:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.100730</identifier>
+          <identifier>RP-P-1886-A-10395</identifier>
+          <title>Geneesheer Johan van Beverwijk bestudeert boeken en zit met Apollo aan tafel in interieur</title>
+          <title>Titelpagina voor: Joan van Beverwyck, Alle de wercken, zo in de medicyne als chirurgie, Amsterdam 1656</title>
+          <title>Alle de wercken, zo in de medicyne als chirurgie van de heer Ioan van Beverwyck</title>
+          <creator>Dalen, Cornelis van (I)</creator>
+          <contributor>Passe, Crispijn van de (II)</contributor>
+          <contributor>Schipper, Jan Jacobsz.</contributor>
+          <date>1612 - 1656</date>
+          <date>1656</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6760</identifier>
+        <datestamp>2019-05-29T15:29:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.100779</identifier>
+          <identifier>RP-P-BI-6760</identifier>
+          <title>Maria met het Kind aan de borst</title>
+          <creator>Dalen, Cornelis van (II)</creator>
+          <contributor>Flinck, Govert</contributor>
+          <date>1648 - 1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MjA4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMjE4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.209</identifier>
+        <datestamp>2019-05-29T15:06:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41234</identifier>
+          <identifier>RP-P-OB-21.209</identifier>
+          <title>Portret van Louis Phélypeaux de la Vrillière</title>
+          <title>Ludovicus Phelypeaux d'. de laVrilliere regi a sanct. cons. secretis et mandat.</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Nanteuil, Robert</contributor>
+          <subject>Phélypeaux de la Vrillière, Louis</subject>
+          <date>1662</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.735</identifier>
+        <datestamp>2019-05-29T15:03:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40579</identifier>
+          <identifier>RP-P-OB-20.735</identifier>
+          <title>Heilige Pamphilus en Heilige Porphyrius van Caesarea, Heilige Blandina en gezellen, Heilige Erasmus van Formia, Heilige Optatus Afer van Mileve (1-4 juni)</title>
+          <title>Alle heiligen en de Christelijke feestdagen van het jaar</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <date>1632 - 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.040</identifier>
+        <datestamp>2019-05-29T15:05:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40999</identifier>
+          <identifier>RP-P-OB-21.040</identifier>
+          <title>Twee zittende mannen</title>
+          <title>Capricci di varie Figure di Jacopo Callot</title>
+          <title>Diverse figuren en voorstellingen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.089</identifier>
+        <datestamp>2019-05-29T15:05:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41048</identifier>
+          <identifier>RP-P-OB-21.089</identifier>
+          <title>Titelprent voor prentserie 'Les Fantasies' / 'Dertien trio's: dames en heren uit de tijd van Lodewijk XIII'</title>
+          <title>Les Fantasies</title>
+          <title>Dertien trio's: dames en heren uit de tijd van Lodewijk XIII</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <subject>Frankrijk</subject>
+          <date>1633 - 1634</date>
+          <type>kostuumprent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.843</identifier>
+        <datestamp>2019-05-29T15:03:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40688</identifier>
+          <identifier>RP-P-OB-20.843</identifier>
+          <title>Tien Europese munten</title>
+          <title>Europese munten</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Silvestre, Israël</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1629 - 1630</date>
+          <date>1662</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.995</identifier>
+        <datestamp>2019-05-29T15:04:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40942</identifier>
+          <identifier>RP-P-OB-20.995</identifier>
+          <title>Tweemaal dezelfde man met tulband, van voren gezien</title>
+          <title>Varie figure di Jacopo Callot</title>
+          <title>Diverse figuren</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.018</identifier>
+        <datestamp>2019-05-09T16:19:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40948</identifier>
+          <identifier>RP-P-OB-21.018</identifier>
+          <title>Dwerg met mitella, kruk en zwaard</title>
+          <title>Varie figure gobbi di Jacopo Callot</title>
+          <title>Diverse groteske figuren</title>
+          <title>Dwergen en gebochelden</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621 - 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-82</identifier>
+        <datestamp>2020-05-12T11:40:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41185</identifier>
+          <identifier>RP-P-1958-82</identifier>
+          <title>Portret van Pompone II de Bellièvre</title>
+          <title>Pomponius de Belliure senatus galliarum princeps</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Le Brun, Charles</contributor>
+          <subject>Bellièvre, Pompone II de</subject>
+          <date>1657</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.183</identifier>
+        <datestamp>2019-05-29T15:06:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41191</identifier>
+          <identifier>RP-P-OB-21.183</identifier>
+          <title>Portret van François Bosquet</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Nanteuil, Robert</contributor>
+          <subject>Bosquet, François</subject>
+          <date>1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.918</identifier>
+        <datestamp>2019-05-29T15:04:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40788</identifier>
+          <identifier>RP-P-OB-20.918</identifier>
+          <title>Twee bedelaars</title>
+          <title>Les Gueux / Les Mendiants / Les Baroni / Les Barons</title>
+          <title>Bedelaars</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1622 - 1623</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23877</identifier>
+        <datestamp>2021-07-12T17:15:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40794</identifier>
+          <identifier>RP-P-1903-A-23877</identifier>
+          <title>Bedelaar met krukken en een houten been</title>
+          <title>Les Gueux / Les Mendiants / Les Baroni / Les Barons</title>
+          <title>Bedelaars</title>
+          <creator>anoniem</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1622 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2705</identifier>
+        <datestamp>2021-10-19T16:24:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40837</identifier>
+          <identifier>BK-NM-2705</identifier>
+          <title>Ruit met de Verloren Zoon</title>
+          <creator>anoniem</creator>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>ca. 1500 - ca. 1525</date>
+          <type>ruit</type>
+          <format>glas</format>
+          <format>lood</format>
+          <format>glas-in-lood</format>
+          <format>zilvergeel</format>
+          <format>grisailleverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-2876</identifier>
+        <datestamp>2019-05-13T11:49:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41291</identifier>
+          <identifier>RP-P-1907-2876</identifier>
+          <title>Portret van Hardouin de Péréfixe de Beaumont</title>
+          <title>Harduinus de Perefixe de Beaumont archipiscopus parisiensis</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Nanteuil, Robert</contributor>
+          <subject>Beaumont de Péréfixe, Hardouin de</subject>
+          <date>1665</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-5761</identifier>
+        <datestamp>2019-05-29T15:01:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40382</identifier>
+          <identifier>RP-P-OB-5761</identifier>
+          <title>Een kreeft kijkt naar de zon</title>
+          <title>Recte destinat, exequitur male/Quoy qu'il recule bien, il ne fait rien qui vaille</title>
+          <title>Kloosterleven in emblemen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Langlois, François</contributor>
+          <date>1621 - 1635</date>
+          <date>1646</date>
+          <type>prent</type>
+          <type>embleem</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.792</identifier>
+        <datestamp>2019-05-29T15:03:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40636</identifier>
+          <identifier>RP-P-OB-20.792</identifier>
+          <title>Heilige Gregorius Thaumaturgus, Heilige Romanus en Heilige Barulas van Antiochië, Bouw van de Sint-Pieter en de Sint-Paulus-buiten-de-Muren (Petrus' Kerkwijding en Paulus' Kerkwijding), Heilige Elisabeth van Hongarije (17-19 november)</title>
+          <title>Alle heiligen en de Christelijke feestdagen van het jaar</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <date>1632 - 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3003</identifier>
+        <datestamp>2021-02-10T00:03:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40892</identifier>
+          <identifier>RP-P-1906-3003</identifier>
+          <title>Melkboer schenkt melk voor een bakker</title>
+          <creator>Brookshaw, Richard</creator>
+          <contributor>Buys, Jacobus</contributor>
+          <contributor>Steen, Jan Havicksz.</contributor>
+          <date>ca. 1779 - in of voor 1791</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-H-1018</identifier>
+        <datestamp>2019-05-09T16:21:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41142</identifier>
+          <identifier>RP-P-H-H-1018</identifier>
+          <title>Kindermoord te Bethlehem</title>
+          <creator>Gourmont, Jean de (I)</creator>
+          <date>1498 - 1551</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.673</identifier>
+        <datestamp>2019-05-29T15:02:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40487</identifier>
+          <identifier>RP-P-OB-20.673</identifier>
+          <title>Soldaten plunderen een boerderij</title>
+          <title>Les miseres et les malheurs de la guerre</title>
+          <title>De gruwelen van de oorlog (groot)</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Marolles, Michel de</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <contributor>Lodewijk XIII (koning van Frankrijk)</contributor>
+          <subject>Dertigjarige oorlog</subject>
+          <date>1633</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.692</identifier>
+        <datestamp>2019-05-29T15:02:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40536</identifier>
+          <identifier>RP-P-OB-20.692</identifier>
+          <title>Heilige Theodosius, Heilige Tatjana, Heilige Hilarius van Poitiers, Heilige Felix (11-14 januari)</title>
+          <title>Alle heiligen en de Christelijke feestdagen van het jaar</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <date>1632 - 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.087</identifier>
+        <datestamp>2019-05-09T16:20:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41042</identifier>
+          <identifier>RP-P-OB-21.087</identifier>
+          <title>Man met gepluimde hoed bij de Piazza della Signoria te Florence</title>
+          <title>Capricci di varie Figure di Jacopo Callot</title>
+          <title>Diverse figuren en voorstellingen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <subject>Florence</subject>
+          <subject>Piazza della Signoria</subject>
+          <date>1621</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMjIwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

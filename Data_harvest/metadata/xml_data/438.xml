@@ -1,0 +1,490 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw4NzQw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.312</identifier>
+        <datestamp>2019-05-09T15:22:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32360</identifier>
+          <identifier>RP-P-OB-11.312</identifier>
+          <title>Gezicht op Tanger met fortificaties</title>
+          <title>Part of Tangier from above, without the Water-gate</title>
+          <title>Divers Prospects in and about Tangier</title>
+          <title>Gezichten op Tanger</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Hollar, Wenceslaus</contributor>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <subject>Tanger</subject>
+          <date>1673</date>
+          <date>1669</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1940-1749</identifier>
+        <datestamp>2021-05-21T16:43:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32484</identifier>
+          <identifier>RP-P-1940-1749</identifier>
+          <title>Zelfportret van Wenzel Hollar</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Odieuvre, Michel</contributor>
+          <subject>Hollar, Wenceslaus</subject>
+          <date>1647</date>
+          <date>1733 - 1741</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1939-370</identifier>
+        <datestamp>2021-01-28T13:04:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32533</identifier>
+          <identifier>RP-P-1939-370</identifier>
+          <title>Portret van Alexander Roelants</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Diepenbeeck, Abraham van</contributor>
+          <subject>Roelants, Alexander</subject>
+          <date>1655</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1948-518</identifier>
+        <datestamp>2021-07-13T17:44:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33129</identifier>
+          <identifier>RP-P-1948-518</identifier>
+          <title>Maria met kind op de maansikkel</title>
+          <creator>anoniem</creator>
+          <contributor>Dürer, Albrecht</contributor>
+          <date>1497 - 1501</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-2836</identifier>
+        <datestamp>2019-05-09T15:20:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32006</identifier>
+          <identifier>RP-P-1907-2836</identifier>
+          <title>Laatste Avondmaal</title>
+          <title>Passie van Christus</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <date>1670</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1963-62</identifier>
+        <datestamp>2021-01-28T13:04:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32297</identifier>
+          <identifier>RP-P-1963-62</identifier>
+          <title>Brug over de rivier met Straatsburg in de verte</title>
+          <title>Bey Strasburg</title>
+          <title>Kleine vergezichten</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <subject>Straatsburg (Frankrijk)</subject>
+          <date>1629</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-517</identifier>
+        <datestamp>2019-05-13T11:40:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32547</identifier>
+          <identifier>RP-P-1911-517</identifier>
+          <title>Portret van Robert Rich, graaf van Warwick</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Stent, Peter</contributor>
+          <contributor>Karel I (koning van Engeland)</contributor>
+          <subject>Rich, Robert (graaf van Warwick)</subject>
+          <date>1642</date>
+          <date>1646 - 1667</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1954-581</identifier>
+        <datestamp>2021-07-13T12:17:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32881</identifier>
+          <identifier>RP-P-1954-581</identifier>
+          <title>Kip, hanen en kuikens</title>
+          <title>Diversae avium species</title>
+          <title>Verschillende vogels</title>
+          <creator>anoniem</creator>
+          <contributor>Hollar, Wenceslaus</contributor>
+          <contributor>Barlow, Francis</contributor>
+          <date>1654 - 1712</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.224</identifier>
+        <datestamp>2019-05-29T14:35:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32112</identifier>
+          <identifier>RP-P-OB-11.224</identifier>
+          <title>Latona</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Elsheimer, Adam</contributor>
+          <contributor>Hollar, Wenceslaus</contributor>
+          <contributor>Borcht, Hendrik van der (I)</contributor>
+          <date>1649</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.236</identifier>
+        <datestamp>2019-05-09T15:21:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32149</identifier>
+          <identifier>RP-P-OB-11.236</identifier>
+          <title>Vier jongetjes met een steigerende geit</title>
+          <title>Putti en saters</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Avont, Pieter van</contributor>
+          <date>1644 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.552</identifier>
+        <datestamp>2019-06-21T16:49:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32719</identifier>
+          <identifier>RP-P-OB-11.552</identifier>
+          <title>Nobilis Mulier Aulica Anglicana / Lady of the Court of England</title>
+          <title>Theatrum Mulierum</title>
+          <title>Europese vrouwen in klederdracht</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Hollar, Wenceslaus</contributor>
+          <subject>kostuum</subject>
+          <subject>Engeland</subject>
+          <date>1643</date>
+          <type>kostuumprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1920-2729</identifier>
+        <datestamp>2019-05-09T15:24:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32756</identifier>
+          <identifier>RP-P-1920-2729</identifier>
+          <title>Vrouw met plooikraag</title>
+          <title>Vrouwenbusten in ronde lijsten</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <date>1644</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1964-356</identifier>
+        <datestamp>2021-10-02T11:55:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32919</identifier>
+          <identifier>RP-T-1964-356</identifier>
+          <title>Optocht ter gelegenheid van Chinees Nieuwjaar te Batavia</title>
+          <title>Optocht van als dieren verklede personen</title>
+          <title>Reisschetsen gemaakt in Indië</title>
+          <creator>Schouten, Wouter</creator>
+          <creator>Bruyn, Cornelis de</creator>
+          <subject>Chinees nieuwjaar</subject>
+          <subject>Batavia</subject>
+          <date>ca. 1660</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1964-352</identifier>
+        <datestamp>2019-09-09T16:21:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32932</identifier>
+          <identifier>RP-T-1964-352</identifier>
+          <title>Taneran aan de zuidzijde</title>
+          <title>Reisschetsen gemaakt in Indië</title>
+          <creator>anoniem</creator>
+          <creator>Bruyn, Cornelis de</creator>
+          <subject>Indië</subject>
+          <subject>Taneran</subject>
+          <date>1701</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-178</identifier>
+        <datestamp>2019-05-09T15:22:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32354</identifier>
+          <identifier>RP-P-1906-178</identifier>
+          <title>Gezicht op het kasteel van Batavia</title>
+          <title>The Castle Of Batavia</title>
+          <title>An Embassy from the East-India Company of the United Provinces, to the Grand Tartar Cham Emperor of China</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <subject>Kasteel Batavia</subject>
+          <date>1669</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-2002</identifier>
+        <datestamp>2019-05-09T15:22:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32403</identifier>
+          <identifier>RP-P-1908-2002</identifier>
+          <title>Mannen aan wal wijzend naar schepen op het water</title>
+          <title>Kleine zeegezichten</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Hollar, Wenceslaus</contributor>
+          <date>1627 - 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.363</identifier>
+        <datestamp>2019-05-13T11:39:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32440</identifier>
+          <identifier>RP-P-OB-11.363</identifier>
+          <title>Portret van Anna van Kleef, koningin van Engeland</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <subject>Kleef, Anna van (koningin van Engeland)</subject>
+          <date>1649</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.399</identifier>
+        <datestamp>2019-05-13T11:40:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32490</identifier>
+          <identifier>RP-P-OB-11.399</identifier>
+          <title>Portret van Franciscus Junius de Jongere</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <contributor>Vondel, Joost van den</contributor>
+          <subject>Junius, Franciscus (II)</subject>
+          <date>1641</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1194</identifier>
+        <datestamp>2019-05-29T14:35:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.33135</identifier>
+          <identifier>RP-P-OB-1194</identifier>
+          <title>Maria met kind bij een boom</title>
+          <creator>Dürer, Albrecht</creator>
+          <date>1513</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-505</identifier>
+        <datestamp>2019-05-09T15:25:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.32991</identifier>
+          <identifier>RP-P-1911-505</identifier>
+          <title>Mot, vier vlinders, twee hommels en twee andere insekten</title>
+          <title>Verschillende insecten</title>
+          <title>Diversae Insectorum</title>
+          <creator>Hollar, Wenceslaus</creator>
+          <date>1644 - 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw4NzYw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,515 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzODg4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2466</identifier>
+        <datestamp>2021-01-28T16:53:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84503</identifier>
+          <identifier>RP-P-BI-2466</identifier>
+          <title>Maria met kind</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Hendricx, Gilles</contributor>
+          <contributor>onbekend</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-11205</identifier>
+        <datestamp>2021-01-28T16:54:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84552</identifier>
+          <identifier>RP-P-1886-A-11205</identifier>
+          <title>Maria met kind en heilige Catharina van Alexandrië</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Galle, Cornelis (II)</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1951</identifier>
+        <datestamp>2021-01-28T16:34:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82745</identifier>
+          <identifier>RP-P-BI-1951</identifier>
+          <title>Jongen met pijp en glas</title>
+          <creator>Boel, Quirin</creator>
+          <contributor>Teniers, David (II)</contributor>
+          <contributor>Teniers, David (II)</contributor>
+          <contributor>onbekend</contributor>
+          <date>1635 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2288</identifier>
+        <datestamp>2021-01-28T16:44:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83931</identifier>
+          <identifier>RP-P-BI-2288</identifier>
+          <title>Maria als kluizenares</title>
+          <title>S. Maria Mater Dei</title>
+          <title>Kluizenaressen</title>
+          <title>Sacra Eremus Ascetriarum</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Aertssens, Hendrik (II)</contributor>
+          <date>1590 - 1612</date>
+          <date>1619</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2246</identifier>
+        <datestamp>2021-01-28T16:48:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84192</identifier>
+          <identifier>RP-P-BI-2246</identifier>
+          <title>Engel en kind zingen en musiceren in landschap</title>
+          <title>Pia desideria</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Aertssens, Hendrik (II)</contributor>
+          <date>1590 - 1624</date>
+          <date>1624</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2432</identifier>
+        <datestamp>2021-01-28T16:49:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84264</identifier>
+          <identifier>RP-P-BI-2432</identifier>
+          <title>Rijk gekleed gezelschap aan maaltijd bedreigt arme boer in zijn woning</title>
+          <title>Boerenverdriet: de kwellingen van de Spaanse Oorlog</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Vinckboons, David (I)</contributor>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <date>1610</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2529</identifier>
+        <datestamp>2021-01-28T16:53:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84535</identifier>
+          <identifier>RP-P-BI-2529</identifier>
+          <title>Heilige Agnes met lam</title>
+          <title>S. Agnes</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Enden, Martinus van den</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1921-304</identifier>
+        <datestamp>2021-01-28T16:35:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82939</identifier>
+          <identifier>RP-P-1921-304</identifier>
+          <title>Interieur van de Heilige Stede (Nieuwezijds Kapel) te Amsterdam</title>
+          <title>De Nieuwe Zyds-Kapel van Binne, tot Amsterdam / L'interieur de la Chapelle du Nouveau Quartier, à Amsterdam</title>
+          <creator>Bogerts, Cornelis</creator>
+          <contributor>Schouten, Hermanus Petrus</contributor>
+          <contributor>Fouquet, Pierre</contributor>
+          <subject>Heilige Stede</subject>
+          <subject>Nieuwezijds Kapel</subject>
+          <date>ca. 1770 - 1783</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-46</identifier>
+        <datestamp>2021-01-28T16:41:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83668</identifier>
+          <identifier>RP-P-1911-46</identifier>
+          <title>Landschap met huis bij een rivier</title>
+          <creator>Boland, Johannes Arnoldus</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1860 - ca. 1900</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2296X</identifier>
+        <datestamp>2021-01-28T16:44:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83954</identifier>
+          <identifier>RP-P-BI-2296X</identifier>
+          <title>Heilige Maria van Egypte als kluizenares</title>
+          <title>S. Maria Aegyptiaca</title>
+          <title>Kluizenaressen</title>
+          <title>Sacra Eremus Ascetriarum</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Aertssens, Hendrik (II)</contributor>
+          <date>1590 - 1612</date>
+          <date>1619</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2222</identifier>
+        <datestamp>2021-01-28T16:47:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84169</identifier>
+          <identifier>RP-P-BI-2222</identifier>
+          <title>Kind kijkt toe hoe engel beeldje maakt van klei op draaitafel</title>
+          <title>Pia desideria</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Aertssens, Hendrik (II)</contributor>
+          <date>1590 - 1624</date>
+          <date>1624</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-6773</identifier>
+        <datestamp>2021-11-30T12:47:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84287</identifier>
+          <identifier>RP-P-1905-6773</identifier>
+          <title>Verkondiging aan de herders</title>
+          <title>Pastoralen</title>
+          <creator>anoniem</creator>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>1611 - 1661</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2454X</identifier>
+        <datestamp>2021-01-28T16:53:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84512</identifier>
+          <identifier>RP-P-BI-2454X</identifier>
+          <title>Heilige familie met Anna</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Bolswert, Schelte Adamsz.</contributor>
+          <contributor>onbekend</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1884-A-7975</identifier>
+        <datestamp>2021-01-28T16:33:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82722</identifier>
+          <identifier>RP-P-1884-A-7975</identifier>
+          <title>Twee apen kaarten</title>
+          <title>Verschillende bedrijven uit het menselijke leven door apen voorgesteld</title>
+          <title>het Apespel inde werelt</title>
+          <creator>Boel, Quirin</creator>
+          <contributor>Teniers, David (II)</contributor>
+          <contributor>Teniers, David (II)</contributor>
+          <contributor>onbekend</contributor>
+          <subject>dieren die zich als mensen gedragen</subject>
+          <date>1635 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2278</identifier>
+        <datestamp>2021-01-28T16:43:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83908</identifier>
+          <identifier>RP-P-BI-2278</identifier>
+          <title>Heilige Frontonius van Egypte als kluizenaar</title>
+          <title>Sanctus Frontonius</title>
+          <title>Kluizenaars</title>
+          <title>Sacra eremvs ascetarvm</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Aertssens, Hendrik (II)</contributor>
+          <subject>heiligen</subject>
+          <date>1590 - 1612</date>
+          <date>1619</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.737</identifier>
+        <datestamp>2021-01-28T16:48:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84240</identifier>
+          <identifier>RP-P-OB-26.737</identifier>
+          <title>Braaksel met hostie van zieke man wordt in het vuur gegooid</title>
+          <title>Mirakel van Amsterdam 1345</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Cornelisz. van Oostsanen, Jacob</contributor>
+          <contributor>Aertssens, Hendrik (II)</contributor>
+          <date>1590 - 1633</date>
+          <date>1639</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1973</identifier>
+        <datestamp>2021-01-28T16:39:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83522</identifier>
+          <identifier>RP-P-BI-1973</identifier>
+          <title>Prediking van Johannes de Doper</title>
+          <creator>Bol, Hans</creator>
+          <contributor>Bol, Hans</contributor>
+          <date>ca. 1560 - 1593</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2015</identifier>
+        <datestamp>2021-01-28T16:40:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83593</identifier>
+          <identifier>RP-P-BI-2015</identifier>
+          <title>Rustende reizigers</title>
+          <creator>Boland, Johannes Arnoldus</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1875 - 1876</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2024</identifier>
+        <datestamp>2019-03-20T16:49:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83599</identifier>
+          <identifier>RP-P-BI-2024</identifier>
+          <title>Huwelijksportret van Isaac Abrahamsz Massa (1586-1643) en Beatrix van der Laen (1592-1639), getrouwd te Haarlem op 25 april 1622</title>
+          <creator>Boland, Johannes Arnoldus</creator>
+          <contributor>Hals, Frans</contributor>
+          <subject>Massa, Isaac Abrahamsz.</subject>
+          <subject>Laen, Beatrix van der</subject>
+          <date>1875 - 1876</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2440</identifier>
+        <datestamp>2021-11-30T14:07:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84364</identifier>
+          <identifier>RP-P-BI-2440</identifier>
+          <title>Annunciatie</title>
+          <creator>anoniem</creator>
+          <contributor>Bolswert, Schelte Adamsz.</contributor>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Hendricx, Gilles</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzODkwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

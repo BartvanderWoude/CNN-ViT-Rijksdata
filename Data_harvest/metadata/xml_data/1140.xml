@@ -1,0 +1,520 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjc4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2433</identifier>
+        <datestamp>2021-10-20T09:57:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61886</identifier>
+          <identifier>NG-VG-1-2433</identifier>
+          <title>Verheffing van de prins van Oranje tot stadhouder door de Staten van Zeeland</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>Koninklijk Huis</subject>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>Zeeland</subject>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <subject>Staten van Zeeland</subject>
+          <date>1747</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2941</identifier>
+        <datestamp>2021-10-20T10:02:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62381</identifier>
+          <identifier>NG-VG-1-2941</identifier>
+          <title>Herstel van Willem V als erfstadhouder</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>strijd tussen patriotten en prinsgezinden</subject>
+          <subject>herstel van de stadhouder</subject>
+          <subject>Herstel van stadhouder Willem V (1787)</subject>
+          <subject>Willem V (prins van Oranje-Nassau)</subject>
+          <subject>Wilhelmina van Pruisen (1751-1820)</subject>
+          <date>1787</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-472</identifier>
+        <datestamp>2021-10-02T12:17:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46126</identifier>
+          <identifier>RP-P-1958-472</identifier>
+          <title>Man met zwaard tijdens de nacht</title>
+          <creator>Kunisada, Utagawa (I)</creator>
+          <contributor>Tamaru, Bungensha</contributor>
+          <contributor>Nazuki, Bunkaisha</contributor>
+          <date>1833</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-537</identifier>
+        <datestamp>2021-10-02T12:17:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46232</identifier>
+          <identifier>RP-P-1958-537</identifier>
+          <title>Koto met pruimenbloesem in pot</title>
+          <creator>Eisen, Keisai</creator>
+          <contributor>Enryoka, Yamadori</contributor>
+          <contributor>Kadoyoshi, Shôraitei</contributor>
+          <contributor>Monoyana, Shûchôdô</contributor>
+          <date>1830</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2835</identifier>
+        <datestamp>2021-10-20T10:01:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62281</identifier>
+          <identifier>NG-VG-1-2835</identifier>
+          <title>Slag bij Doggersbank</title>
+          <creator>Holtzhey, Johan George</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>zeeslag</subject>
+          <subject>admiraliteit</subject>
+          <subject>Zeeslag bij Doggersbank</subject>
+          <subject>Doggersbank</subject>
+          <subject>Zoutman, Johan Arnold</subject>
+          <subject>Dedel, Salomon</subject>
+          <subject>Braam, Willem van</subject>
+          <subject>Kinsbergen, jonkheer Jan Hendrik van</subject>
+          <subject>Bentinck, Wolter Jan Gerrit</subject>
+          <subject>Braak, Adriaan</subject>
+          <subject>Staering, Everard Christiaan</subject>
+          <date>1781</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-413</identifier>
+        <datestamp>2022-01-27T09:32:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61439</identifier>
+          <identifier>BK-NM-12400-413</identifier>
+          <title>Suaskom van veelkleurig beschilderde faïence</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1765</date>
+          <type>sauskom</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-721</identifier>
+        <datestamp>2021-12-17T11:50:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45557</identifier>
+          <identifier>RP-P-1956-721</identifier>
+          <title>Vrouw met aapje: Aap en tijger</title>
+          <title>Elegante prent vergelijkingen van zeven ogen</title>
+          <title>Furyu nanatsume e-awase</title>
+          <creator>Shûchô, Tamagawa</creator>
+          <contributor>Ezakiya Kichibei (Tenjudo)</contributor>
+          <date>1795 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.700</identifier>
+        <datestamp>2021-01-19T21:54:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45628</identifier>
+          <identifier>RP-P-OB-17.700</identifier>
+          <title>Portret van een onbekende jongen met fluit</title>
+          <creator>Dixon, John</creator>
+          <contributor>Hals, Frans</contributor>
+          <contributor>Ryland &amp; Bryer</contributor>
+          <date>1733 - 1783</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-970</identifier>
+        <datestamp>2022-03-15T17:40:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45796</identifier>
+          <identifier>AK-MAK-970</identifier>
+          <title>De zeebaars van de Yanagiya in Odawarachô</title>
+          <title>Odawarachô Yanagiya tai</title>
+          <title>Beroemde producten uit Edo</title>
+          <title>Edo meibutsu</title>
+          <creator>Hokkei, Totoya</creator>
+          <contributor>Iekazu, Keijuen</contributor>
+          <date>ca. 1819</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2625</identifier>
+        <datestamp>2021-10-20T09:59:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62072</identifier>
+          <identifier>NG-VG-1-2625</identifier>
+          <title>Vijfentwintigjarig huwelijk van mr. Samuel Gilles, raad ordinaris in den Hove van Holland, Zeeland en West-Friesland en Florentina Johanna Pittenius</title>
+          <creator>Swinderen, Nicolaas van</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>sociale geschiedenis</subject>
+          <subject>huwelijk</subject>
+          <subject>25-jarig jubileum</subject>
+          <subject>Gilles, Samuel</subject>
+          <subject>Pittenius, Florentina Johanna</subject>
+          <subject>Hof van Holland</subject>
+          <subject>Hof van West-Friesland</subject>
+          <subject>Hof van Zeeland</subject>
+          <date>1760</date>
+          <type>familiepenning</type>
+          <type>huwelijkspenning</type>
+          <type>huwelijksjubileumpenning 25</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1952-191</identifier>
+        <datestamp>2021-10-02T12:14:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45403</identifier>
+          <identifier>RP-P-1952-191</identifier>
+          <title>Gezicht op het Nieuwe Yoshiwara</title>
+          <title>Shin Yoshiwara no zu</title>
+          <title>Acht beroemde plekken in Edo</title>
+          <title>Edo meisho hakkaseki</title>
+          <creator>Toyoharu, Utagawa</creator>
+          <contributor>Nishimura Yohachi</contributor>
+          <subject>Yoshiwara</subject>
+          <date>1770 - 1775</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Tokyo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-928</identifier>
+        <datestamp>2022-03-15T17:40:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45600</identifier>
+          <identifier>AK-MAK-928</identifier>
+          <title>Jonge vrouw in boot</title>
+          <creator>Toyokuni, Utagawa (I)</creator>
+          <contributor>Yamadaya Sanshiro (Sanrindo)</contributor>
+          <date>1800 - 1802</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Tokyo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-303A</identifier>
+        <datestamp>2021-10-02T12:15:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45677</identifier>
+          <identifier>RP-P-1958-303A</identifier>
+          <title>Vrouw met liedboek</title>
+          <title>De zeven wijgeren van het bamboe bos voor de Shôfûdai dichtersvereniging</title>
+          <title>Shôfûdai shichiken no uchi</title>
+          <creator>Hokusai, Katsushika</creator>
+          <contributor>Matsutomo, Kakutei</contributor>
+          <contributor>Katamochi, Juwatei</contributor>
+          <date>1800</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2648</identifier>
+        <datestamp>2021-10-20T09:59:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62095</identifier>
+          <identifier>NG-VG-1-2648</identifier>
+          <title>Kroning van Jozef II tot Duits keizer te Frankfurt</title>
+          <creator>Öxlein, Johann Leonhard</creator>
+          <subject>Frankfurt am Main</subject>
+          <subject>Jozef II (Duits keizer)</subject>
+          <date>1764</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Fulda</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-4141</identifier>
+        <datestamp>2021-10-02T12:46:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61531</identifier>
+          <identifier>BK-NM-4141</identifier>
+          <title>Stoel met overhoeks geplaatste voorpoten, X-vormig kruis, bekleed met trijp met bloemenpatroon</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1685 - 1700</date>
+          <type>meubilair</type>
+          <type>zitmeubel</type>
+          <type>stoel</type>
+          <format>notenhout</format>
+          <format>trijp</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1975-54</identifier>
+        <datestamp>2021-10-02T12:14:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45577</identifier>
+          <identifier>RP-P-1975-54</identifier>
+          <title>De geliefden Akeneya Hanshichi en Minoya Sankatsu.</title>
+          <title>Minoya Sankatsu, Akeneya Hanshichi</title>
+          <creator>Eiri, Rekisentei</creator>
+          <date>1795 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2575</identifier>
+        <datestamp>2021-10-20T09:58:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62023</identifier>
+          <identifier>NG-VG-1-2575</identifier>
+          <title>Anna van Hannover, prinses van Oranje-Nassau, gouvernante en voogdes, penning haar aangeboden door het kwartier der Friese steden</title>
+          <creator>Swinderen, Nicolaas van</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>kwartier der Friese steden</subject>
+          <subject>Anna van Hannover</subject>
+          <date>1752</date>
+          <type>landdagpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-270</identifier>
+        <datestamp>2020-10-26T17:32:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45700</identifier>
+          <identifier>RP-P-1958-270</identifier>
+          <title>De kussen schelp</title>
+          <title>Makuragai</title>
+          <title>Een vergelijking van Genroku gedichten en schelpen</title>
+          <title>Genroku kasen kaiawase</title>
+          <creator>Hokusai, Katsushika</creator>
+          <contributor>Kawaminami, Mama</contributor>
+          <contributor>Shôjuan</contributor>
+          <date>1821</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-725</identifier>
+        <datestamp>2021-12-17T11:50:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46194</identifier>
+          <identifier>RP-P-1956-725</identifier>
+          <title>In de sneeuw te Tsukahara in Sado</title>
+          <title>Sashu Tsukahara setchu</title>
+          <title>Korte geïllustreerde biografie van de grondlegger</title>
+          <title>Koso go ichidai ryakuzu</title>
+          <creator>Kuniyoshi, Utagawa</creator>
+          <contributor>Iseya Rihei</contributor>
+          <date>1833 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-120</identifier>
+        <datestamp>2019-05-23T15:53:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46279</identifier>
+          <identifier>RP-P-1909-120</identifier>
+          <title>Heilige Familie met Johannes de Doper</title>
+          <creator>Somer, Jan van</creator>
+          <date>1655 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjgwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

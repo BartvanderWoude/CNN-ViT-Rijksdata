@@ -1,0 +1,515 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTA4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-5573</identifier>
+        <datestamp>2016-10-20T20:32:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82037</identifier>
+          <identifier>RP-P-1909-5573</identifier>
+          <title>Portret van kardinaal Ferdinando d'Adda</title>
+          <title>Ferdinandvs de Abdva mediolanensis eminentis SRE presbyter cardinalis</title>
+          <creator>Blondeau, Jacques</creator>
+          <contributor>Lesma, Antonio</contributor>
+          <subject>Adda, Ferdinando d'</subject>
+          <date>1665 - 1698</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-5578</identifier>
+        <datestamp>2017-04-11T14:59:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82043</identifier>
+          <identifier>RP-P-1909-5578</identifier>
+          <title>Portret van kardinaal Alderano Cibo</title>
+          <title>Alderanvs episcopvs ostiensis (...) die VI martii MDCXLV</title>
+          <creator>Blondeau, Jacques</creator>
+          <contributor>Maratta, Carlo</contributor>
+          <contributor>Rossi, Giovanni Giacomo de'</contributor>
+          <subject>Cibo, Alderano</subject>
+          <date>1665 - 1698</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1825</identifier>
+        <datestamp>2021-01-28T16:29:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82112</identifier>
+          <identifier>RP-P-BI-1825</identifier>
+          <title>Portret van Hermanus Langelius</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Hals, Frans</contributor>
+          <subject>Langelius, Hermanus</subject>
+          <date>1655 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1263</identifier>
+        <datestamp>2021-01-28T16:18:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81340</identifier>
+          <identifier>RP-P-BI-1263</identifier>
+          <title>Kruisiging van Christus</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Cornelis (II)</contributor>
+          <date>ca. 1629</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1356</identifier>
+        <datestamp>2021-01-28T16:19:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81414</identifier>
+          <identifier>RP-P-BI-1356</identifier>
+          <title>Naakte gladiator</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Guidi, Giovanni Citosibio</contributor>
+          <date>ca. 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1690</identifier>
+        <datestamp>2021-01-28T16:25:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81834</identifier>
+          <identifier>RP-P-BI-1690</identifier>
+          <title>Landschap met bomen</title>
+          <title>Kleine landschappen</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Frederick</contributor>
+          <subject>landschappen</subject>
+          <date>na 1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1817</identifier>
+        <datestamp>2019-05-29T15:18:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82092</identifier>
+          <identifier>RP-P-BI-1817</identifier>
+          <title>Portret van Johannes Coccejus</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Palamedesz., Anthonie</contributor>
+          <contributor>Someren, Joannes van</contributor>
+          <subject>Cocceius, Johannes</subject>
+          <date>1655 - 1678</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1926</identifier>
+        <datestamp>2016-10-20T20:33:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82665</identifier>
+          <identifier>RP-P-BI-1926</identifier>
+          <title>Verovering van Rome, 1527</title>
+          <title>Triomfen van Karel V</title>
+          <creator>Boel, Cornelis</creator>
+          <contributor>Tempesta, Antonio</contributor>
+          <contributor>Wassenaar, Nicolaas Jansz. van</contributor>
+          <subject>strijd, vechten in het algemeen</subject>
+          <subject>Inname van Rome</subject>
+          <subject>Rome</subject>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <date>1614</date>
+          <type>prent</type>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-5205</identifier>
+        <datestamp>2021-01-28T16:17:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81200</identifier>
+          <identifier>RP-P-1905-5205</identifier>
+          <title>Allegorie met mythologische en bijbelse figuren</title>
+          <title>Titelvignet voor: Bybelsche keurstoffen, Rotterdam 1732</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>Bleyswijck, François van</contributor>
+          <contributor>Losel, Philippus</contributor>
+          <date>1681 - 1732</date>
+          <date>1732</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1252B</identifier>
+        <datestamp>2021-10-22T11:16:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81314</identifier>
+          <identifier>RP-P-BI-1252B</identifier>
+          <title>Zittende Madonna</title>
+          <creator>anoniem</creator>
+          <contributor>Bloemaert, Cornelis (II)</contributor>
+          <contributor>Cambiaso, Luca</contributor>
+          <date>1636 - 1637</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1682</identifier>
+        <datestamp>2021-12-13T14:35:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81857</identifier>
+          <identifier>RP-P-BI-1682</identifier>
+          <title>Rotsachtig landschap met twee herders</title>
+          <title>Elf landschappen</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>na 1647</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-1789</identifier>
+        <datestamp>2021-01-28T16:27:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81912</identifier>
+          <identifier>RP-P-1907-1789</identifier>
+          <title>Allegorie op het Oude en Nieuwe Testament met Mozes en Aäron</title>
+          <title>Titelpagina voor: De Heylige historien zoo van het Oude als Nieuwe Testament, Amsterdam</title>
+          <title>De Heylige historien zoo van het Oude als Nieuwe Testament</title>
+          <creator>Blois, Abraham de</creator>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <contributor>Staten-Generaal der Verenigde Nederlanden</contributor>
+          <date>1651 - 1679</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-5688</identifier>
+        <datestamp>2021-01-28T16:17:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81221</identifier>
+          <identifier>RP-P-1905-5688</identifier>
+          <title>Scènes uit geschiedenis van Joodse geloof en het Oude Testament in omlijsting</title>
+          <title>Titelpagina voor: Adriaan Reland, Antiquitates sacrae veterum Hebraeorum, Utrecht 1708</title>
+          <title>Antiquitates sacrae veterum Hebraeorum</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>Broedelet, Johannes</contributor>
+          <date>1681 - 1708</date>
+          <date>1708</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1385</identifier>
+        <datestamp>2021-01-28T16:20:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81463</identifier>
+          <identifier>RP-P-BI-1385</identifier>
+          <title>Twee boeren</title>
+          <title>Pastorale scènes</title>
+          <title>Otia delectant</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Cornelis (II)</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>na ca. 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1744</identifier>
+        <datestamp>2021-10-22T11:35:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81714</identifier>
+          <identifier>RP-P-BI-1744</identifier>
+          <title>Lezende vrouw</title>
+          <title>Verscheyde aerdige figure van vrouwen</title>
+          <creator>anoniem</creator>
+          <contributor>Bloemaert, Frederick</contributor>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Wit, Frederik de</contributor>
+          <contributor>Wit, Frederik de</contributor>
+          <subject>lezen</subject>
+          <date>ca. 1670 - 1706</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17307</identifier>
+        <datestamp>2021-01-28T16:27:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81969</identifier>
+          <identifier>RP-P-1892-A-17307</identifier>
+          <title>Man bindt bonenstaken in groententuin</title>
+          <creator>Blommers, Bernardus Johannes</creator>
+          <date>1855 - 1914</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-10013</identifier>
+        <datestamp>2021-08-12T18:32:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81570</identifier>
+          <identifier>RP-P-1886-A-10013</identifier>
+          <title>De jonge visser</title>
+          <title>Vier pastorale scènes</title>
+          <creator>anoniem</creator>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Danckerts, Cornelis</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>1625 - 1718</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1902-A-22353</identifier>
+        <datestamp>2016-10-20T20:32:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82143</identifier>
+          <identifier>RP-P-1902-A-22353</identifier>
+          <title>Portret van Witte Cornelisz de With</title>
+          <title>Witte Cornelisz de With, Vice Admirael van Holland en West Friesland</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Sorgh, Hendrick Martensz.</contributor>
+          <contributor>Vlieger, Simon de</contributor>
+          <contributor>Jonghe, Clement de</contributor>
+          <contributor>Robijn, Jacobus</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Orde van Saint Michel</subject>
+          <subject>With, Witte Cornelisz. de</subject>
+          <date>1658 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1841</identifier>
+        <datestamp>2021-01-28T16:29:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82155</identifier>
+          <identifier>RP-P-BI-1841</identifier>
+          <title>Mars</title>
+          <title>Titelpagina voor: Johannes Blaeu, Theatrvm statvvm regiæ celsitvdinis Sabavdiæ dvcis, Pedemontii principis, 1682</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Blaeu, erven Johannes</contributor>
+          <date>1682</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-154</identifier>
+        <datestamp>2021-08-24T10:33:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82192</identifier>
+          <identifier>RP-P-1905-154</identifier>
+          <title>Gezicht op Honselaarsdijk in vogelvlucht</title>
+          <title>Generale afbeeldinge van het princelyke lust huys en hoff van Syne Hoogheydt den heere prince van Orange t' Honslerdyk</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Begeyn, Abraham Jansz</contributor>
+          <contributor>Bloteling, Abraham</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Paleis Honselaarsdijk</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1684 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTEwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

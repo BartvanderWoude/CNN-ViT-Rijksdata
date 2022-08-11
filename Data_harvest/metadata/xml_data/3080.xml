@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTU4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.637</identifier>
+        <datestamp>2016-10-20T19:53:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47267</identifier>
+          <identifier>RP-P-OB-17.637</identifier>
+          <title>Vioolspeler</title>
+          <title>t' Gehoor</title>
+          <title>De vijf zintuigen</title>
+          <creator>anoniem</creator>
+          <contributor>Brugghen, Hendrick ter</contributor>
+          <contributor>Verkolje, Jan (I)</contributor>
+          <date>1660 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-1100</identifier>
+        <datestamp>2016-10-20T19:53:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46625</identifier>
+          <identifier>RP-P-H-1100</identifier>
+          <title>Overhandiging van een brief</title>
+          <creator>Vaillant, Wallerant</creator>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-121</identifier>
+        <datestamp>2016-10-20T19:53:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46748</identifier>
+          <identifier>RP-P-1911-121</identifier>
+          <title>Vioolspeler in een herberg</title>
+          <creator>Vaillant, Wallerant</creator>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1960-246</identifier>
+        <datestamp>2016-10-20T19:53:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47291</identifier>
+          <identifier>RP-P-1960-246</identifier>
+          <title>Boerenpaar gekleed volgens de Siciliaanse mode</title>
+          <title>Ornamenti delli Contadini di Sicilia</title>
+          <title>Kostuums uit Italië</title>
+          <creator>Lastman, Pieter</creator>
+          <contributor>Covens &amp; Mortier</contributor>
+          <date>1720 - 1772</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-6890</identifier>
+        <datestamp>2019-05-23T15:55:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46561</identifier>
+          <identifier>RP-P-1910-6890</identifier>
+          <title>Mater Dolorosa</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Reni, Guido</contributor>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-6858</identifier>
+        <datestamp>2019-05-23T15:55:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46811</identifier>
+          <identifier>RP-P-1910-6858</identifier>
+          <title>Portret van Jacobus Heiblocq</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Solidé</contributor>
+          <subject>Heiblocq, Jacobus</subject>
+          <date>1673</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.533</identifier>
+        <datestamp>2016-10-20T19:53:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46965</identifier>
+          <identifier>RP-P-OB-17.533</identifier>
+          <title>Buste van een oude man met een baard</title>
+          <creator>Verkolje, Jan (I)</creator>
+          <date>1660 - 1693</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.288</identifier>
+        <datestamp>2019-05-29T15:07:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42684</identifier>
+          <identifier>RP-P-OB-21.288</identifier>
+          <title>Silenus bij het wijnvat</title>
+          <creator>Ribera, Jusepe de</creator>
+          <contributor>Ribera, Jusepe de</contributor>
+          <date>1628</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Napels</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1493</identifier>
+        <datestamp>2019-05-23T15:54:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46455</identifier>
+          <identifier>RP-P-1910-1493</identifier>
+          <title>Meisje met lantaarn</title>
+          <creator>Thomas, Jan</creator>
+          <contributor>Dou, Gerard</contributor>
+          <date>1661-08-25</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Wenen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.422</identifier>
+        <datestamp>2016-10-20T19:53:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46572</identifier>
+          <identifier>RP-P-OB-17.422</identifier>
+          <title>H. Christoffel</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Poelenburch, Cornelis van</contributor>
+          <contributor>Elsheimer, Adam</contributor>
+          <contributor>Vaillant, Wallerant</contributor>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.486</identifier>
+        <datestamp>2022-03-02T15:18:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46905</identifier>
+          <identifier>RP-P-OB-17.486</identifier>
+          <title>Slapende Amor</title>
+          <creator>Valck, Gerard</creator>
+          <contributor>Valck, Gerard</contributor>
+          <contributor>Reni, Guido</contributor>
+          <contributor>Valck, Gerard</contributor>
+          <date>1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-133</identifier>
+        <datestamp>2016-10-20T19:53:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46917</identifier>
+          <identifier>RP-P-1911-133</identifier>
+          <title>Portret van Johann Adolph Bornemann</title>
+          <creator>Valck, Gerard</creator>
+          <contributor>Valck, Gerard</contributor>
+          <contributor>Vindingius, P.</contributor>
+          <subject>Bornemann, Johann Adolph</subject>
+          <date>1698 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.631</identifier>
+        <datestamp>2019-05-29T15:12:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47249</identifier>
+          <identifier>RP-P-OB-17.631</identifier>
+          <title>Jonge vrouw met open hemd</title>
+          <creator>anoniem</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1630 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3669</identifier>
+        <datestamp>2021-10-02T12:17:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46765</identifier>
+          <identifier>BK-NM-3669</identifier>
+          <title>Fragment veelkleurige gebrocheerde zijde</title>
+          <creator>anoniem</creator>
+          <date>1750</date>
+          <type>gebrocheerde zijde</type>
+          <format>zijde</format>
+          <format>metaaldraad</format>
+          <format>lamel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.550</identifier>
+        <datestamp>2019-05-29T15:11:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47011</identifier>
+          <identifier>RP-P-OB-17.550</identifier>
+          <title>Man met een fluit</title>
+          <creator>Verkolje, Jan (II)</creator>
+          <contributor>Verkolje, Jan (II)</contributor>
+          <contributor>Hals, Frans</contributor>
+          <date>1683 - 1755</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1981-87</identifier>
+        <datestamp>2021-01-28T13:21:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42470</identifier>
+          <identifier>RP-P-1981-87</identifier>
+          <title>De verdomde boom en het platgeslagen graan</title>
+          <title>Blasted tree and flattened crops</title>
+          <title>Illustrations of imitation of Eclogue I</title>
+          <creator>Blake, William</creator>
+          <contributor>Blake, William</contributor>
+          <contributor>Thornton, Robert John</contributor>
+          <date>1820 - 1821</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1657</identifier>
+        <datestamp>2019-05-23T15:56:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47260</identifier>
+          <identifier>RP-P-1910-1657</identifier>
+          <title>Pierrot en Harlekijn, ca. 1700</title>
+          <creator>anoniem</creator>
+          <date>1690 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-559</identifier>
+        <datestamp>2022-01-20T15:56:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47636</identifier>
+          <identifier>RP-P-1958-559</identifier>
+          <title>Geisha bindt haar ceintuur om</title>
+          <creator>Kurizono</creator>
+          <contributor>Kurizono</contributor>
+          <contributor>Michinari, Kô no</contributor>
+          <date>ca. 1822 - ca. 1827</date>
+          <type>prent</type>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.268</identifier>
+        <datestamp>2019-05-29T15:07:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42658</identifier>
+          <identifier>RP-P-OB-21.268</identifier>
+          <title>Heilige Hieronymus lezend</title>
+          <creator>Ribera, Jusepe de</creator>
+          <contributor>Ribera, Jusepe de</contributor>
+          <date>1622 - 1626</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Napels</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1883-A-6808</identifier>
+        <datestamp>2016-10-20T19:50:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43159</identifier>
+          <identifier>RP-P-1883-A-6808</identifier>
+          <title>Lachende roker</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Bloteling, Abraham</contributor>
+          <contributor>Hals, Frans</contributor>
+          <contributor>Bloteling, Abraham</contributor>
+          <date>1652 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTYwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

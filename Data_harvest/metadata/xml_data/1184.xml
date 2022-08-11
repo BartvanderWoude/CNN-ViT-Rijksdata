@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzY2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2134</identifier>
+        <datestamp>2021-10-02T12:19:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49876</identifier>
+          <identifier>RP-T-1889-A-2134</identifier>
+          <title>Ceres en de Vrede kronen een dichter</title>
+          <creator>Perino del Vaga</creator>
+          <date>1511 - 1547</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5034-D</identifier>
+        <datestamp>2021-10-02T12:22:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50447</identifier>
+          <identifier>BK-NM-5034-D</identifier>
+          <title>Gaius Julius caesar Germanicus (Caligula).</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1800</date>
+          <type>medaillon</type>
+          <format>parelmoer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1959-85</identifier>
+        <datestamp>2021-11-02T08:31:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50520</identifier>
+          <identifier>BK-1959-85</identifier>
+          <title>Plaquette met de Doop van Christus</title>
+          <creator>Bolten, Arent van</creator>
+          <date>ca. 1573 - voor 1633</date>
+          <type>plaquette</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1918-16</identifier>
+        <datestamp>2018-12-06T15:20:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49859</identifier>
+          <identifier>RP-T-1918-16</identifier>
+          <title>Staande vrouw, naar links gewend</title>
+          <creator>Parmigianino</creator>
+          <contributor>anoniem</contributor>
+          <date>1523 - 1620</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3762-B</identifier>
+        <datestamp>2021-10-02T12:20:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50199</identifier>
+          <identifier>BK-NM-3762-B</identifier>
+          <title>Fragment gebrocheerde zijde met een bloem in geel en groen</title>
+          <date>1730</date>
+          <type>gebrocheerde zijde</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.784</identifier>
+        <datestamp>2022-03-02T15:19:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50594</identifier>
+          <identifier>RP-P-OB-17.784</identifier>
+          <title>Landschap met meer en mannen bezig met scheepsbouw</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1774-04-25</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-328</identifier>
+        <datestamp>2021-10-02T12:19:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49836</identifier>
+          <identifier>RP-T-1953-328</identifier>
+          <title>Selene ment haar wagen door het luchtruim</title>
+          <creator>Poccetti, Bernardino</creator>
+          <date>1558 - 1612</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-317</identifier>
+        <datestamp>2021-10-02T12:20:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49954</identifier>
+          <identifier>RP-T-1948-317</identifier>
+          <title>Hoofden</title>
+          <creator>Schiavone</creator>
+          <date>1520 - 1563</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-9418C</identifier>
+        <datestamp>2019-05-22T12:34:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50175</identifier>
+          <identifier>RP-P-OB-9418C</identifier>
+          <title>Processie van de doge van Venetië (derde deel)</title>
+          <creator>anoniem</creator>
+          <contributor>Pagani, Matteo</contributor>
+          <subject>Venetië</subject>
+          <date>ca. 1555 - ca. 1560</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-37</identifier>
+        <datestamp>2021-11-02T08:30:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50305</identifier>
+          <identifier>BK-1968-37</identifier>
+          <title>Slalepel van zilver met vergulde binnenzijde van de bak.</title>
+          <creator>anoniem</creator>
+          <date>1900</date>
+          <type>lepel</type>
+          <type>slalepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9656</identifier>
+        <datestamp>2021-11-02T08:32:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50571</identifier>
+          <identifier>BK-NM-9656</identifier>
+          <title>Perseus en Andromeda</title>
+          <creator>Jamnitzer, Hans</creator>
+          <date>ca. 1550 - ca. 1575</date>
+          <type>plaquette</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1954-129</identifier>
+        <datestamp>2021-10-02T12:19:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49905</identifier>
+          <identifier>RP-T-1954-129</identifier>
+          <title>Steile brug in een landschap</title>
+          <creator>Toeput, Lodewijk</creator>
+          <date>1560 - 1605</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15737</identifier>
+        <datestamp>2021-11-02T08:29:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50251</identifier>
+          <identifier>BK-15737</identifier>
+          <title>Potagelepel met mergboor</title>
+          <creator>Helweg, Jacob (I)</creator>
+          <date>1777</date>
+          <type>lepel</type>
+          <type>potagelepel</type>
+          <type>mergboor</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1951-248</identifier>
+        <datestamp>2021-10-02T12:22:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50640</identifier>
+          <identifier>RP-T-1951-248</identifier>
+          <title>Grijsaard met half opgeheven hand</title>
+          <creator>Goudt, Hendrick</creator>
+          <date>ca. 1580 - ca. 1648</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1956-106(V)</identifier>
+        <datestamp>2021-10-02T12:19:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49882</identifier>
+          <identifier>RP-T-1956-106(V)</identifier>
+          <title>Gekruisigde Christus en andere schetsen</title>
+          <creator>Perino del Vaga</creator>
+          <date>1530 - 1620</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1960-119-A</identifier>
+        <datestamp>2021-11-02T08:29:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50227</identifier>
+          <identifier>BK-1960-119-A</identifier>
+          <title>Zoutlepel met ronde bak en ronde steel met bolbekroning</title>
+          <creator>anoniem</creator>
+          <date>1800 - 1900</date>
+          <type>lepel</type>
+          <type>zoutlepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-88</identifier>
+        <datestamp>2019-09-09T16:23:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50617</identifier>
+          <identifier>RP-T-1963-88</identifier>
+          <title>Inlandse bevolking bij schip</title>
+          <creator>Goeree, Jan</creator>
+          <subject>schip</subject>
+          <date>1680 - 1731</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-351</identifier>
+        <datestamp>2021-01-28T13:30:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49766</identifier>
+          <identifier>RP-T-1953-351</identifier>
+          <title>Paardenknecht met pijlenkoker aan een bandelier</title>
+          <creator>Romano, Giulio</creator>
+          <date>1510 - 1546</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-563</identifier>
+        <datestamp>2021-10-02T12:21:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50384</identifier>
+          <identifier>BK-NM-563</identifier>
+          <title>Vier messen en een vork van keizer Karel V</title>
+          <creator>anoniem</creator>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <description>Karel V kreeg dit reisbestek in Italië. Op de twee grote messen is zijn wapen aangebracht met de keten van de Orde van het Gulden Vlies. Erboven is de keizerskroon te zien en eronder het Bourgondische andreaskruis met de mythische zuilen van Hercules (die het einde van de wereld markeren). Het zijn allemaal symbolen van de macht van de keizer.</description>
+          <date>1532</date>
+          <type>voorsnijmes</type>
+          <format>koper</format>
+          <format>ebbenhout</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-NM-5320</identifier>
+        <datestamp>2022-03-22T15:32:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50390</identifier>
+          <identifier>NG-NM-5320</identifier>
+          <title>Drinkschaal met het portret van keizer Karel V</title>
+          <creator>anoniem</creator>
+          <contributor>Gouwels, Jan.</contributor>
+          <contributor>anoniem</contributor>
+          <subject>religieuze geschiedenis</subject>
+          <subject>protestantisme</subject>
+          <subject>Laatste Avondmaal</subject>
+          <subject>Vlissingen</subject>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <description>Of een voorwerp een ‘religieus’ of een ‘wereldlijk’ object is, hangt af van het gebruik. Bij deze drinkschaal is het allebei het geval. Het portret van landsheer keizer Karel V geeft aan dat de schaal oorspronkelijk als een wereldlijk object was bedoeld. De inscriptie vertelt dat de schaal in 1572 als avondmaalsbeker werd ingezet bij de eerste protestantse kerkdienst in Vlissingen.</description>
+          <date>1565 - 1566</date>
+          <type>drinkschaal</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Vlissingen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzY4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDIw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10798-S</identifier>
+        <datestamp>2018-02-21T15:52:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.690704</identifier>
+          <identifier>BK-NM-10798-S</identifier>
+          <title>Middenstang van kaarsenkroon</title>
+          <creator>anoniem</creator>
+          <subject>Mary standing (or half-length), the Christ-child sitting on her arm (Christ-child to Mary's left)</subject>
+          <subject>vine-tendril, leaf</subject>
+          <subject>kerk</subject>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>kroonluchter</type>
+          <format>messing</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Barneveld</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-162-1</identifier>
+        <datestamp>2021-11-12T13:27:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.683176</identifier>
+          <identifier>AK-MAK-162-1</identifier>
+          <title>Passe-partout van De bodhisattva Jizo</title>
+          <creator>anoniem</creator>
+          <date>ca. 1300 - ca. 1350</date>
+          <type>passe-partout</type>
+          <format>zijde</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11131-1</identifier>
+        <datestamp>2021-05-20T18:20:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.612438</identifier>
+          <identifier>BK-NM-11131-1</identifier>
+          <title>Schoorsteenmantel West-Indische Compagnie</title>
+          <creator>anoniem</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Amsterdam</subject>
+          <subject>West-Indische Compagnie</subject>
+          <date>1650 - 1675</date>
+          <type>interieuronderdeel</type>
+          <type>bouwfragment</type>
+          <type>schoorsteen</type>
+          <format>eikenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11131-2</identifier>
+        <datestamp>2022-06-01T08:54:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.612439</identifier>
+          <identifier>BK-NM-11131-2</identifier>
+          <title>Onderdelen van marmer van een schoorsteenmantel afkomstig uit het gebouw van de West-Indische Compagnie</title>
+          <creator>anoniem</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Amsterdam</subject>
+          <subject>West-Indische Compagnie</subject>
+          <date>1650 - 1675</date>
+          <type>interieuronderdeel</type>
+          <type>bouwfragment</type>
+          <type>schoorsteen</type>
+          <format>marmer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1723-6</identifier>
+        <datestamp>2022-01-27T11:38:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.673422</identifier>
+          <identifier>BK-KOG-1723-6</identifier>
+          <title>Onderdeel bloempiramide van Delfts aardewerk</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700</date>
+          <type>bloempiramide</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10798-B</identifier>
+        <datestamp>2022-06-01T08:46:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.582053</identifier>
+          <identifier>BK-NM-10798-B</identifier>
+          <title>Arm met kaarsenhouder van kaarsenkroon van twee hoogten met ieder acht armen</title>
+          <creator>anoniem</creator>
+          <subject>kerk</subject>
+          <subject>Barneveld</subject>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>kroonluchter</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1723-4</identifier>
+        <datestamp>2022-01-27T11:38:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.673420</identifier>
+          <identifier>BK-KOG-1723-4</identifier>
+          <title>Onderdeel bloempiramide van Delfts aardewerk</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700</date>
+          <type>bloempiramide</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10798-C</identifier>
+        <datestamp>2022-06-01T08:46:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.582054</identifier>
+          <identifier>BK-NM-10798-C</identifier>
+          <title>Arm met kaarsenhouder van kaarsenkroon van twee hoogten met ieder acht armen</title>
+          <creator>anoniem</creator>
+          <subject>kerk</subject>
+          <subject>Barneveld</subject>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>kroonluchter</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1723-1</identifier>
+        <datestamp>2022-03-14T14:30:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.673416</identifier>
+          <identifier>BK-KOG-1723-1</identifier>
+          <title>Onderdeel bloempiramide van Delfts aardewerk</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700</date>
+          <type>bloempiramide</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16985-1</identifier>
+        <datestamp>2021-09-29T16:59:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.672798</identifier>
+          <identifier>BK-16985-1</identifier>
+          <title>Geboorte van Christus</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1900</date>
+          <type>beeldhouwwerk</type>
+          <type>fragment</type>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1723-7</identifier>
+        <datestamp>2022-03-14T14:30:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.673423</identifier>
+          <identifier>BK-KOG-1723-7</identifier>
+          <title>Centrale houten stok van bloempiramide van Delfts aardewerk</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700</date>
+          <type>bloempiramide</type>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10798-Q</identifier>
+        <datestamp>2022-06-01T08:46:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.582068</identifier>
+          <identifier>BK-NM-10798-Q</identifier>
+          <title>Arm met kaarsenhouder van kaarsenkroon van twee hoogten met ieder acht armen</title>
+          <creator>anoniem</creator>
+          <subject>kerk</subject>
+          <subject>Barneveld</subject>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>kroonluchter</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10798-O</identifier>
+        <datestamp>2022-06-01T08:46:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.582066</identifier>
+          <identifier>BK-NM-10798-O</identifier>
+          <title>Arm met kaarsenhouder van kaarsenkroon van twee hoogten met ieder acht armen</title>
+          <creator>anoniem</creator>
+          <subject>kerk</subject>
+          <subject>Barneveld</subject>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>kroonluchter</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10798-I</identifier>
+        <datestamp>2022-06-01T08:46:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.582060</identifier>
+          <identifier>BK-NM-10798-I</identifier>
+          <title>Arm met kaarsenhouder van kaarsenkroon van twee hoogten met ieder acht armen</title>
+          <creator>anoniem</creator>
+          <subject>kerk</subject>
+          <subject>Barneveld</subject>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>kroonluchter</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10798-N</identifier>
+        <datestamp>2022-06-01T08:46:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.582065</identifier>
+          <identifier>BK-NM-10798-N</identifier>
+          <title>Arm met kaarsenhouder van kaarsenkroon van twee hoogten met ieder acht armen</title>
+          <creator>anoniem</creator>
+          <subject>kerk</subject>
+          <subject>Barneveld</subject>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>kroonluchter</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10798-F</identifier>
+        <datestamp>2022-06-01T08:46:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.582057</identifier>
+          <identifier>BK-NM-10798-F</identifier>
+          <title>Arm met kaarsenhouder van kaarsenkroon van twee hoogten met ieder acht armen</title>
+          <creator>anoniem</creator>
+          <subject>kerk</subject>
+          <subject>Barneveld</subject>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>kroonluchter</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10798-A</identifier>
+        <datestamp>2022-06-01T08:46:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.582052</identifier>
+          <identifier>BK-NM-10798-A</identifier>
+          <title>Stam van kaarsenkroon met Maria met Christuskind</title>
+          <creator>anoniem</creator>
+          <subject>kerk</subject>
+          <subject>Barneveld</subject>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>kroonluchter</type>
+          <format>messing</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10798-R</identifier>
+        <datestamp>2018-02-21T15:52:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.582069</identifier>
+          <identifier>BK-NM-10798-R</identifier>
+          <title>Kaarsenhouder</title>
+          <creator>anoniem</creator>
+          <subject>Mary standing (or half-length), the Christ-child sitting on her arm (Christ-child to Mary's left)</subject>
+          <subject>vine-tendril, leaf</subject>
+          <subject>kerk</subject>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>kroonluchter</type>
+          <format>messing</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Barneveld</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10798-L</identifier>
+        <datestamp>2022-06-01T08:46:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.582063</identifier>
+          <identifier>BK-NM-10798-L</identifier>
+          <title>Arm met kaarsenhouder van kaarsenkroon van twee hoogten met ieder acht armen</title>
+          <creator>anoniem</creator>
+          <subject>kerk</subject>
+          <subject>Barneveld</subject>
+          <date>ca. 1525 - ca. 1550</date>
+          <type>kroonluchter</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14202-D</identifier>
+        <datestamp>2021-05-28T13:36:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.701223</identifier>
+          <identifier>BK-NM-14202-D</identifier>
+          <title>Betimmering van een hemelbed, afkomstig van het kasteel Eerde</title>
+          <creator>anoniem</creator>
+          <subject>Kasteel Eerde</subject>
+          <date>ca. 1715 - ca. 1720</date>
+          <type>meubilair</type>
+          <type>bed</type>
+          <type>hemelbed</type>
+          <type>ledikant</type>
+          <type>fragment</type>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDQw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

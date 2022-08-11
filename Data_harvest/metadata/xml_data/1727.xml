@@ -1,0 +1,443 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDUyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9058-B</identifier>
+        <datestamp>2021-11-03T16:54:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17510</identifier>
+          <identifier>BK-NM-9058-B</identifier>
+          <title>Hengsel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>hengsel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1962-41</identifier>
+        <datestamp>2021-10-02T00:34:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17925</identifier>
+          <identifier>BK-1962-41</identifier>
+          <title>Beker met de vier jaargetijden</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1650</date>
+          <type>beker</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Groningen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9020</identifier>
+        <datestamp>2021-11-03T16:54:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17533</identifier>
+          <identifier>BK-NM-9020</identifier>
+          <title>Hengsel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>hengsel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-386-C</identifier>
+        <datestamp>2021-08-19T17:00:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20264</identifier>
+          <identifier>BK-1980-386-C</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1831 - 1850</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16224</identifier>
+        <datestamp>2021-10-02T01:08:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20515</identifier>
+          <identifier>BK-16224</identifier>
+          <title>Landschapsverdure (fragment)</title>
+          <creator>anoniem</creator>
+          <date>ca. 1660 - ca. 1700</date>
+          <type>wandtapijt</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1895-A-3097</identifier>
+        <datestamp>2021-10-02T01:10:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20606</identifier>
+          <identifier>RP-T-1895-A-3097</identifier>
+          <title>Portret van Johan Willem, keurvorst van de Palts</title>
+          <creator>anoniem</creator>
+          <subject>Johan Willem, keurvorst van de Palts</subject>
+          <date>1678 - 1716</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-403</identifier>
+        <datestamp>2019-08-01T09:24:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20774</identifier>
+          <identifier>BK-BR-J-403</identifier>
+          <title>Zakdoek met een rand van naaldkant met twaalf ovalen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1870 - ca. 1890</date>
+          <type>zakdoek</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-19</identifier>
+        <datestamp>2019-08-01T09:25:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20867</identifier>
+          <identifier>BK-BR-J-19</identifier>
+          <title>Passement of strook kloskant met open boogjes</title>
+          <creator>Moessel, mejuffrouw</creator>
+          <date>ca. 1925</date>
+          <type>passement</type>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-157-C</identifier>
+        <datestamp>2021-08-19T16:58:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19800</identifier>
+          <identifier>BK-1967-157-C</identifier>
+          <title>Servet van linnendamast met de verheerlijking van Karel VI van Habsburg</title>
+          <creator>anoniem</creator>
+          <date>ca. 1711</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1982-86-A</identifier>
+        <datestamp>2021-12-13T15:57:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19838</identifier>
+          <identifier>BK-1982-86-A</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1550 - 1599</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-336-B</identifier>
+        <datestamp>2019-08-01T09:23:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20203</identifier>
+          <identifier>BK-BR-J-336-B</identifier>
+          <title>Manchet van naaldkant met acanthusvoluten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1690 - ca. 1699</date>
+          <date>ca. 1875 - ca. 1910</date>
+          <type>manchet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-753</identifier>
+        <datestamp>2021-08-19T17:01:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20452</identifier>
+          <identifier>BK-1980-753</identifier>
+          <title>Sloop van linnen</title>
+          <date>1692 - 1735</date>
+          <type>sloop</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1923-2</identifier>
+        <datestamp>2021-10-02T01:09:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20555</identifier>
+          <identifier>RP-T-1923-2</identifier>
+          <title>Gevechtscène met ruiters, rechts Jael en Sisera</title>
+          <creator>Bock, Hans (der Jungere)</creator>
+          <contributor>Bocksberger, Hans (der Jungere)</contributor>
+          <contributor>Vischer, Hans</contributor>
+          <date>1500 - 1600</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-291</identifier>
+        <datestamp>2019-08-01T09:24:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20819</identifier>
+          <identifier>BK-BR-J-291</identifier>
+          <title>Strook applicatiekant met keizerskroon en iris</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1809</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-380</identifier>
+        <datestamp>2019-08-01T09:24:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20825</identifier>
+          <identifier>BK-BR-J-380</identifier>
+          <title>Voile van applicatiekant met zeven heuvels</title>
+          <creator>anoniem</creator>
+          <date>ca. 1840 - ca. 1845</date>
+          <type>sluier</type>
+          <type>voile</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1971-145-B</identifier>
+        <datestamp>2022-01-17T14:12:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19746</identifier>
+          <identifier>BK-1971-145-B</identifier>
+          <title>Wandbespanning</title>
+          <creator>Lebeau, Chris</creator>
+          <date>1911 - 1915</date>
+          <type>wandbespanning</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Eindhoven</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-549-A</identifier>
+        <datestamp>2021-08-19T16:59:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20157</identifier>
+          <identifier>BK-1980-549-A</identifier>
+          <title>Servet van wit linnendamast</title>
+          <creator>Spanjaard, S.J.</creator>
+          <date>1859</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Borne</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17026-B</identifier>
+        <datestamp>2021-10-02T00:30:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17742</identifier>
+          <identifier>BK-17026-B</identifier>
+          <title>Theeblad, taartschalen, confituurschaal, suikerschalen, koffiekan en melkkan</title>
+          <creator>Biennais, Martin Guillaume</creator>
+          <contributor>Percier, Charles</contributor>
+          <description>Dit is niet zomaar een servies. Deze voorwerpen horen bij een groot koffie- en theeservies dat oorspronkelijk bestond uit meer dan duizend stukken. De Russische tsaar Nicolaas I kocht het in 1817 bij de Franse zilversmid Biennais. De stukken zijn dubbel verguld, zodat het massief goud lijkt. De geometrische vormen en de randen zijn typisch voor het vroege empire.</description>
+          <date>ca. 1817</date>
+          <type>gebakschaal</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <format>ebbenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5883</identifier>
+        <datestamp>2021-10-02T00:35:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17936</identifier>
+          <identifier>BK-NM-5883</identifier>
+          <title>Avondmaalsbeker van Vianen</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>anoniem</contributor>
+          <subject>sociale geschiedenis</subject>
+          <description>In Nederlandse Hervormde kerken werden bij het Avondmaal dezelfde zilveren bekers gebruikt als thuis. Deze beker stond de eerste veertig jaar van zijn leven op de tafel van de familie Van Brederode. In 1668 werd het toen ouderwetse voorwerp door Juliana van Brederode geschonken aan de kerk van Vianen, om te dienen tot het Avondmaal.</description>
+          <date>ca. 1625</date>
+          <type>avondmaalskelk</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Gorinchem</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1969-58-G</identifier>
+        <datestamp>2022-03-10T09:33:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18513</identifier>
+          <identifier>BK-1969-58-G</identifier>
+          <title>Avondmaalsstel</title>
+          <creator>Wor, Dirk</creator>
+          <description>Bij de protestantse viering van het avondmaal staat de herinnering aan het laatste samenzijn van Jezus en zijn apostelen centraal. Jezus gaf toen de opdracht om zijn lijden en sterven te herdenken met een gezamenlijke maaltijd. Daarom wordt er in de kerkdienst wijn in bekers geschonken, en ligt er brood op schotels. Dit Dordrechtse avondmaalsstel behoort tot de rijkst versierde.</description>
+          <date>1736</date>
+          <type>liturgisch vaatwerk</type>
+          <type>avondmaalskelk</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDU0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

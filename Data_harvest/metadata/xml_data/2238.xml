@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NDc0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1955-77</identifier>
+        <datestamp>2021-10-02T12:50:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66642</identifier>
+          <identifier>RP-T-1955-77</identifier>
+          <title>Schildersportret met aan weerszijden Schilderkunst en Fama</title>
+          <creator>Fontebasso, Francesco</creator>
+          <date>1719 - 1769</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-320(R)</identifier>
+        <datestamp>2021-10-02T12:51:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66915</identifier>
+          <identifier>RP-T-1948-320(R)</identifier>
+          <title>Het offer van Abraham</title>
+          <creator>Fontebasso, Francesco</creator>
+          <contributor>Fontana, Giovanni</contributor>
+          <contributor>Triga, Giacomo</contributor>
+          <date>1719 - 1769</date>
+          <date>ca. 1731 - ca. 1736</date>
+          <date>ca. 1656 - 1746</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14932</identifier>
+        <datestamp>2021-10-02T12:51:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67110</identifier>
+          <identifier>BK-14932</identifier>
+          <title>Tafel belijmd met palissander op eiken kern met blad en trekbladen in marqueterie</title>
+          <creator>anoniem</creator>
+          <date>1650 - 1699</date>
+          <type>tafel</type>
+          <format>hout</format>
+          <format>eikenhout</format>
+          <format>palissanderhout</format>
+          <format>ebbenhout</format>
+          <format>rozenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.493</identifier>
+        <datestamp>2021-01-28T14:42:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74734</identifier>
+          <identifier>RP-P-OB-26.493</identifier>
+          <title>Apostel Mattias</title>
+          <title>S. Mathias</title>
+          <title>Christus en twaalf apostelen</title>
+          <creator>Barra, Johan</creator>
+          <contributor>Winghe, Joos van</contributor>
+          <contributor>Sadeler, Aegidius (II)</contributor>
+          <date>1591 - 1629</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Praag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2875</identifier>
+        <datestamp>2021-10-19T15:32:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67796</identifier>
+          <identifier>NG-1980-27-H-2875</identifier>
+          <title>Clip van schede uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>schede</type>
+          <type>clip (bevestigingsmiddel)</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4187</identifier>
+        <datestamp>2021-10-20T14:41:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66066</identifier>
+          <identifier>NG-VG-1-4187</identifier>
+          <title>Vijftigjarige viering van de bevrijding van Deventer</title>
+          <creator>Kellen, David van der (1804-1879)</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>50-jarig jubileum</subject>
+          <subject>Bevrijding van Deventer</subject>
+          <subject>Deventer</subject>
+          <date>1864</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4385</identifier>
+        <datestamp>2021-10-20T14:43:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66246</identifier>
+          <identifier>NG-VG-1-4385</identifier>
+          <title>Notre Dame te Antwerpen</title>
+          <creator>Wiener, Leopold</creator>
+          <contributor>Wiener, Jacob</contributor>
+          <subject>Notre-Dame</subject>
+          <date>1845</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4390</identifier>
+        <datestamp>2021-10-20T14:43:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66252</identifier>
+          <identifier>NG-VG-1-4390</identifier>
+          <title>St. Jacques te Luik</title>
+          <creator>Wiener, Jacob</creator>
+          <contributor>Wiener, Leopold</contributor>
+          <subject>Saint-Jacques  (Luik)</subject>
+          <date>1846</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-426(R)</identifier>
+        <datestamp>2021-10-02T12:51:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67300</identifier>
+          <identifier>RP-T-00-426(R)</identifier>
+          <title>Rechteronderarm</title>
+          <creator>Dyck, Anthony van</creator>
+          <date>1610 - 1641</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2121</identifier>
+        <datestamp>2021-01-28T14:29:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73580</identifier>
+          <identifier>RP-P-1909-2121</identifier>
+          <title>Gezicht op Lechhausen bij Augsburg</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <subject>Lechhausen</subject>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4351</identifier>
+        <datestamp>2021-10-20T14:42:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66221</identifier>
+          <identifier>NG-VG-1-4351</identifier>
+          <title>Tweede eeuwfeest van de instelling van het hoogheemraadschap van de rivier de Eem</title>
+          <creator>anoniem</creator>
+          <subject>dienstverlenende institutie</subject>
+          <subject>hoogheemraadschap</subject>
+          <subject>Eem</subject>
+          <date>1816</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4359</identifier>
+        <datestamp>2021-10-20T14:42:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66229</identifier>
+          <identifier>NG-VG-1-4359</identifier>
+          <title>Arcadie Victorieuse</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1800</date>
+          <type>historiepenning</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1420</identifier>
+        <datestamp>2022-01-24T11:05:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66596</identifier>
+          <identifier>RP-F-00-1420</identifier>
+          <title>Binnenplaats van het Palazzo Bevilacqua te Bologna</title>
+          <creator>anoniem</creator>
+          <subject>Palazzo Bevilacqua</subject>
+          <date>1851 - 1900</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bologna</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-301</identifier>
+        <datestamp>2021-01-28T14:29:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73557</identifier>
+          <identifier>RP-P-BI-301</identifier>
+          <title>De Delftsevaart bij het molentje bij nacht</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <subject>Delftsevaart</subject>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1881-A-4876</identifier>
+        <datestamp>2021-01-28T14:34:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73979</identifier>
+          <identifier>RP-P-1881-A-4876</identifier>
+          <title>Landschap met grote boom</title>
+          <creator>Bakhuyzen, Alexander Hieronymus (II)</creator>
+          <date>ca. 1836 - ca. 1878</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-AO-11-4B</identifier>
+        <datestamp>2018-01-23T15:59:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73003</identifier>
+          <identifier>RP-P-AO-11-4B</identifier>
+          <title>Aankomst van Willem III en zijn vloot in Brixham</title>
+          <title>Aankomst van zyn Koninglyke Hoogheid in Engeland</title>
+          <creator>Aveele, Johannes Jacobsz van den</creator>
+          <contributor>Allard, Carel</contributor>
+          <subject>Brixham</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1688 - 1700</date>
+          <type>prent</type>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1883-A-7265</identifier>
+        <datestamp>2016-10-20T20:21:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73314</identifier>
+          <identifier>RP-P-1883-A-7265</identifier>
+          <title>Portret van Philippe Bosquier op 57-jarige leeftijd</title>
+          <creator>Baes, Martin</creator>
+          <subject>Bosquier, Philippe</subject>
+          <date>1619</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.429</identifier>
+        <datestamp>2021-01-28T14:28:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73534</identifier>
+          <identifier>RP-P-OB-26.429</identifier>
+          <title>Landschap met twee wandelaars</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <contributor>Bagelaar, Ernst Willem Jan</contributor>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-4725</identifier>
+        <datestamp>2021-01-28T14:35:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74055</identifier>
+          <identifier>RP-P-1908-4725</identifier>
+          <title>Portret van Lorenz Heister</title>
+          <creator>Bakker, Frans de</creator>
+          <subject>Heister, Lorenz</subject>
+          <date>1736 - 1767</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2160</identifier>
+        <datestamp>2021-01-28T14:39:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74408</identifier>
+          <identifier>RP-P-1906-2160</identifier>
+          <title>Aanbidding van Christuskind door de drie koningen</title>
+          <creator>Barbé, Jan-Baptist</creator>
+          <contributor>Jode, Pieter de</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <date>1588 - 1648</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NDc2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

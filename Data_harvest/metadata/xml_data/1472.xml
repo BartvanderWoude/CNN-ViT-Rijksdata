@@ -1,0 +1,456 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyOTQyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-4571</identifier>
+        <datestamp>2021-10-01T23:41:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14264</identifier>
+          <identifier>BK-NM-4571</identifier>
+          <title>Bekervaas, beschilderd met scènes uit het faiencebedrijf en een schoenmaker</title>
+          <creator>anoniem</creator>
+          <date>1693-12-11</date>
+          <type>bekervaas</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-66</identifier>
+        <datestamp>2021-10-01T23:43:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14387</identifier>
+          <identifier>BK-NM-12400-66</identifier>
+          <title>Bord met Jezus met de doornenkroon</title>
+          <creator>De Roos</creator>
+          <contributor>De Witte Starre</contributor>
+          <contributor>Hofdijck, Dammas</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1963-82</identifier>
+        <datestamp>2021-10-01T23:53:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14968</identifier>
+          <identifier>BK-1963-82</identifier>
+          <title>Beursje in een plat, schildvormig model, van paarsrood fluweel, in reliëf geborduurd met gouddraad</title>
+          <creator>anoniem</creator>
+          <date>ca. 1500 - ca. 1700</date>
+          <type>beurs</type>
+          <format>fluweel</format>
+          <format>gouddraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12367</identifier>
+        <datestamp>2021-10-01T23:41:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14287</identifier>
+          <identifier>BK-NM-12367</identifier>
+          <title>Vaas</title>
+          <creator>Het Moriaanshooft</creator>
+          <contributor>Hoppesteijn, Rochus Jacobsz.</contributor>
+          <contributor>Hoppesteijn-van Straten, Jannitge Claesdr</contributor>
+          <date>ca. 1670 - ca. 1690</date>
+          <type>pot</type>
+          <type>dekselpot</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16391</identifier>
+        <datestamp>2021-10-01T23:43:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14370</identifier>
+          <identifier>BK-16391</identifier>
+          <title>Vaas van faience</title>
+          <creator>De Paauw</creator>
+          <date>ca. 1690 - ca. 1710</date>
+          <type>vaas</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2405</identifier>
+        <datestamp>2021-11-03T16:51:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14620</identifier>
+          <identifier>BK-NM-2405</identifier>
+          <title>Kraagkandelaar van messing</title>
+          <creator>anoniem</creator>
+          <date>ca. 1475 - ca. 1525</date>
+          <type>kandelaar</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2350</identifier>
+        <datestamp>2021-11-03T16:50:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14526</identifier>
+          <identifier>BK-NM-2350</identifier>
+          <title>Ceremoniestafbekroning met Maria op de aardbol</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>ceremoniestaf</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1971-71</identifier>
+        <datestamp>2021-11-03T19:19:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14871</identifier>
+          <identifier>BK-1971-71</identifier>
+          <title>Avondtasje van glasbatist, met aan weerszijde drie geborduurde zilverkleurige zijden bloemen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1920</date>
+          <type>avondtasje</type>
+          <format>glasbatist</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-322-A</identifier>
+        <datestamp>2021-11-03T19:17:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14049</identifier>
+          <identifier>BK-1978-322-A</identifier>
+          <title>Vouwwaaier met een cremekleurig zijden blad beschilderd met gele en lila irissen op met houtverf beschildere montuur</title>
+          <creator>Lorrain, C.D. le</creator>
+          <date>1911</date>
+          <type>vouwwaaier</type>
+          <format>zijde</format>
+          <format>waterverf</format>
+          <format>olieverf</format>
+          <format>verf</format>
+          <format>hout</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18306</identifier>
+        <datestamp>2021-10-01T23:39:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14157</identifier>
+          <identifier>BK-18306</identifier>
+          <title>Brisé-waaier van wit been à-jour gesneden</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>briséwaaier</type>
+          <format>been</format>
+          <format>zijde</format>
+          <format>parelmoer</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1965-206</identifier>
+        <datestamp>2021-10-02T00:58:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19316</identifier>
+          <identifier>RP-T-1965-206</identifier>
+          <title>Christus en zes apostelen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1400 - ca. 1500</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14560-R-A</identifier>
+        <datestamp>2021-10-02T00:52:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18870</identifier>
+          <identifier>BK-14560-R-A</identifier>
+          <title>Bekken</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>1774 - 1784</date>
+          <type>bekken (schaal)</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15013</identifier>
+        <datestamp>2021-11-02T08:27:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19151</identifier>
+          <identifier>BK-15013</identifier>
+          <title>Horloge van zilver</title>
+          <creator>Henchel, J.J.</creator>
+          <date>ca. 1780</date>
+          <type>sieraad</type>
+          <type>horloge</type>
+          <format>zilver</format>
+          <format>email</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Straatsburg (Frankrijk)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-VBR-351</identifier>
+        <datestamp>2021-11-02T08:28:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19422</identifier>
+          <identifier>BK-VBR-351</identifier>
+          <title>Horloge met geëmailleerde wijzerplaat aan chatelaine</title>
+          <creator>Michau, P.</creator>
+          <date>ca. 1760</date>
+          <type>sieraad</type>
+          <type>horloge</type>
+          <type>chatelaine</type>
+          <format>goud</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1971-152-F</identifier>
+        <datestamp>2021-12-10T14:49:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19721</identifier>
+          <identifier>BK-1971-152-F</identifier>
+          <title>Wandbespanning</title>
+          <creator>Lebeau, Chris</creator>
+          <date>1911 - 1915</date>
+          <type>wandbespanning</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Eindhoven</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1960-123-S</identifier>
+        <datestamp>2021-08-12T17:15:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18927</identifier>
+          <identifier>BK-1960-123-S</identifier>
+          <title>Schotel van porselein</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>ca. 1774 - ca. 1778</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1428</identifier>
+        <datestamp>2021-11-03T16:50:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14097</identifier>
+          <identifier>BK-KOG-1428</identifier>
+          <title>Blaaspijp</title>
+          <date>1700 - 1800</date>
+          <type>blaaspijp</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-4372</identifier>
+        <datestamp>2021-10-01T23:43:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14379</identifier>
+          <identifier>BK-NM-4372</identifier>
+          <title>Plaat</title>
+          <creator>anoniem</creator>
+          <date>ca. 1725 - ca. 1750</date>
+          <type>plaat</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14561-F</identifier>
+        <datestamp>2021-10-02T00:51:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18836</identifier>
+          <identifier>BK-14561-F</identifier>
+          <title>Schaal met deksel</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>1774 - 1784</date>
+          <type>schaal</type>
+          <type>deksel</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12856</identifier>
+        <datestamp>2021-11-02T08:28:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19205</identifier>
+          <identifier>BK-NM-12856</identifier>
+          <title>Horloge van goud</title>
+          <creator>Breguet &amp; Fils</creator>
+          <date>ca. 1800</date>
+          <type>sieraad</type>
+          <type>horloge</type>
+          <type>vervalsing</type>
+          <format>goud</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Genève</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyOTQ0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

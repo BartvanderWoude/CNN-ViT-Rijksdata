@@ -1,0 +1,442 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzA0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-70</identifier>
+        <datestamp>2019-08-01T09:27:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21043</identifier>
+          <identifier>BK-BR-J-70</identifier>
+          <title>Echarpe van kloskant met bliksemschichten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1875 - ca. 1899</date>
+          <type>echarpe</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Oost-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16968-B</identifier>
+        <datestamp>2021-11-03T16:55:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21135</identifier>
+          <identifier>BK-16968-B</identifier>
+          <title>Lantaarn, vierzijdig met afgeknotte hoeken en een geleed dak, bekroond door platte ring waarin halmen</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1725 - 1775</date>
+          <type>lantaarn</type>
+          <format>ijzer</format>
+          <format>papier</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-415-C</identifier>
+        <datestamp>2021-12-13T10:04:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21424</identifier>
+          <identifier>BK-1980-415-C</identifier>
+          <title>Handdoek van wit linnen</title>
+          <date>1680 - 1720</date>
+          <type>handdwaal</type>
+          <type>handdoek</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-672</identifier>
+        <datestamp>2022-03-02T15:11:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21242</identifier>
+          <identifier>BK-1980-672</identifier>
+          <title>Kussensloop</title>
+          <date>1713</date>
+          <type>sloop</type>
+          <type>kussensloop</type>
+          <format>linnen</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-259</identifier>
+        <datestamp>2021-10-02T00:12:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16294</identifier>
+          <identifier>BK-NM-12400-259</identifier>
+          <title>Papegaai van veelkleurig beschilderde faïence</title>
+          <creator>anoniem</creator>
+          <date>1784</date>
+          <type>beeld</type>
+          <type>dierfiguur</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-185</identifier>
+        <datestamp>2021-08-19T17:05:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21813</identifier>
+          <identifier>BK-1984-185</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1695</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14367-90</identifier>
+        <datestamp>2021-10-02T01:18:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21854</identifier>
+          <identifier>BK-NM-14367-90</identifier>
+          <title>Fragment kloskant met één bloemtak</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>fragment</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brabant</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-431</identifier>
+        <datestamp>2019-08-01T09:27:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21095</identifier>
+          <identifier>BK-BR-J-431</identifier>
+          <title>Zakdoek van kloskant met de hangende lelies</title>
+          <creator>anoniem</creator>
+          <date>ca. 1890 - ca. 1910</date>
+          <type>zakdoek</type>
+          <format>linnen</format>
+          <format>batist</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2415-A</identifier>
+        <datestamp>2018-10-01T11:03:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16350</identifier>
+          <identifier>BK-KOG-2415-A</identifier>
+          <title>Dekselpot</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1780</date>
+          <type>kaststel</type>
+          <type>dekselpot</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1964-45</identifier>
+        <datestamp>2021-10-02T01:16:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21473</identifier>
+          <identifier>RP-T-1964-45</identifier>
+          <title>Knielende edelman bij altaar</title>
+          <creator>Willmann, Michael</creator>
+          <date>1640 - 1706</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-331-B</identifier>
+        <datestamp>2021-10-02T01:19:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21918</identifier>
+          <identifier>BK-1979-331-B</identifier>
+          <title>Strook applicatiekant met c-vormige bloemtak</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-303</identifier>
+        <datestamp>2021-10-02T01:12:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21147</identifier>
+          <identifier>RP-T-1953-303</identifier>
+          <title>Tobias en de engel</title>
+          <creator>Elsheimer, Adam</creator>
+          <date>1588 - 1610</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13053</identifier>
+        <datestamp>2021-11-03T16:56:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21526</identifier>
+          <identifier>BK-NM-13053</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1200 - ca. 1300</date>
+          <type>pijpsleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-46-D</identifier>
+        <datestamp>2021-11-02T08:22:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17059</identifier>
+          <identifier>BK-1977-46-D</identifier>
+          <title>Theelepel met spits ovale bak en platte, gebogen steel, die zich verbreedt naar het spitse uiteinde</title>
+          <creator>Overhulsman, Hendrik</creator>
+          <date>1804</date>
+          <type>lepel</type>
+          <type>theelepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14361</identifier>
+        <datestamp>2021-10-02T01:17:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21625</identifier>
+          <identifier>BK-NM-14361</identifier>
+          <title>Strook kloskant met rozetbloempjes</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1924</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-109</identifier>
+        <datestamp>2021-10-02T01:19:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21905</identifier>
+          <identifier>BK-1975-109</identifier>
+          <title>Japonstrook van applicatiekant met linten in strikken en een golvende sierlijst door ovale hoepels</title>
+          <creator>anoniem</creator>
+          <date>ca. 1860 - ca. 1870</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-3-A</identifier>
+        <datestamp>2019-08-01T09:26:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.21034</identifier>
+          <identifier>BK-BR-J-3-A</identifier>
+          <title>Strook kloskant met ster en halve maan</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>anoniem</contributor>
+          <date>ca. 1900 - ca. 1929</date>
+          <type>strook</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Le Puy-en-Velay</coverage>
+          <coverage>België</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1578-C</identifier>
+        <datestamp>2021-10-02T00:12:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16302</identifier>
+          <identifier>BK-NM-1578-C</identifier>
+          <title>Bord, beschilderd met een twee onbekende monogrammen onder een kroon</title>
+          <creator>anoniem</creator>
+          <date>1731</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-NM-4350</identifier>
+        <datestamp>2021-10-02T00:13:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16318</identifier>
+          <identifier>NG-NM-4350</identifier>
+          <title>Kan, beschilderd met het portret van Willem III</title>
+          <creator>anoniem</creator>
+          <subject>Koninklijk Huis</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1674</date>
+          <type>kan</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-114</identifier>
+        <datestamp>2019-12-11T10:51:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16953</identifier>
+          <identifier>RP-T-1963-114</identifier>
+          <title>Gezicht op de Butte: de molens</title>
+          <creator>Michel, Georges</creator>
+          <subject>Butte Montmartre</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzA2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

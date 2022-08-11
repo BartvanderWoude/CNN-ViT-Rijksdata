@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDE0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-407</identifier>
+        <datestamp>2019-08-01T09:24:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20805</identifier>
+          <identifier>BK-BR-J-407</identifier>
+          <title>Zakdoek met een rand van naaldkant met wieltjesranden</title>
+          <creator>anoniem</creator>
+          <date>ca. 1870 - ca. 1890</date>
+          <type>zakdoek</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-179-B</identifier>
+        <datestamp>2019-08-01T09:25:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20860</identifier>
+          <identifier>BK-BR-J-179-B</identifier>
+          <title>Kraag van kloskant met fleur de lys tussen lange ranken</title>
+          <creator>Sacré, Leon</creator>
+          <date>ca. 1907</date>
+          <type>kraag</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-2023</identifier>
+        <datestamp>2021-10-02T01:05:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19875</identifier>
+          <identifier>RP-T-00-2023</identifier>
+          <title>Faun tussen bladornamenten</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <date>1552</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <type>ornamenttekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1983-95-B</identifier>
+        <datestamp>2021-08-19T16:59:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20190</identifier>
+          <identifier>BK-1983-95-B</identifier>
+          <title>Fragment van veelkleurige bedrukte zijden stof met een tulppatroon</title>
+          <creator>Wiener Werkstätte</creator>
+          <date>ca. 1910 - ca. 1925</date>
+          <type>zijdeweefsel</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Wenen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-657</identifier>
+        <datestamp>2021-08-19T17:01:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20441</identifier>
+          <identifier>BK-1980-657</identifier>
+          <title>Rolsloop</title>
+          <date>1852 - 1872</date>
+          <type>rolsloop</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-6778-B</identifier>
+        <datestamp>2021-10-02T01:07:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20001</identifier>
+          <identifier>AK-NM-6778-B</identifier>
+          <title>Eivormige dekselpot met bloemranken in cartouches</title>
+          <creator>anoniem</creator>
+          <subject>Royer, Jean Theodore</subject>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>dekselpot</type>
+          <type>pot</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-686</identifier>
+        <datestamp>2021-10-02T01:07:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20024</identifier>
+          <identifier>RP-T-00-686</identifier>
+          <title>Staande man met rugzak en een zwaard</title>
+          <creator>Beham, Hans Sebald</creator>
+          <date>1510 - 1550</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1982-98</identifier>
+        <datestamp>2021-08-19T16:58:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20082</identifier>
+          <identifier>BK-1982-98</identifier>
+          <title>Tafellaken</title>
+          <date>1717</date>
+          <type>tafellaken</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-450</identifier>
+        <datestamp>2022-05-25T13:34:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20592</identifier>
+          <identifier>BK-1973-450</identifier>
+          <title>Hoed van zwart fluweel in baret model</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1942 - ca. 1949</date>
+          <type>dameskleding</type>
+          <type>hoed</type>
+          <format>fluweel</format>
+          <format>vilt</format>
+          <format>laiton</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Koog aan de Zaan</coverage>
+          <coverage>Zaandijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-541-A</identifier>
+        <datestamp>2021-08-19T16:59:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20141</identifier>
+          <identifier>BK-1980-541-A</identifier>
+          <title>Servet van wit linnendamast</title>
+          <creator>Spanjaard, S.J.</creator>
+          <date>1859</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Borne</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-481</identifier>
+        <datestamp>2021-08-19T17:00:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20228</identifier>
+          <identifier>BK-1980-481</identifier>
+          <title>Tafellaken</title>
+          <date>1692 - 1735</date>
+          <type>tafellaken</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15310-A</identifier>
+        <datestamp>2021-11-11T09:35:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20392</identifier>
+          <identifier>BK-15310-A</identifier>
+          <title>Januari en februari</title>
+          <title>De maanden, seizoenen, elementen, dag en nacht</title>
+          <creator>Leyniers, Everaert</creator>
+          <contributor>Hoecke, Jan van den</contributor>
+          <contributor>Thijs, Pieter</contributor>
+          <contributor>Utrecht, Adriaen van</contributor>
+          <date>ca. 1650 - ca. 1680</date>
+          <type>wandtapijt</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <format>metaaldraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-725</identifier>
+        <datestamp>2021-08-19T17:01:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20479</identifier>
+          <identifier>BK-1980-725</identifier>
+          <title>Lendensloop</title>
+          <date>1692 - 1735</date>
+          <type>lendensloop</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-283</identifier>
+        <datestamp>2019-08-01T09:24:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20838</identifier>
+          <identifier>BK-BR-J-283</identifier>
+          <title>Strook van applicatiekant met bijou op de slingers voor een crinoline-japon</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1860</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-273</identifier>
+        <datestamp>2021-08-19T16:58:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19762</identifier>
+          <identifier>BK-1968-273</identifier>
+          <title>Tafellaken gemaakt van twee aan elkaar genaaide dwalen met groot slingermotief van bloemen</title>
+          <date>1735 - 1740</date>
+          <type>tafellaken</type>
+          <type>dwaal</type>
+          <type>doek</type>
+          <type>handdoek</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-13</identifier>
+        <datestamp>2019-08-01T09:25:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20854</identifier>
+          <identifier>BK-BR-J-13</identifier>
+          <title>Voile van kantborduurwerk op tule met vallende bladeren</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1900 - ca. 1924</date>
+          <type>voile</type>
+          <type>sluier</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-75-B-1</identifier>
+        <datestamp>2019-08-01T09:25:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20895</identifier>
+          <identifier>BK-BR-J-75-B-1</identifier>
+          <title>Strook kloskant met schulpen van rozetjes</title>
+          <creator>anoniem</creator>
+          <date>ca. 1830 - ca. 1850</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-135</identifier>
+        <datestamp>2019-08-01T09:25:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20908</identifier>
+          <identifier>BK-BR-J-135</identifier>
+          <title>Modestie met strook kloskant met gevederde bladeren</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750</date>
+          <type>strook</type>
+          <type>modestie</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1961-65</identifier>
+        <datestamp>2021-11-03T16:55:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20529</identifier>
+          <identifier>BK-1961-65</identifier>
+          <title>Kist van hout met opengewerkte ijzeren platen</title>
+          <date>ca. 1500 - ca. 1600</date>
+          <type>kist</type>
+          <format>ijzer</format>
+          <format>wol</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-125</identifier>
+        <datestamp>2019-08-01T09:24:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20791</identifier>
+          <identifier>BK-BR-J-125</identifier>
+          <title>Ontwerp in naaldkant met het motief van het Nederlands Koninklijk wapen met het Nassause helmteken</title>
+          <creator>Bôval-De Beck</creator>
+          <date>ca. 1880 - voor 1894</date>
+          <type>ontwerp</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDE2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

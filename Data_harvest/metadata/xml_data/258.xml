@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MTQw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-2860</identifier>
+        <datestamp>2019-05-09T15:34:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34382</identifier>
+          <identifier>RP-P-1907-2860</identifier>
+          <title>Allegorie op de liefde met liefdesparen en Amor in landschap</title>
+          <creator>Robetta, Christoforo di Michele</creator>
+          <contributor>Robetta, Christoforo di Michele</contributor>
+          <date>1500 - 1520</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-OB-803</identifier>
+        <datestamp>2021-10-02T12:10:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37271</identifier>
+          <identifier>RP-P-H-OB-803</identifier>
+          <title>Een weg met bomen en een stad in de achtergrond</title>
+          <creator>Segers, Hercules</creator>
+          <contributor>Segers, Hercules</contributor>
+          <subject>Amersfoort</subject>
+          <description>Behalve in zwart (RP-P-H-OB-801) drukte Segers deze tekenachtige ets ook in subtiel lichtgrijs – deze afdruk – en groen (RP-P-H-OB-802).</description>
+          <date>ca. 1622 - ca. 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>vernis</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1987-202</identifier>
+        <datestamp>2021-10-02T12:08:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36620</identifier>
+          <identifier>RP-P-1987-202</identifier>
+          <title>De prentverkoper Clement de Jonghe</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Jonghe, Clement de</subject>
+          <date>1651</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.231</identifier>
+        <datestamp>2019-05-09T15:39:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.35055</identifier>
+          <identifier>RP-P-OB-12.231</identifier>
+          <title>Melancholie</title>
+          <title>De heilige Thaïs</title>
+          <creator>Parmigianino</creator>
+          <contributor>Parmigianino</contributor>
+          <date>1524 - 1540</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-558</identifier>
+        <datestamp>2021-10-02T12:08:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36671</identifier>
+          <identifier>RP-P-OB-558</identifier>
+          <title>De joodse arts Ephraim Bonus</title>
+          <title>Ephraim Bueno</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <subject>Bueno, Ephraim Hezekiah</subject>
+          <date>1647</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-1961-168-93</identifier>
+        <datestamp>2018-06-06T09:41:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37208</identifier>
+          <identifier>BI-1961-168-93</identifier>
+          <title>Portret van inspecteur Arnold Tholinx</title>
+          <title>Recueil de quatre-vingt-cinq estampes originales</title>
+          <creator>Basan, Pierre François</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>Basan, Henry Louis</contributor>
+          <subject>Tholinx, Arnout</subject>
+          <date>1750 - 1797</date>
+          <date>1807 - 1808</date>
+          <type>prent</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-1961-168-105</identifier>
+        <datestamp>2018-06-06T09:41:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37220</identifier>
+          <identifier>BI-1961-168-105</identifier>
+          <title>Portret van de apotheker Abraham Francen</title>
+          <title>Recueil de quatre-vingt-cinq estampes originales</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Basan, Henry Louis</contributor>
+          <subject>Francen, Abraham</subject>
+          <date>1655 - 1807</date>
+          <date>1807 - 1808</date>
+          <type>prent</type>
+          <type>kopie naar prent</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-OB-817</identifier>
+        <datestamp>2021-10-02T12:10:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37257</identifier>
+          <identifier>RP-P-H-OB-817</identifier>
+          <title>Berglandschap met een puntige rots, eerste versie</title>
+          <creator>Segers, Hercules</creator>
+          <contributor>Segers, Hercules</contributor>
+          <date>ca. 1622 - ca. 1625</date>
+          <type>prent</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-233</identifier>
+        <datestamp>2019-05-09T15:36:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34717</identifier>
+          <identifier>RP-P-H-233</identifier>
+          <title>Drie gratiën staand in nis voor drie palmbomen en geflankeerd door kruiken waar water uit stroomt.</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>anoniem</contributor>
+          <date>1510 - 1527</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1950-555</identifier>
+        <datestamp>2019-05-09T15:40:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.35218</identifier>
+          <identifier>RP-P-1950-555</identifier>
+          <title>Angelica geneest de wond van Medoro</title>
+          <creator>Tiepolo, Giovanni Domenico</creator>
+          <contributor>Tiepolo, Giovanni Battista</contributor>
+          <date>1757 - 1760</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1950-552</identifier>
+        <datestamp>2019-05-09T15:40:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.35224</identifier>
+          <identifier>RP-P-1950-552</identifier>
+          <title>Lucretia bedreigt door Sextus met dolk</title>
+          <title>Tarquinius en Lucretia</title>
+          <creator>Tiepolo, Giovanni Domenico</creator>
+          <contributor>Tiepolo, Giovanni Battista</contributor>
+          <date>1743 - 1747</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-982</identifier>
+        <datestamp>2021-02-09T09:53:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37065</identifier>
+          <identifier>RP-P-1961-982</identifier>
+          <title>Zelfportret met bontmuts</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>Vliet, Jan Gillisz. van</contributor>
+          <subject>Rijn, Rembrandt van</subject>
+          <date>ca. 1631</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-323</identifier>
+        <datestamp>2020-09-08T12:56:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37071</identifier>
+          <identifier>RP-P-OB-323</identifier>
+          <title>Onthoofding van Johannes de Doper</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>ca. 1631</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1962-74</identifier>
+        <datestamp>2021-10-02T12:06:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36410</identifier>
+          <identifier>RP-P-1962-74</identifier>
+          <title>Vrouw met naakt bovenlichaam bij een kachel</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1658</date>
+          <type>prent</type>
+          <format>Japans papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-258</identifier>
+        <datestamp>2021-10-02T12:06:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36416</identifier>
+          <identifier>RP-P-OB-258</identifier>
+          <title>Vrouw met naakt bovenlichaam bij een kachel</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1658</date>
+          <type>prent</type>
+          <format>Oosters papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.763</identifier>
+        <datestamp>2019-05-29T14:39:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34499</identifier>
+          <identifier>RP-P-OB-11.763</identifier>
+          <title>Christus als Salvator Mundi</title>
+          <title>Christus en de Apostelen</title>
+          <creator>Dente, Marco</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <contributor>Rafaël</contributor>
+          <date>1517 - 1527</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-721</identifier>
+        <datestamp>2021-10-02T12:09:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36921</identifier>
+          <identifier>RP-P-OB-721</identifier>
+          <title>Zelfportret, stuurs kijkend</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <subject>Rijn, Rembrandt van</subject>
+          <date>ca. 1631</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-748</identifier>
+        <datestamp>2021-10-02T12:09:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36964</identifier>
+          <identifier>RP-P-OB-748</identifier>
+          <title>Rembrandt's moeder: alleen de kop, en face</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <subject>Zuytbrouck, Neeltje Willemsdr.</subject>
+          <date>1628</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-751</identifier>
+        <datestamp>2021-10-02T12:09:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36970</identifier>
+          <identifier>RP-P-OB-751</identifier>
+          <title>Oude vrouw in een met bont afgezette mantel en een zware hoofdbedekking</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>anoniem</contributor>
+          <date>1631</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-369</identifier>
+        <datestamp>2021-10-02T12:05:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36265</identifier>
+          <identifier>RP-P-OB-369</identifier>
+          <title>Bedelaar met uitgestoken linkerarm</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>ca. 1629</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MTYw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

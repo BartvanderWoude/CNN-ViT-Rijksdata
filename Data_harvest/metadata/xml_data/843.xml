@@ -1,0 +1,485 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNjg0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-2023</identifier>
+        <datestamp>2016-10-20T19:51:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44182</identifier>
+          <identifier>RP-P-1905-2023</identifier>
+          <title>Portret van de predikant Wilhelm Leendert Krieger</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Geysen, F.</contributor>
+          <subject>Krieger, Wilhelm Leendert</subject>
+          <date>1796</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.052</identifier>
+        <datestamp>2016-10-20T19:50:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43512</identifier>
+          <identifier>RP-P-OB-17.052</identifier>
+          <title>Portret van Anna Stuart, koningin van Engeland</title>
+          <title>Anna par la grace de Dieu Reine de la Grande-Bretagne</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Wissing, Willem</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <subject>Anna Stuart (koningin van Engeland en Schotland)</subject>
+          <date>1702 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-1393</identifier>
+        <datestamp>2020-05-01T09:43:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43518</identifier>
+          <identifier>RP-P-1909-1393</identifier>
+          <title>Portret van Jan van Beuningen</title>
+          <creator>Gole, Jacob</creator>
+          <subject>overzeese geschiedenis</subject>
+          <subject>economische geschiedenis</subject>
+          <subject>West-Indische Compagnie</subject>
+          <subject>Beuningen, Jan van</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3505</identifier>
+        <datestamp>2016-10-20T19:50:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43561</identifier>
+          <identifier>RP-P-1906-3505</identifier>
+          <title>Portret van keizer Jozef I</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Gole, Jacob</contributor>
+          <subject>Jozef I (Duits keizer)</subject>
+          <date>1687 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-2181</identifier>
+        <datestamp>2016-10-20T19:50:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43685</identifier>
+          <identifier>RP-P-1908-2181</identifier>
+          <title>Schoenenverkoper</title>
+          <title>Le Vendeur de Soulier</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Mitelli, Giuseppe Maria</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3318</identifier>
+        <datestamp>2021-10-02T12:13:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44017</identifier>
+          <identifier>RP-P-1906-3318</identifier>
+          <title>Man en vrouw met naald en draad</title>
+          <title>De Hollandse Naayster</title>
+          <creator>Haeften, Gerard van</creator>
+          <contributor>Verkolje, Nicolaas</contributor>
+          <contributor>Haeften, Gerard van</contributor>
+          <date>1757</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-3641</identifier>
+        <datestamp>2016-10-20T19:50:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44066</identifier>
+          <identifier>RP-P-1907-3641</identifier>
+          <title>Portret van Klaas de Vries</title>
+          <creator>Heyningen, Jan van</creator>
+          <subject>Vries, Klaas de (predikant)</subject>
+          <date>1767</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-22957</identifier>
+        <datestamp>2022-03-02T15:17:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44199</identifier>
+          <identifier>RP-P-1903-A-22957</identifier>
+          <title>Portret van Pieter Paulus</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Hodges, Charles Howard</contributor>
+          <subject>Paulus, Pieter</subject>
+          <date>1795 - 1796</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.192</identifier>
+        <datestamp>2021-11-24T13:49:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44205</identifier>
+          <identifier>RP-P-OB-17.192</identifier>
+          <title>Portret van William Pitt</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Owen, William</contributor>
+          <contributor>Hodges, Charles Howard</contributor>
+          <subject>Pitt de Jongere, William</subject>
+          <date>1799</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7280</identifier>
+        <datestamp>2019-05-29T15:08:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43369</identifier>
+          <identifier>RP-P-BI-7280</identifier>
+          <title>Brieflezende boer</title>
+          <creator>Dusart, Cornelis</creator>
+          <subject>lezen</subject>
+          <date>1679 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7314B</identifier>
+        <datestamp>2019-05-29T15:08:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43443</identifier>
+          <identifier>RP-P-BI-7314B</identifier>
+          <title>Dansend paar, 1695</title>
+          <title>Gelyk van aart, is wel gepaart</title>
+          <title>De algemene blijdschap om de inname van Namen door stadhouder Willem III, koning van Engeland, september 1695</title>
+          <creator>Dusart, Cornelis</creator>
+          <subject>Viering van de verovering van Namen</subject>
+          <date>1695</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.063</identifier>
+        <datestamp>2016-10-20T19:50:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43541</identifier>
+          <identifier>RP-P-OB-17.063</identifier>
+          <title>Portret van George II Augustus van Groot-Brittannië</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Hirschmann, Johann Leonhard</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <subject>George II Augustus (koning van Groot-Brittannië)</subject>
+          <date>1714 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3171</identifier>
+        <datestamp>2016-10-20T19:50:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43612</identifier>
+          <identifier>RP-P-1906-3171</identifier>
+          <title>Portret van Louise Françoise de La Baume Le Blanc de la Vallière</title>
+          <creator>Gole, Jacob</creator>
+          <subject>La Vallière, Louise de (hertogin)</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3342</identifier>
+        <datestamp>2016-10-20T19:50:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44040</identifier>
+          <identifier>RP-P-1906-3342</identifier>
+          <title>Zelfportret</title>
+          <creator>Halen, Arnoud van</creator>
+          <subject>Halen, Arnoud van</subject>
+          <date>1683 - 1732</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3418</identifier>
+        <datestamp>2016-10-20T19:51:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44225</identifier>
+          <identifier>RP-P-1906-3418</identifier>
+          <title>Portret van admiraal Jan Willem de Winter</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Maaskamp, Evert</contributor>
+          <subject>Winter, Jan Willem de</subject>
+          <date>1796</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.037</identifier>
+        <datestamp>2021-10-02T12:13:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43392</identifier>
+          <identifier>RP-P-OB-17.037</identifier>
+          <title>September</title>
+          <title>De twaalf maanden van het jaar, "Les XII Mois de l'Année"</title>
+          <creator>Dusart, Cornelis</creator>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Stadsbestuur Amsterdam</contributor>
+          <date>1679 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-10653</identifier>
+        <datestamp>2016-10-20T19:50:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43249</identifier>
+          <identifier>RP-P-1886-A-10653</identifier>
+          <title>Portret van Daniel Bartolus</title>
+          <creator>Bruggen, Jan van der</creator>
+          <subject>Bartolus, Daniel</subject>
+          <date>1685</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.376</identifier>
+        <datestamp>2021-06-22T12:50:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43498</identifier>
+          <identifier>RP-P-OB-21.376</identifier>
+          <title>Portret van Oliger Paulli</title>
+          <creator>Folkema, Jacob</creator>
+          <subject>slavenhandel</subject>
+          <subject>slavernij</subject>
+          <subject>West-Indië</subject>
+          <subject>Paulli, Oliger</subject>
+          <date>1712 - 1767</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7353</identifier>
+        <datestamp>2021-08-02T14:56:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43748</identifier>
+          <identifier>RP-P-BI-7353</identifier>
+          <title>Portret van bisschop Wilhelm Egon von Fürstenberg-Heiligenberg</title>
+          <title>Guilleaume de Fustemberg. Crie ite Missa ets.</title>
+          <title>Spotprenten op Lodewijk XIV en zijn gevolg</title>
+          <title>Les Héros de la Ligue ou La Procession Monacale, conduitte par Louis XIV pour la Conversion des Protestans de son Royaume</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Herroeping van het Edict van Nantes</subject>
+          <subject>Fürstenberg-Heiligenberg, Wilhelm Egon von</subject>
+          <date>1691</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3315</identifier>
+        <datestamp>2021-12-21T15:01:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43991</identifier>
+          <identifier>RP-P-1906-3315</identifier>
+          <title>Portret van George Wade</title>
+          <creator>Haecken, Alexander van</creator>
+          <contributor>Banck, Jan van der</contributor>
+          <subject>Wade, George</subject>
+          <date>1736</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNjg2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

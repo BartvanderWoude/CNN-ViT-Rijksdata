@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MTU2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-767</identifier>
+        <datestamp>2017-04-20T17:40:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97718</identifier>
+          <identifier>RP-P-1878-A-767</identifier>
+          <title>Toepassing van een nieuw type houten brandspuit, 1667</title>
+          <title>Vertooning ofte Afbeelding Van het gebruyck der op nieuw gepractiseerde houte Brantspuyten (...)</title>
+          <title>Representation De l'usage des Esclissoires à feu, faittes du bois nouvellement practiquez (...)</title>
+          <creator>Comans, Michiel (II)</creator>
+          <subject>Heyden, Jan van der</subject>
+          <date>1667</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6547X</identifier>
+        <datestamp>2021-01-28T20:03:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98275</identifier>
+          <identifier>RP-P-BI-6547X</identifier>
+          <title>Vervolging veroorzaakt hoop op verlossing</title>
+          <title>Jakobs ladder of de allegorie van de weg naar eeuwige zaligheid</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <date>1550</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-3060</identifier>
+        <datestamp>2021-01-28T20:09:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98662</identifier>
+          <identifier>RP-P-1909-3060</identifier>
+          <title>Rustende reiziger</title>
+          <creator>Cornet, Jacobus Ludovicus</creator>
+          <contributor>Cornet, Jacobus Ludovicus</contributor>
+          <date>1851</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1880-A-4017D</identifier>
+        <datestamp>2021-01-28T20:02:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98212</identifier>
+          <identifier>RP-P-1880-A-4017D</identifier>
+          <title>Triomf van David</title>
+          <title>Triomf van de lijdzaamheid</title>
+          <title>Patientiae Trivmphvs</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>Galle, Joannes</contributor>
+          <date>1559</date>
+          <date>1638 - 1639</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6422X</identifier>
+        <datestamp>2021-01-28T20:09:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98676</identifier>
+          <identifier>RP-P-BI-6422X</identifier>
+          <title>Keldergewelf</title>
+          <creator>Cornet, Jacobus Ludovicus</creator>
+          <contributor>Cornet, Jacobus Ludovicus</contributor>
+          <date>1825 - 1882</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6347X</identifier>
+        <datestamp>2016-10-20T20:48:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98725</identifier>
+          <identifier>RP-P-BI-6347X</identifier>
+          <title>Gezicht op de vesten van Leiden</title>
+          <creator>Cornet, Jacobus Ludovicus</creator>
+          <contributor>Bisschop, Jan de</contributor>
+          <subject>Leiden</subject>
+          <subject>Rijn, Rembrandt van</subject>
+          <date>1853</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1954-568</identifier>
+        <datestamp>2021-01-28T19:51:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97304</identifier>
+          <identifier>RP-P-1954-568</identifier>
+          <title>Venus en Mars</title>
+          <title>Venvs et Mavors</title>
+          <creator>Collaert, Jan (II)</creator>
+          <contributor>Straet, Jan van der</contributor>
+          <contributor>Collaert, Adriaen</contributor>
+          <subject>festiviteiten</subject>
+          <subject>Lucretius, Titus</subject>
+          <date>1576 - 1628</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Florence</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1879-A-3507</identifier>
+        <datestamp>2022-02-18T16:10:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97818</identifier>
+          <identifier>RP-P-1879-A-3507</identifier>
+          <title>Riviergezicht met zeilschip</title>
+          <creator>Constant Rebecque, Jan Daniël Cornelis Carel Willem baron de</creator>
+          <date>1851 - 1879</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1950-201E</identifier>
+        <datestamp>2019-03-04T13:43:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98312</identifier>
+          <identifier>RP-P-1950-201E</identifier>
+          <title>Ontzet van Wenen, 1529</title>
+          <title>Overwinningen van Karel V</title>
+          <title>Divi Caroli. V. imp. opt. max. victoriae, ex multis praecipuae</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>Cock, Hieronymus</contributor>
+          <subject>Ontzet van Wenen (1529)</subject>
+          <subject>Wenen</subject>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <subject>Ferdinand I van Habsburg (Duits keizer)</subject>
+          <subject>Süleyman I de Grote</subject>
+          <date>1555 - 1556</date>
+          <type>prent</type>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1950-201L</identifier>
+        <datestamp>2019-03-04T13:43:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98318</identifier>
+          <identifier>RP-P-1950-201L</identifier>
+          <title>Overgave van de landgraaf van Hessen, 1547</title>
+          <title>Overwinningen van Karel V</title>
+          <title>Divi Caroli. V. imp. opt. max. victoriae, ex multis praecipuae</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>Cock, Hieronymus</contributor>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <subject>Filips I de Grootmoedige (landgraaf van Hessen)</subject>
+          <subject>Granvelle, Antoine Perrenot de</subject>
+          <subject>Maurits, keurvorst van Saksen</subject>
+          <subject>Álvarez de Toledo, Fernando (3e hertog van Alva)</subject>
+          <subject>Granvelle, Nicolas Perrenot de</subject>
+          <date>1555 - 1556</date>
+          <type>prent</type>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6442X</identifier>
+        <datestamp>2021-01-28T20:08:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98619</identifier>
+          <identifier>RP-P-BI-6442X</identifier>
+          <title>Portret van Jan Steen</title>
+          <creator>Cornet, Jacobus Ludovicus</creator>
+          <contributor>Steen, Jan Havicksz.</contributor>
+          <subject>Steen, Jan Havicksz.</subject>
+          <date>1854</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6431X</identifier>
+        <datestamp>2021-01-28T20:09:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98625</identifier>
+          <identifier>RP-P-BI-6431X</identifier>
+          <title>Straatmuzikant met hond</title>
+          <creator>Cornet, Jacobus Ludovicus</creator>
+          <contributor>Cornet, Jacobus Ludovicus</contributor>
+          <date>1825 - 1882</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2180</identifier>
+        <datestamp>2021-01-28T19:54:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97404</identifier>
+          <identifier>RP-P-1906-2180</identifier>
+          <title>Verdrijving van de geldwisselaars uit de tempel</title>
+          <creator>Collaert, Jan (II)</creator>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Verdussen, Hieronymus</contributor>
+          <date>1597</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6228</identifier>
+        <datestamp>2021-01-28T20:05:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98413</identifier>
+          <identifier>RP-P-BI-6228</identifier>
+          <title>Herder met schalmei</title>
+          <creator>Cootwijck, Jurriaan</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>1724 - 1798</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-6732</identifier>
+        <datestamp>2021-01-28T20:05:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98419</identifier>
+          <identifier>RP-P-1882-A-6732</identifier>
+          <title>Rijngezicht</title>
+          <creator>Cootwijck, Jurriaan</creator>
+          <contributor>Everdingen, Allaert van</contributor>
+          <subject>Rijn</subject>
+          <date>1724 - 1798</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1885-A-9692</identifier>
+        <datestamp>2021-01-28T20:06:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98462</identifier>
+          <identifier>RP-P-1885-A-9692</identifier>
+          <title>Staande boer met hand en arm in zijn mantel</title>
+          <title>Bedelaar</title>
+          <creator>Cootwijck, Jurriaan</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1724 - 1798</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-425</identifier>
+        <datestamp>2016-10-20T20:47:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97695</identifier>
+          <identifier>RP-P-1911-425</identifier>
+          <title>Portret van pater Petrus Fourier</title>
+          <creator>Collin, Richard</creator>
+          <subject>heiligen</subject>
+          <subject>Fourier, Petrus</subject>
+          <date>1650 - 1694</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6541X</identifier>
+        <datestamp>2021-01-28T20:03:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98269</identifier>
+          <identifier>RP-P-BI-6541X</identifier>
+          <title>Gods genade zegeviert over de duivel en brengt zelfkennis voort</title>
+          <title>Jakobs ladder of de allegorie van de weg naar eeuwige zaligheid</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <date>1550</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6418X</identifier>
+        <datestamp>2021-01-28T20:09:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98668</identifier>
+          <identifier>RP-P-BI-6418X</identifier>
+          <title>Biddend gezin voor een bedstede</title>
+          <creator>Cornet, Jacobus Ludovicus</creator>
+          <contributor>Cornet, Jacobus Ludovicus</contributor>
+          <date>1825 - 1882</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6488X</identifier>
+        <datestamp>2022-03-02T15:25:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98120</identifier>
+          <identifier>RP-P-BI-6488X</identifier>
+          <title>Jozef interpreteert de dromen van de schenker en de bakker</title>
+          <title>Geschiedenis van Jozef</title>
+          <creator>Coornhert, Dirck Volckertsz.</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <date>1549</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MTU4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

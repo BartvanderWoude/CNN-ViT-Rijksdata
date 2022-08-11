@@ -1,0 +1,504 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzODc4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1934-425</identifier>
+        <datestamp>2021-01-28T16:35:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82959</identifier>
+          <identifier>RP-P-1934-425</identifier>
+          <title>Joden vluchten uit een brandend huis</title>
+          <title>Het omkomen eener menigte Jooden</title>
+          <creator>Bogerts, Cornelis</creator>
+          <contributor>Buys, Jacobus</contributor>
+          <date>1784</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2440</identifier>
+        <datestamp>2021-01-28T16:41:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83648</identifier>
+          <identifier>RP-P-1909-2440</identifier>
+          <title>De berkenlaan</title>
+          <creator>Boland, Johannes Arnoldus</creator>
+          <contributor>Hackaert, Jan</contributor>
+          <date>ca. 1860 - ca. 1900</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2279</identifier>
+        <datestamp>2021-01-28T16:43:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83888</identifier>
+          <identifier>RP-P-BI-2279</identifier>
+          <title>Heilige Johannes van Lycopolis als kluizenaar in zijn cel</title>
+          <title>S. Joannes in Lyco</title>
+          <title>Kluizenaars</title>
+          <title>Sacra eremvs ascetarvm</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Aertssens, Hendrik (II)</contributor>
+          <subject>heiligen</subject>
+          <date>1590 - 1612</date>
+          <date>1619</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2419</identifier>
+        <datestamp>2021-01-28T16:49:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84307</identifier>
+          <identifier>RP-P-BI-2419</identifier>
+          <title>Boerderijen en bruggetje over sloot</title>
+          <title>Landschappen met boerderijen</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>1614</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2462</identifier>
+        <datestamp>2021-01-28T16:53:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84492</identifier>
+          <identifier>RP-P-BI-2462</identifier>
+          <title>Heilige Familie</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <contributor>Hendricx, Gilles</contributor>
+          <contributor>onbekend</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-11239</identifier>
+        <datestamp>2021-01-28T16:54:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84563</identifier>
+          <identifier>RP-P-1886-A-11239</identifier>
+          <title>Heilige Teresa</title>
+          <title>S. Teresia a Iesv</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Galle, Cornelis (II)</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-358</identifier>
+        <datestamp>2021-01-28T16:35:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82936</identifier>
+          <identifier>RP-P-1905-358</identifier>
+          <title>Westzijde van de Burgerzaal in het Koninklijk Paleis op de Dam</title>
+          <title>Gezicht van de Groote Zaal, in het Paleis van Amsterdam / Vue de la Grande Sale, dans la Paleis Roijal d'Amsterdam</title>
+          <creator>Bogerts, Cornelis</creator>
+          <contributor>Keun, Hendrik</contributor>
+          <contributor>Maaskamp, Evert</contributor>
+          <subject>Koninklijk Paleis Amsterdam</subject>
+          <subject>Burgerzaal</subject>
+          <date>1771 - 1783</date>
+          <date>1808 - 1834</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15286</identifier>
+        <datestamp>2021-10-22T16:25:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83573</identifier>
+          <identifier>RP-P-1890-A-15286</identifier>
+          <title>Phäethon rijdt in de zonnewagen</title>
+          <title>Phaetontis Lapsvs</title>
+          <title>Landschappen met mythologische en bijbelse voorstellingen</title>
+          <creator>anoniem</creator>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Bol, Hans</contributor>
+          <date>ca. 1550 - ca. 1650</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1059</identifier>
+        <datestamp>2021-01-28T16:42:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83760</identifier>
+          <identifier>RP-P-1910-1059</identifier>
+          <title>Portret van Frederick William Herschel</title>
+          <creator>Bollinger, Friedrich Wilhelm</creator>
+          <contributor>Rehberg, Friedrich</contributor>
+          <contributor>Fleischer, Ernst</contributor>
+          <subject>Herschel, Frederick William</subject>
+          <date>1829 - 1832</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leipzig</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2392</identifier>
+        <datestamp>2021-01-28T16:49:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84284</identifier>
+          <identifier>RP-P-BI-2392</identifier>
+          <title>Herder en herderin met geiten</title>
+          <title>Pastoralen</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>1611</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2564</identifier>
+        <datestamp>2021-01-28T16:53:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84515</identifier>
+          <identifier>RP-P-BI-2564</identifier>
+          <title>Christus toont wonden en triomfeert over de dood</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>onbekend</contributor>
+          <contributor>Bolswert, Schelte Adamsz.</contributor>
+          <contributor>onbekend</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1971</identifier>
+        <datestamp>2021-01-28T16:39:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83519</identifier>
+          <identifier>RP-P-BI-1971</identifier>
+          <title>Offer van Isaak</title>
+          <title>Het levensverhaal van Abraham</title>
+          <creator>onbekend</creator>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Cock, Hieronymus</contributor>
+          <date>ca. 1560 - ca. 1570</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2021</identifier>
+        <datestamp>2021-01-28T16:40:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83602</identifier>
+          <identifier>RP-P-BI-2021</identifier>
+          <title>Een watermolen</title>
+          <creator>Boland, Johannes Arnoldus</creator>
+          <contributor>Hobbema, Meindert</contributor>
+          <date>1875 - 1876</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.722</identifier>
+        <datestamp>2021-01-28T16:45:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84020</identifier>
+          <identifier>RP-P-OB-26.722</identifier>
+          <title>Heilige Marcella van Rome als kluizenares</title>
+          <title>Sancta Marcella</title>
+          <title>Kluizenaressen</title>
+          <title>Sacra Eremus Ascetriarum</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Aertssens, Hendrik (II)</contributor>
+          <date>1590 - 1612</date>
+          <date>1619</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2008</identifier>
+        <datestamp>2021-01-28T16:40:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83613</identifier>
+          <identifier>RP-P-BI-2008</identifier>
+          <title>Windstilte</title>
+          <creator>Boland, Johannes Arnoldus</creator>
+          <contributor>Velde, Willem van de (II)</contributor>
+          <subject>maritieme geschiedenis</subject>
+          <date>1875 - 1876</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1905-154</identifier>
+        <datestamp>2021-01-28T16:47:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84126</identifier>
+          <identifier>RP-T-1905-154</identifier>
+          <title>Marskramer en zijn vrouw rustend langs de weg</title>
+          <creator>Overlaet, Antoon</creator>
+          <contributor>Leclerc, Sébastien</contributor>
+          <date>1730 - 1774</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2407</identifier>
+        <datestamp>2021-01-28T16:50:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84330</identifier>
+          <identifier>RP-P-BI-2407</identifier>
+          <title>Landschap met boerderijen aan landweg</title>
+          <title>Gezichten op het platteland</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>1612 - 1614</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2517</identifier>
+        <datestamp>2021-01-28T16:52:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84469</identifier>
+          <identifier>RP-P-BI-2517</identifier>
+          <title>Heilige Jakobus de Mindere met knots</title>
+          <title>S. Iacobvs minor</title>
+          <title>Christus, Paulus en twaalf apostelen</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Seghers, Gerard</contributor>
+          <contributor>Enden, Martinus van den</contributor>
+          <contributor>onbekend</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1899-A-21652</identifier>
+        <datestamp>2021-11-30T15:50:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83556</identifier>
+          <identifier>RP-P-1899-A-21652</identifier>
+          <title>Apollo wandelend met een jonge vrouw</title>
+          <title>Landschappen met mythologische en bijbelse voorstellingen</title>
+          <creator>anoniem</creator>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Bol, Hans</contributor>
+          <date>ca. 1550 - ca. 1650</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1899-A-21661</identifier>
+        <datestamp>2021-11-30T15:52:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83565</identifier>
+          <identifier>RP-P-1899-A-21661</identifier>
+          <title>Jupiter in zijn wagen en een andere God</title>
+          <title>Landschappen met mythologische en bijbelse voorstellingen</title>
+          <creator>anoniem</creator>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Bol, Hans</contributor>
+          <date>ca. 1550 - ca. 1650</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzODgwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,486 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMzE4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1885-A-9825</identifier>
+        <datestamp>2019-05-09T16:03:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39146</identifier>
+          <identifier>RP-P-1885-A-9825</identifier>
+          <title>Buste van een man met tulband</title>
+          <creator>Koninck, Salomon</creator>
+          <contributor>Koninck, Salomon</contributor>
+          <contributor>Ram, Johannes de</contributor>
+          <date>1638</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1940-1535</identifier>
+        <datestamp>2021-05-21T16:43:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38448</identifier>
+          <identifier>RP-P-1940-1535</identifier>
+          <title>Portret van Justus Sustermans</title>
+          <title>Iconographie</title>
+          <creator>Dyck, Anthony van</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Dyck, Anthony van</contributor>
+          <contributor>Hendricx, Gilles</contributor>
+          <subject>Sustermans, Justus</subject>
+          <date>1630 - 1632</date>
+          <date>1645 - 1646</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-421</identifier>
+        <datestamp>2021-10-02T12:12:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38698</identifier>
+          <identifier>RP-P-OB-421</identifier>
+          <title>Staande boerin</title>
+          <creator>Lievens, Jan</creator>
+          <contributor>Lievens, Jan</contributor>
+          <date>1625 - 1674</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.725</identifier>
+        <datestamp>2019-05-09T16:01:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38948</identifier>
+          <identifier>RP-P-OB-12.725</identifier>
+          <title>Man en vrouw in gesprek</title>
+          <title>Het gesprek</title>
+          <creator>Ostade, Adriaen van</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1646 - 1650</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.864</identifier>
+        <datestamp>2019-05-29T14:57:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39297</identifier>
+          <identifier>RP-P-OB-12.864</identifier>
+          <title>Dans in de herberg</title>
+          <creator>Ostade, Adriaen van</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1650 - 1654</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-S-36</identifier>
+        <datestamp>2019-05-09T15:57:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38299</identifier>
+          <identifier>RP-P-H-S-36</identifier>
+          <title>Dorp op een heuvel</title>
+          <creator>Jardin, Karel du</creator>
+          <contributor>Jardin, Karel du</contributor>
+          <date>1658</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1885-A-9050</identifier>
+        <datestamp>2019-05-09T16:01:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38848</identifier>
+          <identifier>RP-P-1885-A-9050</identifier>
+          <title>Vrouw en man met elkaar in gesprek</title>
+          <creator>Ostade, Adriaen van</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <contributor>Basan, weduwe Pierre-François</contributor>
+          <date>1668 - 1678</date>
+          <date>1797 - 1820</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.697</identifier>
+        <datestamp>2019-05-29T14:56:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38897</identifier>
+          <identifier>RP-P-OB-12.697</identifier>
+          <title>Spinster zittend op de drempel van een huis in gesprek met man</title>
+          <title>De spinster voor haar deur</title>
+          <creator>Ostade, Adriaen van</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1666 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-891</identifier>
+        <datestamp>2019-05-29T14:54:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38500</identifier>
+          <identifier>RP-P-BI-891</identifier>
+          <title>Drinkende koe</title>
+          <creator>Berchem, Nicolaes Pietersz.</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <contributor>Schenk, Leonard</contributor>
+          <date>1680</date>
+          <date>1715 - 1746</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1879-A-3791</identifier>
+        <datestamp>2019-05-09T16:00:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38768</identifier>
+          <identifier>RP-P-1879-A-3791</identifier>
+          <title>Landschap met een boerderij</title>
+          <creator>Neyts, Gilles</creator>
+          <date>1643 - 1681</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1921-1160</identifier>
+        <datestamp>2021-10-02T12:12:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38840</identifier>
+          <identifier>RP-P-1921-1160</identifier>
+          <title>Boer en boerin als liefdespaar in deuropening</title>
+          <title>Het boerenliefdespaar</title>
+          <creator>Ostade, Adriaen van</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1650 - 1654</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1896-A-19097</identifier>
+        <datestamp>2019-05-09T16:03:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39101</identifier>
+          <identifier>RP-P-1896-A-19097</identifier>
+          <title>Heilige Thomas in de hemel</title>
+          <creator>anoniem</creator>
+          <contributor>Hoogstraten, Samuel van</contributor>
+          <contributor>Groot, Michiel de</contributor>
+          <contributor>Konijnenbergh, Jacob (I)</contributor>
+          <date>1671</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-391</identifier>
+        <datestamp>2019-05-29T14:56:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39172</identifier>
+          <identifier>RP-P-OB-391</identifier>
+          <title>Bedelaar met een stok</title>
+          <creator>anoniem</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1631</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.313</identifier>
+        <datestamp>2020-05-06T11:49:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38406</identifier>
+          <identifier>RP-P-OB-11.313</identifier>
+          <title>Portret van Jan Brueghel de Oude</title>
+          <title>Iconographie</title>
+          <creator>Dyck, Anthony van</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Dyck, Anthony van</contributor>
+          <subject>Brueghel, Jan (I)</subject>
+          <date>1627 - 1641</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7262</identifier>
+        <datestamp>2019-05-29T14:54:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38523</identifier>
+          <identifier>RP-P-BI-7262</identifier>
+          <title>Twee zingende mannen in een herberg</title>
+          <creator>Dusart, Cornelis</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <date>1685</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1879-A-3121</identifier>
+        <datestamp>2020-05-06T11:49:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38745</identifier>
+          <identifier>RP-P-1879-A-3121</identifier>
+          <title>Landschap met de wegzending van Hagar</title>
+          <creator>Neyts, Gilles</creator>
+          <contributor>Huysens, Ioan</contributor>
+          <date>1643 - 1681</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1957-656</identifier>
+        <datestamp>2019-05-09T16:01:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38863</identifier>
+          <identifier>RP-P-1957-656</identifier>
+          <title>Schoolmeester met drie leerlingen bij een tafel</title>
+          <title>De schoolmeester</title>
+          <creator>Ostade, Adriaen van</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1671 - 1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-794</identifier>
+        <datestamp>2019-05-29T14:56:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39078</identifier>
+          <identifier>RP-P-OB-794</identifier>
+          <title>Buste van een man met een gevederde muts</title>
+          <creator>Hoogstraten, Samuel van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1648 - 1678</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.825</identifier>
+        <datestamp>2019-05-29T14:57:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39195</identifier>
+          <identifier>RP-P-OB-12.825</identifier>
+          <title>Christus verdrijft de geldwisselaars uit de tempel</title>
+          <creator>anoniem</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1630 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1953-709</identifier>
+        <datestamp>2021-01-28T13:10:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38477</identifier>
+          <identifier>RP-P-1953-709</identifier>
+          <title>De bespotting van Christus</title>
+          <title>Ecce Homo</title>
+          <creator>Dyck, Anthony van</creator>
+          <contributor>Vorsterman, Lucas (I)</contributor>
+          <contributor>Dyck, Anthony van</contributor>
+          <date>1630</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMzIwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

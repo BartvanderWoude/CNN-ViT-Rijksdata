@@ -1,0 +1,491 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxOTA2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-566</identifier>
+        <datestamp>2019-03-07T12:14:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49488</identifier>
+          <identifier>RP-P-1988-566</identifier>
+          <title>Heilige troost een zittende bisschop en wordt ten grave gelegd</title>
+          <creator>Monogrammist TB (graveur)</creator>
+          <creator>Monogrammist GPP</creator>
+          <date>1500 - 1599</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.074(V)</identifier>
+        <datestamp>2020-04-20T12:11:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48770</identifier>
+          <identifier>RP-P-OB-22.074(V)</identifier>
+          <title>Lichaam van Itys opgediend aan Tereus</title>
+          <title>Progne filium coctum apponit viro</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.099(R)</identifier>
+        <datestamp>2020-04-20T12:12:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48819</identifier>
+          <identifier>RP-P-OB-22.099(R)</identifier>
+          <title>Myrrha slaapt met haar vader Cinyras</title>
+          <title>Myrrha nutricis opera ad parentem noctu deducitur</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-514</identifier>
+        <datestamp>2021-07-29T14:19:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49337</identifier>
+          <identifier>RP-P-1988-514</identifier>
+          <title>Wonderbaarlijke visvangst</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Guldenmund, Hans</contributor>
+          <date>1536</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.348</identifier>
+        <datestamp>2020-08-19T00:18:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49386</identifier>
+          <identifier>RP-P-OB-22.348</identifier>
+          <title>Parabel van het verloren schaap</title>
+          <title>Bijbelillustraties</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1590</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.389(R)</identifier>
+        <datestamp>2020-04-28T09:26:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49461</identifier>
+          <identifier>RP-P-OB-22.389(R)</identifier>
+          <title>Ridder naast een wapenschild</title>
+          <creator>Monogrammist CW (Duitsland)</creator>
+          <creator>anoniem</creator>
+          <contributor>Kriegstein, Melchior</contributor>
+          <date>1550</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1959-75</identifier>
+        <datestamp>2021-10-02T12:18:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49518</identifier>
+          <identifier>RP-T-1959-75</identifier>
+          <title>Vastgebonden naakte man en naakte figuur met opgeven arm</title>
+          <creator>Zoppo, Marco</creator>
+          <date>1453 - 1478</date>
+          <type>tekening</type>
+          <format>geprepareerd papier</format>
+          <format>zilverstift</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.064(V)</identifier>
+        <datestamp>2020-04-20T12:11:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48750</identifier>
+          <identifier>RP-P-OB-22.064(V)</identifier>
+          <title>Harmonia en Cadmus</title>
+          <title>Cadmus cum Uxore in Serpentem</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Monogrammist H (16e eeuw)</contributor>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-546</identifier>
+        <datestamp>2020-09-12T23:21:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49002</identifier>
+          <identifier>RP-P-1988-546</identifier>
+          <title>Antipater verslaat de legers van Mithridates</title>
+          <title>Joodse geschiedenis</title>
+          <creator>anoniem</creator>
+          <contributor>Stimmer, Tobias</contributor>
+          <contributor>Rihel, Theodosius</contributor>
+          <date>1574</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.327</identifier>
+        <datestamp>2020-09-10T00:04:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49274</identifier>
+          <identifier>RP-P-OB-22.327</identifier>
+          <title>Maria met kind staande tussen twee heilige bisschoppen</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <contributor>Hochfeder, Kaspar</contributor>
+          <date>1497</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1988-465</identifier>
+        <datestamp>2021-01-28T13:29:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49286</identifier>
+          <identifier>RP-P-1988-465</identifier>
+          <title>Veldslag van Julius Caesar tegen de Galliërs</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <contributor>Grüninger, Johann</contributor>
+          <subject>Julius Caesar</subject>
+          <date>1508</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-572</identifier>
+        <datestamp>2021-10-02T12:18:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49532</identifier>
+          <identifier>RP-T-1948-572</identifier>
+          <title>Hoofd van jongen</title>
+          <creator>Barocci, Federico</creator>
+          <date>1540 - 1612</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RAK-1992-5</identifier>
+        <datestamp>2022-01-04T13:56:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49125</identifier>
+          <identifier>AK-RAK-1992-5</identifier>
+          <title>Kan</title>
+          <date>1200 - 1499</date>
+          <type>kan</type>
+          <type>ritueel object</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Java</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3724-C</identifier>
+        <datestamp>2021-10-02T12:18:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49162</identifier>
+          <identifier>BK-NM-3724-C</identifier>
+          <title>Fragment oosterse textiel, zijdeweefsel</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1850</date>
+          <type>gebrocheerde zijde</type>
+          <format>zijde</format>
+          <format>katoen</format>
+          <format>filégouddraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Indië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1916-216</identifier>
+        <datestamp>2020-09-24T02:51:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49174</identifier>
+          <identifier>RP-P-1916-216</identifier>
+          <title>Portret van Sebastianus Curtius</title>
+          <creator>Creutzberger, Paul</creator>
+          <creator>Strauch, Georg</creator>
+          <subject>Curtius, Sebastianus</subject>
+          <date>1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.764-C</identifier>
+        <datestamp>2021-02-06T02:35:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49638</identifier>
+          <identifier>RP-P-OB-17.764-C</identifier>
+          <title>Catalogus van honderd prenten uit het eerste deel van de serie</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>anoniem</creator>
+          <contributor>Boydell, John</contributor>
+          <subject>Lorrain, Claude</subject>
+          <date>1777</date>
+          <type>tekstblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1954-164A</identifier>
+        <datestamp>2019-09-09T16:22:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49687</identifier>
+          <identifier>RP-T-1954-164A</identifier>
+          <title>Naar rechts wijzende hand</title>
+          <creator>Correggio</creator>
+          <date>1508 - 1534</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.089(R)</identifier>
+        <datestamp>2020-04-20T12:11:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48799</identifier>
+          <identifier>RP-P-OB-22.089(R)</identifier>
+          <title>Erysichthon verkoopt zijn dochter</title>
+          <title>Erisichthon filiam vendit</title>
+          <creator>Solis, Virgilius</creator>
+          <contributor>Monogrammist H (16e eeuw)</contributor>
+          <contributor>Rab, Georg</contributor>
+          <contributor>Feyerabend, Sigmund</contributor>
+          <contributor>Han, erven Weigand</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+          <coverage>Frankfurt am Main</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.213</identifier>
+        <datestamp>2021-10-02T12:18:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.48962</identifier>
+          <identifier>RP-P-OB-22.213</identifier>
+          <title>Fabel van de krab en zijn moeder</title>
+          <creator>Solis, Virgilius</creator>
+          <date>1566</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1921-9</identifier>
+        <datestamp>2021-01-14T22:50:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49052</identifier>
+          <identifier>RP-P-1921-9</identifier>
+          <title>Portret van Humphrey Skelton</title>
+          <creator>Faber, John (II)</creator>
+          <contributor>Hysing, Hans</contributor>
+          <contributor>Sayer, Robert</contributor>
+          <contributor>Sayer, Robert</contributor>
+          <subject>Skelton, Humphrey</subject>
+          <date>1752</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxOTA4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

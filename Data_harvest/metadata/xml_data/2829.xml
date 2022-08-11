@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NjU2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1368</identifier>
+        <datestamp>2021-10-01T20:05:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1287</identifier>
+          <identifier>AK-MAK-1368</identifier>
+          <title>Ronde doos met een golfpatroon en bloesems</title>
+          <creator>anoniem</creator>
+          <date>ca. 1650</date>
+          <type>doos</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-43</identifier>
+        <datestamp>2021-11-02T08:20:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1866</identifier>
+          <identifier>AK-MAK-43</identifier>
+          <title>Applique</title>
+          <creator>anoniem</creator>
+          <date>500 - 600</date>
+          <type>applique</type>
+          <format>brons</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-251-A</identifier>
+        <datestamp>2022-05-09T14:05:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.468</identifier>
+          <identifier>BK-NM-5783-251-A</identifier>
+          <title>Onderrok met streepmotief</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>poppenkleding</type>
+          <type>onderrok</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-273</identifier>
+        <datestamp>2022-05-09T14:05:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.521</identifier>
+          <identifier>BK-NM-5783-273</identifier>
+          <title>Haardtang met ronde steel met ringversiering</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1799</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>haardtang</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-279</identifier>
+        <datestamp>2022-05-09T14:05:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.542</identifier>
+          <identifier>BK-NM-5783-279</identifier>
+          <title>Stoffer met haren aan twee zijden</title>
+          <creator>anoniem</creator>
+          <date>ca. 1675 - ca. 1699</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>stoffer</type>
+          <format>palissanderhout</format>
+          <format>varkenshaar</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-349</identifier>
+        <datestamp>2021-10-01T20:14:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1695</identifier>
+          <identifier>AK-MAK-349</identifier>
+          <title>Vier scènes met verschillende figuren</title>
+          <creator>Hokusai, Katsushika</creator>
+          <date>1800 - 1900</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1126</identifier>
+        <datestamp>2022-03-15T17:35:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1110</identifier>
+          <identifier>AK-MAK-1126</identifier>
+          <title>Zwaardstootplaat</title>
+          <creator>Kanaya Gorosaburo</creator>
+          <date>1868 - 1900</date>
+          <type>tsuba</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-508</identifier>
+        <datestamp>2022-05-16T09:50:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1148</identifier>
+          <identifier>AK-MAK-508</identifier>
+          <title>Geribde kom met bloemranken</title>
+          <creator>anoniem</creator>
+          <description>Kommen.
+Deze kommen werden gebruikt om thee uit te drinken. Ze hebben verschillende texturen op het oppervlak. Het Yaozhou-steengoed is beroemd om zijn celadon glazuur in olijfgroene tint, terwijl Jian- en Jizhou-steengoed beroemd zijn om hun zwarte glazuur. De kom met het
+marmeren patroon is gemaakt door twee verschillende soorten klei te mengen om zo Romeins glas te imiteren.</description>
+          <date>ca. 960 - ca. 1279</date>
+          <type>kom</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1992-72</identifier>
+        <datestamp>2017-01-16T12:13:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.98</identifier>
+          <identifier>RP-P-1992-72</identifier>
+          <title>Veldheer met zijn gevolg</title>
+          <creator>Busca, Antonio</creator>
+          <creator>anoniem</creator>
+          <contributor>Busca, Antonio</contributor>
+          <subject>de soldaat; het leven van een soldaat</subject>
+          <subject>Augustus (keizer van het Romeinse Rijk)</subject>
+          <date>1635 - 1686</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1199</identifier>
+        <datestamp>2021-10-01T20:14:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1727</identifier>
+          <identifier>AK-MAK-1199</identifier>
+          <title>Masker</title>
+          <creator>Mitsunaga</creator>
+          <description>Twee no-maskers voor de rol van Yase otoko. 
+Deze twee maskers zijn voor het personage van een sterk vermagerde man (Yase otoko), een geest die in het hiernamaals wordt gekweld. De holle ogen, ingevallen wangen en uitstekende jukbeenderen zijn voorgeschreven karakteristieken, maar toch zijn er subtiele
+verschillen in uitdrukking te zien; de individuele interpretatie die de maker het masker heeft meegegeven.</description>
+          <date>1600 - 1672</date>
+          <type>beeldhouwwerk</type>
+          <type>masker</type>
+          <format>hout</format>
+          <format>verfstof</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-205</identifier>
+        <datestamp>2021-10-01T20:25:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.2252</identifier>
+          <identifier>AK-MAK-205</identifier>
+          <title>Vasudhara</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1600</date>
+          <type>beeldhouwwerk</type>
+          <type>beeld</type>
+          <format>brons</format>
+          <format>verfstof</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nepal</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-223</identifier>
+        <datestamp>2021-10-01T19:59:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.954</identifier>
+          <identifier>AK-MAK-223</identifier>
+          <title>Hoofd van een nimf</title>
+          <title>Kop van een nimf</title>
+          <creator>anoniem</creator>
+          <date>1100 - 1200</date>
+          <type>beeldhouwwerk</type>
+          <type>hoofd</type>
+          <format>zandsteen</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Cambodja</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-229</identifier>
+        <datestamp>2021-10-01T19:59:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.960</identifier>
+          <identifier>AK-MAK-229</identifier>
+          <title>Boeddha op voetstuk</title>
+          <creator>anoniem</creator>
+          <date>1400 - 1600</date>
+          <type>beeldhouwwerk</type>
+          <type>beeld</type>
+          <type>Boeddha-beeld</type>
+          <format>hout</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Cambodja</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-292</identifier>
+        <datestamp>2021-10-01T20:15:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1821</identifier>
+          <identifier>RP-T-1963-292</identifier>
+          <title>Fragment van een antiek bouwwerk</title>
+          <creator>Nicolle, Victor Jean</creator>
+          <date>1787 - 1811</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-49</identifier>
+        <datestamp>2021-11-03T16:49:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1872</identifier>
+          <identifier>AK-MAK-49</identifier>
+          <title>Dolkbijl</title>
+          <creator>anoniem</creator>
+          <description>Deze jade imitatie van een bronzen dolkbijl was te kwetsbaar om mee te vechten. Dat maakt het aannemelijk dat dergelijke wapens bedoeld waren om militaire macht en status te tonen. Het kan ook zijn dat ze bestemd waren voor ceremonieel gebruik. Ze werden vaak meegegeven in het graf en misschien werden ze ook wel speciaal als grafgift gemaakt.</description>
+          <date>-1600 - -1000</date>
+          <type>ritueel object</type>
+          <type>mes (snijgereedschap)</type>
+          <format>jade</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1314</identifier>
+        <datestamp>2022-03-22T11:25:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1519</identifier>
+          <identifier>AK-MAK-1314</identifier>
+          <title>Sake-fles met geribde wand en een doorlopende bloemtak</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>fles</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9822</identifier>
+        <datestamp>2021-10-01T20:15:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1799</identifier>
+          <identifier>BK-NM-9822</identifier>
+          <title>Fragment van een kan met decoratieve banden, bloemen en een leeuwenkop</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1590 - ca. 1620</date>
+          <type>kan</type>
+          <type>fragment</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Raeren</coverage>
+          <coverage>Westerwald</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2018</identifier>
+        <datestamp>2021-10-01T20:15:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1812</identifier>
+          <identifier>BK-NM-2018</identifier>
+          <title>Kruik met medaillons en rozetten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1630</date>
+          <type>kruik</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Raeren</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RAK-1988-14</identifier>
+        <datestamp>2021-10-01T20:20:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.2057</identifier>
+          <identifier>AK-RAK-1988-14</identifier>
+          <title>Talam</title>
+          <creator>anoniem</creator>
+          <date>1300 - 1500</date>
+          <type>offerblad</type>
+          <type>talam</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Indonesië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RAK-1990-5</identifier>
+        <datestamp>2022-03-15T09:14:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.2069</identifier>
+          <identifier>AK-RAK-1990-5</identifier>
+          <title>Rinkelbel</title>
+          <creator>anoniem</creator>
+          <description>Geluid is cruciaal in hindoe-boeddhistische rituelen. Het trekt de aandacht, helpt bij de concentratie en zuivert de omgeving. In de bel, staand op een driekantige voet, zit een los balletje dat rinkelt als hij wordt bewogen.</description>
+          <date>930 - 1500</date>
+          <type>muziekinstrument</type>
+          <type>slaginstrument</type>
+          <type>rinkelbel</type>
+          <type>rammelaar</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Indonesië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NjU4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

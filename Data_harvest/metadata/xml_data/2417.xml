@@ -1,0 +1,516 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0ODMyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1964-3451</identifier>
+        <datestamp>2020-06-19T08:46:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117466</identifier>
+          <identifier>RP-P-1964-3451</identifier>
+          <title>Embleem van een dode leeuw</title>
+          <creator>Goeree, Jan</creator>
+          <contributor>Goeree, Jan</contributor>
+          <contributor>Tielenburg, Gerrit</contributor>
+          <subject>spreekwoorden, gezegden etc.</subject>
+          <date>1680 - 1731</date>
+          <date>1758</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-2222</identifier>
+        <datestamp>2016-10-20T21:05:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118780</identifier>
+          <identifier>RP-P-1918-2222</identifier>
+          <title>Nachtgezicht met een figuur in een boot</title>
+          <creator>Griendt, Cornelis van der</creator>
+          <date>1850</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.759</identifier>
+        <datestamp>2019-05-29T15:43:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117121</identifier>
+          <identifier>RP-P-OB-52.759</identifier>
+          <title>Arcadisch landschap met twee herders</title>
+          <title>Arcadische landschappen</title>
+          <creator>Glauber, Johannes</creator>
+          <contributor>Glauber, Johannes</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <date>1656 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-3582</identifier>
+        <datestamp>2019-06-21T16:50:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117437</identifier>
+          <identifier>RP-P-1910-3582</identifier>
+          <title>Portret van Elizabeth I, koningin van engeland</title>
+          <title>Titelpagina voor Gergorius Leti, Het leven van Elizabeth, koninginne van Engeland, 1720</title>
+          <title>Het leven van Elizabeth, koninginne van Engeland</title>
+          <creator>Goeree, Jan</creator>
+          <contributor>Goeree, Jan</contributor>
+          <contributor>Hoorn, Nicolaas ten</contributor>
+          <subject>Engeland</subject>
+          <subject>Elizabeth I Tudor (koningin van Engeland)</subject>
+          <date>1720</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1884-A-8024</identifier>
+        <datestamp>2020-03-26T15:41:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117787</identifier>
+          <identifier>RP-P-1884-A-8024</identifier>
+          <title>Landschap met de barmhartige Samaritaan met op zijn paard de gewonde reiziger</title>
+          <title>Landschappen met scènes uit de gelijkenis van de barmhartige Samaritaan</title>
+          <creator>Goltzius, Julius</creator>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Janssonius, Johannes</contributor>
+          <date>ca. 1560 - 1595</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-6601</identifier>
+        <datestamp>2016-10-20T21:04:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117592</identifier>
+          <identifier>RP-P-1905-6601</identifier>
+          <title>Drie eekhoorns in een landschap</title>
+          <title>Verschillende dieren</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Griffier, Jan (I)</contributor>
+          <contributor>Barlow, Francis</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Provincie Holland</contributor>
+          <date>1680 - 1723</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1883-A-7065G</identifier>
+        <datestamp>2021-05-28T16:14:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117655</identifier>
+          <identifier>RP-P-1883-A-7065G</identifier>
+          <title>Doornenkroning</title>
+          <title>De Passie</title>
+          <creator>Siceram, Ludovicus</creator>
+          <contributor>Vorsterman, Lucas (I)</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <date>1623</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-6871</identifier>
+        <datestamp>2019-05-29T15:41:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115382</identifier>
+          <identifier>RP-P-OB-6871</identifier>
+          <title>Allerheiligenvoorstelling</title>
+          <title>Omnes Sancti</title>
+          <creator>anoniem</creator>
+          <contributor>Galle, Theodoor</contributor>
+          <contributor>Galle, Cornelis (I)</contributor>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Galle, Joannes</contributor>
+          <date>1614 - 1676</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1978-76</identifier>
+        <datestamp>2016-10-20T21:03:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116739</identifier>
+          <identifier>RP-P-1978-76</identifier>
+          <title>Theater van het Geweld, 1577</title>
+          <title>Het herstel van de vrede in 1577</title>
+          <creator>Gheyn, Jacob de (I)</creator>
+          <contributor>Gheyn, Jacob de (I)</contributor>
+          <contributor>Gheyn, Jacob de (I)</contributor>
+          <contributor>Haecht, Willem van (I)</contributor>
+          <contributor>onbekend</contributor>
+          <contributor>Juan van Oostenrijk, Don</contributor>
+          <subject>Tachtigjarige Oorlog</subject>
+          <subject>Juan van Oostenrijk, Don</subject>
+          <date>1577</date>
+          <type>prent</type>
+          <type>propagandaprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1964-3391</identifier>
+        <datestamp>2019-05-27T16:52:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117480</identifier>
+          <identifier>RP-P-1964-3391</identifier>
+          <title>Twee heren op bezoek bij een geleerde</title>
+          <title>Titelpagina voor Willem Sewels, Groot woordenboek. Der Engelsche en Nederduytsche taalen, 1749</title>
+          <title>Groot Engelsch en Nederduytsch als mede Nederduitsch en Engelsch woordenboek</title>
+          <creator>Goeree, Jan</creator>
+          <contributor>Goeree, Jan</contributor>
+          <contributor>Beek, Jacob ter</contributor>
+          <subject>kostuum</subject>
+          <date>1749</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-4576</identifier>
+        <datestamp>2016-10-20T21:05:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117984</identifier>
+          <identifier>RP-P-1907-4576</identifier>
+          <title>Minerva geeft les aan enkele putti</title>
+          <creator>Gouwen, Gilliam van der</creator>
+          <contributor>Werff, Adriaen van der</contributor>
+          <date>1670 - ca. 1740</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-H-1356</identifier>
+        <datestamp>2021-09-16T12:22:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117191</identifier>
+          <identifier>RP-P-H-H-1356</identifier>
+          <title>Smeekbede van de heilige Rochus</title>
+          <title>Bijbelse, mythologische en allegorische voorstellingen</title>
+          <creator>Glauber, Johannes</creator>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Schenk, Leonard</contributor>
+          <date>1656 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.809</identifier>
+        <datestamp>2016-10-20T21:04:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117312</identifier>
+          <identifier>RP-P-OB-52.809</identifier>
+          <title>Rups, cocon en mot</title>
+          <creator>Goedaert, Johannes</creator>
+          <contributor>Fierens, Jacob</contributor>
+          <date>1662 - 1667</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Middelburg</coverage>
+          <coverage>Middelburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-1093</identifier>
+        <datestamp>2020-01-27T15:10:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118434</identifier>
+          <identifier>RP-T-00-1093</identifier>
+          <title>Schets van Christus tussen de schriftgeleerden</title>
+          <creator>Andriessen, Jurriaan</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1752 - 1819</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-3008</identifier>
+        <datestamp>2016-10-20T21:04:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117431</identifier>
+          <identifier>RP-P-1911-3008</identifier>
+          <title>Gezicht op de Sint-Antoniespoort en het Rondeel te Amsterdam</title>
+          <creator>Goeree, Jan</creator>
+          <contributor>anoniem</contributor>
+          <subject>Eerste Sint-Antoniespoort</subject>
+          <subject>Hotel Het Rondeel</subject>
+          <date>1723</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.868</identifier>
+        <datestamp>2016-10-20T21:04:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117517</identifier>
+          <identifier>RP-P-OB-52.868</identifier>
+          <title>Embleem: Baäl</title>
+          <title>Baal</title>
+          <creator>Goeree, Jan</creator>
+          <contributor>Goeree, Jan</contributor>
+          <contributor>Linden, Gerard onder de</contributor>
+          <contributor>Braam, Johannes van</contributor>
+          <date>1722</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-AO-7-42-2</identifier>
+        <datestamp>2016-10-20T21:04:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117529</identifier>
+          <identifier>RP-P-AO-7-42-2</identifier>
+          <title>Gezicht op de Koepoortsweg te Hoorn</title>
+          <creator>Goeree, Jan</creator>
+          <contributor>Pronk, Cornelis</contributor>
+          <contributor>Goeree, Jan</contributor>
+          <contributor>Duyn, Jacob Hoorn</contributor>
+          <subject>Koepoortsweg (Hoorn)</subject>
+          <date>1728</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Hoorn</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-60.024</identifier>
+        <datestamp>2019-05-29T15:44:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118063</identifier>
+          <identifier>RP-P-OB-60.024</identifier>
+          <title>Rivierlandschap met veerboot</title>
+          <creator>Cappelle, Jan van de</creator>
+          <contributor>Goyen, Jan van</contributor>
+          <contributor>Goyen, Jan van</contributor>
+          <contributor>Allard, Hugo (I)</contributor>
+          <date>1640 - 1684</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-60.025</identifier>
+        <datestamp>2019-05-29T15:44:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118092</identifier>
+          <identifier>RP-P-OB-60.025</identifier>
+          <title>Twee schapen en een geit</title>
+          <creator>Graat, Barend</creator>
+          <date>1638 - 1709</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-2160</identifier>
+        <datestamp>2021-10-02T13:14:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116150</identifier>
+          <identifier>RP-P-1910-2160</identifier>
+          <title>Plattegrond van Stavoren</title>
+          <title>Staveren</title>
+          <title>Amplissimis prudentisimis, virtue et dignitate praestantisimis Opp. Staveranae</title>
+          <creator>Geelkercken, Nicolaes van</creator>
+          <subject>Stavoren</subject>
+          <date>1616</date>
+          <type>prent</type>
+          <type>kaart</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0ODM0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

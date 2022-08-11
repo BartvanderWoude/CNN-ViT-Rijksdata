@@ -1,0 +1,461 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNTAw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-591</identifier>
+        <datestamp>2021-10-02T12:08:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36736</identifier>
+          <identifier>RP-P-OB-591</identifier>
+          <title>Kale man in profiel</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <subject>Rijn, Harmen Gerritsz. van</subject>
+          <description>De oude man op deze vier etsen wordt vanouds aangeduid als Rembrandts vader, Harmen Gerritsz van Rijn. Of hij het echt is blijft onzeker, maar opvallend is dat Rembrandt al deze prentjes maakte in 1630, het jaar waarin zijn vader overleed. Hij brengt de rimpelige huid zo nauwgezet in beeld dat het goed voorstelbaar is dat hij direct op de etsplaat werkte terwijl zijn model voor hem zat.</description>
+          <date>1630</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-651</identifier>
+        <datestamp>2021-02-09T09:58:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37075</identifier>
+          <identifier>RP-P-OB-651</identifier>
+          <title>Buste van een kale man</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>Vliet, Jan Gillisz. van</contributor>
+          <date>ca. 1631</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-209</identifier>
+        <datestamp>2021-07-13T13:25:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34901</identifier>
+          <identifier>RP-P-H-209</identifier>
+          <title>Christus en Maria en Johannes de Doper met heiligen Paulus en Catharina van Alexandrië</title>
+          <creator>anoniem</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <contributor>Romano, Giulio</contributor>
+          <contributor>Carenzanus, Antonius</contributor>
+          <contributor>Senaat van Rome</contributor>
+          <date>1520 - 1610</date>
+          <date>1610</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-A-8</identifier>
+        <datestamp>2019-05-09T15:34:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34411</identifier>
+          <identifier>RP-P-H-A-8</identifier>
+          <title>Zittende Maria met kind</title>
+          <creator>Mantegna, Andrea</creator>
+          <contributor>Mantegna, Andrea</contributor>
+          <date>1465 - 1475</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.908</identifier>
+        <datestamp>2021-07-13T14:20:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34660</identifier>
+          <identifier>RP-P-OB-11.908</identifier>
+          <title>Cleopatra halfnaakt liggend op bed</title>
+          <creator>Monogrammist HTA</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <contributor>Rafaël</contributor>
+          <subject>Cleopatra VII (koningin van Egypte)</subject>
+          <date>1525 - 1575</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-1961-168-6</identifier>
+        <datestamp>2022-03-02T15:15:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37121</identifier>
+          <identifier>BI-1961-168-6</identifier>
+          <title>Pieter Haringh</title>
+          <title>Recueil de quatre-vingt-cinq estampes originales</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Basan, Henry Louis</contributor>
+          <subject>Haringh, Pieter</subject>
+          <date>1655</date>
+          <date>1807 - 1808</date>
+          <type>prent</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-663</identifier>
+        <datestamp>2021-10-02T12:09:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36857</identifier>
+          <identifier>RP-P-OB-663</identifier>
+          <title>Man met kalotje: buste; de vader van Rembrandt (?)</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <subject>Rijn, Harmen Gerritsz. van</subject>
+          <date>1630</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1962-113</identifier>
+        <datestamp>2021-10-02T12:09:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36928</identifier>
+          <identifier>RP-P-1962-113</identifier>
+          <title>De grote Joodse bruid</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-729</identifier>
+        <datestamp>2021-10-02T12:09:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36934</identifier>
+          <identifier>RP-P-OB-729</identifier>
+          <title>Heilige Catharina</title>
+          <title>De kleine Joodse bruid</title>
+          <title>Saskia als de Heilige Catharina</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1638</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-375</identifier>
+        <datestamp>2021-10-02T12:05:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36272</identifier>
+          <identifier>RP-P-OB-375</identifier>
+          <title>De Pers</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <description>Deze prent heette al in de 18de eeuw ‘het Persiaantje’, omdat men onderkende dat de kleding van de man oosterse kenmerken heeft. Maar van echt Iraanse dracht is geen sprake. Ook al besteedde Rembrandt veel aandacht aan het weergeven van de stoffen, het blijft een bij elkaar gefantaseerde uitrusting. Feitelijk is dit een tronie, maar dan ten voeten uit.</description>
+          <date>1632</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-376</identifier>
+        <datestamp>2021-10-02T12:06:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36278</identifier>
+          <identifier>RP-P-OB-376</identifier>
+          <title>De blinde Tobias: schets</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>ca. 1629</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1900-A-4377</identifier>
+        <datestamp>2019-01-03T15:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36834</identifier>
+          <identifier>RP-T-1900-A-4377</identifier>
+          <title>Gezicht op 's-Gravenhage</title>
+          <creator>Cuyp, Aelbert</creator>
+          <subject>Den Haag</subject>
+          <date>1630 - 1691</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-741</identifier>
+        <datestamp>2021-10-02T12:09:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36951</identifier>
+          <identifier>RP-P-OB-741</identifier>
+          <title>Rembrandt's moeder zittend, met oosterse hoofdtooi: ten halven lijve</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <subject>Zuytbrouck, Neeltje Willemsdr.</subject>
+          <date>1631</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-1193</identifier>
+        <datestamp>2021-10-02T12:09:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36957</identifier>
+          <identifier>RP-P-1961-1193</identifier>
+          <title>Slapende oude vrouw</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <description>Is dit een man of een vrouw? In de vroege 18de eeuw zag men er een duttend mannetje in, maar later besloot men toch dat het om een vrouw moest gaan. Rembrandt sluit hier aan bij een 17de-eeuws genre van vrome besjes die boven de Bijbel in slaap zijn gevallen, het leesbrilletje nog in de hand.</description>
+          <date>ca. 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.347</identifier>
+        <datestamp>2019-05-29T14:43:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36301</identifier>
+          <identifier>RP-P-OB-12.347</identifier>
+          <title>Bedelaar en bedelares in gesprek</title>
+          <creator>anoniem</creator>
+          <creator>Rijn, Rembrandt van</creator>
+          <date>na 1630</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-1098</identifier>
+        <datestamp>2021-10-02T12:06:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36374</identifier>
+          <identifier>RP-P-1961-1098</identifier>
+          <title>De slapende herder</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <description>Het lijkt een onschuldige scène van een slapende oude man, maar dat is schijn. De herder en herderin zijn bezig met andere zaken dan het hoeden van koeien. Het paar houdt de oude man goed in de gaten, ook al maakt zijn aanwezigheid het spel juist spannender.</description>
+          <date>ca. 1644</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-207</identifier>
+        <datestamp>2019-05-09T15:35:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34489</identifier>
+          <identifier>RP-P-H-207</identifier>
+          <title>Heilige Familie onder een boog</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Michelangelo</contributor>
+          <date>1500 - 1530</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.948</identifier>
+        <datestamp>2021-07-13T13:39:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34704</identifier>
+          <identifier>RP-P-OB-11.948</identifier>
+          <title>Venus en Amor staand in nis</title>
+          <creator>anoniem</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <contributor>Rafaël</contributor>
+          <date>1510 - 1575</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.084</identifier>
+        <datestamp>2019-05-09T15:37:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34821</identifier>
+          <identifier>RP-P-OB-12.084</identifier>
+          <title>Heilige familie in Egypte</title>
+          <title>Leven van Maria</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Dürer, Albrecht</contributor>
+          <date>1510 - 1515</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.221</identifier>
+        <datestamp>2019-05-29T14:40:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.35045</identifier>
+          <identifier>RP-P-OB-12.221</identifier>
+          <title>Annunciatie</title>
+          <creator>Parmigianino</creator>
+          <contributor>Parmigianino</contributor>
+          <date>1524 - 1540</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNTIw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

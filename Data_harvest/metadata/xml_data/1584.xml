@@ -1,0 +1,463 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMTY2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12190-B</identifier>
+        <datestamp>2021-10-02T00:02:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15617</identifier>
+          <identifier>BK-NM-12190-B</identifier>
+          <title>Vierkante zak van zwart en wit gebloemde wijnrode zijde</title>
+          <date>1785 - 1800</date>
+          <type>zak</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9530</identifier>
+        <datestamp>2021-10-02T00:06:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15908</identifier>
+          <identifier>BK-NM-9530</identifier>
+          <title>Schenkkan in de vorm van een zittende man</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1775</date>
+          <type>schenkkan</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14496</identifier>
+        <datestamp>2021-11-03T16:53:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15160</identifier>
+          <identifier>BK-14496</identifier>
+          <title>Messenheft met voorstelling van Jonas en de Walvis</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1550 - ca. 1650</date>
+          <type>messenheft</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1972-107</identifier>
+        <datestamp>2021-10-01T23:56:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15209</identifier>
+          <identifier>BK-1972-107</identifier>
+          <title>Ronde doos met deksel</title>
+          <creator>Lantman, G.H.</creator>
+          <date>1910</date>
+          <type>doos</type>
+          <format>tombak</format>
+          <format>koper</format>
+          <format>fluweel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-75</identifier>
+        <datestamp>2021-10-02T00:05:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15807</identifier>
+          <identifier>BK-NM-12400-75</identifier>
+          <title>Blad met Abraham die Hagar wegstuurt</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1780</date>
+          <type>blad</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11115-B</identifier>
+        <datestamp>2021-10-01T23:54:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15069</identifier>
+          <identifier>BK-NM-11115-B</identifier>
+          <title>Haardijzer met een versiering bestaande uit het borstbeeld van een vrouw en een bol</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1625 - ca. 1650</date>
+          <type>haardijzer</type>
+          <format>messing</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14560-I-B</identifier>
+        <datestamp>2021-10-01T23:59:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15414</identifier>
+          <identifier>BK-14560-I-B</identifier>
+          <title>Schotel, beschilderd met de letter M, gevormd uit een bloemslinger</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>ca. 1778 - ca. 1782</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13337-A</identifier>
+        <datestamp>2022-01-26T11:23:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15720</identifier>
+          <identifier>BK-NM-13337-A</identifier>
+          <title>Onderschotel van veelkleurig beschilderde faience</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Halder, Jacobus Adriaens</contributor>
+          <date>1765 - 1768</date>
+          <type>schotel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9509</identifier>
+        <datestamp>2021-10-02T00:05:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15796</identifier>
+          <identifier>BK-NM-9509</identifier>
+          <title>Kandelaar</title>
+          <creator>anoniem</creator>
+          <date>1740 - 1770</date>
+          <type>kandelaar</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9528</identifier>
+        <datestamp>2021-10-02T00:09:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16065</identifier>
+          <identifier>BK-NM-9528</identifier>
+          <title>Blad</title>
+          <creator>anoniem</creator>
+          <date>ca. 1720 - ca. 1750</date>
+          <type>blad</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2428</identifier>
+        <datestamp>2021-11-03T16:52:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15044</identifier>
+          <identifier>BK-NM-2428</identifier>
+          <title>Komfoor van messing</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1400 - ca. 1500</date>
+          <type>komfoor</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-132-B</identifier>
+        <datestamp>2020-05-13T10:36:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15390</identifier>
+          <identifier>BK-1968-132-B</identifier>
+          <title>Delen van een koffie- en theeservies</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <description>Manufactuur Oud-Loosdrecht
+Loosdrecht, ca. 1778–1782
+porselein</description>
+          <date>ca. 1778 - ca. 1782</date>
+          <type>melkkan</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14380</identifier>
+        <datestamp>2021-10-02T00:04:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15771</identifier>
+          <identifier>BK-NM-14380</identifier>
+          <title>Bord</title>
+          <creator>anoniem</creator>
+          <date>1720 - 1750</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1982-81</identifier>
+        <datestamp>2021-10-01T23:53:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15006</identifier>
+          <identifier>BK-1982-81</identifier>
+          <title>Ring met het portret van Frederica Wilhelmina Louise van Oranje-Nassau</title>
+          <creator>Schepp, Johann Heinrich</creator>
+          <contributor>anoniem</contributor>
+          <subject>Louise (prinses van Oranje-Nassau)</subject>
+          <date>ca. 1790</date>
+          <type>sieraad</type>
+          <type>ring (sieraad)</type>
+          <format>goud</format>
+          <format>zilver</format>
+          <format>amethist</format>
+          <format>diamant</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-77-A</identifier>
+        <datestamp>2021-11-03T21:17:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15293</identifier>
+          <identifier>BK-1980-77-A</identifier>
+          <title>Paar manchetknopen van goud en groen email, met een robijn</title>
+          <creator>Kooten, Lodewijk Willem van (II)</creator>
+          <contributor>Nienhuis, Bert (I)</contributor>
+          <date>ca. 1908 - ca. 1911</date>
+          <type>sieraad</type>
+          <type>manchetknoop</type>
+          <format>goud</format>
+          <format>robijn</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12896</identifier>
+        <datestamp>2021-10-02T00:03:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15653</identifier>
+          <identifier>BK-NM-12896</identifier>
+          <title>Ring met zelfportret</title>
+          <creator>Picart, Bernard</creator>
+          <contributor>anoniem</contributor>
+          <subject>Picart, Bernard</subject>
+          <date>ca. 1725</date>
+          <date>ca. 1780 - ca. 1820</date>
+          <type>sieraad</type>
+          <type>ring (sieraad)</type>
+          <format>goud</format>
+          <format>glas</format>
+          <format>velijn</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-326</identifier>
+        <datestamp>2022-01-27T09:32:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16019</identifier>
+          <identifier>BK-NM-12400-326</identifier>
+          <title>Sauskom van veelkleurig beschilderde faïence</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>sauskom</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14561-U</identifier>
+        <datestamp>2021-10-01T23:58:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15316</identifier>
+          <identifier>BK-14561-U</identifier>
+          <title>Roompot, beschilderd met bloem- en bladtakken</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>ca. 1774 - ca. 1778</date>
+          <type>roompot</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-265</identifier>
+        <datestamp>2021-10-02T00:08:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16042</identifier>
+          <identifier>BK-NM-12400-265</identifier>
+          <title>Theepot</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Kocx, Pieter Adriaensz.</contributor>
+          <date>ca. 1705 - ca. 1720</date>
+          <type>theepot</type>
+          <format>faience</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2262</identifier>
+        <datestamp>2021-11-03T16:53:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15167</identifier>
+          <identifier>BK-NM-2262</identifier>
+          <title>Tang met het jaartal 1675</title>
+          <creator>anoniem</creator>
+          <date>1675</date>
+          <type>tang</type>
+          <format>messing</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Schotland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMTY4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

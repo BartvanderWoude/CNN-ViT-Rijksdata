@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNTQwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15603</identifier>
+        <datestamp>2021-10-02T01:32:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23206</identifier>
+          <identifier>BK-15603</identifier>
+          <title>Hoed van zwart gevlochten stro met bloemen versierd</title>
+          <creator>Faber, Jenny</creator>
+          <date>ca. 1910</date>
+          <type>dameskleding</type>
+          <type>hoed</type>
+          <format>strohalm</format>
+          <format>zijde</format>
+          <format>kunststof</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leipzig</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-802</identifier>
+        <datestamp>2021-10-02T01:36:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23429</identifier>
+          <identifier>BK-1980-802</identifier>
+          <title>Sprei van oosterse textiel met borduurwerk</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1875 - ca. 1890</date>
+          <type>beddengoed</type>
+          <type>sprei</type>
+          <type>textiel</type>
+          <format>katoen</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Oost-Europa</coverage>
+          <coverage>Turkije</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-789-H</identifier>
+        <datestamp>2021-10-02T01:36:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23469</identifier>
+          <identifier>BK-1980-789-H</identifier>
+          <title>Val van batist voor een toilettafel</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1920</date>
+          <type>val</type>
+          <format>batist</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16210</identifier>
+        <datestamp>2021-11-11T09:36:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22391</identifier>
+          <identifier>BK-16210</identifier>
+          <title>Oosters tapijt</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1820 - ca. 1825</date>
+          <type>Oosters tapijt</type>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Khila</coverage>
+          <coverage>Kutais</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-376</identifier>
+        <datestamp>2021-10-02T01:34:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23270</identifier>
+          <identifier>RP-T-1948-376</identifier>
+          <title>In het zwart geklede krijgsman, van voren en van achteren</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1600</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-283</identifier>
+        <datestamp>2021-11-11T09:38:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22511</identifier>
+          <identifier>BK-1975-283</identifier>
+          <title>Oosters tapijt</title>
+          <date>1800 - 1860</date>
+          <type>Oosters tapijt</type>
+          <type>bidkleed</type>
+          <type>kelim</type>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Klein-Azië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-275</identifier>
+        <datestamp>2021-11-11T09:38:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22518</identifier>
+          <identifier>BK-1975-275</identifier>
+          <title>Oosters tapijt</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>anoniem</contributor>
+          <date>1800 - 1900</date>
+          <type>Oosters tapijt</type>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Oost-Kaukasus</coverage>
+          <coverage>Shirvan</coverage>
+          <coverage>Dagestan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-363</identifier>
+        <datestamp>2019-08-01T09:32:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22766</identifier>
+          <identifier>BK-BR-J-363</identifier>
+          <title>Guimpe van applicatiekant met grove bloemkelkjes</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1910</date>
+          <type>kraag</type>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Sluis</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1970-252</identifier>
+        <datestamp>2021-10-02T01:32:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23151</identifier>
+          <identifier>BK-1970-252</identifier>
+          <title>Strook naaldkant met druiventakken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1820 - ca. 1830</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-13754-B</identifier>
+        <datestamp>2022-03-15T13:22:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23158</identifier>
+          <identifier>AK-NM-13754-B</identifier>
+          <title>Schotel met twee vechtende hanen tussen bloeiende planten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1725 - ca. 1749</date>
+          <type>kop-en-schotel</type>
+          <type>schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1976-232-A</identifier>
+        <datestamp>2021-11-11T13:16:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22316</identifier>
+          <identifier>BK-1976-232-A</identifier>
+          <title>Ondermouw van tule en kant</title>
+          <creator>anoniem</creator>
+          <date>ca. 1870 - ca. 1890</date>
+          <type>dameskleding</type>
+          <type>ondermouw</type>
+          <format>tule</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8720</identifier>
+        <datestamp>2021-11-03T16:56:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22638</identifier>
+          <identifier>BK-NM-8720</identifier>
+          <title>Knipslot</title>
+          <date>1600 - 1699</date>
+          <type>slot</type>
+          <type>knipslot</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14367-139</identifier>
+        <datestamp>2021-10-02T01:29:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22932</identifier>
+          <identifier>BK-NM-14367-139</identifier>
+          <title>Strook goudkant met boogjes- en waaierschulpen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1937</date>
+          <type>strook</type>
+          <format>gouddraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9999</identifier>
+        <datestamp>2021-11-03T19:21:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23319</identifier>
+          <identifier>BK-NM-9999</identifier>
+          <title>Luifelhoed (capote)</title>
+          <creator>anoniem</creator>
+          <description>De eerste luifelhoeden of capotes verschenen omstreeks 1805. Zij bleven tot ongeveer 1815 in de mode. De diepe luifels sloten rond het sluike kapsel en het gezicht, waardoor het blikveld van de draagster sterk werd beperkt. Om opzij te kunnen kijken moest zij haar hoofd draaien.</description>
+          <date>ca. 1805 - ca. 1815</date>
+          <type>luifelhoed</type>
+          <format>zijde</format>
+          <format>wol</format>
+          <format>satijn</format>
+          <format>touw</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1958-58</identifier>
+        <datestamp>2021-10-02T01:26:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22451</identifier>
+          <identifier>BK-1958-58</identifier>
+          <title>Hoekfragment van een oosters tapijt</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>anoniem</contributor>
+          <contributor>anoniem</contributor>
+          <date>1600 - 1650</date>
+          <type>Oosters tapijt</type>
+          <type>fragment</type>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Herat</coverage>
+          <coverage>Oost-Perzië</coverage>
+          <coverage>Iran</coverage>
+          <coverage>India</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12666</identifier>
+        <datestamp>2021-10-02T01:31:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23092</identifier>
+          <identifier>BK-NM-12666</identifier>
+          <title>Strook naaldkant met gekrulde veervormige bladeren</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1760</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-790-B</identifier>
+        <datestamp>2021-10-02T01:36:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23475</identifier>
+          <identifier>BK-1980-790-B</identifier>
+          <title>Gordijn van tule, met ranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1899</date>
+          <type>gordijn</type>
+          <format>tule</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-311</identifier>
+        <datestamp>2021-11-11T09:37:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22483</identifier>
+          <identifier>BK-1975-311</identifier>
+          <title>Dekkleed voor een kameel.</title>
+          <creator>Ersari volk</creator>
+          <date>1875 - 1900</date>
+          <type>Oosters tapijt</type>
+          <type>dekkleed (dier)</type>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Turkestan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-60</identifier>
+        <datestamp>2019-08-01T09:31:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22714</identifier>
+          <identifier>BK-BR-J-60</identifier>
+          <title>Japonstrook van kloskant met de schildvormige medaillons</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1850</date>
+          <type>strook</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bayeux</coverage>
+          <coverage>Caen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13251</identifier>
+        <datestamp>2021-10-02T01:28:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.22788</identifier>
+          <identifier>BK-NM-13251</identifier>
+          <title>Strook kloskant met cirkel in liggend boogje boven drie golflijnen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1860</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNTQyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

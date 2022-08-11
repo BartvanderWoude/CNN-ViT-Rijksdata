@@ -1,0 +1,563 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NjU2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1965-331</identifier>
+        <datestamp>2016-10-20T21:02:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114787</identifier>
+          <identifier>RP-P-1965-331</identifier>
+          <title>Heilige Hieronymus</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Cock, Hieronymus</contributor>
+          <date>1561</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-6764</identifier>
+        <datestamp>2022-01-24T11:55:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115288</identifier>
+          <identifier>RP-P-OB-6764</identifier>
+          <title>Heilige Dominicus met andere heiligen</title>
+          <title>Titelpagina voor: Augustino Galaminio, Vita et miracula S.P. Dominici praedicatorii ordinis primi institutoris, 1611</title>
+          <creator>Galle, Theodoor</creator>
+          <contributor>Jode, Pieter de</contributor>
+          <contributor>Nys, Joannes</contributor>
+          <contributor>Galaminio, Augustino</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <date>1611</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Polen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-3304</identifier>
+        <datestamp>2016-10-20T21:02:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114931</identifier>
+          <identifier>RP-P-1904-3304</identifier>
+          <title>Muren van Babylon</title>
+          <title>Babylonis Mvri</title>
+          <title>De acht wereldwonderen</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>Junius, Hadrianus</contributor>
+          <subject>Babylon</subject>
+          <date>1572</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14391</identifier>
+        <datestamp>2016-10-20T21:02:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114943</identifier>
+          <identifier>RP-P-1889-A-14391</identifier>
+          <title>Paard uit Armenië (Armenius)</title>
+          <title>Armenivs</title>
+          <title>Paardenrassen uit de Koninklijke stallen van Don Juan van Oostenrijk</title>
+          <title>Equile Ioannis Austriaci Caroli</title>
+          <creator>Wierix, Hieronymus</creator>
+          <contributor>Straet, Jan van der</contributor>
+          <contributor>Galle, Philips</contributor>
+          <subject>Armenië</subject>
+          <subject>Juan van Oostenrijk, Don</subject>
+          <date>ca. 1583 - ca. 1587</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Florence</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-69</identifier>
+        <datestamp>2021-12-06T14:02:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115182</identifier>
+          <identifier>RP-P-1910-69</identifier>
+          <title>Portret van Pietro Andrea Mattioli</title>
+          <title>Petrvs Andreas Matthiolvs Senensis</title>
+          <creator>anoniem</creator>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Arias Montanus, Benedictus</contributor>
+          <contributor>Galle, Philips</contributor>
+          <subject>Mattioli, Pietro Andrea</subject>
+          <date>1572 - 1662</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2444</identifier>
+        <datestamp>2019-05-23T16:04:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115194</identifier>
+          <identifier>RP-P-1906-2444</identifier>
+          <title>Portret van Cornelis Musius</title>
+          <title>Cornelivs Mvsivs Delphensis</title>
+          <title>Portretten van beroemde Nederlandse en Vlaamse geleerden</title>
+          <title>Illustrium Galliae Belgicae scriptorum icones et elogi</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>Raphelengius, Franciscus (I)</contributor>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <subject>Musius, Cornelis</subject>
+          <date>1604 - 1606</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-1050</identifier>
+        <datestamp>2021-10-02T13:14:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114450</identifier>
+          <identifier>RP-T-00-1050</identifier>
+          <title>Ontwerp voor behangselschildering</title>
+          <creator>Andriessen, Jurriaan</creator>
+          <date>ca. 1752 - ca. 1819</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>grafiet</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-1081</identifier>
+        <datestamp>2020-01-27T15:10:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114501</identifier>
+          <identifier>RP-T-00-1081</identifier>
+          <title>Allegorie op 't verbond van Zeevaart en Koophandel</title>
+          <creator>Andriessen, Jurriaan</creator>
+          <date>1752 - 1819</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-5931</identifier>
+        <datestamp>2016-10-20T21:02:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114538</identifier>
+          <identifier>RP-P-OB-5931</identifier>
+          <title>Huwelijk van Simson met de Filistijnse vrouw</title>
+          <title>Geschiedenis van Simson</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <date>1596 - 1633</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1965-421</identifier>
+        <datestamp>2016-10-20T21:02:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114587</identifier>
+          <identifier>RP-P-1965-421</identifier>
+          <title>Luiaard ligt te slapen</title>
+          <title>Verhaal van de luiaard</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Junius, Hadrianus</contributor>
+          <date>ca. 1565</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2440</identifier>
+        <datestamp>2019-05-23T16:04:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115131</identifier>
+          <identifier>RP-P-1906-2440</identifier>
+          <title>Portret van Mattheus van Galen</title>
+          <title>Matthaevs Galenvs</title>
+          <title>Portretten van beroemde Nederlandse en Vlaamse geleerden</title>
+          <title>Illustrium Galliae Belgicae scriptorum icones et elogi</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Mire, Aubert le</contributor>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <subject>Galen, Mattheus van</subject>
+          <date>1604 - 1608</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1912-744</identifier>
+        <datestamp>2020-03-24T15:25:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115231</identifier>
+          <identifier>RP-P-1912-744</identifier>
+          <title>Portret van Lieven van der Beke</title>
+          <title>Laevinvs Torrentivs</title>
+          <title>Portretten van beroemde geleerden</title>
+          <title>Imagines L. doctorum virorum</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Raphelengius, Franciscus (I)</contributor>
+          <contributor>Galle, Philips</contributor>
+          <subject>Torrentius, Laevinus</subject>
+          <date>1587</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-6910</identifier>
+        <datestamp>2016-10-20T21:02:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115237</identifier>
+          <identifier>RP-P-OB-6910</identifier>
+          <title>Portret van Andreas Vesalius</title>
+          <title>Andreas Vesalivs Brvxellensis</title>
+          <title>Portretten van beroemde Nederlandse en Vlaamse geleerden</title>
+          <title>Illustrium Galliae Belgicae scriptorum icones et elogi</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Calcar, Jan Stefan van</contributor>
+          <contributor>Arias Montanus, Benedictus</contributor>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <subject>Vesalius, Andreas</subject>
+          <date>1604 - 1608</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1898-A-19959</identifier>
+        <datestamp>2016-10-20T21:02:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114836</identifier>
+          <identifier>RP-P-1898-A-19959</identifier>
+          <title>Riviergod Ligeris</title>
+          <title>Ligeris</title>
+          <title>Rivier- en zeegoden</title>
+          <title>Semideorum Marinorum amnicorumque sigillariae imagines perelegantes</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Galle, Philips</contributor>
+          <subject>Loire</subject>
+          <date>1586</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-6835</identifier>
+        <datestamp>2019-01-14T16:31:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115331</identifier>
+          <identifier>RP-P-OB-6835</identifier>
+          <title>Boekdrukkunst</title>
+          <title>Nieuwe uitvindingen en ontdekkingen</title>
+          <title>Nova Reperta</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Straet, Jan van der</contributor>
+          <contributor>Galle, Philips</contributor>
+          <subject>gedrukt materiaal, boekdrukkunst</subject>
+          <date>ca. 1589 - ca. 1593</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Florence</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-6839</identifier>
+        <datestamp>2019-01-14T16:31:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115337</identifier>
+          <identifier>RP-P-OB-6839</identifier>
+          <title>Distillatie</title>
+          <title>Nieuwe uitvindingen en ontdekkingen</title>
+          <title>Nova Reperta</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Straet, Jan van der</contributor>
+          <contributor>Galle, Philips</contributor>
+          <date>ca. 1589 - ca. 1593</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Florence</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1985-231</identifier>
+        <datestamp>2016-10-20T21:02:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114595</identifier>
+          <identifier>RP-P-1985-231</identifier>
+          <title>Portret van Johannes Stradanus</title>
+          <title>Passie, dood en wederopstanding van Christus</title>
+          <title>Passio, mors et resurrection dn. Nostri Iesu Christ</title>
+          <creator>Wierix, Johannes</creator>
+          <contributor>Galle, Philips</contributor>
+          <subject>Straet, Jan van der</subject>
+          <date>1585 - 1586</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-438</identifier>
+        <datestamp>2016-10-20T21:02:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114693</identifier>
+          <identifier>RP-P-1961-438</identifier>
+          <title>Gabriël verschijnt aan Zacharias</title>
+          <title>Geschiedenis van Johannes de Doper</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>Junius, Hadrianus</contributor>
+          <date>1564</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14386</identifier>
+        <datestamp>2016-10-20T21:02:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114937</identifier>
+          <identifier>RP-P-1889-A-14386</identifier>
+          <title>Paard uit Bretagne (Brittanus)</title>
+          <title>Britannvs</title>
+          <title>Paardenrassen uit de Koninklijke stallen van Don Juan van Oostenrijk</title>
+          <title>Equile Ioannis Austriaci Caroli</title>
+          <creator>Wierix, Hieronymus</creator>
+          <contributor>Straet, Jan van der</contributor>
+          <contributor>Galle, Philips</contributor>
+          <subject>Bretagne</subject>
+          <subject>Juan van Oostenrijk, Don</subject>
+          <date>ca. 1583 - ca. 1587</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Florence</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-6907</identifier>
+        <datestamp>2020-03-26T15:50:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115188</identifier>
+          <identifier>RP-P-OB-6907</identifier>
+          <title>Portret van Benito Arias Montano</title>
+          <title>Benedictvs Arias Montanvs</title>
+          <title>Portretten van beroemde Europese geleerden</title>
+          <title>Virorum doctorum de disciplinis benemerentium effigies</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Pourbus, Frans (I)</contributor>
+          <contributor>Junius, Hadrianus</contributor>
+          <contributor>Galle, Philips</contributor>
+          <subject>Montano, Benito Arias</subject>
+          <date>1572</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NjU4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,441 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDY0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2104</identifier>
+        <datestamp>2021-11-03T16:58:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26107</identifier>
+          <identifier>BK-KOG-2104</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1200 - ca. 1300</date>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-712-A</identifier>
+        <datestamp>2021-10-02T11:41:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26917</identifier>
+          <identifier>BK-1978-712-A</identifier>
+          <title>Vest van katoen samengesteld uit vier stroken kantborduurwerk met opengewerkte margrieten</title>
+          <creator>Bosch Reitz-Teding van Berkhout, C.I.</creator>
+          <date>ca. 1860</date>
+          <type>vest</type>
+          <format>katoen</format>
+          <format>batist</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-159-16-A</identifier>
+        <datestamp>2021-08-19T17:08:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27273</identifier>
+          <identifier>BK-1984-159-16-A</identifier>
+          <title>Handschoen van zwart leer</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1915</date>
+          <type>kleding</type>
+          <type>handschoen</type>
+          <format>leer</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2257</identifier>
+        <datestamp>2021-11-03T16:59:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26259</identifier>
+          <identifier>BK-KOG-2257</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12980-B</identifier>
+        <datestamp>2021-10-02T11:41:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26644</identifier>
+          <identifier>BK-NM-12980-B</identifier>
+          <title>Strook kloskant met ruiten onder zigzag-lijn</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Buckingham</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-240-K</identifier>
+        <datestamp>2021-10-02T11:41:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26705</identifier>
+          <identifier>BK-1979-240-K</identifier>
+          <title>Vestknoop van kunststof met reliëf-ribbel, vast oogje en losse tegenklem</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1940</date>
+          <type>herenkleding</type>
+          <type>vestknoop</type>
+          <format>kunststof</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2143</identifier>
+        <datestamp>2021-11-03T16:58:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26146</identifier>
+          <identifier>BK-KOG-2143</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>pijpsleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2317</identifier>
+        <datestamp>2021-11-03T17:00:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26319</identifier>
+          <identifier>BK-KOG-2317</identifier>
+          <title>Pijpsleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>pijpsleutel</type>
+          <format>staal</format>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-238-I</identifier>
+        <datestamp>2021-11-03T19:23:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26742</identifier>
+          <identifier>BK-1979-238-I</identifier>
+          <title>Haarkam van zwartgelakt hout met langwerpige rechthoekige ajour gesneden rug</title>
+          <creator>anoniem</creator>
+          <date>ca. 1880 - ca. 1920</date>
+          <type>kam (haarsieraad)</type>
+          <format>hout</format>
+          <format>lak</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10297-1</identifier>
+        <datestamp>2021-10-02T11:41:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26852</identifier>
+          <identifier>BK-NM-10297-1</identifier>
+          <title>Gebreide muts van wit katoen met opengewerkte zigzagranden, waartussen een dichtgebreid motief</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>dameskleding</type>
+          <type>muts</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1879-A-1(R)</identifier>
+        <datestamp>2021-10-02T11:42:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27110</identifier>
+          <identifier>RP-T-1879-A-1(R)</identifier>
+          <title>IJsvermaak op de stadsgracht bij de Kalverhekkenpoort te Kampen</title>
+          <title>IJsvermaak op de stadsgracht bij de Hagenpoort te Kampen</title>
+          <creator>Avercamp, Hendrick</creator>
+          <subject>Hagenpoort</subject>
+          <date>voor 1607</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>dekverf</format>
+          <format>waterverf</format>
+          <format>grafiet</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kampen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2292</identifier>
+        <datestamp>2021-11-03T17:00:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26294</identifier>
+          <identifier>BK-KOG-2292</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1775 - ca. 1800</date>
+          <type>sleutel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1956-142</identifier>
+        <datestamp>2021-01-28T12:56:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26547</identifier>
+          <identifier>RP-T-1956-142</identifier>
+          <title>Herdersmeisje zittend achter een liggend rund</title>
+          <creator>Sandoz-Rollin, David Alphonse de</creator>
+          <date>1750 - 1809</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1958-3</identifier>
+        <datestamp>2021-10-02T11:42:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27077</identifier>
+          <identifier>RP-T-1958-3</identifier>
+          <title>Landschap met herders en koeien</title>
+          <creator>Almeloveen, Jan van</creator>
+          <contributor>Cuyp, Aelbert</contributor>
+          <date>1662 - 1690</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2020</identifier>
+        <datestamp>2021-11-03T16:58:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26023</identifier>
+          <identifier>BK-KOG-2020</identifier>
+          <title>Schuifsleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>schuifsleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BFR-386</identifier>
+        <datestamp>2022-04-21T10:55:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26381</identifier>
+          <identifier>BK-BFR-386</identifier>
+          <title>Torenkruis</title>
+          <creator>anoniem</creator>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>torenkruis</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-735-B</identifier>
+        <datestamp>2021-10-02T11:41:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26914</identifier>
+          <identifier>BK-1978-735-B</identifier>
+          <title>Mammelukkenmouw van fijn katoen met drie kanten tussenzetsels en een manchet van geappliceerde tule</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1805 - ca. 1810</date>
+          <type>dameskleding</type>
+          <type>ballonmouw</type>
+          <type>mammelukkenmouw</type>
+          <format>katoen</format>
+          <format>buckram</format>
+          <format>tule</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Ierland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2046</identifier>
+        <datestamp>2021-11-03T16:58:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26049</identifier>
+          <identifier>BK-KOG-2046</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1300 - ca. 1400</date>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1955-13</identifier>
+        <datestamp>2020-01-22T13:19:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26885</identifier>
+          <identifier>RP-T-1955-13</identifier>
+          <title>Gatcombe House op het eiland Wight</title>
+          <creator>Fielding, Anthony Vandyke Copley</creator>
+          <subject>Gatcombe House</subject>
+          <date>1827 - 1837</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-701</identifier>
+        <datestamp>2021-10-02T11:42:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26953</identifier>
+          <identifier>BK-1978-701</identifier>
+          <title>Modestie van dubbel genaaid batist, met een rand kloskant</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1875</date>
+          <type>dameskleding</type>
+          <type>modestie</type>
+          <format>batist</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDY2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,469 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NzA2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2011</identifier>
+        <datestamp>2021-10-01T21:31:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5684</identifier>
+          <identifier>SK-A-2011</identifier>
+          <title>Feestende Turkse hovelingen voor een tent</title>
+          <creator>Vanmour, Jean Baptiste</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Turkije</subject>
+          <description>Dit schilderij geeft een losbandig beeld van de hovelingen: links roken twee bewakers onverstoorbaar hun pijp, terwijl achter hen een gezelschap zich overgeeft aan vrijages, eten, drinken en muziek maken.</description>
+          <date>ca. 1720 - ca. 1737</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1727</identifier>
+        <datestamp>2021-11-29T22:16:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7482</identifier>
+          <identifier>SK-A-1727</identifier>
+          <title>Het beleg van Rhenen</title>
+          <creator>Meester van Rhenen</creator>
+          <contributor>Meester van de Heilige Elisabeth-Panelen</contributor>
+          <subject>politieke geschiedenis</subject>
+          <subject>wereldlijk gezag</subject>
+          <subject>Rhenen</subject>
+          <subject>Jan II (hertog van Kleef)</subject>
+          <description>Op 8 juli 1499 trokken soldaten van de hertog van Gelderland de Utrechtse stad Rhenen binnen en staken huizen in brand. Zo probeerde de hertog zijn macht uit te breiden. Maar zijn aanval mislukte en de Gelderse troepen trokken zich terug.</description>
+          <date>ca. 1499 - ca. 1525</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1326</identifier>
+        <datestamp>2022-06-01T16:18:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6222</identifier>
+          <identifier>SK-A-1326</identifier>
+          <title>Studie van een stier</title>
+          <creator>Brascassat, Jacques Raymond</creator>
+          <subject>diervoorstelling</subject>
+          <date>1830 - 1867</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2625</identifier>
+        <datestamp>2022-01-22T21:38:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5809</identifier>
+          <identifier>SK-A-2625</identifier>
+          <title>Vissers aan de Amstel te Amsterdam in de nabijheid van het buiten 'De Pauwentuin'</title>
+          <creator>Arentsz., Arent</creator>
+          <subject>Amstel</subject>
+          <subject>Pauwentuin</subject>
+          <subject>Amsterdam</subject>
+          <date>ca. 1625 - ca. 1630</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-91</identifier>
+        <datestamp>2022-03-15T09:16:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5893</identifier>
+          <identifier>SK-C-91</identifier>
+          <title>Het IJ voor Amsterdam met het fregat 'De Ploeg'</title>
+          <creator>Bakhuysen, Ludolf</creator>
+          <subject>marine</subject>
+          <date>1680 - 1708</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1986-2</identifier>
+        <datestamp>2021-10-01T22:07:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7311</identifier>
+          <identifier>RP-T-1986-2</identifier>
+          <title>Studie van een zittende jonge vrouw, naar links</title>
+          <creator>Jeaurat, Etienne</creator>
+          <date>1709 - 1789</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-818</identifier>
+        <datestamp>2022-01-26T12:52:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5921</identifier>
+          <identifier>SK-A-818</identifier>
+          <title>Portret van Belia Claesdr (1566-in of na 1652)</title>
+          <title>Portret van Belia Claesdr (1566-in of na 1652). Tweede echtgenote van Pieter Sebastiaensz Kettingh</title>
+          <creator>Sarburgh, Bartholomeaus</creator>
+          <contributor>Bartsius, Willem</contributor>
+          <subject>portret</subject>
+          <date>1630</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2445</identifier>
+        <datestamp>2021-10-01T22:15:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7771</identifier>
+          <identifier>SK-A-2445</identifier>
+          <title>Elisabeth Mauve (geb 1875), dochtertje van de kunstenaar</title>
+          <creator>Mauve, Anton</creator>
+          <subject>Mauve, Elisabeth</subject>
+          <date>1875 - 1888</date>
+          <type>aquarel</type>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-28</identifier>
+        <datestamp>2021-10-01T21:38:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5983</identifier>
+          <identifier>SK-A-28</identifier>
+          <title>IJsgezicht nabij een stad</title>
+          <creator>Berchem, Nicolaes Pietersz.</creator>
+          <subject>landschap</subject>
+          <date>1647</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3617</identifier>
+        <datestamp>2021-10-01T21:52:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6523</identifier>
+          <identifier>SK-A-3617</identifier>
+          <title>Stalinterieur</title>
+          <creator>Weissenbruch, Johan Hendrik</creator>
+          <subject>interieur</subject>
+          <date>1895</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3517</identifier>
+        <datestamp>2022-05-25T15:32:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5864</identifier>
+          <identifier>SK-A-3517</identifier>
+          <title>Portret van Sara de Bie</title>
+          <creator>Backer, Jacob Adriaensz.</creator>
+          <subject>Bie, Sara de</subject>
+          <description>Als pendant van het portret van Johannes Lutma schilderde de bekende portrettist Backer diens vrouw. Het kwam zelden voor dat een kunstenaar zich op deze manier samen met zijn vrouw liet portretteren. Het is duidelijk dat de edelsmid Lutma een hoge maatschappelijke
+status nastreefde. Niet alleen voor zichzelf, maar ook voor de kunst die hij beoefende.</description>
+          <date>1638 - 1651</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3990</identifier>
+        <datestamp>2022-06-01T16:28:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5948</identifier>
+          <identifier>SK-A-3990</identifier>
+          <title>Portret van een vrouw met een eekhoorntje</title>
+          <creator>Montemezzano, Francesco</creator>
+          <contributor>Beccaruzzi, Francesco</contributor>
+          <subject>portret</subject>
+          <date>1565 - 1575</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1784</identifier>
+        <datestamp>2021-10-01T21:42:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6147</identifier>
+          <identifier>SK-A-1784</identifier>
+          <title>Gerard Abrahamsz van der Schalcke (1609-67). Lakenkoopman te Haarlem</title>
+          <creator>Borch, Gerard ter (II)</creator>
+          <date>1644</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-485</identifier>
+        <datestamp>2022-04-04T19:11:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6597</identifier>
+          <identifier>SK-A-485</identifier>
+          <title>Paardenwed bij een grenspaal</title>
+          <creator>Wouwerman, Philips</creator>
+          <date>ca. 1651 - ca. 1654</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-101</identifier>
+        <datestamp>2021-10-01T21:38:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5998</identifier>
+          <identifier>SK-C-101</identifier>
+          <title>Het stadhuis op de Dam in Amsterdam</title>
+          <creator>Berckheyde, Gerrit</creator>
+          <subject>stadsgezicht</subject>
+          <description>Het stadhuis op de Dam (het huidige koninklijk paleis) geldt nog altijd als het belangrijkste historische en culturele monument uit de Gouden Eeuw. Het gebouw symboliseert de enorme groei en ontwikkeling van de stad Amsterdam. Gerrit Berckheyde heeft het stadhuis hier in al zijn glorie geportretteerd. Tegelijk geeft hij een indruk van de drukte en de bedrijvigheid op het centrale plein in de stad.</description>
+          <date>1693</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1543</identifier>
+        <datestamp>2022-05-03T13:11:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7419</identifier>
+          <identifier>SK-A-1543</identifier>
+          <title>Antonius Antonides van der Linden (1570-1633). Geneesheer te Amsterdam</title>
+          <creator>Meerman, Hendrik</creator>
+          <subject>Linden, Antonius Antonides van der</subject>
+          <date>1633</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2438</identifier>
+        <datestamp>2022-06-01T16:19:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7765</identifier>
+          <identifier>SK-A-2438</identifier>
+          <title>De Molen</title>
+          <creator>Weissenbruch, Johan Hendrik</creator>
+          <subject>landschap</subject>
+          <date>1870 - 1903</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-631</identifier>
+        <datestamp>2021-10-01T22:01:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6963</identifier>
+          <identifier>SK-A-631</identifier>
+          <title>Portret van een man, vermoedelijk Theodorus Rijswijk (1668-1729), schepen te Amsterdam</title>
+          <creator>Werff, Pieter van der</creator>
+          <subject>portret</subject>
+          <date>ca. 1700 - ca. 1722</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-586</identifier>
+        <datestamp>2021-10-01T21:34:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5834</identifier>
+          <identifier>SK-C-586</identifier>
+          <title>De vier regenten, de secretaris en de binnenvader van het Leprozenhuis te Amsterdam, 1773</title>
+          <title>Vier regenten van het Leprozenhuis te Amsterdam, 1773</title>
+          <creator>Augustini, Jacobus Luberti</creator>
+          <subject>portret</subject>
+          <date>1773</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4162</identifier>
+        <datestamp>2022-06-01T16:28:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5872</identifier>
+          <identifier>SK-A-4162</identifier>
+          <title>Isaac de l'Ostal de Saint-Martin (ca 1629-96). Raad ordinair van Nederlands Oost Indië en commandeur van het garnizoen in Batavia</title>
+          <creator>Baen, Jan de</creator>
+          <subject>portret</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>militaire geschiedenis</subject>
+          <subject>bestuur</subject>
+          <subject>Batavia</subject>
+          <subject>Ostal de Saint-Martin, Isaac de l'</subject>
+          <date>1650 - 1702</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NzA4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

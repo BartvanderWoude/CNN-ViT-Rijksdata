@@ -1,0 +1,505 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MDU4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5424</identifier>
+        <datestamp>2021-01-28T18:35:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89926</identifier>
+          <identifier>RP-P-BI-5424</identifier>
+          <title>Zittende beer van voren gezien</title>
+          <title>Beren</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Gheeraerts, Marcus (I)</contributor>
+          <subject>beer</subject>
+          <date>1664</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-16.132</identifier>
+        <datestamp>2021-01-28T17:35:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88949</identifier>
+          <identifier>RP-P-OB-16.132</identifier>
+          <title>Geseling van Christus</title>
+          <title>De Passie</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1619</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1893-A-18181</identifier>
+        <datestamp>2021-10-02T13:11:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89201</identifier>
+          <identifier>RP-P-1893-A-18181</identifier>
+          <title>Twee engeltjes tellen geld en twee engeltjes met rommel en fluit</title>
+          <title>Friezen met kinderen, engeltjes en dieren</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Londerseel, Assuerus van</contributor>
+          <date>1594</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5517</identifier>
+        <datestamp>2021-01-28T18:37:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90045</identifier>
+          <identifier>RP-P-BI-5517</identifier>
+          <title>Landschap met schaapskooi</title>
+          <title>Schuur met schapen en koeien</title>
+          <title>Landschappen, serie vier</title>
+          <creator>Kabel, Adriaen van der</creator>
+          <contributor>Kabel, Adriaen van der</contributor>
+          <contributor>Robert, N.</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>landschappen</subject>
+          <date>1648 - 1705</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-16.157</identifier>
+        <datestamp>2021-01-28T17:37:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89095</identifier>
+          <identifier>RP-P-OB-16.157</identifier>
+          <title>Twee olifanten</title>
+          <title>Animalivm qvadrvpedvm</title>
+          <title>Dieren in landschappen</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Londerseel, Assuerus van</contributor>
+          <date>1594</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5497</identifier>
+        <datestamp>2021-01-28T18:36:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90010</identifier>
+          <identifier>RP-P-BI-5497</identifier>
+          <title>Vlucht naar Egypte</title>
+          <title>Landschappen met schaapsherders</title>
+          <creator>Kabel, Adriaen van der</creator>
+          <contributor>Kabel, Adriaen van der</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1648 - 1705</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-56.835</identifier>
+        <datestamp>2021-11-30T17:29:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90287</identifier>
+          <identifier>RP-P-OB-56.835</identifier>
+          <title>Beleg van La Rochelle, september 1627-oktober 1628 (randwerk, deel linksonder)</title>
+          <title>Chasteau Dargencourt / Monsieur le Mareschal de Schomberg presentant les Anglois Captifs a sa Mayeste</title>
+          <creator>Bosse, Abraham</creator>
+          <contributor>Henriet, Israël</contributor>
+          <contributor>Callot, Jacques</contributor>
+          <subject>Beleg van La Rochelle</subject>
+          <subject>La Rochelle</subject>
+          <subject>Lodewijk XIII (koning van Frankrijk)</subject>
+          <subject>Richelieu, Armand-Jean du Plessis hertog van</subject>
+          <date>1628 - 1631</date>
+          <type>prent</type>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15323</identifier>
+        <datestamp>2021-01-28T18:40:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.90356</identifier>
+          <identifier>RP-P-1890-A-15323</identifier>
+          <title>Staande koe</title>
+          <creator>Camphuysen, Govert Dircksz.</creator>
+          <date>1640 - 1672</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5041</identifier>
+        <datestamp>2021-10-02T13:10:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88986</identifier>
+          <identifier>RP-P-BI-5041</identifier>
+          <title>Judit met het hoofd van Holofernes</title>
+          <title>Judit</title>
+          <title>Heldinnen</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Londerseel, Assuerus van</contributor>
+          <date>1581 - 1656</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-1876</identifier>
+        <datestamp>2021-01-28T17:36:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88998</identifier>
+          <identifier>RP-P-1878-A-1876</identifier>
+          <title>Geloof met kruis en bijbel in medaillon</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <contributor>Londerseel, Assuerus van</contributor>
+          <date>1581 - 1656</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1964-3412</identifier>
+        <datestamp>2021-01-28T17:44:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89732</identifier>
+          <identifier>RP-P-1964-3412</identifier>
+          <title>Vrouw inventariseert antieke opschriften</title>
+          <title>Titelpagina voor: Marquardus Gudius, Antiqvae inscriptiones</title>
+          <creator>Buysen, Andries van (Sr.)</creator>
+          <contributor>Ottens, Frederik</contributor>
+          <contributor>Ottens, Frederik</contributor>
+          <date>1731</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5474</identifier>
+        <datestamp>2021-01-28T18:36:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89983</identifier>
+          <identifier>RP-P-BI-5474</identifier>
+          <title>Rustende koe met halster</title>
+          <creator>Bye, Marcus de</creator>
+          <subject>koe</subject>
+          <date>1657 - 1688</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15308</identifier>
+        <datestamp>2021-01-28T17:35:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.88935</identifier>
+          <identifier>RP-P-1890-A-15308</identifier>
+          <title>Laatste avondmaal</title>
+          <title>De Passie</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Bruyn, Nicolaes de</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <contributor>Leyden, Lucas van</contributor>
+          <date>1618</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3699</identifier>
+        <datestamp>2021-01-28T17:44:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89746</identifier>
+          <identifier>RP-P-1906-3699</identifier>
+          <title>Huwelijksscène met Venus en Amor</title>
+          <creator>Buysen, Andries van (Sr.)</creator>
+          <contributor>anoniem</contributor>
+          <date>1723</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-13462</identifier>
+        <datestamp>2021-01-28T17:45:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89796</identifier>
+          <identifier>RP-P-1888-A-13462</identifier>
+          <title>Kop van rund</title>
+          <title>Koeien en schapen</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Potter, Paulus</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <date>1657 - ca. 1677</date>
+          <date>1761 - ca. 1850</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1898-A-20127</identifier>
+        <datestamp>2021-10-02T13:11:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89035</identifier>
+          <identifier>RP-P-1898-A-20127</identifier>
+          <title>Element lucht als jonge man staand op wolken met vogels in omlijsting met ornamenten</title>
+          <title>Vier elementen</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Londerseel, Assuerus van</contributor>
+          <subject>lucht (een van de vier elementen)</subject>
+          <date>1581 - 1656</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-16.153</identifier>
+        <datestamp>2018-09-05T10:08:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89041</identifier>
+          <identifier>RP-P-OB-16.153</identifier>
+          <title>Element Water</title>
+          <title>Aqua</title>
+          <title>De vier elementen</title>
+          <creator>Bruyn, Nicolaes de</creator>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Beusekom, Francoys van</contributor>
+          <date>1590 - 1603</date>
+          <date>1642 - 1665</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5335</identifier>
+        <datestamp>2021-01-28T17:44:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89689</identifier>
+          <identifier>RP-P-BI-5335</identifier>
+          <title>Vrouw met parasol</title>
+          <creator>Buys, Jacobus</creator>
+          <date>1740 - 1801</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.480</identifier>
+        <datestamp>2021-01-28T17:44:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89695</identifier>
+          <identifier>RP-P-OB-31.480</identifier>
+          <title>Koe en hond</title>
+          <creator>Buys, Jacobus</creator>
+          <contributor>Potter, Paulus</contributor>
+          <date>1740 - 1801</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5429</identifier>
+        <datestamp>2021-01-28T18:35:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.89934</identifier>
+          <identifier>RP-P-BI-5429</identifier>
+          <title>Twee schapen bij drinkbak</title>
+          <title>Schapen</title>
+          <creator>Bye, Marcus de</creator>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <subject>schaap</subject>
+          <date>1664</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MDYwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

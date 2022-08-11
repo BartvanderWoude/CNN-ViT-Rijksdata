@@ -1,0 +1,466 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NDY0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1965-93</identifier>
+        <datestamp>2021-12-02T14:40:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67063</identifier>
+          <identifier>RP-T-1965-93</identifier>
+          <title>Allegorie op de schilderkunst</title>
+          <title>De Schilderkons voor onder in de Schouw</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1800</date>
+          <type>tekening</type>
+          <type>ornamenttekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1979-269-H</identifier>
+        <datestamp>2021-10-02T12:51:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67497</identifier>
+          <identifier>NG-1979-269-H</identifier>
+          <title>Ballastlood uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>baar</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-374</identifier>
+        <datestamp>2021-01-28T14:30:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73654</identifier>
+          <identifier>RP-P-BI-374</identifier>
+          <title>Gezicht op een brug bij Arnhem</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <contributor>Schelfhout, Andreas</contributor>
+          <subject>Arnhem</subject>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1954-149(V)</identifier>
+        <datestamp>2021-01-28T13:38:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66937</identifier>
+          <identifier>RP-T-1954-149(V)</identifier>
+          <title>Schets van een plattegrond van een gebouw</title>
+          <creator>Piranesi, Giovanni Battista</creator>
+          <contributor>Galliari, Fabrizio</contributor>
+          <contributor>Sacchetti, Lorenzo</contributor>
+          <date>1730 - 1778</date>
+          <date>1719 - 1790</date>
+          <date>1769 - 1850</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1993-159</identifier>
+        <datestamp>2018-08-30T00:54:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67474</identifier>
+          <identifier>RP-P-1993-159</identifier>
+          <title>Klooster in een bos, op de voorgrond een lezende monnik</title>
+          <creator>Blechen, Karl Eduard Ferdinand Heinrich</creator>
+          <contributor>Blechen, Karl Eduard Ferdinand Heinrich</contributor>
+          <subject>lezen</subject>
+          <date>1823</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1944-540</identifier>
+        <datestamp>2021-01-28T14:13:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.72680</identifier>
+          <identifier>RP-P-1944-540</identifier>
+          <title>Christus aan het kruis</title>
+          <creator>Audenaerd, Robert van</creator>
+          <contributor>Maratta, Carlo</contributor>
+          <contributor>Collignon, François</contributor>
+          <date>1685 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-318</identifier>
+        <datestamp>2021-01-28T14:29:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73594</identifier>
+          <identifier>RP-P-BI-318</identifier>
+          <title>Riviergezicht bij nacht met volle maan</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-2760</identifier>
+        <datestamp>2021-01-28T14:35:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74041</identifier>
+          <identifier>RP-P-1904-2760</identifier>
+          <title>Allegorische voorstelling van de trouw</title>
+          <creator>Bakker, Frans de</creator>
+          <contributor>Entrop, Pieter Jan</contributor>
+          <date>1756 - 1767</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-19.775</identifier>
+        <datestamp>2022-03-02T15:23:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74755</identifier>
+          <identifier>RP-P-OB-19.775</identifier>
+          <title>Portret van een heer met bakkebaarden</title>
+          <creator>Taurel, Edouard</creator>
+          <date>1888</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.376</identifier>
+        <datestamp>2021-01-28T14:27:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73454</identifier>
+          <identifier>RP-P-OB-26.376</identifier>
+          <title>Christus toont zijn wonden aan een voor hem knielende man (de apostel Tomas?)</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-410</identifier>
+        <datestamp>2021-01-28T14:31:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73700</identifier>
+          <identifier>RP-P-BI-410</identifier>
+          <title>Landschap met herder en schapen bij een water</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-500</identifier>
+        <datestamp>2021-01-28T14:33:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73840</identifier>
+          <identifier>RP-P-BI-500</identifier>
+          <title>Apostel Filippus met crucifix</title>
+          <title>S. Philippus</title>
+          <title>Christus en Maria en heiligen</title>
+          <creator>Bailliu, Pieter de (I)</creator>
+          <contributor>Thulden, Theodoor van</contributor>
+          <contributor>Bailliu, Pieter de (I)</contributor>
+          <date>1623 - 1660</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1981-72</identifier>
+        <datestamp>2021-10-02T12:50:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66593</identifier>
+          <identifier>RP-T-1981-72</identifier>
+          <title>Liggende en een lopende hond</title>
+          <creator>Guardi, Francesco</creator>
+          <date>1722 - 1792</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1522</identifier>
+        <datestamp>2021-04-02T11:52:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67109</identifier>
+          <identifier>RP-F-00-1522</identifier>
+          <title>Antieke stele met vrouwfiguur</title>
+          <creator>Anderson (firma)</creator>
+          <subject>Rome</subject>
+          <date>1907 - 1950</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1954-203</identifier>
+        <datestamp>2021-10-02T12:51:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67177</identifier>
+          <identifier>RP-T-1954-203</identifier>
+          <title>Martelaarschap van Jakobus Major of Paulus</title>
+          <creator>Preti, Mattia</creator>
+          <contributor>anoniem</contributor>
+          <date>1623 - 1749</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-423(R)</identifier>
+        <datestamp>2021-10-02T12:51:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67305</identifier>
+          <identifier>RP-T-00-423(R)</identifier>
+          <title>Gewaadstudie</title>
+          <creator>Dyck, Anthony van</creator>
+          <date>1610 - 1641</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.369</identifier>
+        <datestamp>2016-10-20T20:21:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73106</identifier>
+          <identifier>RP-P-OB-26.369</identifier>
+          <title>Huis van tsaar Peter de Grote in Zaandam</title>
+          <title>Het huisje door czaar Peter den Grooten in den jare 1697 te Zaandam bewoond</title>
+          <creator>Baarsel, Cornelis van</creator>
+          <contributor>Baarsel, Willem Cornelis van</contributor>
+          <contributor>Monsieur MZ, T.</contributor>
+          <contributor>Vrijer, G. de</contributor>
+          <subject>Tsaar Peterhuisje</subject>
+          <subject>Peter I de Grote (tsaar van Rusland)</subject>
+          <date>1823</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zaandam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-361</identifier>
+        <datestamp>2021-01-28T14:30:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73640</identifier>
+          <identifier>RP-P-BI-361</identifier>
+          <title>Gezicht op een dorp met molens, op de voorgrond twee wandelaars</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <contributor>Himpel, Aarnout ter</contributor>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-364-B</identifier>
+        <datestamp>2019-08-01T09:44:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66840</identifier>
+          <identifier>BK-BR-J-364-B</identifier>
+          <title>Sierstuk voor een avondmantel van gemengde kant met rozenhaag</title>
+          <creator>Berkers, Martha</creator>
+          <contributor>Koninklijke Kantwerkschool 'Koningin Sophie der Nederlanden'</contributor>
+          <date>1915</date>
+          <type>sierstuk</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Sluis</coverage>
+          <coverage>Sluis</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-1547</identifier>
+        <datestamp>2021-01-28T14:03:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.72206</identifier>
+          <identifier>RP-P-1909-1547</identifier>
+          <title>Kinderen der zee</title>
+          <creator>Arendzen, Petrus Johannes</creator>
+          <contributor>Israëls, Jozef</contributor>
+          <date>1872 - 1909</date>
+          <type>prent</type>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NDY2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

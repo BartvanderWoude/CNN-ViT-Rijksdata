@@ -1,0 +1,463 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTI0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1901-A-22316</identifier>
+        <datestamp>2016-10-20T19:53:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46870</identifier>
+          <identifier>RP-P-1901-A-22316</identifier>
+          <title>Portret van een man, naar rechts</title>
+          <creator>Vaillant, Wallerant</creator>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.625</identifier>
+        <datestamp>2016-10-20T19:53:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47202</identifier>
+          <identifier>RP-P-OB-17.625</identifier>
+          <title>Slapende Amor</title>
+          <creator>anoniem</creator>
+          <contributor>Netscher, Caspar</contributor>
+          <contributor>Vaillant, Wallerant</contributor>
+          <date>1660 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-6888</identifier>
+        <datestamp>2019-05-23T15:55:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46560</identifier>
+          <identifier>RP-P-1910-6888</identifier>
+          <title>De heilige Jozef met het Christuskind</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Elsheimer, Adam</contributor>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3668</identifier>
+        <datestamp>2021-10-02T12:17:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46764</identifier>
+          <identifier>BK-NM-3668</identifier>
+          <title>Fragment veelkleurige zijden mexicaine</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1799</date>
+          <type>mexicaine</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1530</identifier>
+        <datestamp>2019-05-27T17:24:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47096</identifier>
+          <identifier>RP-P-1910-1530</identifier>
+          <title>Portret van de predikant Johan Gosewyn Everhart Alstein</title>
+          <creator>Vilsteren, Johannes van</creator>
+          <contributor>Vilsteren, Johannes van</contributor>
+          <contributor>Sadeleer, Frans</contributor>
+          <subject>Alstein, Johan Gozewijn Eberhard</subject>
+          <date>1741</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1538</identifier>
+        <datestamp>2019-05-23T15:55:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47108</identifier>
+          <identifier>RP-P-1910-1538</identifier>
+          <title>Portret van de predikant J. de Jager</title>
+          <creator>Vilsteren, Johannes van</creator>
+          <contributor>Nanning, Joan</contributor>
+          <contributor>Tielenburg, Gerrit</contributor>
+          <subject>Jager, Joannes de</subject>
+          <date>1740</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-110</identifier>
+        <datestamp>2019-05-23T15:54:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46407</identifier>
+          <identifier>RP-P-1909-110</identifier>
+          <title>Portret van Lodewijk XIV, koning van Frankrijk</title>
+          <creator>Somer, Jan van</creator>
+          <contributor>Le Brun, Charles</contributor>
+          <contributor>Wit, Frederik de</contributor>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1655 - 1706</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1891-A-16602</identifier>
+        <datestamp>2016-10-20T19:53:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46419</identifier>
+          <identifier>RP-P-1891-A-16602</identifier>
+          <title>Portret van Ludovicus Wolzogen</title>
+          <creator>Somer, Jan van</creator>
+          <contributor>anoniem</contributor>
+          <subject>Wolzogen, Ludovicus</subject>
+          <date>1655 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-6834</identifier>
+        <datestamp>2019-05-23T15:55:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46670</identifier>
+          <identifier>RP-P-1910-6834</identifier>
+          <title>Jongen in een atelier</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Vaillant, Wallerant</contributor>
+          <contributor>Vaillant, Wallerant</contributor>
+          <subject>lezen</subject>
+          <date>1650 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1894-A-18641</identifier>
+        <datestamp>2016-10-20T19:53:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46753</identifier>
+          <identifier>RP-P-1894-A-18641</identifier>
+          <title>Brief lezende man en vrouw</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Teniers, David (II)</contributor>
+          <contributor>Covens &amp; Mortier</contributor>
+          <subject>lezen</subject>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-155</identifier>
+        <datestamp>2016-10-20T19:53:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46916</identifier>
+          <identifier>RP-P-1911-155</identifier>
+          <title>Zich vlooiende vrouw</title>
+          <creator>Valck, Gerard</creator>
+          <contributor>Valck, Gerard</contributor>
+          <contributor>Musscher, Michiel van</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>1662 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.519</identifier>
+        <datestamp>2019-05-29T15:11:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47002</identifier>
+          <identifier>RP-P-OB-17.519</identifier>
+          <title>Portret van de dichter en predikant Guiljelmus Saldenus</title>
+          <creator>Verkolje, Jan (I)</creator>
+          <contributor>Verkolje, Jan (I)</contributor>
+          <subject>Saldenus, Guiljelmus</subject>
+          <date>1680</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1629</identifier>
+        <datestamp>2019-05-23T15:56:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47248</identifier>
+          <identifier>RP-P-1910-1629</identifier>
+          <title>Kop van een meisje met een kap</title>
+          <creator>anoniem</creator>
+          <date>1650 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-Q-4</identifier>
+        <datestamp>2018-11-16T10:17:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46606</identifier>
+          <identifier>RP-P-H-Q-4</identifier>
+          <title>Bordeelscène</title>
+          <title>De verloren zoon bij de hoeren</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Zijl, Gerard Pietersz. van</contributor>
+          <contributor>Vaillant, Wallerant</contributor>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.577</identifier>
+        <datestamp>2019-05-29T15:11:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47062</identifier>
+          <identifier>RP-P-OB-17.577</identifier>
+          <title>Vrouw in nachtkleding, met een kaars</title>
+          <creator>Verkolje, Nicolaas</creator>
+          <contributor>Verkolje, Nicolaas</contributor>
+          <contributor>Schalcken, Godfried</contributor>
+          <date>1683 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-561</identifier>
+        <datestamp>2022-01-20T16:12:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47654</identifier>
+          <identifier>RP-P-1958-561</identifier>
+          <title>Twee reizende muzikanten</title>
+          <creator>Busei, Kita</creator>
+          <contributor>Fukyu, Tofûbô</contributor>
+          <contributor>Hokugen, Kinryû</contributor>
+          <date>ca. 1825</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1891-A-16294</identifier>
+        <datestamp>2016-10-20T19:53:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46367</identifier>
+          <identifier>RP-P-1891-A-16294</identifier>
+          <title>Vioolspeler en fluitist</title>
+          <title>Muzikanten</title>
+          <creator>Somer, Jan van</creator>
+          <contributor>Brouwer, Adriaen</contributor>
+          <date>1655 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-114</identifier>
+        <datestamp>2016-10-20T19:53:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46618</identifier>
+          <identifier>RP-P-1911-114</identifier>
+          <title>Kaartspelend gezelschap</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Zijl, Gerard Pietersz. van</contributor>
+          <contributor>Wit, Frederik de</contributor>
+          <date>1658 - 1706</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-66</identifier>
+        <datestamp>2021-12-22T15:28:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46707</identifier>
+          <identifier>RP-P-1911-66</identifier>
+          <title>Buste van een donkere man</title>
+          <creator>Vaillant, Wallerant</creator>
+          <subject>personen van Afrikaanse oorsprong</subject>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-172</identifier>
+        <datestamp>2016-10-20T19:53:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46956</identifier>
+          <identifier>RP-P-1911-172</identifier>
+          <title>Lachende vrouw (het Gezicht)</title>
+          <title>De vijf zintuigen</title>
+          <creator>Verkolje, Jan (I)</creator>
+          <contributor>Staverenus, Petrus</contributor>
+          <date>1660 - 1693</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTI2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,505 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTQ0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1331</identifier>
+        <datestamp>2021-01-28T16:19:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81409</identifier>
+          <identifier>RP-P-BI-1331</identifier>
+          <title>Naakte sater met cimbalen</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Pape, Joos de</contributor>
+          <date>ca. 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1392</identifier>
+        <datestamp>2021-01-28T16:20:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81458</identifier>
+          <identifier>RP-P-BI-1392</identifier>
+          <title>Geitenhoeder</title>
+          <title>Pastorale scènes</title>
+          <title>Otia delectant</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Cornelis (II)</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>na ca. 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23882</identifier>
+        <datestamp>2021-01-28T16:24:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81743</identifier>
+          <identifier>RP-P-1903-A-23882</identifier>
+          <title>Jonge boer met mand</title>
+          <title>De kleine figuren</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>na 1635 - 1669</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1541</identifier>
+        <datestamp>2021-01-28T16:25:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81792</identifier>
+          <identifier>RP-P-BI-1541</identifier>
+          <title>Reuk</title>
+          <title>Odoratus</title>
+          <title>Vijf zintuigen</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <date>1632 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-816</identifier>
+        <datestamp>2021-01-28T16:27:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81915</identifier>
+          <identifier>RP-P-1905-816</identifier>
+          <title>De toren van de Nieuwe Kerk te Delft, voor de brand van 1536</title>
+          <title>Ware afbeeldinge van de Nieuwe Kercks tooren tot Delft soo als die sich vertoonde voor den grooten brant van den jare 1536 zijnde d'eerste steen daer van geleijt den 6 septemb 1396, door vier raedts-luijden van de Weth. met namen Arent Vrijdaghszoen Jacob Bartolomeuszoen, Jacob van Bleijswijck ende Heijnrio Bugghe</title>
+          <creator>Blois, Abraham de</creator>
+          <contributor>Smith, Pieter</contributor>
+          <contributor>Bon, Arnold</contributor>
+          <subject>Nieuwe Kerk</subject>
+          <date>1679 - 1680</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1811</identifier>
+        <datestamp>2021-01-28T16:27:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81964</identifier>
+          <identifier>RP-P-BI-1811</identifier>
+          <title>Vrouw met klein kind staat bij zittende oude man voor  arbeiderswoning</title>
+          <creator>Blommers, Bernardus Johannes</creator>
+          <date>1855 - 1914</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1418</identifier>
+        <datestamp>2022-03-31T15:18:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81602</identifier>
+          <identifier>RP-P-BI-1418</identifier>
+          <title>Uil met bril en boeken</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Hendrick</contributor>
+          <contributor>Bloemaert, Cornelis (II)</contributor>
+          <subject>lezen</subject>
+          <subject>dieren die zich als mensen gedragen</subject>
+          <date>ca. 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1525</identifier>
+        <datestamp>2021-01-28T16:24:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81766</identifier>
+          <identifier>RP-P-BI-1525</identifier>
+          <title>Lucht</title>
+          <title>Aer</title>
+          <title>De vier elementen</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <subject>lucht (een van de vier elementen)</subject>
+          <date>1632 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-563</identifier>
+        <datestamp>2021-01-28T16:27:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81941</identifier>
+          <identifier>RP-P-1878-A-563</identifier>
+          <title>Allegorie op de anatomie</title>
+          <title>Titelpagina voor: Willem Vink, Korte en klaare beschryving der beenderen en spieren van't menschen lighaam, Rotterdam 1732</title>
+          <title>Korte en klaare beschryving der beenderen, spieren en bloedtvaten des menschen lighaams</title>
+          <creator>Blokhuysen, Reynier</creator>
+          <date>1732</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.657</identifier>
+        <datestamp>2021-01-28T16:22:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81579</identifier>
+          <identifier>RP-P-OB-26.657</identifier>
+          <title>Veehoeders</title>
+          <title>Vier pastorale scènes</title>
+          <title>Otia delectant</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>in of na ca. 1625 - in of voor ca. 1630</date>
+          <date>in of na 1638 - in of na 1652</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1885-A-9606</identifier>
+        <datestamp>2021-01-28T16:30:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82207</identifier>
+          <identifier>RP-P-1885-A-9606</identifier>
+          <title>Herderinnen spelen een spel</title>
+          <title>Il pastor fido / Le berger fidele</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Webber, Zacharias (II)</contributor>
+          <contributor>Marteau, Pierre</contributor>
+          <date>ca. 1677</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Keulen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-574</identifier>
+        <datestamp>2021-01-28T16:32:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82660</identifier>
+          <identifier>RP-P-1878-A-574</identifier>
+          <title>Thomas verjaagt de verzoeking</title>
+          <title>Het leven van de heilige Thomas van Aquino</title>
+          <creator>Boel, Cornelis</creator>
+          <contributor>Veen, Otto van</contributor>
+          <contributor>Veen, Otto van</contributor>
+          <subject>Thomas van Aquino</subject>
+          <date>1610</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-3966</identifier>
+        <datestamp>2017-04-11T14:59:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82038</identifier>
+          <identifier>RP-P-1908-3966</identifier>
+          <title>Portret van Ottomaanse graaf Alberto Caprara met bontmuts</title>
+          <title>Albertvs comes Caprara (...) anno dom. MDCLXXXIII</title>
+          <creator>Blondeau, Jacques</creator>
+          <contributor>onbekend</contributor>
+          <contributor>Rossi, Giovanni Giacomo de'</contributor>
+          <subject>Caprara, Alberto</subject>
+          <date>1665 - 1698</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-5579</identifier>
+        <datestamp>2017-04-11T14:59:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82044</identifier>
+          <identifier>RP-P-1909-5579</identifier>
+          <title>Portret van kardinaal Carlo Stefano Anastasio Ciceri</title>
+          <title>Carolvs S.R.E. presbyter (...) die II septembris MDCLXXXVI</title>
+          <creator>Blondeau, Jacques</creator>
+          <contributor>Manganus, Marc.</contributor>
+          <contributor>Rossi, Giovanni Giacomo de'</contributor>
+          <subject>Ciceri, Carlo Stefano Anastasio</subject>
+          <date>1686 - 1698</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1246</identifier>
+        <datestamp>2021-01-28T16:18:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81335</identifier>
+          <identifier>RP-P-BI-1246</identifier>
+          <title>Annunciatie</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Lanfranco, Giovanni</contributor>
+          <contributor>Senaat van Rome</contributor>
+          <date>1633 - 1692</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1283</identifier>
+        <datestamp>2021-01-28T16:18:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81366</identifier>
+          <identifier>RP-P-BI-1283</identifier>
+          <title>De opwekking van Tabita door de apostel Petrus</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Guercino</contributor>
+          <contributor>Senaat van Rome</contributor>
+          <date>1664 - 1692</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1691</identifier>
+        <datestamp>2021-01-28T16:25:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81835</identifier>
+          <identifier>RP-P-BI-1691</identifier>
+          <title>Kust met rotsen</title>
+          <title>Kleine landschappen</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Frederick</contributor>
+          <date>na 1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-1047</identifier>
+        <datestamp>2021-10-02T13:10:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82087</identifier>
+          <identifier>RP-P-1909-1047</identifier>
+          <title>Portret van Goverd Bidloo</title>
+          <title>Godefridus Bidloo Med.ae Doct.r et Chirurgus (...)</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Six, Jan (1618-1700)</contributor>
+          <subject>Bidloo, Govard</subject>
+          <date>ca. 1680 - ca. 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-5206</identifier>
+        <datestamp>2021-01-28T16:17:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81201</identifier>
+          <identifier>RP-P-1905-5206</identifier>
+          <title>Allegorie met bijbelse scènes</title>
+          <title>Titelpagina voor: Bybelsche keurstoffen, Rotterdam 1732</title>
+          <title>Bybelsche Keurstoffen</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>Bleyswijck, François van</contributor>
+          <contributor>Losel, Philippus</contributor>
+          <date>1681 - 1732</date>
+          <date>1732</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1323</identifier>
+        <datestamp>2021-01-28T16:20:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81435</identifier>
+          <identifier>RP-P-BI-1323</identifier>
+          <title>Staande vrouw</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Pape, Joos de</contributor>
+          <date>ca. 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTQ2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

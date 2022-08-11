@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMDU4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-145</identifier>
+        <datestamp>2021-10-02T11:44:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27807</identifier>
+          <identifier>BK-1979-145</identifier>
+          <title>Strook kloskant met losse bloemenranken met reserve</title>
+          <creator>anoniem</creator>
+          <date>ca. 1640 - ca. 1660</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1901-A-4520(V)</identifier>
+        <datestamp>2021-10-02T11:46:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28133</identifier>
+          <identifier>RP-T-1901-A-4520(V)</identifier>
+          <title>Slapend jongetje</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1885-A-477(R)</identifier>
+        <datestamp>2021-10-22T14:33:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28504</identifier>
+          <identifier>RP-T-1885-A-477(R)</identifier>
+          <title>Oosterse geleerde aan een tafel</title>
+          <creator>Koninck, Salomon</creator>
+          <contributor>Bol, Ferdinand</contributor>
+          <date>1641 - 1656</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1930-18</identifier>
+        <datestamp>2021-10-02T11:48:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28559</identifier>
+          <identifier>RP-T-1930-18</identifier>
+          <title>Tobias en de engel nemen afscheid van Raguel</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <date>ca. 1650 - ca. 1655</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1958-59(V)</identifier>
+        <datestamp>2021-10-02T11:49:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28807</identifier>
+          <identifier>RP-T-1958-59(V)</identifier>
+          <title>Studie van een zwevende engel</title>
+          <creator>Domenichino</creator>
+          <subject>engelen</subject>
+          <date>1613 - 1623</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1897-A-3398</identifier>
+        <datestamp>2021-10-02T11:43:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27456</identifier>
+          <identifier>RP-T-1897-A-3398</identifier>
+          <title>Gezicht op de rand van de Ponte Rotto te Rome</title>
+          <creator>Asselijn, Jan</creator>
+          <subject>Ponte Rotto</subject>
+          <date>ca. 1660</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1897-A-3344</identifier>
+        <datestamp>2021-10-02T11:44:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27777</identifier>
+          <identifier>RP-T-1897-A-3344</identifier>
+          <title>Ruïne van de abdij van Rijnsburg</title>
+          <creator>Bisschop, Jan de</creator>
+          <subject>Abdij van Rijnsburg</subject>
+          <date>1649</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2046(V)</identifier>
+        <datestamp>2021-10-02T11:46:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28119</identifier>
+          <identifier>RP-T-1889-A-2046(V)</identifier>
+          <title>Studie van een op de rug geziene man</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <date>ca. 1629 - ca. 1630</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1969-211</identifier>
+        <datestamp>2021-10-02T11:49:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28750</identifier>
+          <identifier>RP-T-1969-211</identifier>
+          <title>Veldheer voor een koningin op haar troon</title>
+          <creator>Mehus, Lieven</creator>
+          <date>1660 - 1669</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1930-32(R)</identifier>
+        <datestamp>2021-10-02T11:46:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28142</identifier>
+          <identifier>RP-T-1930-32(R)</identifier>
+          <title>Een man helpt een ruiter te paard</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <description>Hier ging het Rembrandt vooral om de houding van de ruiter. Het paard en de man die de ruiter helpt zijn slechts fragmentarisch weergegeven. Rembrandt corrigeerde zichzelf keer op keer, waarbij hij met forse halen over de eerder gezette lijnen heen kraste. Deze zoekende werkwijze suggereert dat hij geen vooropgezet beeld voor ogen had en dat hij zijn verbeelding al tekenend de vrije loop kon laten gaan.</description>
+          <date>ca. 1640 - ca. 1641</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1930-30</identifier>
+        <datestamp>2021-10-02T11:48:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28607</identifier>
+          <identifier>RP-T-1930-30</identifier>
+          <title>De maaltijd te Emmaüs</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <date>ca. 1660</date>
+          <type>tekening</type>
+          <format>kardoespapier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1944-124</identifier>
+        <datestamp>2021-10-02T11:49:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28773</identifier>
+          <identifier>RP-T-1944-124</identifier>
+          <title>Marteling van een heilige</title>
+          <creator>Preti, Mattia</creator>
+          <subject>heiligen</subject>
+          <date>1656 - 1660</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-375-B-1</identifier>
+        <datestamp>2022-03-14T14:24:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27372</identifier>
+          <identifier>BK-1978-375-B-1</identifier>
+          <title>Mitaine van witte keperkatoen en linnen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>kleding</type>
+          <type>handschoen</type>
+          <format>katoen</format>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-424</identifier>
+        <datestamp>2022-05-25T13:35:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28333</identifier>
+          <identifier>BK-1973-424</identifier>
+          <title>Boa van witte en bruinzwarte struisveren met aan de uiteinden witte en zwarte zijden kwasten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1916</date>
+          <type>kleding</type>
+          <type>boa</type>
+          <format>struisvogelveer</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2133</identifier>
+        <datestamp>2021-10-02T11:48:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28701</identifier>
+          <identifier>RP-T-1889-A-2133</identifier>
+          <title>De heilige Margaretha van Cortona biedt knielend het Christuskind een boek aan</title>
+          <creator>Cortona, Pietro da</creator>
+          <description>Dat ook de heilige Margaretha afkomstig was uit Cortona, de geboorteplaats van de kunstenaar, was mogelijk voor hem de reden dit blad aan haar te wijden. Of de tekening als voorstudie voor een altaarstuk diende, is niet bekend. Wel werd ze later gebruikt voor een prent. Over de oorspronkelijk getekende cape van Margaretha was Pietro niet tevreden; hij plakte er een stukje papier overheen met een verbeterde versie.</description>
+          <date>ca. 1640</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-396</identifier>
+        <datestamp>2020-02-27T15:33:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28293</identifier>
+          <identifier>RP-T-1948-396</identifier>
+          <title>Zittende cavalier met hoed</title>
+          <creator>Berchem, Nicolaes Pietersz.</creator>
+          <date>1630 - 1683</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-728</identifier>
+        <datestamp>2021-10-02T11:47:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28370</identifier>
+          <identifier>RP-T-00-728</identifier>
+          <title>Cupido smeekt Jupiter om Psyche te mogen huwen</title>
+          <creator>Blijhooft, Zacharias</creator>
+          <date>1668</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-163</identifier>
+        <datestamp>2020-11-12T02:19:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28027</identifier>
+          <identifier>RP-T-00-163</identifier>
+          <title>Ruiter te paard, naar rechts</title>
+          <creator>anoniem</creator>
+          <contributor>Hondius, Hendrick (I)</contributor>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Straet, Jan van der</contributor>
+          <date>1590 - 1612</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1967-85</identifier>
+        <datestamp>2021-10-02T11:46:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28259</identifier>
+          <identifier>RP-T-1967-85</identifier>
+          <title>Amaryllis en Myrtillo</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <date>1648 - 1671</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1897-A-3333</identifier>
+        <datestamp>2021-11-29T23:19:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27420</identifier>
+          <identifier>RP-T-1897-A-3333</identifier>
+          <title>Man en een vrouw te paard bij een bergmeer</title>
+          <creator>Begeyn, Abraham Jansz</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>na 1656</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMDYwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

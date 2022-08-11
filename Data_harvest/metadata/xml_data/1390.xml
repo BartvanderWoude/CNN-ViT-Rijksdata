@@ -1,0 +1,492 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNzc4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4133</identifier>
+        <datestamp>2021-10-20T14:40:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66017</identifier>
+          <identifier>NG-VG-1-4133</identifier>
+          <title>P.G.C. Van Geusau, grootofficier van de loge "Groot Oosten van Nederland", penning aangeboden door de broeders van de loge "La Perseverance" te Maastricht aan hun voorzittend meester</title>
+          <creator>Wiener, Karel</creator>
+          <subject>sekte</subject>
+          <subject>vrijmetselarij</subject>
+          <subject>Maastricht</subject>
+          <subject>Geusau, jonkheer Chrétien Pierre Gerard</subject>
+          <date>1860</date>
+          <type>erepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1332</identifier>
+        <datestamp>2021-03-10T09:01:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65631</identifier>
+          <identifier>RP-F-00-1332</identifier>
+          <title>Portret van de schilder André Jozef Minguet, halffiguur</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Minguet, André-Joseph</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1361</identifier>
+        <datestamp>2021-03-10T09:01:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65736</identifier>
+          <identifier>RP-F-00-1361</identifier>
+          <title>Portret van de schilder Jan Swerts, halffiguur</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Swerts, Jan</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1364</identifier>
+        <datestamp>2021-03-10T09:01:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65750</identifier>
+          <identifier>RP-F-00-1364</identifier>
+          <title>Portret van de schilder Lodewijk Jan de Taeye, ten voeten uit</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>De Taeye, Louis</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1960-209(V)</identifier>
+        <datestamp>2021-08-16T14:15:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64846</identifier>
+          <identifier>RP-T-1960-209(V)</identifier>
+          <title>Vergezicht op Tor Sapienza, vanaf de bergen van Tivoli gezien; schetsen van gebouwen</title>
+          <creator>Wittel, Caspar van</creator>
+          <subject>Tor Sapienza</subject>
+          <subject>Rome</subject>
+          <subject>Italië</subject>
+          <date>1674 - 1736</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1981-62</identifier>
+        <datestamp>2021-10-02T12:49:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64978</identifier>
+          <identifier>RP-T-1981-62</identifier>
+          <title>Herders met een kudde</title>
+          <creator>Castiglione, Giovanni Benedetto</creator>
+          <date>1640 - 1645</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1964-13</identifier>
+        <datestamp>2021-10-02T12:50:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65705</identifier>
+          <identifier>RP-T-1964-13</identifier>
+          <title>Aanbidding der koningen</title>
+          <creator>Coli, Giovanni</creator>
+          <contributor>Gherardi, Filippo</contributor>
+          <contributor>anoniem</contributor>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>dekverf</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1891-A-2476</identifier>
+        <datestamp>2021-10-02T12:50:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65711</identifier>
+          <identifier>RP-T-1891-A-2476</identifier>
+          <title>Vliegende engeltjes met een doek</title>
+          <creator>Alberti, Cherubino</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Albani, Francesco</contributor>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>grafiet</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RAK-1991-11-C</identifier>
+        <datestamp>2021-10-02T12:49:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64746</identifier>
+          <identifier>AK-RAK-1991-11-C</identifier>
+          <title>Een schip met slapende bemanning</title>
+          <title>De wonderen van Mazu</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1800</date>
+          <type>albumblad</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1137</identifier>
+        <datestamp>2022-01-24T11:04:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64930</identifier>
+          <identifier>RP-F-00-1137</identifier>
+          <title>Restanten van het huis van Meleagro te Pompeï</title>
+          <title>Casa di Meleagro</title>
+          <title>Pompei</title>
+          <creator>Brogi, Giacomo</creator>
+          <contributor>Brogi, Giacomo</contributor>
+          <subject>Casa di Meleagro</subject>
+          <date>1864 - 1881</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pompeï</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1298</identifier>
+        <datestamp>2021-03-10T09:01:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65522</identifier>
+          <identifier>RP-F-00-1298</identifier>
+          <title>Portret van Gras, professor aan de Académie des Beaux-Arts te Antwerpen, halffiguur</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Gras (professor)</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4014</identifier>
+        <datestamp>2021-10-20T14:39:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65892</identifier>
+          <identifier>NG-VG-1-4014</identifier>
+          <title>Bouw van het Crystal Palace voor de internationale tentoonstelling van industrie te Londen, ter ere van Albert, prins van Saksen-Coburg-Gotha</title>
+          <creator>Ottley, John</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>tentoonstelling</subject>
+          <subject>internationale tentoonstelling</subject>
+          <subject>tentoonstellingsgebouw</subject>
+          <subject>industrie</subject>
+          <subject>Wereldtentoonstelling 1851 (Londen)</subject>
+          <subject>Crystal Palace</subject>
+          <subject>Albert (prins van Saksen-Coburg en Gotha)</subject>
+          <date>1851</date>
+          <type>historiepenning</type>
+          <format>legering</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Birmingham</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1961-120</identifier>
+        <datestamp>2021-01-12T11:56:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64769</identifier>
+          <identifier>RP-T-1961-120</identifier>
+          <title>Het Engelse oorlogsschip St. Michael</title>
+          <creator>Velde, Willem van de (II)</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>St. Michael (schip)</subject>
+          <date>1669 - 1707</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-396</identifier>
+        <datestamp>2018-09-05T10:05:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64892</identifier>
+          <identifier>RP-T-00-396</identifier>
+          <title>Het nieuwe stadhuis van Amsterdam, ca. 1655</title>
+          <creator>Ulft, Jacob van der</creator>
+          <subject>Nieuwe Kerk</subject>
+          <subject>Stadhuis van Amsterdam (1655-1808)</subject>
+          <date>1648 - 1689</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1312</identifier>
+        <datestamp>2021-03-10T09:01:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65571</identifier>
+          <identifier>RP-F-00-1312</identifier>
+          <title>Portret van de schilder Nicaise de Keyser, halffiguur</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>De Keyser, Nicaise</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1965-304</identifier>
+        <datestamp>2021-10-02T12:50:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65795</identifier>
+          <identifier>RP-T-1965-304</identifier>
+          <title>Vrouw bij het wapenschild van Oostenrijk</title>
+          <creator>anoniem</creator>
+          <subject>Oostenrijk</subject>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RAK-1991-6</identifier>
+        <datestamp>2022-03-02T15:21:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64702</identifier>
+          <identifier>AK-RAK-1991-6</identifier>
+          <title>De tuin van sereniteit</title>
+          <creator>Song Bolu</creator>
+          <description>Deze schildering toont het bezoek aan een geleerde door een vriend. Het vindt plaats in de tuin van zijn verblijf, waar hij een teruggetrokken leven leidt als kluizenaar. De kunstenaar probeerde geen echt landschap te verbeelden, maar maakte meer een geïdealiseerd portret van het
+leven van een kluizenaar.</description>
+          <date>1922</date>
+          <type>rolschildering</type>
+          <format>inkt</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Liquan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1968-72</identifier>
+        <datestamp>2021-10-02T12:49:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64970</identifier>
+          <identifier>RP-T-1968-72</identifier>
+          <title>Martelaarschap van H. Petrus Martyr</title>
+          <creator>Canuti, Domenico Maria</creator>
+          <date>1630 - 1684</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-435</identifier>
+        <datestamp>2019-01-03T16:27:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65126</identifier>
+          <identifier>RP-T-1953-435</identifier>
+          <title>Studie van een hand en een mand</title>
+          <title>Schetsbladen met figuurstudies</title>
+          <creator>anoniem</creator>
+          <date>1610 - 1630</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Verona</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12065-B</identifier>
+        <datestamp>2021-10-02T12:50:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.65307</identifier>
+          <identifier>BK-NM-12065-B</identifier>
+          <title>Tabula</title>
+          <creator>anoniem</creator>
+          <date>ca. 500 - ca. 699</date>
+          <type>tabula</type>
+          <format>linnen</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Egypte</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNzgwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

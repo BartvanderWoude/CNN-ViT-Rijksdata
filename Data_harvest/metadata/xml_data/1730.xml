@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDU4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15739-B</identifier>
+        <datestamp>2021-10-02T00:40:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18244</identifier>
+          <identifier>BK-15739-B</identifier>
+          <title>Mosterdpot met opengewerkte wand met gegraveerde bloemtakken</title>
+          <creator>Angermond, Gerrit Wilhelm</creator>
+          <date>1774</date>
+          <type>mosterdpot</type>
+          <format>zilver</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1959-23-B</identifier>
+        <datestamp>2022-05-12T10:16:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17496</identifier>
+          <identifier>BK-1959-23-B</identifier>
+          <title>Twee kannen</title>
+          <creator>Cooqus, John</creator>
+          <contributor>Vianen, Christiaen van</contributor>
+          <description>Tijdens de Engelse burgeroorlog (1642-1660) woonde Christiaen in Utrecht, maar daarna keerde hij terug naar Londen. Hij werkte er samen met John Cooqus, zijn latere schoonzoon. Vermoedelijk heeft Christiaen meegewerkt aan de linker kan. De rechter, die minder fraai is gedetailleerd, zal helemaal door Cooqus zijn gemaakt. Het kwabornament speelt in deze late werken nog een grote rol.</description>
+          <date>ca. 1660 - ca. 1665</date>
+          <type>kan</type>
+          <type>wijnkan</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5028</identifier>
+        <datestamp>2021-11-02T08:25:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18293</identifier>
+          <identifier>BK-NM-5028</identifier>
+          <title>Snuifdoos van zilver</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1725</date>
+          <type>snuifdoos</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17100</identifier>
+        <datestamp>2021-10-02T00:26:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17470</identifier>
+          <identifier>BK-17100</identifier>
+          <title>Spiegel, staand model, met geslepen randen en in een opengewerkte lijst van goud en zilver met ornamenten van parelmoer, bezet met granaten en carneool. Op achterzijde geschilderde Chinoiserieën</title>
+          <creator>anoniem</creator>
+          <contributor>Dinglinger, Johann Melchior</contributor>
+          <date>ca. 1700</date>
+          <type>meubilair</type>
+          <type>spiegel</type>
+          <format>goud</format>
+          <format>zilver</format>
+          <format>parelmoer</format>
+          <format>granaat (mineraal)</format>
+          <format>carneool</format>
+          <format>glas</format>
+          <format>amalgaam</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dresden</coverage>
+          <coverage>Dresden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11402</identifier>
+        <datestamp>2021-12-15T11:47:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18137</identifier>
+          <identifier>BK-NM-11402</identifier>
+          <title>Kan</title>
+          <creator>Vianen, Adam van (I)</creator>
+          <date>ca. 1620</date>
+          <type>kan</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15649-A</identifier>
+        <datestamp>2021-10-02T00:40:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18268</identifier>
+          <identifier>BK-15649-A</identifier>
+          <title>Sauskom, ovaal, met geschulpte iets oplopende zijden</title>
+          <creator>Swierinck, Hendrik</creator>
+          <date>1745</date>
+          <type>sauskom</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15759</identifier>
+        <datestamp>2021-10-02T00:42:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18333</identifier>
+          <identifier>BK-15759</identifier>
+          <title>Tafelbel</title>
+          <creator>Schiotling, Johannes</creator>
+          <date>1778</date>
+          <type>muziekinstrument</type>
+          <type>slaginstrument</type>
+          <type>klok (idiofoon)</type>
+          <type>bel</type>
+          <type>tafelbel</type>
+          <type>handklok</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9036-A</identifier>
+        <datestamp>2021-11-03T16:54:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17513</identifier>
+          <identifier>BK-NM-9036-A</identifier>
+          <title>Hengsel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>hengsel</type>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8979</identifier>
+        <datestamp>2021-10-02T00:44:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18445</identifier>
+          <identifier>BK-NM-8979</identifier>
+          <title>Zoutvat met bloem- en bladranken</title>
+          <creator>Marshoorn, Abraham</creator>
+          <date>1711</date>
+          <type>zoutvat</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-11</identifier>
+        <datestamp>2021-11-02T08:24:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17393</identifier>
+          <identifier>BK-1967-11</identifier>
+          <title>Parasolknop met Jugendstil-ornament.</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900</date>
+          <type>parasolknop</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17035-B</identifier>
+        <datestamp>2021-10-02T00:29:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17708</identifier>
+          <identifier>BK-17035-B</identifier>
+          <title>Ronde deksel</title>
+          <creator>Odiot, Jean Baptiste Claude</creator>
+          <date>ca. 1819</date>
+          <type>deksel</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16242</identifier>
+        <datestamp>2021-11-02T08:24:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17796</identifier>
+          <identifier>BK-16242</identifier>
+          <title>Snuifdoos met blauwe, translucide email</title>
+          <creator>anoniem</creator>
+          <date>ca. 1790 - ca. 1800</date>
+          <type>snuifdoos</type>
+          <format>goud</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zwitserland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12502</identifier>
+        <datestamp>2021-10-02T00:37:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18117</identifier>
+          <identifier>BK-NM-12502</identifier>
+          <title>Kandelaber, geschonken aan kapitein Cornelis Schrijver</title>
+          <creator>Mouritz, Pieter</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Schrijver, Cornelis</subject>
+          <subject>West-Indische Compagnie</subject>
+          <date>1738</date>
+          <type>kandelaber</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11444</identifier>
+        <datestamp>2021-10-02T00:41:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18287</identifier>
+          <identifier>BK-NM-11444</identifier>
+          <title>Snuifdoos met portret van Nicolaas Pancras</title>
+          <creator>Soumain, Jean</creator>
+          <contributor>Evrard, Perpète</contributor>
+          <subject>Pancras, Nicolaas</subject>
+          <date>1743</date>
+          <date>ca. 1725 - ca. 1727</date>
+          <type>snuifdoos</type>
+          <type>miniatuur</type>
+          <format>goud</format>
+          <format>zilver</format>
+          <format>diamant</format>
+          <format>carneool</format>
+          <format>waterverf</format>
+          <format>perkament</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2057</identifier>
+        <datestamp>2021-10-02T11:38:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26060</identifier>
+          <identifier>BK-KOG-2057</identifier>
+          <title>39 sleutels uit de collectie van Emmanuel Vita Israël</title>
+          <creator>anoniem</creator>
+          <description>De Amsterdamse apotheker en kunstverzamelaar Emmanuel Vita Israël schonk zijn collectie, met sleutels van de Romeinse oudheid tot de 19de eeuw, in 1937 aan het Koninklijk Oudheidkundig Genootschap. Naar eigen zeggen kwam zijn sleutelcollectie min of meer per toeval tot stand. Omdat hij een van de weinige verzamelaars was, wisten handelaren hem automatisch te vinden.</description>
+          <date>1200 - 1400</date>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1960-40</identifier>
+        <datestamp>2020-05-12T12:34:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26459</identifier>
+          <identifier>RP-T-1960-40</identifier>
+          <title>Bruid en bruidegom betreden een bruidsvertrek</title>
+          <creator>Kauffmann, Angelica</creator>
+          <date>1751 - 1807</date>
+          <type>tekening</type>
+          <format>geprepareerd papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1978-92</identifier>
+        <datestamp>2021-10-02T11:41:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26869</identifier>
+          <identifier>RP-T-1978-92</identifier>
+          <title>In de tuin van het Luxembourg, Parijs</title>
+          <creator>Edridge, Henry</creator>
+          <subject>Jardin du Luxembourg</subject>
+          <date>1819-06-19</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BFR-396</identifier>
+        <datestamp>2021-10-02T11:43:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27320</identifier>
+          <identifier>BK-BFR-396</identifier>
+          <title>Baksteen met borstbeeld van Karel V binnen een vensternis</title>
+          <creator>anoniem</creator>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <date>ca. 1500 - ca. 1600</date>
+          <type>baksteen</type>
+          <format>baksteen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2080</identifier>
+        <datestamp>2021-11-03T16:58:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26083</identifier>
+          <identifier>BK-KOG-2080</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1600</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2306</identifier>
+        <datestamp>2021-11-03T17:00:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.26308</identifier>
+          <identifier>BK-KOG-2306</identifier>
+          <title>Dubbele sleutel</title>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNDYwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

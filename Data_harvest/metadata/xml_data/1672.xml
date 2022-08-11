@@ -1,0 +1,448 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzQyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-291</identifier>
+        <datestamp>2021-10-02T00:37:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18081</identifier>
+          <identifier>RP-T-1953-291</identifier>
+          <title>Gezicht op Malaga vanuit het Noorden</title>
+          <creator>Dauzats, Adrien</creator>
+          <subject>Málaga</subject>
+          <date>1836-06</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14883</identifier>
+        <datestamp>2022-02-01T13:11:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18212</identifier>
+          <identifier>BK-14883</identifier>
+          <title>Kraantjeskan</title>
+          <creator>Diemen, Nicolaas van</creator>
+          <date>1756</date>
+          <type>kraantjeskan</type>
+          <format>zilver</format>
+          <format>ebbenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16559</identifier>
+        <datestamp>2021-10-02T00:40:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18218</identifier>
+          <identifier>BK-16559</identifier>
+          <title>Mand</title>
+          <creator>Horstman, Johannes</creator>
+          <contributor>Hennebo, Johannes</contributor>
+          <date>1772</date>
+          <type>mand</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3452</identifier>
+        <datestamp>2021-11-02T08:24:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17440</identifier>
+          <identifier>BK-NM-3452</identifier>
+          <title>Ovale schaal van zilver gedeeltelijk verguld</title>
+          <creator>Mannlich, Johann Heinrich</creator>
+          <date>1675 - 1700</date>
+          <type>schaal</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Augsburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9014-B</identifier>
+        <datestamp>2021-11-03T16:54:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17520</identifier>
+          <identifier>BK-NM-9014-B</identifier>
+          <title>Deurhengsel van vertind ijzer, versierd met graveringen en narrenkoppen</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1700</date>
+          <type>deurhengsel</type>
+          <type>deurbeslag</type>
+          <format>ijzer</format>
+          <format>tin</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15739-A</identifier>
+        <datestamp>2021-10-02T00:40:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18243</identifier>
+          <identifier>BK-15739-A</identifier>
+          <title>Mosterdpot met opengewerkte wand met bloemtakken</title>
+          <creator>anoniem</creator>
+          <date>1773</date>
+          <type>mosterdpot</type>
+          <format>zilver</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7978</identifier>
+        <datestamp>2021-10-02T00:42:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18317</identifier>
+          <identifier>BK-NM-7978</identifier>
+          <title>Jager met waldhoorn</title>
+          <creator>Sterzenbach, Gerard</creator>
+          <date>1761</date>
+          <type>tabaksdoos</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-38-A</identifier>
+        <datestamp>2021-10-02T00:26:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17497</identifier>
+          <identifier>BK-1955-38-A</identifier>
+          <title>Mosterdpot</title>
+          <creator>anoniem</creator>
+          <date>1908 - 1909</date>
+          <type>mosterdpot</type>
+          <format>zilver</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-413</identifier>
+        <datestamp>2021-11-03T23:47:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17612</identifier>
+          <identifier>BK-1978-413</identifier>
+          <title>Schuif met oog, mogelijk voor een halsfluweel</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850</date>
+          <type>sieraad</type>
+          <type>schuif</type>
+          <type>onderdeel</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16598-G</identifier>
+        <datestamp>2021-11-02T08:25:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18163</identifier>
+          <identifier>BK-16598-G</identifier>
+          <title>Lepeldoos van mahoniehout, rood gevoerd</title>
+          <creator>anoniem</creator>
+          <date>1868</date>
+          <type>doos</type>
+          <type>lepeldoos</type>
+          <format>zilver</format>
+          <format>fluweel</format>
+          <format>mahoniehout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15751-B</identifier>
+        <datestamp>2021-10-02T00:40:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18267</identifier>
+          <identifier>BK-15751-B</identifier>
+          <title>Sauskom met het gekroonde alliantiewapen Van Delen-Van Wijhe</title>
+          <creator>Wolffsen, Bernt</creator>
+          <date>1718 - 1719</date>
+          <type>sauskom</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijmegen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14423</identifier>
+        <datestamp>2021-10-02T00:43:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18394</identifier>
+          <identifier>BK-14423</identifier>
+          <title>Paar desserttrommels</title>
+          <creator>Rethmeyer, Diederik Willem</creator>
+          <description>Deze twee eenvoudige trommels zijn slechts versierd met een parelrandje. De vorm is bepaald door hun functie. Tijdens het dessert werd uit de ronde trommel beschuit geserveerd; in de rechthoekige zaten ‘oublies’, kleine opgerolde wafeltjes. Dergelijke zilveren desserttrommels komen vrijwel altijd in paren voor en zijn een typisch Nederlands verschijnsel. Hun vorm werd mogelijk afgeleid van simpelere voorbeelden van blik.</description>
+          <date>1791</date>
+          <type>trommel (houder)</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8779-C</identifier>
+        <datestamp>2021-11-03T16:54:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17571</identifier>
+          <identifier>BK-NM-8779-C</identifier>
+          <title>Deurhengsel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>deurhengsel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-3995</identifier>
+        <datestamp>2022-03-17T09:48:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17975</identifier>
+          <identifier>AK-NM-3995</identifier>
+          <title>Schotel met bloemtakken en ingegrifte bloembladeren</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1760</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11445</identifier>
+        <datestamp>2021-11-02T08:25:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18286</identifier>
+          <identifier>BK-NM-11445</identifier>
+          <title>Snuifdoos, rechthoekig, met een bolle wand</title>
+          <creator>Enzering, Barend</creator>
+          <date>1825</date>
+          <type>snuifdoos</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9053-B</identifier>
+        <datestamp>2021-11-03T16:54:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17512</identifier>
+          <identifier>BK-NM-9053-B</identifier>
+          <title>Hengsel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>hengsel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17034-A</identifier>
+        <datestamp>2021-10-02T00:30:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17709</identifier>
+          <identifier>BK-17034-A</identifier>
+          <title>Cloches (stolpen), glazenkoelers, soepterrine, sauskommen, peper-, zout- en mosterdvaten</title>
+          <creator>Odiot, Jean Baptiste Claude</creator>
+          <description>Een vertrouwelinge van de Russische keizerin bestelde een 140-delig servies, waarvan hier enkele onderdelen te zien zijn. Zilversmid Odiot, schilder Prud’hon en architect Cavelier presenteerden de modellen vol trots op de Franse natio-nale nijverheidstentoonstelling van 1819. Opvallend zijn de grote figuren, zoals de knielende engelen die de soep-terrine dragen. Zij zijn kenmerkend voor het late empire.</description>
+          <date>ca. 1819</date>
+          <type>sauskom</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16571</identifier>
+        <datestamp>2021-11-02T08:25:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17901</identifier>
+          <identifier>BK-16571</identifier>
+          <title>Naaidoos met inhoud</title>
+          <creator>anoniem</creator>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>naaidoos</type>
+          <type>naaigarnituur</type>
+          <format>goud</format>
+          <format>schildpad</format>
+          <format>ivoor</format>
+          <format>parelmoer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12503</identifier>
+        <datestamp>2021-10-02T00:37:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18118</identifier>
+          <identifier>BK-NM-12503</identifier>
+          <title>Kandelaber, geschonken aan kapitein Cornelis Schrijver</title>
+          <creator>Mouritz, Pieter</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Schrijver, Cornelis</subject>
+          <subject>West-Indische Compagnie</subject>
+          <date>1738</date>
+          <type>kandelaber</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17044</identifier>
+        <datestamp>2021-10-02T00:42:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18323</identifier>
+          <identifier>BK-17044</identifier>
+          <title>Tabakspot, rond, versierd met opgelegde guirlandes en medaillons, met los deksel</title>
+          <creator>Verschuur, Wouterus (zilversmid)</creator>
+          <date>1791</date>
+          <type>tabakspot</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzQ0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

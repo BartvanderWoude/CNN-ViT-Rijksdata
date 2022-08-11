@@ -1,0 +1,456 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzc4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12964</identifier>
+        <datestamp>2021-11-03T16:55:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20556</identifier>
+          <identifier>BK-NM-12964</identifier>
+          <title>Suikerdoos</title>
+          <date>1600 - 1699</date>
+          <type>suikerdoos</type>
+          <format>ijzer</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-770-D</identifier>
+        <datestamp>2021-05-20T16:11:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20635</identifier>
+          <identifier>BK-1980-770-D</identifier>
+          <title>Matrasomhang</title>
+          <creator>anoniem</creator>
+          <date>1720 - 1740</date>
+          <type>matrasomhang</type>
+          <type>beddengoed</type>
+          <type>zijdeweefsel</type>
+          <format>zijde</format>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kanton</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1982-86-B</identifier>
+        <datestamp>2021-12-13T16:05:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19839</identifier>
+          <identifier>BK-1982-86-B</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1550 - 1599</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-337</identifier>
+        <datestamp>2021-10-02T01:06:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19926</identifier>
+          <identifier>BK-1978-337</identifier>
+          <title>Hoed van lichtblauw vilt, met strik van satijn opgemaakt</title>
+          <creator>Charles</creator>
+          <date>ca. 1950</date>
+          <type>dameskleding</type>
+          <type>hoed</type>
+          <format>vilt</format>
+          <format>satijn</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Californië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-6758-B</identifier>
+        <datestamp>2021-10-02T01:07:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19996</identifier>
+          <identifier>AK-NM-6758-B</identifier>
+          <title>Peervormige dekselpot met kostbaarheden en bloemtakken</title>
+          <creator>anoniem</creator>
+          <subject>Royer, Jean Theodore</subject>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>dekselpot</type>
+          <type>dekselvaas</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1955-141(R)</identifier>
+        <datestamp>2021-10-02T01:09:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20580</identifier>
+          <identifier>RP-T-1955-141(R)</identifier>
+          <title>Vermenigvuldiging der broden door Christus</title>
+          <creator>Schwarz, Christoph</creator>
+          <date>1555 - 1592</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-6591-B</identifier>
+        <datestamp>2022-03-15T13:17:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19955</identifier>
+          <identifier>AK-NM-6591-B</identifier>
+          <title>Beeld van een Chinees paar</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1770</date>
+          <type>beeld</type>
+          <type>figuur</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-558</identifier>
+        <datestamp>2021-08-19T16:59:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20169</identifier>
+          <identifier>BK-1980-558</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1890 - 1914</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bielefeld</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1983-88-C</identifier>
+        <datestamp>2021-08-19T16:59:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20175</identifier>
+          <identifier>BK-1983-88-C</identifier>
+          <title>Servet van wit linnendamast</title>
+          <date>1717</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-102-B</identifier>
+        <datestamp>2021-11-11T09:35:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20681</identifier>
+          <identifier>BK-1955-102-B</identifier>
+          <title>De vernietiging van het paleis van Armide</title>
+          <title>Fragments d'Opéra</title>
+          <creator>Manufacture Royale des Gobelins</creator>
+          <contributor>Monmerqué, Mathieu</contributor>
+          <contributor>Coypel, Charles-Antoine</contributor>
+          <contributor>Perrot, Pierre Josse</contributor>
+          <date>ca. 1741 - ca. 1748</date>
+          <type>wandtapijt</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-543-B</identifier>
+        <datestamp>2021-08-19T16:59:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20146</identifier>
+          <identifier>BK-1980-543-B</identifier>
+          <title>Servet van wit linnendamast</title>
+          <creator>Spanjaard, S.J.</creator>
+          <date>1859</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Borne</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-546-B</identifier>
+        <datestamp>2021-08-19T16:59:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20152</identifier>
+          <identifier>BK-1980-546-B</identifier>
+          <title>Servet van wit linnendamast</title>
+          <creator>Spanjaard, S.J.</creator>
+          <date>1859</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Borne</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-388-C</identifier>
+        <datestamp>2021-08-19T17:00:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20270</identifier>
+          <identifier>BK-1980-388-C</identifier>
+          <title>Servet van wit linnendamast</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1770 - 1795</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-8-B</identifier>
+        <datestamp>2021-08-19T17:00:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20320</identifier>
+          <identifier>BK-1975-8-B</identifier>
+          <title>Servet van linnen met pellenpatroon</title>
+          <date>1700 - 1800</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-100-D</identifier>
+        <datestamp>2021-11-11T09:35:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20656</identifier>
+          <identifier>BK-1955-100-D</identifier>
+          <title>Koning Thaos en de godin Athena</title>
+          <title>De geschiedenis van Iphigenia en Orestes</title>
+          <creator>Cracht, Pieter de</creator>
+          <contributor>Cracht, Pieter de</contributor>
+          <contributor>Bray, Salomon de</contributor>
+          <date>ca. 1648 - ca. 1662</date>
+          <type>wandtapijt</type>
+          <format>wol</format>
+          <format>wol</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Gouda</coverage>
+          <coverage>Schoonhoven</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-230</identifier>
+        <datestamp>2019-08-01T09:24:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20837</identifier>
+          <identifier>BK-BR-J-230</identifier>
+          <title>Strook van applicatiekant met bijou op de slingers voor een crinoline-japon</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1860</date>
+          <type>strook</type>
+          <type>japonstrook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-533-C</identifier>
+        <datestamp>2021-08-19T16:59:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20126</identifier>
+          <identifier>BK-1980-533-C</identifier>
+          <title>Servet van linnen met pellenpatroon</title>
+          <creator>Stoop &amp; Cie, Ch.</creator>
+          <date>1888 - 1894</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Strijp</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-401-A</identifier>
+        <datestamp>2021-08-19T17:00:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20296</identifier>
+          <identifier>BK-1980-401-A</identifier>
+          <title>Servet van linnen met pellenpatroon</title>
+          <date>1680 - 1710</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-683</identifier>
+        <datestamp>2021-10-02T01:06:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19985</identifier>
+          <identifier>RP-T-00-683</identifier>
+          <title>Trots</title>
+          <title>Ontwerptekeningen voor de prentenserie De Zeven Hoofdzonden</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <date>1550 - 1552</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1982-90</identifier>
+        <datestamp>2021-08-19T16:58:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.20072</identifier>
+          <identifier>BK-1982-90</identifier>
+          <title>Tafellaken</title>
+          <date>1746</date>
+          <type>tafellaken</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMzgwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

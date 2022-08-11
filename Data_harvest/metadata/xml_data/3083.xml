@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTY0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2884</identifier>
+        <datestamp>2016-10-20T19:49:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42953</identifier>
+          <identifier>RP-P-1906-2884</identifier>
+          <title>Portret van Johannes ab Almeloveen</title>
+          <creator>Almeloveen, Jan van</creator>
+          <contributor>Henninius, Henricus Christianus</contributor>
+          <subject>Almeloveen, Johannes ab</subject>
+          <date>1678</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1544</identifier>
+        <datestamp>2019-05-23T15:55:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47117</identifier>
+          <identifier>RP-P-1910-1544</identifier>
+          <title>Venus en Amor</title>
+          <title>Venus en Cupedo</title>
+          <creator>anoniem</creator>
+          <contributor>Verkolje, Jan (I)</contributor>
+          <date>1683 - 1743</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1568</identifier>
+        <datestamp>2021-03-21T12:45:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47166</identifier>
+          <identifier>RP-P-1910-1568</identifier>
+          <title>Zingende mannen</title>
+          <creator>Waterloos, J.</creator>
+          <contributor>Brouwer, Adriaen</contributor>
+          <date>1680 - 1684</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-4208</identifier>
+        <datestamp>2016-10-20T19:53:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46382</identifier>
+          <identifier>RP-P-1910-4208</identifier>
+          <title>Moeder met kind</title>
+          <creator>Somer, Jan van</creator>
+          <date>1683</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2349</identifier>
+        <datestamp>2021-01-28T13:26:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46394</identifier>
+          <identifier>RP-P-1906-2349</identifier>
+          <title>Portret van Karel II, koning van Spanje</title>
+          <creator>Somer, Jan van</creator>
+          <subject>Karel II (koning van Spanje)</subject>
+          <date>1671 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-1097</identifier>
+        <datestamp>2016-10-20T19:53:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46633</identifier>
+          <identifier>RP-P-H-1097</identifier>
+          <title>Drinkende dame</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Borch, Gerard ter (II)</contributor>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1891-A-16669</identifier>
+        <datestamp>2016-10-20T19:53:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46645</identifier>
+          <identifier>RP-P-1891-A-16669</identifier>
+          <title>Vrouw die peren schilt</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Teniers, David (II)</contributor>
+          <contributor>Wit, Frederik de</contributor>
+          <date>1658 - 1706</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-62</identifier>
+        <datestamp>2016-10-20T19:53:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46882</identifier>
+          <identifier>RP-P-1911-62</identifier>
+          <title>Buste van een oude vrouw</title>
+          <creator>anoniem</creator>
+          <contributor>Vaillant, Wallerant</contributor>
+          <date>1658 - 1727</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-16792</identifier>
+        <datestamp>2018-12-18T09:40:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46894</identifier>
+          <identifier>RP-P-1892-A-16792</identifier>
+          <title>Bellenblazende jongen</title>
+          <creator>anoniem</creator>
+          <contributor>Wissing, Willem</contributor>
+          <contributor>Valck, Gerard</contributor>
+          <date>1662 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1957-41</identifier>
+        <datestamp>2021-01-28T13:13:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41440</identifier>
+          <identifier>RP-P-1957-41</identifier>
+          <title>Muur van een park met hoge bomen</title>
+          <creator>Cazin, Jean Baptiste Louis</creator>
+          <date>1782 - 1839</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4813</identifier>
+        <datestamp>2019-05-09T16:28:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41840</identifier>
+          <identifier>RP-P-OB-4813</identifier>
+          <title>Italiaans landschap met vergezicht met kerk</title>
+          <title>Le Dôme Florentin</title>
+          <creator>Corot, Camille</creator>
+          <contributor>Corot, Camille</contributor>
+          <date>1869 - 1870</date>
+          <date>1916</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-456</identifier>
+        <datestamp>2021-01-28T13:23:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42817</identifier>
+          <identifier>RP-P-1961-456</identifier>
+          <title>De dwaas</title>
+          <title>Bobalicón</title>
+          <title>Los Disparates (De dwaasheden)</title>
+          <title>Los Proverbios (De spreekwoorden)</title>
+          <creator>Goya, Francisco de</creator>
+          <contributor>Goya, Francisco de</contributor>
+          <contributor>Real Academia de Nobles Artes de San Fernando</contributor>
+          <date>1815 - 1820</date>
+          <date>1864</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+          <coverage>Madrid</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-10007</identifier>
+        <datestamp>2016-10-20T19:53:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46595</identifier>
+          <identifier>RP-P-1886-A-10007</identifier>
+          <title>Kale man</title>
+          <title>Geleerden of filosofen</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Wit, Frederik de</contributor>
+          <date>1658 - 1706</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-6868</identifier>
+        <datestamp>2019-05-23T15:55:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46682</identifier>
+          <identifier>RP-P-1910-6868</identifier>
+          <title>Vaandeldrager</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Vecchia, Pietro della</contributor>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11534</identifier>
+        <datestamp>2016-10-20T19:53:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46988</identifier>
+          <identifier>RP-P-1887-A-11534</identifier>
+          <title>Portret van Johannes Goethals</title>
+          <creator>Verkolje, Jan (I)</creator>
+          <subject>Goethals, Johannes</subject>
+          <date>1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.564</identifier>
+        <datestamp>2020-05-15T15:19:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47037</identifier>
+          <identifier>RP-P-OB-17.564</identifier>
+          <title>Portret van Carel Borchaert Voet</title>
+          <creator>Verkolje, Nicolaas</creator>
+          <contributor>Verkolje, Nicolaas</contributor>
+          <subject>Voet, Carel Borchaert</subject>
+          <date>1700 - 1746</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1937-341</identifier>
+        <datestamp>2019-05-21T09:58:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47074</identifier>
+          <identifier>RP-P-1937-341</identifier>
+          <title>Landschap met twee nimfen</title>
+          <creator>Verkolje, Nicolaas</creator>
+          <contributor>Verkolje, Nicolaas</contributor>
+          <contributor>Valck, Gerard</contributor>
+          <contributor>anoniem</contributor>
+          <date>1683 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.503</identifier>
+        <datestamp>2019-05-29T15:11:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46980</identifier>
+          <identifier>RP-P-OB-17.503</identifier>
+          <title>Portret van Martin von Boeckellen</title>
+          <creator>Verkolje, Jan (I)</creator>
+          <contributor>Backer, Adriaen</contributor>
+          <contributor>Meibom, Heinrich</contributor>
+          <subject>Boeckellen, Martin von</subject>
+          <date>1683</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1622</identifier>
+        <datestamp>2019-05-23T15:56:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47223</identifier>
+          <identifier>RP-P-1910-1622</identifier>
+          <title>Kop van een man met een baard</title>
+          <creator>anoniem</creator>
+          <date>1650 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1665</identifier>
+        <datestamp>2019-05-23T15:56:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47229</identifier>
+          <identifier>RP-P-1910-1665</identifier>
+          <title>Kop van een vrouw met een hoofddoek</title>
+          <title>Mannen- en vrouwenkoppen</title>
+          <creator>anoniem</creator>
+          <date>1650 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTY2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

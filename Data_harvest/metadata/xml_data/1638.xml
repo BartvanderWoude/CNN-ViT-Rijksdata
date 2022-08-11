@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjc0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-248(R)</identifier>
+        <datestamp>2016-10-20T19:29:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16854</identifier>
+          <identifier>RP-T-1963-248(R)</identifier>
+          <title>Interieur van een boerderij</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-146(R)</identifier>
+        <datestamp>2019-12-12T14:14:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17032</identifier>
+          <identifier>RP-T-1963-146(R)</identifier>
+          <title>Weg met diepe karresporen, in het verschiet links en rechts huizen</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>potlood</format>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-49</identifier>
+        <datestamp>2021-10-02T00:13:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16325</identifier>
+          <identifier>BK-NM-12400-49</identifier>
+          <title>Schotel met de bouw van de tempel te Jeruzalem</title>
+          <creator>Verhagen, Johannes</creator>
+          <date>1728</date>
+          <type>schotel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-226(V)</identifier>
+        <datestamp>2017-02-02T14:35:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16878</identifier>
+          <identifier>RP-T-1963-226(V)</identifier>
+          <title>Schetsje van een boerderij</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-128</identifier>
+        <datestamp>2019-12-11T10:52:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16954</identifier>
+          <identifier>RP-T-1963-128</identifier>
+          <title>Landweg in de omgeving van de stad met wandelaar van achteren gezien; links de koepel van de Invalides</title>
+          <creator>Michel, Georges</creator>
+          <subject>Dôme des Invalides</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-249</identifier>
+        <datestamp>2022-03-02T15:10:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17158</identifier>
+          <identifier>BK-1977-249</identifier>
+          <title>Mes van ijzer</title>
+          <creator>anoniem</creator>
+          <date>1765</date>
+          <type>mes (culinair gereedschap)</type>
+          <format>zilver</format>
+          <format>hout</format>
+          <format>koper</format>
+          <format>parelmoer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3851</identifier>
+        <datestamp>2021-11-02T08:23:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17113</identifier>
+          <identifier>BK-NM-3851</identifier>
+          <title>Lepel</title>
+          <creator>Muntinck, Lambert</creator>
+          <date>1644 - 1645</date>
+          <type>lepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-79-C</identifier>
+        <datestamp>2018-09-27T16:12:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17184</identifier>
+          <identifier>BK-1975-79-C</identifier>
+          <title>Foedraal, behorend bij bruidsbestek</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1597</date>
+          <type>foedraal</type>
+          <format>goud</format>
+          <format>leer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-245</identifier>
+        <datestamp>2016-10-20T19:29:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16826</identifier>
+          <identifier>RP-T-1963-245</identifier>
+          <title>Boerderij met put</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1987-33-B</identifier>
+        <datestamp>2021-11-02T08:22:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17090</identifier>
+          <identifier>BK-1987-33-B</identifier>
+          <title>Vork met steel met opkrullend, afgerond uiteinde</title>
+          <creator>Nieuwcasteel, Jacob van</creator>
+          <date>1791</date>
+          <type>vork</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-338</identifier>
+        <datestamp>2022-01-31T11:06:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16119</identifier>
+          <identifier>BK-NM-12400-338</identifier>
+          <title>Koe, versierd met bloemen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1720 - ca. 1730</date>
+          <type>decoratief object</type>
+          <type>dierfiguur</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1578-B</identifier>
+        <datestamp>2021-10-02T00:12:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16301</identifier>
+          <identifier>BK-NM-1578-B</identifier>
+          <title>Bord, beschilderd met een twee onbekende monogrammen onder een kroon</title>
+          <creator>anoniem</creator>
+          <date>1731</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-150(V)</identifier>
+        <datestamp>2019-12-11T10:47:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16939</identifier>
+          <identifier>RP-T-1963-150(V)</identifier>
+          <title>Poort in een muur</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16393</identifier>
+        <datestamp>2021-10-02T00:10:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16105</identifier>
+          <identifier>BK-16393</identifier>
+          <title>Scaramouche</title>
+          <creator>anoniem</creator>
+          <description>Scaramouche is een van de karakters uit de commedia dell’arte. Deze komische toneelstukken uit Italië waren in de 18de eeuw erg populair in heel Europa. In de porseleinfabriek in het Saksische Meissen werden op grote schaal kleine commedia-dell’arte-figuurtjes vervaardigd. De Delftse fabrieken namen deze mode over.</description>
+          <date>ca. 1725 - ca. 1740</date>
+          <type>decoratief object</type>
+          <type>mannenfiguur</type>
+          <type>beeld</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11848</identifier>
+        <datestamp>2021-10-02T00:13:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16319</identifier>
+          <identifier>BK-NM-11848</identifier>
+          <title>Bord, beschilderd met een gekroonde hoed en de tekst: onder den hoet schuilt // kwaat, en; goet,</title>
+          <creator>anoniem</creator>
+          <date>1754</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-34</identifier>
+        <datestamp>2021-10-02T00:17:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16695</identifier>
+          <identifier>BK-1977-34</identifier>
+          <title>Tafelbel</title>
+          <creator>Pont, Jan Diederik</creator>
+          <date>1757</date>
+          <type>muziekinstrument</type>
+          <type>slaginstrument</type>
+          <type>klok (idiofoon)</type>
+          <type>bel</type>
+          <type>tafelbel</type>
+          <type>handklok</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-45-I</identifier>
+        <datestamp>2021-11-02T08:22:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17052</identifier>
+          <identifier>BK-1977-45-I</identifier>
+          <title>Vork van zilver</title>
+          <creator>Sondagh, Rudolphus</creator>
+          <date>1789</date>
+          <type>vork</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-93-A</identifier>
+        <datestamp>2021-11-02T08:23:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17164</identifier>
+          <identifier>BK-1980-93-A</identifier>
+          <title>Vork van zilver</title>
+          <creator>Wiener Werkstätte</creator>
+          <contributor>Hoffmann, Josef</contributor>
+          <date>ca. 1925</date>
+          <type>vork</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Wenen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-41</identifier>
+        <datestamp>2021-10-02T00:24:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17333</identifier>
+          <identifier>BK-1980-41</identifier>
+          <title>Speelbord</title>
+          <creator>anoniem</creator>
+          <subject>dieren</subject>
+          <description>Gegraveerde zilveren plaatjes werden ook wel verwerkt in meubels. Aan de boven-, onder- en binnenkant van deze uitvouwbare kist vormen de plaatjes de witte vlakken van speelborden voor de nu nog bekende spellen schaken, dammen en triktrak, maar ook het vergeten alquerquespel. Op de randen zijn landschappen te zien. Geen enkele voorstelling is gelijk aan de andere. Dieren, mensen en voorwerpen wisselen elkaar af.</description>
+          <date>ca. 1600 - ca. 1649</date>
+          <type>speelbord</type>
+          <type>triktrakspel</type>
+          <format>zilver</format>
+          <format>ebbenhout</format>
+          <format>eikenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9919</identifier>
+        <datestamp>2021-11-03T16:54:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16609</identifier>
+          <identifier>BK-NM-9919</identifier>
+          <title>Modellen voor klampen en beugels van boeksloten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1775</date>
+          <type>klamp</type>
+          <type>boekslot</type>
+          <type>model</type>
+          <format>koper</format>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjc2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

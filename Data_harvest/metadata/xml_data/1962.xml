@@ -1,0 +1,496 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTIyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1514</identifier>
+        <datestamp>2021-01-28T16:22:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81631</identifier>
+          <identifier>RP-P-BI-1514</identifier>
+          <title>Konijnen</title>
+          <title>Dieren</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <contributor>Staten-Generaal</contributor>
+          <date>na 1635 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-4244</identifier>
+        <datestamp>2021-01-28T16:26:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81886</identifier>
+          <identifier>RP-P-1910-4244</identifier>
+          <title>Portret van botanicus Jean-Baptiste de La Quintinie</title>
+          <title>Ioannes de la Quintinye regiorum hortorum culturae praefectus</title>
+          <creator>Blois, Abraham de</creator>
+          <contributor>La Mare-Richart, Florent de</contributor>
+          <contributor>Santolius Victorinus</contributor>
+          <subject>Quintinie, Jean-Baptiste de la</subject>
+          <date>1679 - 1717</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1934-86</identifier>
+        <datestamp>2021-01-28T16:16:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81160</identifier>
+          <identifier>RP-P-1934-86</identifier>
+          <title>Soldaten hakken duimen en grote tenen van Adonibezek af</title>
+          <title>Adoni Bezek de duimen zijner handen en voeten afgehouwen</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>Hoet, Gerard (I)</contributor>
+          <date>1720 - 1728</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4561</identifier>
+        <datestamp>2021-01-28T16:17:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81172</identifier>
+          <identifier>RP-P-OB-4561</identifier>
+          <title>Aankondiging van oratie bij aanvaarding van het hoogleraarschap aan de universiteit te Delft door Johannes van den Bosch te 1733 en kerkinterieur in lijst versierd met ornamenten</title>
+          <title>Oratio de Causis (...) ad Academiam dimitteretur</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>Bleyswijck, François van</contributor>
+          <contributor>Kloot, Pieter van der</contributor>
+          <date>1733</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.651</identifier>
+        <datestamp>2018-09-05T10:07:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81209</identifier>
+          <identifier>RP-P-OB-26.651</identifier>
+          <title>Altaar van de Romeinse godin Nehalennia.</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>Dam, A. van</contributor>
+          <subject>Romeinse periode in Nederland</subject>
+          <subject>Walcheren</subject>
+          <date>1732 - 1734</date>
+          <type>prent</type>
+          <type>historisch objectvoorstelling</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-274</identifier>
+        <datestamp>2021-01-28T16:24:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81725</identifier>
+          <identifier>RP-P-1904-274</identifier>
+          <title>Wandelende jonge boer</title>
+          <title>De kleine figuren</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>na 1635 - 1669</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1544</identifier>
+        <datestamp>2021-01-28T16:24:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81774</identifier>
+          <identifier>RP-P-BI-1544</identifier>
+          <title>Zomer</title>
+          <title>Aestas</title>
+          <title>De vier seizoenen</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>1632 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1245D</identifier>
+        <datestamp>2021-10-22T11:29:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81331</identifier>
+          <identifier>RP-P-BI-1245D</identifier>
+          <title>Maria aanbidt het Kind</title>
+          <creator>anoniem</creator>
+          <contributor>Bloemaert, Cornelis (II)</contributor>
+          <contributor>Titiaan</contributor>
+          <contributor>Mariette, Pierre (I)</contributor>
+          <date>1633 - 1657</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1338</identifier>
+        <datestamp>2021-01-28T16:19:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81417</identifier>
+          <identifier>RP-P-BI-1338</identifier>
+          <title>Apollo met lier</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Guidi, Giovanni Citosibio</contributor>
+          <date>ca. 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.656-2</identifier>
+        <datestamp>2021-01-28T16:22:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81581</identifier>
+          <identifier>RP-P-OB-26.656-2</identifier>
+          <title>Liggende vrouw met kippen</title>
+          <title>16 prenten uit verschillende series van Cornelis en Frederik Bloemaert</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>1700 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-4510</identifier>
+        <datestamp>2021-01-28T16:23:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81668</identifier>
+          <identifier>RP-P-1907-4510</identifier>
+          <title>Lezende vrouw met hond</title>
+          <title>Het teekenboek van Abraham Bloemaert</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <subject>lezen</subject>
+          <date>ca. 1650 - ca. 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-706</identifier>
+        <datestamp>2016-10-20T20:32:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82095</identifier>
+          <identifier>RP-P-1911-706</identifier>
+          <title>Portret van Johan Evertsen</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Berckman, Hendrick</contributor>
+          <contributor>Jonghe, Clement de</contributor>
+          <contributor>Robijn, Jacobus</contributor>
+          <contributor>Koenerding, Johannes</contributor>
+          <subject>Evertsen, Johan</subject>
+          <date>1666 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.678</identifier>
+        <datestamp>2021-01-28T16:28:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82034</identifier>
+          <identifier>RP-P-OB-26.678</identifier>
+          <title>Besnijdenis van Christus</title>
+          <title>Circvncisvs est pver et vocatvm est nomen eivs iesvs</title>
+          <creator>Blondeau, Jacques</creator>
+          <contributor>Ferri, Ciro</contributor>
+          <contributor>Rossi, Giovanni Giacomo de'</contributor>
+          <date>1665 - 1698</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1902-A-22352</identifier>
+        <datestamp>2021-10-02T13:10:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82109</identifier>
+          <identifier>RP-P-1902-A-22352</identifier>
+          <title>Portret van Gerard Hulft</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Flinck, Govert</contributor>
+          <contributor>Vondel, Joost van den</contributor>
+          <subject>Hulft, Gerard Pietersz</subject>
+          <date>1656 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1837</identifier>
+        <datestamp>2021-01-28T16:29:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82146</identifier>
+          <identifier>RP-P-BI-1837</identifier>
+          <title>Portret van Tobias Govertsz. van den Wyngaert op 80-jarige leeftijd</title>
+          <title>Tobias Govertsz vanden Wyngaert (...)</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Musscher, Michiel van</contributor>
+          <contributor>Antonides, J.</contributor>
+          <subject>Wyngaert, Tobias Govertsz. van den</subject>
+          <date>1687 - 1691</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1843</identifier>
+        <datestamp>2021-01-28T16:29:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82158</identifier>
+          <identifier>RP-P-BI-1843</identifier>
+          <title>Gouden tijdperk</title>
+          <title>Ætas Avrea</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Bloteling, Abraham</contributor>
+          <date>in of na 1667 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1480</identifier>
+        <datestamp>2021-10-22T11:40:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81717</identifier>
+          <identifier>RP-P-BI-1480</identifier>
+          <title>Prediking van Johannes de Doper</title>
+          <creator>anoniem</creator>
+          <contributor>Bloemaert, Frederick</contributor>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>1650 - 1750</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17305</identifier>
+        <datestamp>2021-01-28T16:27:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81972</identifier>
+          <identifier>RP-P-1892-A-17305</identifier>
+          <title>Zittende man met hoed en klompen</title>
+          <creator>Blommers, Bernardus Johannes</creator>
+          <date>1855 - 1914</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1880-A-4467</identifier>
+        <datestamp>2021-10-22T14:27:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82700</identifier>
+          <identifier>RP-P-1880-A-4467</identifier>
+          <title>Een aap scheert een kat</title>
+          <creator>anoniem</creator>
+          <contributor>Boel, Quirin</contributor>
+          <contributor>Teniers, David (II)</contributor>
+          <subject>dieren die zich als mensen gedragen</subject>
+          <date>1635 - 1668</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1573</identifier>
+        <datestamp>2021-01-28T16:25:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81817</identifier>
+          <identifier>RP-P-BI-1573</identifier>
+          <title>Hanengevecht</title>
+          <title>Vier genre scènes</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Frederick</contributor>
+          <date>na 1632 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTI0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

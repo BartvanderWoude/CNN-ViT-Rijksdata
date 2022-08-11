@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzODAw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12940-K-2</identifier>
+        <datestamp>2021-10-02T12:03:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34281</identifier>
+          <identifier>BK-NM-12940-K-2</identifier>
+          <title>Kindermuts van Mechelse kant, rondom versierd met meerdere ruches en een ruche van lichtblauwe zijde</title>
+          <creator>anoniem</creator>
+          <type>kinderkleding</type>
+          <type>hoofddeksel</type>
+          <type>muts</type>
+          <format>zijde</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.893</identifier>
+        <datestamp>2021-07-13T14:23:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34639</identifier>
+          <identifier>RP-P-OB-11.893</identifier>
+          <title>Heilige Catharina van Siena met crucifix en lelie</title>
+          <title>S KAT D SENIS</title>
+          <creator>anoniem</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <date>1500 - 1575</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-1961-168-21</identifier>
+        <datestamp>2021-02-04T22:00:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.37136</identifier>
+          <identifier>BI-1961-168-21</identifier>
+          <title>Jongeman met krullend haar en een pet</title>
+          <title>Recueil de quatre-vingt-cinq estampes originales</title>
+          <creator>anoniem</creator>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Basan, Henry Louis</contributor>
+          <date>1631 - 1807</date>
+          <date>1807 - 1808</date>
+          <type>prent</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.183</identifier>
+        <datestamp>2019-05-29T14:40:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34980</identifier>
+          <identifier>RP-P-OB-12.183</identifier>
+          <title>Hoofd van een jongen blazend op een trompet</title>
+          <title>Kleine studie van hoofden met oosterse hoofddeksels</title>
+          <creator>Castiglione, Giovanni Benedetto</creator>
+          <contributor>Castiglione, Giovanni Benedetto</contributor>
+          <date>1645 - 1650</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1986-378</identifier>
+        <datestamp>2019-03-07T12:06:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36389</identifier>
+          <identifier>RP-P-1986-378</identifier>
+          <title>Kunstenaar aan het modeltekenen</title>
+          <title>Het beeldt van Pigmalion</title>
+          <creator>anoniem</creator>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Hertel, Georg Leopold</contributor>
+          <date>1750 - 1778</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Augsburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-A-41</identifier>
+        <datestamp>2021-07-13T15:07:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34487</identifier>
+          <identifier>RP-P-H-A-41</identifier>
+          <title>Maria met kind geflankeerd door aartsengel Michaël met Tobias met vis en heilige Hieronymus</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Dente, Marco</contributor>
+          <contributor>Rafaël</contributor>
+          <contributor>Salamanca, Antonio</contributor>
+          <date>1520 - 1550</date>
+          <date>1520 - 1562</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.088</identifier>
+        <datestamp>2020-03-20T12:11:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34825</identifier>
+          <identifier>RP-P-OB-12.088</identifier>
+          <title>Verheerlijking van Maria</title>
+          <title>Leven van Maria</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Dürer, Albrecht</contributor>
+          <contributor>Del Gesù, Frères</contributor>
+          <date>1510 - 1515</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-5006</identifier>
+        <datestamp>2019-05-13T11:42:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.35083</identifier>
+          <identifier>RP-P-1909-5006</identifier>
+          <title>Portret van Gabriele Ciabrera</title>
+          <title>Gabriel Ciabrera Savonese</title>
+          <creator>Leoni, Ottavio Mario</creator>
+          <contributor>Leoni, Ottavio Mario</contributor>
+          <subject>Ciabrera, Gabriele</subject>
+          <date>1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-A-7</identifier>
+        <datestamp>2019-05-09T15:34:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34433</identifier>
+          <identifier>RP-P-H-A-7</identifier>
+          <title>Herrezen Christus staand tussen heiligen Andreas en Longinus</title>
+          <creator>Mantegna, Andrea</creator>
+          <contributor>Mantegna, Andrea</contributor>
+          <date>1470 - 1474</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.841</identifier>
+        <datestamp>2019-05-09T15:35:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34587</identifier>
+          <identifier>RP-P-OB-11.841</identifier>
+          <title>Beschermengel Raphael leidt Tobias aan hand</title>
+          <title>Beschermengel</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <date>1500 - 1527</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.141</identifier>
+        <datestamp>2021-07-13T13:19:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34925</identifier>
+          <identifier>RP-P-OB-12.141</identifier>
+          <title>Triomf van Galatea met tritons en nereïden en putti</title>
+          <creator>anoniem</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <contributor>Rafaël</contributor>
+          <date>1515 - 1576</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1950-667</identifier>
+        <datestamp>2019-05-09T15:39:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.35137</identifier>
+          <identifier>RP-P-1950-667</identifier>
+          <title>Tovenaar en twee jongens bij paard</title>
+          <title>Scherzi di fantasia</title>
+          <creator>Tiepolo, Giovanni Battista</creator>
+          <contributor>Tiepolo, Giovanni Battista</contributor>
+          <date>in of voor ca. 1750</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.797</identifier>
+        <datestamp>2021-07-13T15:05:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34533</identifier>
+          <identifier>RP-P-OB-11.797</identifier>
+          <title>Heilige Cecilia met muziekinstrumenten omringd door vier heiligen</title>
+          <creator>anoniem</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <contributor>Rafaël</contributor>
+          <date>1515 - 1566</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.013</identifier>
+        <datestamp>2019-05-29T14:39:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34779</identifier>
+          <identifier>RP-P-OB-12.013</identifier>
+          <title>Man knielt en wendt zich af van bedelaar aan bosrand</title>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Francia, Francesco di</contributor>
+          <date>1510 - 1527</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1959-646</identifier>
+        <datestamp>2020-05-12T12:49:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.35037</identifier>
+          <identifier>RP-P-1959-646</identifier>
+          <title>Menghina troost Cacasseno met een kastanjekoek</title>
+          <title>Historie van Bertoldo, Bertoldino en Cacasenno</title>
+          <creator>Crespi, Giuseppe Maria</creator>
+          <contributor>Mattioli, Lodovico</contributor>
+          <contributor>Crespi, Giuseppe Maria</contributor>
+          <subject>literaire personages en voorwerpen</subject>
+          <date>1710 - 1715</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1923</identifier>
+        <datestamp>2021-07-13T17:42:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34387</identifier>
+          <identifier>RP-P-OB-1923</identifier>
+          <title>Graflegging van Christus</title>
+          <creator>Nicoletto da Modena</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <contributor>Dürer, Albrecht</contributor>
+          <date>1500 - 1520</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-1105</identifier>
+        <datestamp>2021-10-02T12:06:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36409</identifier>
+          <identifier>RP-P-1961-1105</identifier>
+          <title>Vrouw met naakt bovenlichaam bij een kachel</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1658</date>
+          <type>prent</type>
+          <format>Chinees papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.104</identifier>
+        <datestamp>2021-10-21T15:28:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.34879</identifier>
+          <identifier>RP-P-OB-12.104</identifier>
+          <title>Kindermoord te Betlehem</title>
+          <creator>Dente, Marco</creator>
+          <creator>Raimondi, Marcantonio</creator>
+          <contributor>Rafaël</contributor>
+          <date>1514 - 1527</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1950-485</identifier>
+        <datestamp>2021-01-28T13:07:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.35183</identifier>
+          <identifier>RP-P-1950-485</identifier>
+          <title>Heilige familie rust onder bomen tijdens vlucht naar Egypte</title>
+          <title>Vlucht naar Egypte</title>
+          <title>Idee pittoresche sopra la fugga in Egitto</title>
+          <creator>Tiepolo, Giovanni Domenico</creator>
+          <contributor>Tiepolo, Giovanni Domenico</contributor>
+          <date>1750 - 1753</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1898-A-3696</identifier>
+        <datestamp>2021-10-02T12:09:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.36824</identifier>
+          <identifier>RP-T-1898-A-3696</identifier>
+          <title>Stadsmuur bij de Erdre te Nantes</title>
+          <creator>Doomer, Lambert</creator>
+          <subject>Erdre</subject>
+          <subject>Nantes</subject>
+          <date>1670 - 1675</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzODIw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

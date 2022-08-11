@@ -1,0 +1,500 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMDM4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1879-A-2909</identifier>
+        <datestamp>2021-01-28T14:45:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74965</identifier>
+          <identifier>RP-P-1879-A-2909</identifier>
+          <title>Vaandrig</title>
+          <creator>Taurel, Edouard</creator>
+          <contributor>Hals, Frans</contributor>
+          <contributor>Codde, Pieter</contributor>
+          <date>1874</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-237</identifier>
+        <datestamp>2021-01-28T14:52:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75486</identifier>
+          <identifier>RP-P-1904-237</identifier>
+          <title>Gore Besje</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Mieris, Frans van (I)</contributor>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15268</identifier>
+        <datestamp>2021-01-28T14:54:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75652</identifier>
+          <identifier>RP-P-1890-A-15268</identifier>
+          <title>Portret van Willem I, prins van Oranje</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <contributor>Brandt, Geeraert (I)</contributor>
+          <subject>Willem I (prins van Oranje)</subject>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1964-3609</identifier>
+        <datestamp>2021-01-28T15:48:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77729</identifier>
+          <identifier>RP-P-1964-3609</identifier>
+          <title>Een nar met een narrenstaf  in de hand</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Saenredam, Jan</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <date>1800 - 1841</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-B-73-2-12</identifier>
+        <datestamp>2022-01-24T09:09:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74892</identifier>
+          <identifier>BI-B-73-2-12</identifier>
+          <title>Gezicht op Jeruzalem vanaf Zion</title>
+          <title>Jerusalem. Fortresse de Sion</title>
+          <creator>Salzmann, Auguste</creator>
+          <contributor>Blanquart-Evrard, Louis-Désiré</contributor>
+          <contributor>Gide et J. Baudry</contributor>
+          <subject>Jeruzalem</subject>
+          <subject>Zion</subject>
+          <date>1854 - 1856</date>
+          <type>foto</type>
+          <type>bladzijde</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jeruzalem</coverage>
+          <coverage>Lille</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-418</identifier>
+        <datestamp>2021-01-28T14:44:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74941</identifier>
+          <identifier>RP-T-1948-418</identifier>
+          <title>Aankomst van Odysseus en metgezellen bij Circe</title>
+          <creator>Rubens, Peter Paul</creator>
+          <contributor>Primaticcio, Francesco</contributor>
+          <date>1587 - 1640</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-641</identifier>
+        <datestamp>2021-01-28T14:52:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75509</identifier>
+          <identifier>RP-P-BI-641</identifier>
+          <title>Oude zanger in een open raam</title>
+          <creator>Suyderhoef, Jonas</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <contributor>Carelse, Frans</contributor>
+          <contributor>Solidé</contributor>
+          <date>1666 - ca. 1683</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4238</identifier>
+        <datestamp>2021-01-28T17:15:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86746</identifier>
+          <identifier>RP-P-BI-4238</identifier>
+          <title>Portret van koningin-gemalin Sophia Amalia van Noorwegen en Denemarken</title>
+          <title>Portretten van staatslieden</title>
+          <creator>Bouttats, Frederik (I)</creator>
+          <contributor>Merlen, Theodor van (II)</contributor>
+          <subject>Sophia Amalia (koningin van Denemarken)</subject>
+          <date>1643 - 1676</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1877-A-292</identifier>
+        <datestamp>2021-01-28T17:07:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85841</identifier>
+          <identifier>RP-P-1877-A-292</identifier>
+          <title>Vier seizoenen voorgesteld door vier kinderen</title>
+          <creator>Bos, Anthonie van den</creator>
+          <contributor>Punt, Jan</contributor>
+          <subject>seizoenen van het jaar (vooral in de vorm van personificaties); 'Le quattro stagione dell'anno' (Ripa)</subject>
+          <subject>seizoenen van het jaar weergegeven door taferelen met menselijke activiteiten, meestal in een landschap</subject>
+          <date>ca. 1778 - voor 1838</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-2109</identifier>
+        <datestamp>2021-01-28T17:16:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86815</identifier>
+          <identifier>RP-P-1907-2109</identifier>
+          <title>Gezicht op Delfzijl</title>
+          <title>Steden en vestigingen in de Republiek der Nederlanden</title>
+          <title>Thooneel der Steden ende Sterckten van 't Vereenight Nederlandt met d'aengrensende Plaetsen</title>
+          <creator>Bouttats, Gaspar</creator>
+          <contributor>Peeters, Jan (1624-1678)</contributor>
+          <contributor>Bouttats, Gaspar</contributor>
+          <subject>Delfzijl</subject>
+          <date>1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2730</identifier>
+        <datestamp>2021-01-28T17:02:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85320</identifier>
+          <identifier>RP-P-BI-2730</identifier>
+          <title>Kragenatelier</title>
+          <title>Apenspel</title>
+          <creator>Borcht, Pieter van der (I)</creator>
+          <contributor>Galle, Philips</contributor>
+          <subject>dieren die zich als mensen gedragen</subject>
+          <date>1545 - 1608</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4137</identifier>
+        <datestamp>2021-01-28T17:07:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85818</identifier>
+          <identifier>RP-P-BI-4137</identifier>
+          <title>Ruiter op staand paard in medaillon</title>
+          <creator>Bos, Anthonie van den</creator>
+          <contributor>Himpel, Aarnout ter</contributor>
+          <date>1778 - 1838</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-4290</identifier>
+        <datestamp>2021-01-28T17:16:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86792</identifier>
+          <identifier>RP-P-1909-4290</identifier>
+          <title>Portret van Alessandro de' Medici</title>
+          <creator>Bouttats, Gaspar</creator>
+          <subject>Medici, Alessandro de' (hertog van Florence)</subject>
+          <date>1681</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-K-25A</identifier>
+        <datestamp>2021-01-28T17:04:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85583</identifier>
+          <identifier>RP-P-H-K-25A</identifier>
+          <title>Triomf van Bacchus, linker plaat</title>
+          <creator>Bos, Cornelis</creator>
+          <contributor>Romano, Giulio</contributor>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <date>1543</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14407</identifier>
+        <datestamp>2021-01-28T17:04:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85589</identifier>
+          <identifier>RP-P-1889-A-14407</identifier>
+          <title>Juno en Aeolus</title>
+          <creator>Bos, Cornelis</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <date>1546</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-27.766</identifier>
+        <datestamp>2018-08-21T11:35:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85678</identifier>
+          <identifier>RP-P-OB-27.766</identifier>
+          <title>Historische optocht in Rotterdam</title>
+          <title>Historische Optocht, gehouden te Rotterdam 21 mei 1874</title>
+          <creator>Bos, Gerardus Johannes</creator>
+          <contributor>Bos, Gerardus Johannes</contributor>
+          <contributor>Tresling &amp; Comp.</contributor>
+          <contributor>Erven F. Bohn</contributor>
+          <subject>Rotterdam</subject>
+          <subject>Constantijn de Grote (keizer van het Romeinse Rijk)</subject>
+          <subject>Karel de Grote (keizer van het Heilige Roomse Rijk)</subject>
+          <subject>Floris V (graaf van Holland en Zeeland)</subject>
+          <subject>Willem III de Goede (graaf van Holland en Henegouwen)</subject>
+          <subject>Karel V (koning van Frankrijk)</subject>
+          <subject>Willem I (prins van Oranje)</subject>
+          <subject>Willem II (prins van Oranje)</subject>
+          <subject>Maurits (prins van Oranje)</subject>
+          <subject>Frederik Hendrik (prins van Oranje)</subject>
+          <subject>Willem II (prins van Oranje)</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <subject>Willem V (prins van Oranje-Nassau)</subject>
+          <date>1874</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-591</identifier>
+        <datestamp>2021-01-28T14:53:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75584</identifier>
+          <identifier>RP-P-BI-591</identifier>
+          <title>Portret van Rombout Hoogerbeets</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Mierevelt, Michiel Jansz. van</contributor>
+          <subject>Hogerbeets, Rombout</subject>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-6083</identifier>
+        <datestamp>2022-02-25T17:07:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77980</identifier>
+          <identifier>RP-P-1882-A-6083</identifier>
+          <title>Ketellapper herstelt bak en vrouw en kinderen kijken toe</title>
+          <creator>Bendorp, Carel Frederik (II)</creator>
+          <date>1829 - 1882</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2247</identifier>
+        <datestamp>2021-01-28T15:51:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77986</identifier>
+          <identifier>RP-P-1909-2247</identifier>
+          <title>Moeder geeft haar kind de borst</title>
+          <creator>Bendorp, Carel Frederik (II)</creator>
+          <date>1852</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23187</identifier>
+        <datestamp>2021-01-28T14:45:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74985</identifier>
+          <identifier>RP-P-1903-A-23187</identifier>
+          <title>Tobias op reis met Rafaël</title>
+          <title>De reis van den jongen Tobias/ Le voyage du jeune Tobias.</title>
+          <creator>Taurel, Edouard</creator>
+          <contributor>Patinir, Joachim</contributor>
+          <subject>het boek van Tobias</subject>
+          <date>1834 - 1892</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMDQwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

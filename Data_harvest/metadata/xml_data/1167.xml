@@ -1,0 +1,456 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzMyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11165</identifier>
+        <datestamp>2021-11-02T08:29:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50273</identifier>
+          <identifier>BK-NM-11165</identifier>
+          <title>Lepel</title>
+          <creator>Oostervelt, Jan Melgchers</creator>
+          <date>ca. 1660</date>
+          <type>lepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leeuwarden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12944</identifier>
+        <datestamp>2021-11-02T08:31:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50363</identifier>
+          <identifier>BK-NM-12944</identifier>
+          <title>Mes met koperen heft versierd met kandelabermotief</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1550</date>
+          <type>mes (culinair gereedschap)</type>
+          <format>koper</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-30.979</identifier>
+        <datestamp>2019-05-22T12:34:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50668</identifier>
+          <identifier>RP-P-OB-30.979</identifier>
+          <title>Karikatuur op de Laocoöngroep</title>
+          <creator>Titiaan</creator>
+          <creator>Boldrini, Nicolò</creator>
+          <date>ca. 1540 - ca. 1545</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1887-A-1171</identifier>
+        <datestamp>2021-10-02T12:20:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49910</identifier>
+          <identifier>RP-T-1887-A-1171</identifier>
+          <title>Zittende vrouw</title>
+          <creator>Polidoro da Caravaggio</creator>
+          <date>1512 - 1543</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15738-A</identifier>
+        <datestamp>2021-11-02T08:29:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50250</identifier>
+          <identifier>BK-15738-A</identifier>
+          <title>Confiture lepel met ovale bak en steel eindigend in eikenbladeren</title>
+          <creator>anoniem</creator>
+          <date>1779</date>
+          <type>lepel</type>
+          <type>confiturelepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-564</identifier>
+        <datestamp>2021-10-02T12:21:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50383</identifier>
+          <identifier>BK-NM-564</identifier>
+          <title>Vier messen en een vork van keizer Karel V</title>
+          <creator>anoniem</creator>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <description>Karel V kreeg dit reisbestek in Italië. Op de twee grote messen is zijn wapen aangebracht met de keten van de Orde van het Gulden Vlies. Erboven is de keizerskroon te zien en eronder het Bourgondische andreaskruis met de mythische zuilen van Hercules (die het einde van de wereld markeren). Het zijn allemaal symbolen van de macht van de keizer.</description>
+          <date>1532</date>
+          <type>voorsnijmes</type>
+          <format>koper</format>
+          <format>ebbenhout</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9713</identifier>
+        <datestamp>2021-10-02T12:21:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50389</identifier>
+          <identifier>BK-NM-9713</identifier>
+          <title>Kroes</title>
+          <creator>anoniem</creator>
+          <date>ca. 1550 - ca. 1600</date>
+          <type>kroes</type>
+          <format>zilver</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3788-B</identifier>
+        <datestamp>2021-10-02T12:22:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50645</identifier>
+          <identifier>BK-NM-3788-B</identifier>
+          <title>Fragment veelkleurig zijdeweefsel</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1760</date>
+          <type>zijdeweefsel</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2173</identifier>
+        <datestamp>2021-10-02T12:19:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49887</identifier>
+          <identifier>RP-T-1889-A-2173</identifier>
+          <title>Zittende vrouw, naar rechts gewend en achterom kijkend</title>
+          <creator>Giovanni Antonio da Pesaro</creator>
+          <date>1560 - 1600</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2380</identifier>
+        <datestamp>2021-11-02T08:30:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50329</identifier>
+          <identifier>BK-NM-2380</identifier>
+          <title>Lepel van zilver met gedreven bak</title>
+          <creator>anoniem</creator>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>lepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17015</identifier>
+        <datestamp>2021-10-02T12:21:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50412</identifier>
+          <identifier>BK-17015</identifier>
+          <title>Toiletdoos van verguld zilver, ovaal, met verticale en holle geledingen op de hoeken en bolle uiteinden en een vlakke voor- en achterzijde. Gewelfd deksel met voorstelling van olympische goden in émail</title>
+          <creator>Heuglin, Johann Erhard</creator>
+          <date>1717 - 1757</date>
+          <type>doos</type>
+          <type>toiletdoos</type>
+          <format>zilver</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Augsburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.793</identifier>
+        <datestamp>2022-03-02T15:19:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50622</identifier>
+          <identifier>RP-P-OB-17.793</identifier>
+          <title>Rotsachtige kust met aangemeerde zeilschepen</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1774-04-25</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1964-40</identifier>
+        <datestamp>2021-10-02T12:19:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49864</identifier>
+          <identifier>RP-T-1964-40</identifier>
+          <title>Staande vrouwenfiguur</title>
+          <creator>Passarotti, Bartolomeo</creator>
+          <date>1538 - 1592</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-856</identifier>
+        <datestamp>2021-11-02T08:30:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50300</identifier>
+          <identifier>BK-NM-856</identifier>
+          <title>Lepel</title>
+          <creator>anoniem</creator>
+          <date>1550 - 1600</date>
+          <type>lepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1957-17-2</identifier>
+        <datestamp>2021-10-02T12:22:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50435</identifier>
+          <identifier>BK-1957-17-2</identifier>
+          <title>Houten houder behorend bij een Nautilusschelp, gegraveerd met een dansend Bacchus-kind en met nymph en amor</title>
+          <creator>Bellekin, Cornelis</creator>
+          <date>1650 - 1700</date>
+          <type>schelp</type>
+          <type>nautilusschelp</type>
+          <type>meubilair</type>
+          <type>houder</type>
+          <format>parelmoer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3780-B</identifier>
+        <datestamp>2021-10-02T12:22:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50599</identifier>
+          <identifier>BK-NM-3780-B</identifier>
+          <title>Fragment gestreept, veelkleurig zijdeweefsel</title>
+          <date>1750</date>
+          <type>mexicaine</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2138</identifier>
+        <datestamp>2021-10-02T12:19:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.49841</identifier>
+          <identifier>RP-T-1889-A-2138</identifier>
+          <title>Onbevreesdheid van Caius Fabricius Luscinus na de overwinning van Pyrrhus</title>
+          <creator>Polidoro da Caravaggio</creator>
+          <contributor>anoniem</contributor>
+          <date>1510 - 1600</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1954-139(V)</identifier>
+        <datestamp>2021-01-28T13:31:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50091</identifier>
+          <identifier>RP-T-1954-139(V)</identifier>
+          <title>Vrouw met korenaren, een pronkende pauw en een familiewapen in cartouche</title>
+          <creator>anoniem</creator>
+          <date>1520 - 1550</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ferrara (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.769</identifier>
+        <datestamp>2022-03-02T15:18:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50151</identifier>
+          <identifier>RP-P-OB-17.769</identifier>
+          <title>Havengezicht met Romeins bouwwerk en fontein bij zonsondergang</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1774-01-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5851</identifier>
+        <datestamp>2021-10-02T12:22:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50477</identifier>
+          <identifier>BK-NM-5851</identifier>
+          <title>Heilige familie</title>
+          <creator>Vianen, Paulus Willemsz. van</creator>
+          <description>In katholieke kringen werd de heilige familie als voorbeeld voor een deugdelijke en vrolijke samenleving gezien. Voorstellingen als deze beklemtonen dit: het kindje Jezus en de kleine Johannes de Doper spelen samen; de ouders en grootouders van Jezus zijn aanwezig. De kunstenaar bedacht verschillende varianten op deze compositie. Deze is afkomstig uit de Kunstkammer
+van keizer Rudolf II in Praag.</description>
+          <date>1611</date>
+          <type>plaquette</type>
+          <format>zilver</format>
+          <format>koper</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Praag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMzM0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

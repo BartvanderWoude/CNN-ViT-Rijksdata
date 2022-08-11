@@ -1,0 +1,466 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDYwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1449</identifier>
+        <datestamp>2022-05-02T12:54:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8620</identifier>
+          <identifier>SK-A-1449</identifier>
+          <title>Stilleven met vruchten</title>
+          <creator>Hannot, Johannes</creator>
+          <date>1668</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-703</identifier>
+        <datestamp>2022-06-01T16:30:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8953</identifier>
+          <identifier>SK-A-703</identifier>
+          <title>Portret van Aeltje Denijs (geb 1598/99)</title>
+          <creator>Maes, Nicolaes</creator>
+          <subject>portret</subject>
+          <date>1654 - 1700</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-284(V)</identifier>
+        <datestamp>2021-10-01T22:19:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8053</identifier>
+          <identifier>RP-T-1963-284(V)</identifier>
+          <title>Paviljoen</title>
+          <creator>Pâris, Pierre Adrien</creator>
+          <date>1755 - 1819</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3394</identifier>
+        <datestamp>2022-06-01T13:14:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8418</identifier>
+          <identifier>SK-A-3394</identifier>
+          <title>Anna te Drieën</title>
+          <creator>Ferrari, Defendente</creator>
+          <subject>historiestuk</subject>
+          <date>1528</date>
+          <type>schilderij</type>
+          <format>olieverf</format>
+          <format>paneel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-582</identifier>
+        <datestamp>2021-10-01T22:28:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8424</identifier>
+          <identifier>SK-A-582</identifier>
+          <title>Portret van een man, vermoedelijk Augustijn Wtenbogaert (1577-1655)</title>
+          <title>Portret van een man, vermoedelijk Johannes Uytenbogaert (1608-80), ontvanger te Amsterdam</title>
+          <creator>Flinck, Govert</creator>
+          <subject>portret</subject>
+          <date>ca. 1643</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-143</identifier>
+        <datestamp>2021-10-01T22:35:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8681</identifier>
+          <identifier>SK-C-143</identifier>
+          <title>De Sankt Severin te Keulen opgenomen in een gefantaseerd stadsbeeld</title>
+          <creator>Heyden, Jan van der</creator>
+          <contributor>Velde, Adriaen van de</contributor>
+          <subject>stadsgezicht</subject>
+          <date>1660 - 1672</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2663</identifier>
+        <datestamp>2022-06-01T16:29:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7913</identifier>
+          <identifier>SK-A-2663</identifier>
+          <title>Philippe de Montmorency (1524-68), graaf van Horne. Admiraal der Nederlanden, lid van de Raad van State</title>
+          <creator>Mor, Anthonis</creator>
+          <subject>portret</subject>
+          <subject>politieke geschiedenis</subject>
+          <subject>onthoofding</subject>
+          <subject>beeldenstorm</subject>
+          <subject>Tachtigjarige Oorlog</subject>
+          <subject>Brussel (stad)</subject>
+          <subject>Doornik</subject>
+          <subject>Montmorency, Philips van (graaf van Horne)</subject>
+          <date>1562</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1690</identifier>
+        <datestamp>2022-06-01T16:29:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8311</identifier>
+          <identifier>SK-A-1690</identifier>
+          <title>Portret van een vrouw</title>
+          <creator>Doncker, Herman Meynderts</creator>
+          <subject>portret</subject>
+          <date>1650</date>
+          <type>schilderij</type>
+          <format>koper</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1051</identifier>
+        <datestamp>2022-03-28T17:03:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8791</identifier>
+          <identifier>SK-A-1051</identifier>
+          <title>De vervallen wal te Amsterdam met de Weteringpoort, gezien over de Buitensingel</title>
+          <title>Stadspoort</title>
+          <creator>Hulswit, Jan</creator>
+          <subject>stadsgezicht</subject>
+          <subject>Buitensingel</subject>
+          <subject>Weteringpoort</subject>
+          <date>1807</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2392</identifier>
+        <datestamp>2022-06-01T13:13:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8105</identifier>
+          <identifier>SK-A-2392</identifier>
+          <title>Drieluik met de bewening van Christus (middenpaneel), de stichter met de heilige Benedictus (binnenzijde linkervleugel) en de stichteres met de heilige Elisabeth van Thuringen (binnenzijde rechtervleugel)</title>
+          <title>Drieluik met de bewening van Christus</title>
+          <creator>Buys, Cornelis Cornelisz. (II)</creator>
+          <subject>historiestuk</subject>
+          <date>ca. 1540 - ca. 1545</date>
+          <type>schilderij</type>
+          <type>triptiek</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1792</identifier>
+        <datestamp>2022-01-23T18:34:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8368</identifier>
+          <identifier>SK-A-1792</identifier>
+          <title>Portret van een vrouw</title>
+          <creator>Duyster, Willem Cornelisz.</creator>
+          <subject>portret</subject>
+          <date>1629</date>
+          <type>schilderij</type>
+          <format>koper</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1740</identifier>
+        <datestamp>2022-01-23T18:33:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8734</identifier>
+          <identifier>SK-A-1740</identifier>
+          <title>Rotsachtig landschap met herten en geiten</title>
+          <creator>Hondecoeter, Gillis Claesz. de</creator>
+          <subject>landschap</subject>
+          <date>1620</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1965-287</identifier>
+        <datestamp>2019-10-30T17:04:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8522</identifier>
+          <identifier>RP-T-1965-287</identifier>
+          <title>Smidse met drie smeden</title>
+          <creator>Barod, Pierre Antonie</creator>
+          <date>1610</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-836</identifier>
+        <datestamp>2022-06-01T13:13:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8147</identifier>
+          <identifier>SK-A-836</identifier>
+          <title>Minnende paren bij een boerenherberg</title>
+          <creator>Pietersz., Aert</creator>
+          <contributor>Cleve, Marten van (I)</contributor>
+          <subject>genrestuk</subject>
+          <date>ca. 1570 - ca. 1590</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-1606</identifier>
+        <datestamp>2021-10-01T22:25:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8325</identifier>
+          <identifier>SK-C-1606</identifier>
+          <title>Boerderijen aan de rand van een bos</title>
+          <creator>Drielst, Egbert van</creator>
+          <date>1812</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-138</identifier>
+        <datestamp>2022-04-04T19:11:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8602</identifier>
+          <identifier>SK-C-138</identifier>
+          <title>Landschap met de Zwanenburcht te Kleef</title>
+          <creator>Haagen, Joris van der</creator>
+          <subject>landschap</subject>
+          <date>ca. 1650 - ca. 1655</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-152</identifier>
+        <datestamp>2022-03-17T16:26:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8677</identifier>
+          <identifier>SK-A-152</identifier>
+          <title>De stenen brug</title>
+          <creator>Heyden, Jan van der</creator>
+          <contributor>Velde, Adriaen van de</contributor>
+          <subject>stadsgezicht</subject>
+          <description>Dit werk toont een niet een bestaande gracht. Het is duidelijk geïnspireerd op Amsterdamse voorbeelden, maar Jan van der Heyden zette het geheel naar zijn eigen hand. De gracht gaf hij op een bijzondere manier weer. Deze loopt van de voorgrond naar het midden van de voorstelling. Adriaen van der Velde schilderde de figuren, hij werd hiervoor regelmatig gevraagd door andere kunstenaars.</description>
+          <date>ca. 1660 - ca. 1672</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3129</identifier>
+        <datestamp>2021-10-01T22:40:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8866</identifier>
+          <identifier>SK-A-3129</identifier>
+          <title>Rijn-fantasie</title>
+          <creator>Karsen, Kasparus</creator>
+          <subject>dorpsgezicht</subject>
+          <subject>veerpont</subject>
+          <subject>Rijn</subject>
+          <date>1840 - 1870</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1978-127-14026-W</identifier>
+        <datestamp>2021-07-15T15:43:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8045</identifier>
+          <identifier>NG-1978-127-14026-W</identifier>
+          <title>Twee scherven van een bord, gevonden bij V.O.C.-schip Witte Leeuw, mogelijk afkomstig van Zeelelie</title>
+          <creator>anoniem</creator>
+          <subject>bord (vaatwerk)</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>1725 - 1800</date>
+          <type>bord (vaatwerk)</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jingdezhen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1416-RR</identifier>
+        <datestamp>2020-11-25T17:30:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8220</identifier>
+          <identifier>AK-MAK-1416-RR</identifier>
+          <title>Wrijfprent</title>
+          <date>ca. 1900</date>
+          <type>wrijfprent</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDYyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

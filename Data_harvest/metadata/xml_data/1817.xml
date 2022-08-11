@@ -1,0 +1,458 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNjMyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1953-50</identifier>
+        <datestamp>2021-10-02T01:30:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23009</identifier>
+          <identifier>BK-1953-50</identifier>
+          <title>Strook naaldkant versierd met een rank met bloemen</title>
+          <date>1625 - 1645</date>
+          <type>strook</type>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1970-183</identifier>
+        <datestamp>2021-10-02T01:31:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23060</identifier>
+          <identifier>BK-1970-183</identifier>
+          <title>Strook gemengde kant met tien verschillende ranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1650 - ca. 1699</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Venetië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-343(R)</identifier>
+        <datestamp>2021-10-02T11:49:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28896</identifier>
+          <identifier>RP-T-1953-343(R)</identifier>
+          <title>Ontwerp voor een grafmonument voor Margaretha van Oostenrijk</title>
+          <creator>Blondeel, Lancelot</creator>
+          <subject>Margaretha van Oostenrijk, landvoogdes der Nederlanden</subject>
+          <date>1543 - 1556</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8258-A</identifier>
+        <datestamp>2021-10-02T11:50:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29022</identifier>
+          <identifier>BK-NM-8258-A</identifier>
+          <title>Mitaine van wit linnen geborduurd met een floraal motief van rode vloszijde</title>
+          <creator>anoniem</creator>
+          <date>ca. 1735 - ca. 1750</date>
+          <type>kleding</type>
+          <type>mitaine</type>
+          <format>linnen</format>
+          <format>vloszijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zaanstreek</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-118-B</identifier>
+        <datestamp>2021-10-02T11:50:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29073</identifier>
+          <identifier>BK-1977-118-B</identifier>
+          <title>Tegel</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1800</date>
+          <type>tegel</type>
+          <format>aardewerk</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-130(R)</identifier>
+        <datestamp>2019-01-03T14:47:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29427</identifier>
+          <identifier>RP-T-1953-130(R)</identifier>
+          <title>David onthoofdt Goliath</title>
+          <creator>Lombard, Lambert</creator>
+          <date>1516 - 1566</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1965-170</identifier>
+        <datestamp>2021-10-02T11:51:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29550</identifier>
+          <identifier>RP-T-1965-170</identifier>
+          <title>Roeping van Mattheus</title>
+          <creator>Veen, Otto van</creator>
+          <date>1600 - 1610</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1959-30</identifier>
+        <datestamp>2021-10-02T11:51:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29593</identifier>
+          <identifier>RP-T-1959-30</identifier>
+          <title>Annunciatie</title>
+          <creator>Witte, Peter de</creator>
+          <date>1586 - 1628</date>
+          <type>tekening</type>
+          <format>geprepareerd papier</format>
+          <format>verf</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1905-170</identifier>
+        <datestamp>2021-10-02T11:51:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29599</identifier>
+          <identifier>RP-T-1905-170</identifier>
+          <title>Doop van Christus</title>
+          <creator>Wtewael, Joachim</creator>
+          <date>1576 - voor 1615</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>verf</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1886-A-686(R)</identifier>
+        <datestamp>2022-03-21T10:36:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28870</identifier>
+          <identifier>RP-T-1886-A-686(R)</identifier>
+          <title>Studieblad met benen, voeten en een leunende jongeman</title>
+          <creator>Bloemaert, Abraham</creator>
+          <description>Dit studieblad is een goed voorbeeld van het soort schetsen dat kunstenaars in bezit hadden als ‘artistiek archief’. Hieruit konden ze naar believen putten bij het componeren van een schilderij of beeld. Bloemaert gebruikte deze studie voor zijn schilderij Aanbidding der herders (Niedersächsisches Landesmuseum in Hannover).</description>
+          <date>1574 - 1651</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1967-47</identifier>
+        <datestamp>2022-03-02T15:13:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29499</identifier>
+          <identifier>RP-T-1967-47</identifier>
+          <title>Verloren Zoon ontvangt zijn erfenis</title>
+          <creator>Post, Jan Jansz.</creator>
+          <date>1612</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1885-A-556D</identifier>
+        <datestamp>2022-03-02T15:13:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29570</identifier>
+          <identifier>RP-T-1885-A-556D</identifier>
+          <title>Hemelvaart van Christus</title>
+          <title>Thesaurus (...) novi Testamenti</title>
+          <creator>Vos, Maerten de</creator>
+          <date>1585</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>verf</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-249</identifier>
+        <datestamp>2021-10-02T11:52:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29756</identifier>
+          <identifier>BK-1973-249</identifier>
+          <title>Garenwinder van tartanware, stervormig</title>
+          <creator>anoniem</creator>
+          <date>ca. 1875 - ca. 1900</date>
+          <type>textielbewerkingsgereedschap</type>
+          <type>handwerkgerei</type>
+          <type>garenwinder</type>
+          <format>hout</format>
+          <format>papier</format>
+          <format>lak</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Schotland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1952-363</identifier>
+        <datestamp>2021-10-02T11:52:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29722</identifier>
+          <identifier>RP-T-1952-363</identifier>
+          <title>Zeeschildpad</title>
+          <title>Tortugas - Eretmochelys imbricata / Hawksbill Turtle / karetschildpad</title>
+          <title>Lombard album</title>
+          <creator>anoniem</creator>
+          <subject>zeeschildpad</subject>
+          <date>1560 - 1585</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-137-A-9</identifier>
+        <datestamp>2021-10-02T11:50:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29087</identifier>
+          <identifier>BK-1975-137-A-9</identifier>
+          <title>Manshemd, handwerk</title>
+          <creator>Glas, G.</creator>
+          <date>ca. 1888 - ca. 1894</date>
+          <type>herenkleding</type>
+          <type>handwerk</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Deventer</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-521</identifier>
+        <datestamp>2021-10-02T11:51:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29364</identifier>
+          <identifier>RP-T-1948-521</identifier>
+          <title>Hercules en Cacus</title>
+          <creator>Gossart, Jan</creator>
+          <date>1518 - 1528</date>
+          <type>tekening</type>
+          <format>geprepareerd papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-457(R)</identifier>
+        <datestamp>2022-03-02T15:13:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29616</identifier>
+          <identifier>RP-T-1953-457(R)</identifier>
+          <title>Plattelandsgezicht nabij Antwerpen</title>
+          <creator>Monogrammist IVLER</creator>
+          <subject>Antwerpen (stad)</subject>
+          <date>1563-09-21</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1939-78-F.7(R)</identifier>
+        <datestamp>2022-03-02T15:13:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29903</identifier>
+          <identifier>RP-T-1939-78-F.7(R)</identifier>
+          <title>Kerktoren met Fortuna op de spits</title>
+          <title>Schetsboek "A.S.Fe", 1587, blad 7r(12)</title>
+          <creator>anoniem</creator>
+          <subject>Bakenesserkerk</subject>
+          <date>1586</date>
+          <type>metaalstifttekening</type>
+          <type>tekening</type>
+          <format>geprepareerd papier</format>
+          <format>loodstift</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1886-A-662(R)</identifier>
+        <datestamp>2021-11-30T16:27:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28934</identifier>
+          <identifier>RP-T-1886-A-662(R)</identifier>
+          <title>Boeren op weg naar huis</title>
+          <creator>anoniem</creator>
+          <contributor>Bruegel, Pieter (I)</contributor>
+          <date>1600 - 1610</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-68-A</identifier>
+        <datestamp>2021-10-02T11:49:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28979</identifier>
+          <identifier>BK-1968-68-A</identifier>
+          <title>Handschoen van wit wasleer</title>
+          <creator>anoniem</creator>
+          <date>ca. 1920 - ca. 1930</date>
+          <type>dameskleding</type>
+          <type>handschoen</type>
+          <format>leer</format>
+          <format>wasleer</format>
+          <format>parelmoer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Grenoble</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNjM0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

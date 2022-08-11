@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MTU0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11632</identifier>
+        <datestamp>2021-01-28T19:10:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92101</identifier>
+          <identifier>RP-P-1887-A-11632</identifier>
+          <title>Vrouw met kind</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <date>1790</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5883</identifier>
+        <datestamp>2021-01-28T19:30:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95795</identifier>
+          <identifier>RP-P-BI-5883</identifier>
+          <title>Twee mannen en een vrouw maken muziek in interieur</title>
+          <creator>Claessens, Lambertus Antonius</creator>
+          <contributor>Lelie, Adriaan de</contributor>
+          <date>ca. 1792 - 1834</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-7256</identifier>
+        <datestamp>2021-01-28T19:02:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91786</identifier>
+          <identifier>RP-P-OB-7256</identifier>
+          <title>Spelende kinderen</title>
+          <creator>Mare, Pieter de</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1768 - 1796</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-1869</identifier>
+        <datestamp>2021-01-28T19:03:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91835</identifier>
+          <identifier>RP-P-1918-1869</identifier>
+          <title>Moeder met kind</title>
+          <creator>Chalon, Christina</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1758 - 1808</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-1872</identifier>
+        <datestamp>2021-01-28T19:06:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91952</identifier>
+          <identifier>RP-P-1918-1872</identifier>
+          <title>Moeder leert kind lopen</title>
+          <creator>Chalon, Christina</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1758 - 1808</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-FM-2</identifier>
+        <datestamp>2021-01-28T19:06:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91958</identifier>
+          <identifier>RP-P-FM-2</identifier>
+          <title>Man met tulband achter een schrijftafel</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <date>ca. 1748 - ca. 1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11649</identifier>
+        <datestamp>2021-01-28T19:07:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92001</identifier>
+          <identifier>RP-P-1887-A-11649</identifier>
+          <title>Jonge vrouw</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <date>1748 - 1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-10328</identifier>
+        <datestamp>2016-10-20T20:45:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95823</identifier>
+          <identifier>RP-P-1886-A-10328</identifier>
+          <title>Catharina de Grote en Potemkin</title>
+          <creator>Claessens, Lambertus Antonius</creator>
+          <contributor>Kuyper, Jacques</contributor>
+          <subject>Catharina de Grote</subject>
+          <subject>Potemkin, Grigorij Aleksandrovitsj, vorst van Tauris</subject>
+          <date>1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-1901</identifier>
+        <datestamp>2021-01-28T19:03:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91809</identifier>
+          <identifier>RP-P-1918-1901</identifier>
+          <title>Buste van een oude visser</title>
+          <creator>Mare, Pieter de</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1777 - 1779</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11698</identifier>
+        <datestamp>2021-01-28T19:06:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91978</identifier>
+          <identifier>RP-P-1887-A-11698</identifier>
+          <title>Zittende vrouw met hoed</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <date>1748 - 1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11687</identifier>
+        <datestamp>2021-12-23T21:22:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92052</identifier>
+          <identifier>RP-P-1887-A-11687</identifier>
+          <title>Volwassen man</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <date>1748 - 1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11675</identifier>
+        <datestamp>2021-01-28T19:08:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92029</identifier>
+          <identifier>RP-P-1887-A-11675</identifier>
+          <title>Volwassen man</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <date>1748 - 1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5711</identifier>
+        <datestamp>2021-01-28T19:09:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92078</identifier>
+          <identifier>RP-P-BI-5711</identifier>
+          <title>Zittende oude man met lange mantel</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <date>1789</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-7259-8</identifier>
+        <datestamp>2021-12-01T10:33:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92788</identifier>
+          <identifier>RP-P-OB-7259-8</identifier>
+          <title>Penning met het portret van Ahmed III en met de namen van de Ottomaanse sultans</title>
+          <creator>anoniem</creator>
+          <contributor>Chevalier, Nicolas</contributor>
+          <subject>Ahmed III (sultan van het Ottomaanse Rijk)</subject>
+          <date>1708</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-6004</identifier>
+        <datestamp>2021-01-28T18:54:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91215</identifier>
+          <identifier>RP-P-1882-A-6004</identifier>
+          <title>Papegaaien en aapjes bij een tuinfontein</title>
+          <title>Verschillende vogels</title>
+          <creator>Casteels, Peter (III)</creator>
+          <contributor>Casteels, Peter (III)</contributor>
+          <contributor>Bowles &amp; Son, John</contributor>
+          <date>1708 - 1749</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+          <coverage>Londen</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11650</identifier>
+        <datestamp>2021-01-28T19:07:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92009</identifier>
+          <identifier>RP-P-1887-A-11650</identifier>
+          <title>Vier mannen</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <date>1748 - 1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-11669</identifier>
+        <datestamp>2021-01-28T19:08:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92021</identifier>
+          <identifier>RP-P-1887-A-11669</identifier>
+          <title>Volwassen man</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <date>1748 - 1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1917-407</identifier>
+        <datestamp>2021-01-28T19:28:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95619</identifier>
+          <identifier>RP-P-1917-407</identifier>
+          <title>Jonge vrouw met kind in een mand op haar rug</title>
+          <creator>Citters, G. van</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5875</identifier>
+        <datestamp>2021-01-28T19:29:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95631</identifier>
+          <identifier>RP-P-BI-5875</identifier>
+          <title>Schrijvende oude man</title>
+          <title>Vieillard</title>
+          <creator>Claessens, Lambertus Antonius</creator>
+          <contributor>Brekelenkam, Quiringh Gerritsz. van</contributor>
+          <date>ca. 1829 - ca. 1834</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5729</identifier>
+        <datestamp>2021-01-28T19:04:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91866</identifier>
+          <identifier>RP-P-BI-5729</identifier>
+          <title>Gezin voor de voordeur</title>
+          <creator>Chalon, Christina</creator>
+          <contributor>Chalon, Christina</contributor>
+          <date>1758 - 1808</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MTU2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

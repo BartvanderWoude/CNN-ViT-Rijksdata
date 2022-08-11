@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjM2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1988-3</identifier>
+        <datestamp>2021-10-01T23:58:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15306</identifier>
+          <identifier>BK-1988-3</identifier>
+          <title>Terrine</title>
+          <creator>anoniem</creator>
+          <subject>Slot Loevestein</subject>
+          <subject>Arkel</subject>
+          <subject>Leersum</subject>
+          <subject>Jaarsveld</subject>
+          <subject>Hilversum</subject>
+          <subject>Amerongen</subject>
+          <subject>Nieder-Elten</subject>
+          <description>In 1774 stichtte dominee Joannes de Mol de porseleinfabriek in Loosdrecht, waarmee hij werkgelegenheid hoopte te scheppen voor inwoners van de verarmde gemeente. Hij kocht voorraden op van de porseleinfabriek in Weesp, die omstreeks 1770 was gesloten. Deze terrine van Weesper porselein is op 19 februari 1774 in Loosdrecht beschilderd, misschien als allereerste proefstuk van de nieuwe fabriek.</description>
+          <date>ca. 1765 - ca. 1770</date>
+          <type>terrine</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Weesp</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15316-A</identifier>
+        <datestamp>2021-05-19T11:49:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15853</identifier>
+          <identifier>BK-15316-A</identifier>
+          <title>Pot met deksel</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Kool, Jacob van der</contributor>
+          <date>ca. 1764 - ca. 1772</date>
+          <type>dekselpot</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11171</identifier>
+        <datestamp>2021-10-02T00:06:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15859</identifier>
+          <identifier>BK-NM-11171</identifier>
+          <title>Luiermand (?), beschilderd met een landschap met een visser</title>
+          <creator>anoniem</creator>
+          <date>1680</date>
+          <type>mand</type>
+          <type>luiermand</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1031</identifier>
+        <datestamp>2021-10-01T23:54:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15056</identifier>
+          <identifier>BK-KOG-1031</identifier>
+          <title>Strijkijzer met staanders handgreep in de vorm van vrouwelijke hermen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750</date>
+          <type>strijkijzer</type>
+          <format>ijzer</format>
+          <format>messing</format>
+          <format>beukenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1983-11-B</identifier>
+        <datestamp>2021-10-01T23:59:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15410</identifier>
+          <identifier>BK-1983-11-B</identifier>
+          <title>Schotel, beschilderd met vogels in een landschap binnen cartouches</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>ca. 1778 - ca. 1782</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13356-A</identifier>
+        <datestamp>2022-01-27T09:02:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15702</identifier>
+          <identifier>BK-NM-13356-A</identifier>
+          <title>Schotel</title>
+          <creator>anoniem</creator>
+          <date>1740 - 1775</date>
+          <type>schotel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11634</identifier>
+        <datestamp>2021-10-02T00:01:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15510</identifier>
+          <identifier>BK-NM-11634</identifier>
+          <title>Slee van paars beschilderde faience</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1780</date>
+          <type>decoratief object</type>
+          <type>slee</type>
+          <type>bak</type>
+          <format>faience</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-297</identifier>
+        <datestamp>2022-01-27T14:31:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15560</identifier>
+          <identifier>BK-NM-12400-297</identifier>
+          <title>Schotel van faïence met bloemdecoraties</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>schotel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16596</identifier>
+        <datestamp>2021-11-03T23:47:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16230</identifier>
+          <identifier>BK-16596</identifier>
+          <title>Broche van goud</title>
+          <date>1800 - 1900</date>
+          <type>sieraad</type>
+          <type>broche</type>
+          <format>goud</format>
+          <format>robijn</format>
+          <format>parel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1959-54</identifier>
+        <datestamp>2021-10-02T00:10:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16113</identifier>
+          <identifier>BK-1959-54</identifier>
+          <title>Koelvat met twee flessen</title>
+          <creator>De Metaale Pot</creator>
+          <contributor>Eenhoorn, Lambertus van</contributor>
+          <date>ca. 1695 - ca. 1715</date>
+          <type>wijnkoeler</type>
+          <type>fles</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11716</identifier>
+        <datestamp>2022-01-27T14:01:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16283</identifier>
+          <identifier>BK-NM-11716</identifier>
+          <title>Fles</title>
+          <creator>anoniem</creator>
+          <contributor>De Grieksche A</contributor>
+          <contributor>Kocx, Pieter Adriaensz.</contributor>
+          <date>1700 - 1725</date>
+          <type>fles</type>
+          <type>vaas</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1335</identifier>
+        <datestamp>2021-11-03T11:47:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16973</identifier>
+          <identifier>BK-KOG-1335</identifier>
+          <title>Haardplaat met de Hollandse Maagd en Hollandse Leeuw in de Hollandse Tuin</title>
+          <creator>anoniem</creator>
+          <subject>Hollandse Tuin</subject>
+          <date>ca. 1650 - ca. 1700</date>
+          <type>haardplaat</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-43</identifier>
+        <datestamp>2021-10-02T00:12:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16310</identifier>
+          <identifier>BK-NM-12400-43</identifier>
+          <title>Bord</title>
+          <creator>anoniem</creator>
+          <subject>engelen</subject>
+          <date>1685-09-19</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-612-27-B</identifier>
+        <datestamp>2021-11-03T16:54:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16558</identifier>
+          <identifier>BK-BR-612-27-B</identifier>
+          <title>Theeketel met tuit eindigend in een dierenkop</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1850</date>
+          <type>theeketel</type>
+          <type>deksel</type>
+          <format>messing</format>
+          <format>hout</format>
+          <format>zink</format>
+          <format>tin</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-238</identifier>
+        <datestamp>2019-12-02T16:46:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16770</identifier>
+          <identifier>RP-T-1963-238</identifier>
+          <title>Schets van een waterput</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-117(R)</identifier>
+        <datestamp>2019-12-11T10:50:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16948</identifier>
+          <identifier>RP-T-1963-117(R)</identifier>
+          <title>Steengroeve bij Montmartre</title>
+          <creator>Michel, Georges</creator>
+          <subject>Montmartre</subject>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11166</identifier>
+        <datestamp>2021-11-02T08:23:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17122</identifier>
+          <identifier>BK-NM-11166</identifier>
+          <title>Lepel</title>
+          <creator>Oostervelt, Jan Melchers</creator>
+          <date>ca. 1640</date>
+          <type>lepel</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leeuwarden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-308</identifier>
+        <datestamp>2022-01-27T09:21:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16334</identifier>
+          <identifier>BK-NM-12400-308</identifier>
+          <title>Bord van veelkleurig beschilderde faïence</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1969-186</identifier>
+        <datestamp>2022-03-02T11:01:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16471</identifier>
+          <identifier>BK-1969-186</identifier>
+          <title>Zegelstempel</title>
+          <creator>Nieuwenhuis, Theo</creator>
+          <date>1900 - 1910</date>
+          <type>zegelstempel</type>
+          <format>koper</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1963-218</identifier>
+        <datestamp>2019-12-02T16:52:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16794</identifier>
+          <identifier>RP-T-1963-218</identifier>
+          <title>Weg tussen heuvels, rechts een dorp</title>
+          <creator>Michel, Georges</creator>
+          <date>1773 - 1843</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjM4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNDc4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13926</identifier>
+        <datestamp>2021-10-02T12:43:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60299</identifier>
+          <identifier>BK-NM-13926</identifier>
+          <title>Bord</title>
+          <creator>Ouder-Amstel</creator>
+          <date>1784 - 1809</date>
+          <type>bord (vaatwerk)</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ouder-Amstel</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-14</identifier>
+        <datestamp>2019-09-09T16:24:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60665</identifier>
+          <identifier>RP-T-1948-14</identifier>
+          <title>Studie van een koe</title>
+          <creator>Stoop, Dirk</creator>
+          <date>1628 - 1681</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1967-96</identifier>
+        <datestamp>2019-09-09T16:24:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61070</identifier>
+          <identifier>RP-T-1967-96</identifier>
+          <title>Kat liggend op de rug en los pootje</title>
+          <creator>Velde, Adriaen van de</creator>
+          <date>1646 - 1672</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-2886</identifier>
+        <datestamp>2016-11-22T15:38:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44757</identifier>
+          <identifier>RP-P-1904-2886</identifier>
+          <title>Coridon en Silvia</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Lens, Bernard (II)</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>Stadsbestuur Amsterdam</contributor>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-480</identifier>
+        <datestamp>2016-10-20T19:52:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45177</identifier>
+          <identifier>RP-P-1909-480</identifier>
+          <title>Lachesis</title>
+          <title>De drie schikgodinnen</title>
+          <creator>anoniem</creator>
+          <contributor>Smids, Ludolph</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <date>1680 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.233</identifier>
+        <datestamp>2019-05-29T15:10:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44390</identifier>
+          <identifier>RP-P-OB-17.233</identifier>
+          <title>Jupiter en Antiope</title>
+          <creator>Lairesse, Gerard de</creator>
+          <contributor>Bloteling, Abraham</contributor>
+          <date>1675 - 1685</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-1485</identifier>
+        <datestamp>2016-10-20T19:51:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44995</identifier>
+          <identifier>RP-P-1904-1485</identifier>
+          <title>Portret van een heerser van het Mogoelrijk</title>
+          <title>Mogol Indiarum Magnus Rex</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-96</identifier>
+        <datestamp>2019-05-23T15:53:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45246</identifier>
+          <identifier>RP-P-1909-96</identifier>
+          <title>Vrouw voor een spiegel</title>
+          <creator>Schouman, Aert</creator>
+          <contributor>Schalcken, Godfried</contributor>
+          <date>1752</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1897-A-19520</identifier>
+        <datestamp>2016-10-20T19:51:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44327</identifier>
+          <identifier>RP-P-1897-A-19520</identifier>
+          <title>Portret van Willem IV, prins van Oranje en Nassau</title>
+          <creator>Jelgerhuis, Rienk</creator>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <date>1770</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leeuwarden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.224</identifier>
+        <datestamp>2016-10-20T19:51:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44339</identifier>
+          <identifier>RP-P-OB-17.224</identifier>
+          <title>Zelfportret van Rienk Jelgerhuis</title>
+          <creator>Jelgerhuis, Rienk</creator>
+          <subject>Jelgerhuis, Rienk</subject>
+          <date>1749 - 1806</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-381</identifier>
+        <datestamp>2016-10-20T19:51:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44545</identifier>
+          <identifier>RP-P-1908-381</identifier>
+          <title>Portretbuste van een oude vrouw</title>
+          <creator>Moor, Carel de (II)</creator>
+          <date>1666 - 1738</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-472</identifier>
+        <datestamp>2016-10-20T19:51:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44686</identifier>
+          <identifier>RP-P-1908-472</identifier>
+          <title>Lopend paard</title>
+          <creator>Rentinck, Arnout</creator>
+          <date>1722 - 1775</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1927-76</identifier>
+        <datestamp>2019-07-02T10:01:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44889</identifier>
+          <identifier>RP-P-1927-76</identifier>
+          <title>Portret van Jan Antonides van der Goes</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Hoogstraten, David Fransz. van</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Antonides van der Goes, Jan</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-9250</identifier>
+        <datestamp>2019-05-29T15:10:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44949</identifier>
+          <identifier>RP-P-OB-9250</identifier>
+          <title>Portret van Gerbrand van Leeuwen</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <subject>Leeuwen, Gerbrand van</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3432</identifier>
+        <datestamp>2016-10-20T19:51:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44293</identifier>
+          <identifier>RP-P-1906-3432</identifier>
+          <title>Biddende monnik, mogelijk de H. Hiëronymus</title>
+          <creator>Hoolaart, Jacob</creator>
+          <contributor>Schalcken, Godfried</contributor>
+          <date>1723 - 1789</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-414</identifier>
+        <datestamp>2016-10-20T19:51:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44591</identifier>
+          <identifier>RP-P-1908-414</identifier>
+          <title>Rennende hond</title>
+          <creator>Pickaert, Pieter</creator>
+          <contributor>Verkolje, Jan (I)</contributor>
+          <date>1680 - 1727</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.260</identifier>
+        <datestamp>2019-06-21T17:02:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44628</identifier>
+          <identifier>RP-P-OB-17.260</identifier>
+          <title>Gierigaard</title>
+          <title>The Miser</title>
+          <creator>Myn, Andreas van der</creator>
+          <contributor>Mijn, Herman van der</contributor>
+          <contributor>Bowles, Thomas &amp; John</contributor>
+          <date>1724 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1898-A-20636</identifier>
+        <datestamp>2016-10-20T19:51:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44935</identifier>
+          <identifier>RP-P-1898-A-20636</identifier>
+          <title>Portret van de knipkunstenares Johanna Koerten</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Plas, David van der</contributor>
+          <contributor>Lescaille, Katharyne</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Koerten, Johanna</subject>
+          <date>1701</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-355</identifier>
+        <datestamp>2016-10-20T19:51:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44482</identifier>
+          <identifier>RP-P-1908-355</identifier>
+          <title>Portretbuste van een man met een tulband</title>
+          <creator>Louw, Pieter</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1743 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-253</identifier>
+        <datestamp>2019-01-03T16:44:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60671</identifier>
+          <identifier>RP-T-00-253</identifier>
+          <title>Schets van een man</title>
+          <creator>Steen, Jan Havicksz.</creator>
+          <contributor>Bray, Salomon de</contributor>
+          <date>1636 - 1679</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNDgwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

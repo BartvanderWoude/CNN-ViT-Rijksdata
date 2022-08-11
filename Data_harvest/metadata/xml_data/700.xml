@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMzk4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-714</identifier>
+        <datestamp>2016-10-20T19:51:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44861</identifier>
+          <identifier>RP-P-1911-714</identifier>
+          <title>Portret van Eugenius van Savoye</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Hoyer, David</contributor>
+          <subject>Savoye, Eugenius van</subject>
+          <date>1706 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-1042</identifier>
+        <datestamp>2016-10-20T19:51:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44248</identifier>
+          <identifier>RP-P-1878-A-1042</identifier>
+          <title>Vechtende mannen</title>
+          <creator>Hoolaart, Jacob</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1723 - 1789</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-2238</identifier>
+        <datestamp>2016-11-22T15:38:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44712</identifier>
+          <identifier>RP-P-1908-2238</identifier>
+          <title>Portret van keizer Leopold I</title>
+          <title>Vorstenportretten en hun familiewapens</title>
+          <title>Leopoldo I Magno S.R.I. Imperatori Semper Augusto</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Norel, Jan</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>Stadsbestuur Amsterdam</contributor>
+          <subject>Leopold I (keizer van Duitsland)</subject>
+          <date>1690 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-9325</identifier>
+        <datestamp>2019-05-29T15:10:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44761</identifier>
+          <identifier>RP-P-OB-9325</identifier>
+          <title>Vrouw bespeelt een viola da gamba</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Netscher, Caspar</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3465</identifier>
+        <datestamp>2016-10-20T19:51:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44299</identifier>
+          <identifier>RP-P-1906-3465</identifier>
+          <title>Portret van Jan van Hoogstraten</title>
+          <creator>Houbraken, Arnold</creator>
+          <contributor>Houbraken, Arnold</contributor>
+          <subject>Hoogstraten, Jan van (1662-1736)</subject>
+          <date>1682 - 1719</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3491</identifier>
+        <datestamp>2016-10-20T19:51:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44904</identifier>
+          <identifier>RP-P-1906-3491</identifier>
+          <title>Portret van de jurist Johann Daniel Herpfer</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Herpfer, Johann Daniel</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-254</identifier>
+        <datestamp>2016-10-20T19:51:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44981</identifier>
+          <identifier>RP-P-1905-254</identifier>
+          <title>Portret van John Churchill, hertog van Marlborough</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Kneller, Gottfried</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Churchill, John (1e hertog van Marlborough)</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-314</identifier>
+        <datestamp>2016-10-20T19:51:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44325</identifier>
+          <identifier>RP-P-1908-314</identifier>
+          <title>Portret van Charles graaf van Vergennes</title>
+          <creator>Jelgerhuis, Rienk</creator>
+          <contributor>Voorman, Jan</contributor>
+          <subject>Gravier, Charles (graaf van Vergennes)</subject>
+          <date>1786</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leeuwarden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1914-4838</identifier>
+        <datestamp>2018-05-03T12:14:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44375</identifier>
+          <identifier>RP-P-1914-4838</identifier>
+          <title>Anatomische studie van menselijke huid en nagel</title>
+          <creator>Admiral, Jan l'</creator>
+          <date>1737</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3488</identifier>
+        <datestamp>2016-11-24T16:36:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44881</identifier>
+          <identifier>RP-P-1906-3488</identifier>
+          <title>Portret van Augustus II, koning van Polen</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Hoyer, David</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Augustus III (koning van Polen)</subject>
+          <date>1709</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1927-77</identifier>
+        <datestamp>2016-10-20T19:51:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44930</identifier>
+          <identifier>RP-P-1927-77</identifier>
+          <title>Portret van de tekenaar en schilder Gottfried Kneller</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Smith, John (prentmaker/ uitgever)</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Kneller, Gottfried</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3532</identifier>
+        <datestamp>2016-10-20T19:51:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45004</identifier>
+          <identifier>RP-P-1906-3532</identifier>
+          <title>Portret van Anne Jules hertog van Noailles</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Rigaud, Hyacinthe</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Noailles, Anne Jules hertog van</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3551</identifier>
+        <datestamp>2020-03-25T14:12:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45053</identifier>
+          <identifier>RP-P-1906-3551</identifier>
+          <title>Zelfportret van de prentmaker en uitgever Pieter Schenk</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Lubienitzki Theodor</contributor>
+          <contributor>Hoogstraten, David Fransz. van</contributor>
+          <subject>Schenk, Pieter (I)</subject>
+          <date>1700 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3461</identifier>
+        <datestamp>2016-10-20T19:51:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44268</identifier>
+          <identifier>RP-P-1906-3461</identifier>
+          <title>Lezende man in een studeervertrek</title>
+          <creator>Hoolaart, Jacob</creator>
+          <subject>lezen</subject>
+          <date>1723 - 1789</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.248</identifier>
+        <datestamp>2019-05-29T15:10:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44520</identifier>
+          <identifier>RP-P-OB-17.248</identifier>
+          <title>Zwart steigerend paard</title>
+          <title>Volte</title>
+          <creator>Maas, Dirk</creator>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Stadsbestuur Amsterdam</contributor>
+          <date>1675 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3590</identifier>
+        <datestamp>2016-10-20T19:51:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44781</identifier>
+          <identifier>RP-P-1906-3590</identifier>
+          <title>Slapend jongetje</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.268</identifier>
+        <datestamp>2016-10-20T19:51:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44614</identifier>
+          <identifier>RP-P-OB-17.268</identifier>
+          <title>Maria met Kind, omringd door engelen</title>
+          <creator>Picart, Bernard</creator>
+          <contributor>Maratta, Carlo</contributor>
+          <subject>engelen</subject>
+          <date>1683 - 1733</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-465</identifier>
+        <datestamp>2016-10-20T19:51:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44675</identifier>
+          <identifier>RP-P-1908-465</identifier>
+          <title>Portret van Nicolaas Verkolje</title>
+          <creator>Rentinck, Arnout</creator>
+          <contributor>Verkolje, Nicolaas</contributor>
+          <subject>Verkolje, Nicolaas</subject>
+          <date>1753 - 1763</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-2769</identifier>
+        <datestamp>2016-10-20T19:52:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45175</identifier>
+          <identifier>RP-P-1905-2769</identifier>
+          <title>Dageraad</title>
+          <title>Le Matin</title>
+          <title>De vier delen van de dag</title>
+          <creator>anoniem</creator>
+          <contributor>Norel, Jan</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>anoniem</contributor>
+          <date>1680 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.213</identifier>
+        <datestamp>2019-05-29T15:10:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44305</identifier>
+          <identifier>RP-P-OB-17.213</identifier>
+          <title>Overval door struikrovers</title>
+          <title>Ruiters</title>
+          <creator>Huchtenburg, Jan van</creator>
+          <date>1657 - 1733</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNDAwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

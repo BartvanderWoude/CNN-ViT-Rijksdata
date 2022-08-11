@@ -1,0 +1,522 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzODIwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-267</identifier>
+        <datestamp>2021-01-28T16:50:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84322</identifier>
+          <identifier>RP-P-1904-267</identifier>
+          <title>Landschap met boerderij en roof van Ganymedes</title>
+          <title>Gezichten op het platteland</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <date>1612 - 1614</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1883-A-7239</identifier>
+        <datestamp>2021-01-28T16:50:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84380</identifier>
+          <identifier>RP-P-1883-A-7239</identifier>
+          <title>Christus met doornenkroon (Ecce Homo)</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Diepenbeeck, Abraham van</contributor>
+          <contributor>Enden, Martinus van den</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23874</identifier>
+        <datestamp>2017-01-04T12:10:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82951</identifier>
+          <identifier>RP-P-1903-A-23874</identifier>
+          <title>Gedenkzuil voor de Slag bij Waterloo</title>
+          <creator>Bogerts, Cornelis</creator>
+          <contributor>Diepenhuijsen, Johannes van</contributor>
+          <contributor>Monogrammist MVL</contributor>
+          <subject>Slag bij Waterloo</subject>
+          <subject>Blücher von Wahlstatt, Gebhard Leberecht vorst</subject>
+          <subject>Wellington, Arthur Wellesley of</subject>
+          <subject>Willem II (koning der Nederlanden)</subject>
+          <date>ca. 1815 - ca. 1817</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1899-A-21656</identifier>
+        <datestamp>2021-11-30T15:51:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83560</identifier>
+          <identifier>RP-P-1899-A-21656</identifier>
+          <title>Vlucht naar Egypte</title>
+          <title>Landschappen met mythologische en bijbelse voorstellingen</title>
+          <creator>anoniem</creator>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Bol, Hans</contributor>
+          <date>ca. 1550 - ca. 1650</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2267</identifier>
+        <datestamp>2021-01-28T16:43:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83895</identifier>
+          <identifier>RP-P-BI-2267</identifier>
+          <title>Heilige Hilarion de Grote als kluizenaar</title>
+          <title>Sanctus Hilarion</title>
+          <title>Kluizenaars</title>
+          <title>Sacra eremvs ascetarvm</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Aertssens, Hendrik (II)</contributor>
+          <date>1590 - 1612</date>
+          <date>1619</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-14</identifier>
+        <datestamp>2021-11-30T12:31:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83966</identifier>
+          <identifier>RP-P-1907-14</identifier>
+          <title>Heilige Julia Eustochium als kluizenares</title>
+          <title>Sancta Eustochium</title>
+          <title>Kluizenaressen</title>
+          <title>Sacra Eremus Ascetriarum</title>
+          <creator>anoniem</creator>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <date>1590 - 1662</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1993-33</identifier>
+        <datestamp>2021-01-28T16:47:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84132</identifier>
+          <identifier>RP-P-1993-33</identifier>
+          <title>Pot met deksel; insekten als ornament.</title>
+          <title>Suite des Vases tirée du Cabinet de Son Excellence Monsieur Du Tillot...Parme</title>
+          <creator>Bossi, Benigno</creator>
+          <contributor>Petitot, Ennemond Alexandre</contributor>
+          <date>1764</date>
+          <type>ornamentprent</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parma</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-11195</identifier>
+        <datestamp>2021-01-28T16:51:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84404</identifier>
+          <identifier>RP-P-1886-A-11195</identifier>
+          <title>Visitatie</title>
+          <title>Vélins</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Galle, Cornelis (II)</contributor>
+          <date>1596 - 1678</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-11191</identifier>
+        <datestamp>2021-01-28T16:52:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84475</identifier>
+          <identifier>RP-P-1886-A-11191</identifier>
+          <title>Ziel in het vagevuur bidt om genade</title>
+          <title>Vélins</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Galle, Cornelis (II)</contributor>
+          <date>1596 - 1678</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1918-1665</identifier>
+        <datestamp>2021-01-28T16:35:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82928</identifier>
+          <identifier>RP-P-1918-1665</identifier>
+          <title>Brand in de Amsterdamse Schouwburg gezien vanaf de overzijde van de Keizersgracht, 1772</title>
+          <title>Afbeelding van den brand van den Schouwburg te Amsterdam; den 11den may, 1772. Van de Keizersgracht te zien / Representation de l'incendie de la Comedie à Amsterdam; le 11 may, 1772. Vue du Keizersgracht</title>
+          <title>De brand in de Amsterdamse Schouwburg, 1772</title>
+          <creator>Bogerts, Cornelis</creator>
+          <contributor>Barbiers, Pieter (I)</contributor>
+          <contributor>Crajenschot, Theodorus</contributor>
+          <contributor>Monogrammist R (schrijver 18e eeuw)</contributor>
+          <subject>Brand in de Amsterdamse Schouwburg (1772)</subject>
+          <subject>Schouwburg Keizersgracht (1637-1772)</subject>
+          <subject>Keizersgracht</subject>
+          <date>1772</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1917-378</identifier>
+        <datestamp>2021-01-28T16:41:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83677</identifier>
+          <identifier>RP-P-1917-378</identifier>
+          <title>Gezicht op een dorp aan een rivier</title>
+          <creator>Boland, Johannes Arnoldus</creator>
+          <contributor>Goyen, Jan van</contributor>
+          <date>ca. 1850 - ca. 1920</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2235</identifier>
+        <datestamp>2021-01-28T16:48:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84181</identifier>
+          <identifier>RP-P-BI-2235</identifier>
+          <title>Engel met masker en bliksemschicht maakt kind bang</title>
+          <title>Pia desideria</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Aertssens, Hendrik (II)</contributor>
+          <date>1590 - 1624</date>
+          <date>1624</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2558</identifier>
+        <datestamp>2021-01-28T16:53:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84524</identifier>
+          <identifier>RP-P-BI-2558</identifier>
+          <title>Heiligen Ignatius van Loyola en Franciscus Xaverius met Christusmonogram</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Bolswert, Schelte Adamsz.</contributor>
+          <contributor>onbekend</contributor>
+          <date>1622</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2037</identifier>
+        <datestamp>2021-01-28T16:41:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83654</identifier>
+          <identifier>RP-P-BI-2037</identifier>
+          <title>Kegelaars voor een herberg</title>
+          <creator>Boland, Johannes Arnoldus</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>Boland, Johannes Arnoldus</contributor>
+          <date>ca. 1860 - ca. 1900</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.694</identifier>
+        <datestamp>2021-01-28T16:43:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.83872</identifier>
+          <identifier>RP-P-OB-26.694</identifier>
+          <title>Engel houdt doek vast waarop titel Sacra eremvs ascetarvm</title>
+          <title>Kluizenaars</title>
+          <title>Sacra eremvs ascetarvm</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <subject>engelen</subject>
+          <date>1590 - 1612</date>
+          <date>1619</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2459</identifier>
+        <datestamp>2021-01-28T16:53:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84498</identifier>
+          <identifier>RP-P-BI-2459</identifier>
+          <title>Maria met kind en heilige Anna en heilige Johannes</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Enden, Martinus van den</contributor>
+          <contributor>onbekend</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2547</identifier>
+        <datestamp>2021-01-28T16:54:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84547</identifier>
+          <identifier>RP-P-BI-2547</identifier>
+          <title>Heilige Catharina van Alexandrië als martelares met gebroken wiel</title>
+          <title>Sancta Catharina virgo et martyr</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Bolswert, Schelte Adamsz.</contributor>
+          <contributor>onbekend</contributor>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2128</identifier>
+        <datestamp>2021-01-28T16:46:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84058</identifier>
+          <identifier>RP-P-BI-2128</identifier>
+          <title>De opwekking van de zoon van de weduwe te Nain</title>
+          <title>De viduae filio ad portas Naim suscitato &amp;c</title>
+          <title>Vitae passionis et mortis Jesu Christ</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Aertssens, Hendrik (II)</contributor>
+          <date>1590 - 1622</date>
+          <date>1622</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2178</identifier>
+        <datestamp>2021-01-28T16:47:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84158</identifier>
+          <identifier>RP-P-BI-2178</identifier>
+          <title>Wonderbare visvangst op het meer van Galilea</title>
+          <title>De apparitione</title>
+          <title>Vitae passionis et mortis Jesu Christ</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Aertssens, Hendrik (II)</contributor>
+          <date>1590 - 1622</date>
+          <date>1622</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2261</identifier>
+        <datestamp>2021-01-28T16:48:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84207</identifier>
+          <identifier>RP-P-BI-2261</identifier>
+          <title>Engel sluipt weg van slapend kind</title>
+          <title>Pia desideria</title>
+          <creator>Bolswert, Boëtius Adamsz.</creator>
+          <contributor>Bolswert, Boëtius Adamsz.</contributor>
+          <contributor>Aertssens, Hendrik (II)</contributor>
+          <date>1590 - 1624</date>
+          <date>1624</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzODIyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

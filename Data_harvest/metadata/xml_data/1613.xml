@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjI0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13327-E</identifier>
+        <datestamp>2021-10-02T00:01:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15507</identifier>
+          <identifier>BK-NM-13327-E</identifier>
+          <title>Pot met deksel</title>
+          <creator>De Vergulde Blompot</creator>
+          <date>1780 - 1820</date>
+          <type>kaststel</type>
+          <type>dekselpot</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2579</identifier>
+        <datestamp>2022-01-27T09:32:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15513</identifier>
+          <identifier>BK-NM-2579</identifier>
+          <title>Kinderstoel van faience</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1790</date>
+          <type>kinderstoel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-4572</identifier>
+        <datestamp>2021-10-02T00:09:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16063</identifier>
+          <identifier>BK-NM-4572</identifier>
+          <title>Blauw beschilderde schotel van faience</title>
+          <creator>anoniem</creator>
+          <date>ca. 1720 - ca. 1740</date>
+          <type>schotel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16500</identifier>
+        <datestamp>2021-10-01T23:56:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15157</identifier>
+          <identifier>BK-16500</identifier>
+          <title>Vork met twee tanden en vaasvormige versiering aan uiteinde steel</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>vork</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14560-I-A</identifier>
+        <datestamp>2021-10-01T23:59:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15413</identifier>
+          <identifier>BK-14560-I-A</identifier>
+          <title>Kop, beschilderd met de letter M, gevormd uit een bloemslinger</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>ca. 1778 - ca. 1782</date>
+          <type>kop</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8235</identifier>
+        <datestamp>2021-10-02T00:03:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15699</identifier>
+          <identifier>BK-NM-8235</identifier>
+          <title>Tas in een plat halfrond model, met veelkleurig zijde geborduurd in een gestileerd bloemenpatroon</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1860 - ca. 1920</date>
+          <type>tas</type>
+          <format>zijde</format>
+          <format>zijde</format>
+          <format>zilver</format>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8913</identifier>
+        <datestamp>2021-10-02T00:07:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15960</identifier>
+          <identifier>BK-NM-8913</identifier>
+          <title>Apothekerspot van faience</title>
+          <creator>De Porceleijne Schotel</creator>
+          <contributor>Pennis, Johannes</contributor>
+          <subject>medische wetenschap</subject>
+          <date>ca. 1740 - ca. 1760</date>
+          <type>apothekerspot</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-99</identifier>
+        <datestamp>2021-10-01T23:56:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15208</identifier>
+          <identifier>BK-1975-99</identifier>
+          <title>Ronde tabakspot van tombak met deksel</title>
+          <creator>Lantman, G.H.</creator>
+          <date>1903</date>
+          <type>tabakspot</type>
+          <format>tombak</format>
+          <format>tin</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1970-16</identifier>
+        <datestamp>2021-11-03T21:17:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15258</identifier>
+          <identifier>BK-1970-16</identifier>
+          <title>Opvouwbare bril (face–à-main)</title>
+          <creator>Tiffany &amp; Co.</creator>
+          <description>Omstreeks 1900 werd overal de Franse mode gewaardeerd. In de Verenigde Staten speelden grote juweliershuizen, zoals Tiffany &amp; Co. in New York, een grote rol bij de verspreiding hiervan. Zij verkochten Franse waren, maar lieten ook in eigen land voorwerpen vervaardigen die qua vorm en versiering op Franse modellen geënt zijn. Een typerend voorbeeld is deze opvouwbare bril, die opgevouwen oogt als een bloeiende iris.</description>
+          <date>ca. 1900 - ca. 1910</date>
+          <type>sieraad</type>
+          <type>face-à-main</type>
+          <type>bril</type>
+          <format>goud</format>
+          <format>diamant</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>New York</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-26</identifier>
+        <datestamp>2021-10-02T00:05:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15806</identifier>
+          <identifier>BK-NM-12400-26</identifier>
+          <title>Plaat met paars gemarmerde rand en beschilderd in blauw met landelijke scene</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1770</date>
+          <type>plaat</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15316-D</identifier>
+        <datestamp>2021-12-26T11:14:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15856</identifier>
+          <identifier>BK-15316-D</identifier>
+          <title>Twee bekers en een pot, onderdelen van een kaststel</title>
+          <creator>De Drie Posteleyne Astonne</creator>
+          <contributor>Kam, Pieter Gerritsz.</contributor>
+          <description>toegeschreven aan de Drie Posteleyne Astonne (Pieter Gerritsz Kam) 
+Delft, ca. 1700 
+geglazuurd aardewerk (faience)</description>
+          <date>ca. 1700</date>
+          <type>vaas</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1957-68</identifier>
+        <datestamp>2021-11-03T19:19:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15005</identifier>
+          <identifier>BK-1957-68</identifier>
+          <title>Sachet van pongé-zijde bedrukt met gele en groene blad- en bloemmotieven, gevoerd met crèmekleurige satijn, afgezet met geel zijden koord</title>
+          <creator>anoniem</creator>
+          <contributor>Morris, William</contributor>
+          <contributor>Butterfield, Lindsay Philip</contributor>
+          <date>ca. 1900</date>
+          <type>sachet</type>
+          <format>pongé-zijde</format>
+          <format>satijn</format>
+          <format>katoen</format>
+          <format>zijde</format>
+          <format>satijn</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+          <coverage>Engeland</coverage>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-39</identifier>
+        <datestamp>2021-10-01T23:59:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15366</identifier>
+          <identifier>BK-1980-39</identifier>
+          <title>Botervloot, beschilderd met bloemtakjes</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>ca. 1778 - ca. 1782</date>
+          <type>botervloot</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13289</identifier>
+        <datestamp>2021-10-02T00:04:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15747</identifier>
+          <identifier>BK-NM-13289</identifier>
+          <title>Schotel</title>
+          <creator>De Metaale Pot</creator>
+          <contributor>Koppens, Cornelis</contributor>
+          <date>1720 - 1740</date>
+          <type>schotel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-118</identifier>
+        <datestamp>2021-10-19T16:24:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.16089</identifier>
+          <identifier>BK-NM-12400-118</identifier>
+          <title>Plaat, ovaal met uitgeschulpte rand, veelkleurig beschilderd met een vaas met bloemen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1755 - ca. 1780</date>
+          <type>plaat</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14543</identifier>
+        <datestamp>2021-11-03T16:52:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15043</identifier>
+          <identifier>BK-14543</identifier>
+          <title>Tabaksdoos</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1750</date>
+          <type>tabaksdoos</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-132-A</identifier>
+        <datestamp>2020-05-13T10:36:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15389</identifier>
+          <identifier>BK-1968-132-A</identifier>
+          <title>Delen van een koffie- en theeservies</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <description>Manufactuur Oud-Loosdrecht
+Loosdrecht, ca. 1778–1782
+porselein</description>
+          <date>ca. 1778 - ca. 1782</date>
+          <type>theepot</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9520</identifier>
+        <datestamp>2021-10-02T00:04:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15770</identifier>
+          <identifier>BK-NM-9520</identifier>
+          <title>Bord</title>
+          <creator>De Porceleyne Byl</creator>
+          <date>1750 - 1780</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11349-A</identifier>
+        <datestamp>2021-10-01T23:58:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15317</identifier>
+          <identifier>BK-NM-11349-A</identifier>
+          <title>Haringschaal, beschilderd met radijzen en vruchten</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>1774 - 1778</date>
+          <type>haringschaal</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8318</identifier>
+        <datestamp>2021-11-03T19:20:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.15692</identifier>
+          <identifier>BK-NM-8318</identifier>
+          <title>Kleine buidel van beigekleurige tule, met aan de voor- en achterkant meegeweven goudkleurige kralen</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1800 - ca. 1815</date>
+          <type>kerkelijk object</type>
+          <type>buidel</type>
+          <type>kerkengeldtas</type>
+          <format>tule</format>
+          <format>zijde</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMjI2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

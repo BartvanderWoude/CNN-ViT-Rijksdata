@@ -1,0 +1,490 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMzgwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1965-1211</identifier>
+        <datestamp>2021-01-28T13:11:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38985</identifier>
+          <identifier>RP-P-1965-1211</identifier>
+          <title>Vioolspeler en een jonge lierdraaier</title>
+          <creator>Ostade, Adriaen van</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1654 - 1656</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1940-1523</identifier>
+        <datestamp>2021-08-04T14:44:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38407</identifier>
+          <identifier>RP-P-1940-1523</identifier>
+          <title>Portret van Jan Brueghel de Oude</title>
+          <title>Iconographie</title>
+          <creator>Dyck, Anthony van</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Dyck, Anthony van</contributor>
+          <contributor>Hendricx, Gilles</contributor>
+          <subject>Brueghel, Jan (I)</subject>
+          <date>1630 - 1632</date>
+          <date>1645 - 1646</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.705</identifier>
+        <datestamp>2019-05-29T14:56:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38910</identifier>
+          <identifier>RP-P-OB-12.705</identifier>
+          <title>Kwakzalver en een boer en boerin</title>
+          <title>Drie groteske figuren</title>
+          <creator>Ostade, Adriaen van</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1645 - 1649</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.756</identifier>
+        <datestamp>2021-07-13T13:10:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39008</identifier>
+          <identifier>RP-P-OB-12.756</identifier>
+          <title>Twee herbergscènes: man kijkt in lege kruik, twee mannen kijken toe en twee rokers en drinker in herberg</title>
+          <title>Twee herbergscènes: De lege kruik en De twee rokers en de drinkende boer</title>
+          <creator>anoniem</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <contributor>Danckerts, Justus</contributor>
+          <date>1651 - 1745</date>
+          <date>1662 - 1694</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-795</identifier>
+        <datestamp>2019-05-29T14:56:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39079</identifier>
+          <identifier>RP-P-OB-795</identifier>
+          <title>Buste van een man met een gevederde muts</title>
+          <creator>Hoogstraten, Samuel van</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1648 - 1678</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-1341</identifier>
+        <datestamp>2019-05-09T15:58:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38384</identifier>
+          <identifier>RP-P-H-1341</identifier>
+          <title>Italianiserend landschap met ronde toren en twee geiten</title>
+          <title>Kleine landschappen</title>
+          <creator>Jardin, Karel du</creator>
+          <contributor>Jardin, Karel du</contributor>
+          <date>1652 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.717</identifier>
+        <datestamp>2019-05-29T14:56:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38933</identifier>
+          <identifier>RP-P-OB-12.717</identifier>
+          <title>Vader met kind op schoot in interieur</title>
+          <title>De huisvader</title>
+          <creator>Ostade, Adriaen van</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1648</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.778</identifier>
+        <datestamp>2019-05-29T14:56:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39056</identifier>
+          <identifier>RP-P-OB-12.778</identifier>
+          <title>Liggende koe bij een boom</title>
+          <creator>Potter, Paulus</creator>
+          <contributor>Potter, Paulus</contributor>
+          <date>1635 - 1654</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-792</identifier>
+        <datestamp>2021-10-02T12:12:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39154</identifier>
+          <identifier>RP-P-OB-792</identifier>
+          <title>Landschap met een dorp rond een dijk</title>
+          <creator>With, Pieter de</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1650 - 1660</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-S-51</identifier>
+        <datestamp>2019-05-09T15:58:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38376</identifier>
+          <identifier>RP-P-H-S-51</identifier>
+          <title>Studieblad met hoofden en ruiter</title>
+          <creator>Jardin, Karel du</creator>
+          <contributor>Jardin, Karel du</contributor>
+          <date>1652 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.729</identifier>
+        <datestamp>2020-05-06T11:49:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38459</identifier>
+          <identifier>RP-P-OB-11.729</identifier>
+          <title>Portret van Willem de Vos</title>
+          <title>Iconographie</title>
+          <creator>Dyck, Anthony van</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Dyck, Anthony van</contributor>
+          <subject>Vos, Willem de</subject>
+          <date>1630 - 1632</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7269</identifier>
+        <datestamp>2019-05-29T14:54:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38530</identifier>
+          <identifier>RP-P-BI-7269</identifier>
+          <title>De bedrogen echtgenoot</title>
+          <creator>Dusart, Cornelis</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <date>1685</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-1290</identifier>
+        <datestamp>2021-10-02T12:12:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38715</identifier>
+          <identifier>RP-P-1904-1290</identifier>
+          <title>Heilige Matteüs</title>
+          <title>S. Matthaevs</title>
+          <title>Vier Evangelisten</title>
+          <creator>La Hire, Laurent de</creator>
+          <contributor>Lievens, Jan</contributor>
+          <contributor>Wijngaerde, Frans van den</contributor>
+          <date>1625 - 1674</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.677</identifier>
+        <datestamp>2019-05-29T14:55:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38870</identifier>
+          <identifier>RP-P-OB-12.677</identifier>
+          <title>Drie mannen zingen van blad papier bij kaarslicht in open raam</title>
+          <title>De zangers</title>
+          <creator>Ostade, Adriaen van</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1666 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-786</identifier>
+        <datestamp>2019-05-09T16:03:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39119</identifier>
+          <identifier>RP-P-OB-786</identifier>
+          <title>Man met een bontmuts</title>
+          <creator>Drost, Willem</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <date>1650 - 1655</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-11.724</identifier>
+        <datestamp>2020-05-06T11:49:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38424</identifier>
+          <identifier>RP-P-OB-11.724</identifier>
+          <title>Portret van Frans Francken I</title>
+          <title>Iconographie</title>
+          <creator>Dyck, Anthony van</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Rubens, Peter Paul</contributor>
+          <subject>Francken, Frans (I)</subject>
+          <date>1630 - 1646</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-6797</identifier>
+        <datestamp>2019-05-09T16:00:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38775</identifier>
+          <identifier>RP-P-1882-A-6797</identifier>
+          <title>Vuur</title>
+          <title>De vier elementen</title>
+          <creator>Savery, Jacob (I)</creator>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <subject>vuur (een van de vier elementen)</subject>
+          <date>1584 - 1603</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-1057</identifier>
+        <datestamp>2019-05-13T11:47:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39071</identifier>
+          <identifier>RP-P-1878-A-1057</identifier>
+          <title>Portret van Jacob Muys van Holy</title>
+          <creator>Hoogstraten, Samuel van</creator>
+          <contributor>Blocklandt, Anthonie</contributor>
+          <subject>Muys van Holy, Jacob</subject>
+          <date>1648 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.807</identifier>
+        <datestamp>2019-05-13T11:47:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39108</identifier>
+          <identifier>RP-P-OB-12.807</identifier>
+          <title>Portret van Erasmus</title>
+          <creator>Hoogstraten, Samuel van</creator>
+          <subject>Erasmus, Desiderius</subject>
+          <date>1648 - 1678</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.497</identifier>
+        <datestamp>2019-05-29T14:53:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.38330</identifier>
+          <identifier>RP-P-OB-12.497</identifier>
+          <title>Os en een ezel</title>
+          <creator>Jardin, Karel du</creator>
+          <contributor>Jardin, Karel du</contributor>
+          <date>1652 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMzgyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

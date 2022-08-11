@@ -1,0 +1,511 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MzQ4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10069</identifier>
+        <datestamp>2021-10-01T20:44:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.3304</identifier>
+          <identifier>BK-NM-10069</identifier>
+          <title>Kruik (baardmankruik) met een wapen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1644 - ca. 1660</date>
+          <type>kruik</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <format>engobe</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frechen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-6800-A</identifier>
+        <datestamp>2021-10-01T20:30:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.2642</identifier>
+          <identifier>AK-NM-6800-A</identifier>
+          <title>Cilindrische vaas met draken en bloemranken</title>
+          <creator>anoniem</creator>
+          <subject>Royer, Jean Theodore</subject>
+          <date>ca. 1700</date>
+          <type>vaas</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-5-39</identifier>
+        <datestamp>2021-11-05T01:54:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61171</identifier>
+          <identifier>RP-F-1993-5-39</identifier>
+          <title>Fotoreproductie van het fresco De dronkenschap van Noach naar Benozzo Gozzoli in het Camposanto te Pisa, Italië</title>
+          <title>Pisa. Campo Santo. La vigna. Benozzo Gozzoli</title>
+          <creator>Brogi, Giacomo</creator>
+          <contributor>Gozzoli, Benozzo</contributor>
+          <subject>Camposanto</subject>
+          <date>1860 - 1881</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Pisa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-774</identifier>
+        <datestamp>2021-07-07T13:46:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61643</identifier>
+          <identifier>RP-F-00-774</identifier>
+          <title>Gezicht op de Stadsschouwburg aan het Leidseplein in Amsterdam, gezien vanaf de Nassaukade</title>
+          <title>Amsterdam</title>
+          <creator>anoniem</creator>
+          <creator>Jager, Andries</creator>
+          <subject>Singel</subject>
+          <subject>Nassaukade</subject>
+          <subject>Schouwburg Leidseplein (1774-1890)</subject>
+          <date>1860 - 1890</date>
+          <type>kabinetfoto</type>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-214</identifier>
+        <datestamp>2021-09-01T12:28:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56226</identifier>
+          <identifier>RP-F-00-214</identifier>
+          <title>Fotoreproductie van schilderij Schepen voor de kust door Willem van de Velde II, coll. Rijksmuseum</title>
+          <title>Rijks-Museum, Amsterdam</title>
+          <title>W. van de Velde (le Jeune). Un port.</title>
+          <creator>Oelrichs, Henri Frederic</creator>
+          <date>1850 - 1880</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-509</identifier>
+        <datestamp>2021-03-10T09:00:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60187</identifier>
+          <identifier>RP-F-00-509</identifier>
+          <title>Ontwerp voor sculptuur van Perseus door Benvenuto Cellini in het Museo Nazionale te Florence, Italië</title>
+          <title>Museo Nazionale. Bozzetto del Perseo di Medusa Benvenuto Cellini</title>
+          <title>Firenze</title>
+          <creator>Fratelli Alinari</creator>
+          <contributor>Fratelli Alinari</contributor>
+          <contributor>Cellini, Benvenuto</contributor>
+          <subject>Museo Nazionale</subject>
+          <date>1857 - 1900</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-158</identifier>
+        <datestamp>2021-04-02T17:12:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55995</identifier>
+          <identifier>RP-F-00-158</identifier>
+          <title>Gezicht op Teatro Greco in Taormina</title>
+          <title>Teatro greco, Taormina</title>
+          <creator>Bruno, Giuseppe</creator>
+          <subject>Teatro Greco</subject>
+          <date>1860 - 1900</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Taormina</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-427</identifier>
+        <datestamp>2021-03-10T09:00:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59796</identifier>
+          <identifier>RP-F-00-427</identifier>
+          <title>Gezicht op een deel van Napels, Italië</title>
+          <title>Posilipo e riviera di Chiaia, panorama preso da S. Martino</title>
+          <title>Napoli</title>
+          <creator>Brogi, Giacomo</creator>
+          <contributor>Edizione Brogi</contributor>
+          <subject>Napels</subject>
+          <date>1864 - 1881</date>
+          <type>foto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Napels</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-13790</identifier>
+        <datestamp>2022-03-15T13:18:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.2820</identifier>
+          <identifier>AK-NM-13790</identifier>
+          <title>Schotel met gemodelleerde bloembladvormige vakken met bloemtakken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1725 - ca. 1749</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>kobalt</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-13731</identifier>
+        <datestamp>2021-10-01T20:35:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.2889</identifier>
+          <identifier>AK-NM-13731</identifier>
+          <title>Klokvormige kop en schotel met een liefdeskoppel in een tuin naast een paviljoen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1725 - ca. 1749</date>
+          <type>kop-en-schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-14760</identifier>
+        <datestamp>2022-03-21T13:10:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.2738</identifier>
+          <identifier>AK-RBK-14760</identifier>
+          <title>Balustervormige bekervaas met bloemranken en kostbaarheden</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>vaas</type>
+          <type>bekervaas</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-13761</identifier>
+        <datestamp>2021-10-01T20:35:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.2866</identifier>
+          <identifier>AK-NM-13761</identifier>
+          <title>Klokvormige kop en schotel met drie groepen bloemranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1725 - ca. 1749</date>
+          <type>kop-en-schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1949-628</identifier>
+        <datestamp>2021-07-13T16:52:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42185</identifier>
+          <identifier>RP-P-1949-628</identifier>
+          <title>Portret van komediespeelster Polaire op het toneel</title>
+          <title>Mademoiselle Polaire</title>
+          <creator>anoniem</creator>
+          <contributor>Toulouse-Lautrec, Henri de</contributor>
+          <contributor>Kleinmann, Edouard</contributor>
+          <subject>Polaire (Emilie Marie Bouchaud)</subject>
+          <date>1895</date>
+          <type>foto</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-2</identifier>
+        <datestamp>2022-04-12T10:06:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.53146</identifier>
+          <identifier>RP-F-00-2</identifier>
+          <title>Portret van Willem Witsen op zijn doodsbed</title>
+          <creator>Hisgen, Julius Heinrich</creator>
+          <subject>Witsen, Willem</subject>
+          <date>1923</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <format>barietpapier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-286</identifier>
+        <datestamp>2022-01-25T14:32:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56674</identifier>
+          <identifier>RP-F-00-286</identifier>
+          <title>Kapitelen met bladmotief, kathedraal van Laon</title>
+          <title>Art Gothique - XIIIe siècle - Chapiteau de colonne du triforium (Cathédrale de Laon)</title>
+          <creator>Giraudon, Adolphe</creator>
+          <subject>kapiteel</subject>
+          <subject>Kathedraal van Laon</subject>
+          <date>1860 - 1900</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Laon</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-13652</identifier>
+        <datestamp>2022-03-21T14:43:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.3014</identifier>
+          <identifier>AK-NM-13652</identifier>
+          <title>Bord met een liggend hert tussen bloeiende planten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1725 - ca. 1749</date>
+          <type>bord (vaatwerk)</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-556-D</identifier>
+        <datestamp>2021-10-01T20:44:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.3361</identifier>
+          <identifier>BK-KOG-556-D</identifier>
+          <title>Kruik met het wapen van Amsterdam</title>
+          <creator>anoniem</creator>
+          <date>ca. 1603 - ca. 1649</date>
+          <type>kruik</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Westerwald</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-164</identifier>
+        <datestamp>2021-04-02T11:52:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56047</identifier>
+          <identifier>RP-F-00-164</identifier>
+          <title>Gezicht op de Mönch en de Jungrau in de Berner Alpen</title>
+          <title>Panorama der Jungfraukette</title>
+          <creator>Gabler, Arthur</creator>
+          <contributor>anoniem</contributor>
+          <subject>Berner Alpen</subject>
+          <date>1870 - 1889</date>
+          <type>fotomechanische afdruk</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Berner Alpen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-386</identifier>
+        <datestamp>2021-01-12T09:44:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57649</identifier>
+          <identifier>RP-F-00-386</identifier>
+          <title>Ivoren pronkschotel</title>
+          <title>Prunkschüssel aus Elfenbein 1620-1660</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Obernetter, Johann Baptist</contributor>
+          <contributor>Obernetter, Johann Baptist</contributor>
+          <contributor>Kellerer, Max</contributor>
+          <subject>Bayerisches Nationalmuseum</subject>
+          <date>1869 - 1887</date>
+          <type>fotomechanische afdruk</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>München</coverage>
+          <coverage>München</coverage>
+          <coverage>München</coverage>
+          <coverage>München</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1993-7-14</identifier>
+        <datestamp>2021-11-12T04:20:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61728</identifier>
+          <identifier>RP-F-1993-7-14</identifier>
+          <title>Fotoreproductie van fresco De bruiloft van Cupido en Psyche door Rafaël in het Farnesina te Rome</title>
+          <title>1181 Le Nozze di Cupido e Psiche di Raffaele (Farnesina)</title>
+          <creator>Anderson, Domenico</creator>
+          <contributor>Rafaël</contributor>
+          <subject>Villa Farnesina</subject>
+          <date>ca. 1870 - ca. 1890</date>
+          <type>foto</type>
+          <type>reproductie</type>
+          <type>albumblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Villa Farnesina</coverage>
+          <coverage>Villa Farnesina</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MzUwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

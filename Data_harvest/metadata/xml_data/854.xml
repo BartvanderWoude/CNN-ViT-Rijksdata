@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNzA2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1966-100-C</identifier>
+        <datestamp>2021-10-02T12:13:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44076</identifier>
+          <identifier>BK-1966-100-C</identifier>
+          <title>Kindermuts van linnen en Binchekant; gemerkt: S</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1760</date>
+          <type>kinderkleding</type>
+          <type>hoofddeksel</type>
+          <type>muts</type>
+          <format>linnen</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.031</identifier>
+        <datestamp>2021-10-02T12:13:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43378</identifier>
+          <identifier>RP-P-OB-17.031</identifier>
+          <title>Maart</title>
+          <title>De twaalf maanden van het jaar, "Les XII Mois de l'Année"</title>
+          <creator>Dusart, Cornelis</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Stadsbestuur Amsterdam</contributor>
+          <date>1679 - 1704</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1912-1184</identifier>
+        <datestamp>2016-10-20T19:50:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43723</identifier>
+          <identifier>RP-P-1912-1184</identifier>
+          <title>Aritmetica</title>
+          <title>De zeven vrije kunsten (artes liberales)</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.157</identifier>
+        <datestamp>2016-10-20T19:50:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43978</identifier>
+          <identifier>RP-P-OB-17.157</identifier>
+          <title>Portret van Jakob Campo Weyerman</title>
+          <creator>Groot, Johannes de (II)</creator>
+          <contributor>Troost, Cornelis</contributor>
+          <subject>Weyerman, Jacob Campo</subject>
+          <date>1698 - 1776</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-2875</identifier>
+        <datestamp>2019-03-04T17:36:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43232</identifier>
+          <identifier>RP-P-1878-A-2875</identifier>
+          <title>Lente</title>
+          <title>De lenten</title>
+          <title>De vier seizoenen</title>
+          <creator>Broedelet, Jan</creator>
+          <contributor>Hoet, Gerard (I)</contributor>
+          <contributor>Specht, Caspar</contributor>
+          <date>1690 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-677B</identifier>
+        <datestamp>2016-10-20T19:50:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43576</identifier>
+          <identifier>RP-P-1905-677B</identifier>
+          <title>Portret van koningin Maria Anna van Spanje</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Maria Anna (koningin van Spanje, prinses van Neuburg-Palts)</subject>
+          <date>1682 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-2904</identifier>
+        <datestamp>2016-10-20T19:50:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43823</identifier>
+          <identifier>RP-P-1907-2904</identifier>
+          <title>Staande officier</title>
+          <title>Lietenant de la Colonelle</title>
+          <creator>Gole, Jacob</creator>
+          <subject>kostuum</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-13402</identifier>
+        <datestamp>2016-10-20T19:51:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44140</identifier>
+          <identifier>RP-P-1888-A-13402</identifier>
+          <title>Portret van Christiaan Cornelis</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Perkois, Jacob</contributor>
+          <contributor>Keel, Willem Alexander</contributor>
+          <subject>Cornelis, Christiaan</subject>
+          <date>1794 - 1796</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Middelburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3019</identifier>
+        <datestamp>2016-10-20T19:50:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43255</identifier>
+          <identifier>RP-P-1906-3019</identifier>
+          <title>Zelfportret van Anthony van Dyck</title>
+          <creator>Bruggen, Jan van der</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <contributor>Bruggen, Jan van der</contributor>
+          <subject>Dyck, Anthony van</subject>
+          <date>1682</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7348</identifier>
+        <datestamp>2021-08-02T14:56:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43754</identifier>
+          <identifier>RP-P-BI-7348</identifier>
+          <title>Portret van Michel Le Tellier</title>
+          <title>Mr Le Tellier, Chancelier qui signa la revocation de l'Edit par complaisance</title>
+          <title>Spotprenten op Lodewijk XIV en zijn gevolg</title>
+          <title>Les Héros de la Ligue ou La Procession Monacale, conduitte par Louis XIV pour la Conversion des Protestans de son Royaume</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Herroeping van het Edict van Nantes</subject>
+          <subject>Le Tellier, Michel</subject>
+          <date>1691</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.377</identifier>
+        <datestamp>2021-10-02T12:13:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44021</identifier>
+          <identifier>RP-P-OB-21.377</identifier>
+          <title>Portret van Jan Pietersz. Zomer</title>
+          <creator>Halen, Arnoud van</creator>
+          <contributor>Bloemen, Norbert van</contributor>
+          <subject>Zomer, Jan Pietersz.</subject>
+          <date>1717</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1982-189</identifier>
+        <datestamp>2021-01-28T13:23:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44203</identifier>
+          <identifier>RP-P-1982-189</identifier>
+          <title>Portret van John Wolcot</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Hodges, Charles Howard</contributor>
+          <contributor>Opie, John</contributor>
+          <subject>Wolcot, John</subject>
+          <date>1787</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3170</identifier>
+        <datestamp>2020-05-01T14:38:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43610</identifier>
+          <identifier>RP-P-1906-3170</identifier>
+          <title>Portret van Cornelis Tromp</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Tromp, Cornelis</subject>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.104</identifier>
+        <datestamp>2019-05-29T15:09:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43659</identifier>
+          <identifier>RP-P-OB-17.104</identifier>
+          <title>Schaatsenrijder</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-2100</identifier>
+        <datestamp>2016-10-20T19:50:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43777</identifier>
+          <identifier>RP-P-1905-2100</identifier>
+          <title>Monnik met een pijp en een vlag</title>
+          <title>Le Frere Robinet</title>
+          <title>Karikaturen op de Franse geestelijkheid onder Lodewijk XIV, (A)</title>
+          <title>Renversement de la Morale Chrétienne par les désordres du Monachisme</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <date>1670 - 1724</date>
+          <date>1693 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3217</identifier>
+        <datestamp>2021-11-03T19:26:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43826</identifier>
+          <identifier>RP-P-1906-3217</identifier>
+          <title>Dame aan haar toilettafel</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Gole, Jacob</contributor>
+          <subject>kostuum</subject>
+          <description>In het laatste kwart van de 17de eeuw hielp de modeprent bij de verspreiding van trends, waarvan de meeste afkomstig waren van het Franse hof. Van de afgebeelde rages is hier de fontange te zien: een hoge hoofdtooi van verschillende lagen linten en kant. Om haar look te voltooien, brengt de vrouw mouches (‘vliegen’) aan op haar gezicht. Deze kunstmatige schoonheidsvlekken hielpen oneffenheden en littekens te verbergen.</description>
+          <date>ca. 1690 - voor ca. 1724</date>
+          <type>kostuumprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-2018</identifier>
+        <datestamp>2016-10-20T19:51:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44131</identifier>
+          <identifier>RP-P-1905-2018</identifier>
+          <title>Portret van de predikant Abraham Bowier</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Geysen, F.</contributor>
+          <contributor>Limburg, Thomas van</contributor>
+          <subject>Bowier, Abraham</subject>
+          <date>1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3393</identifier>
+        <datestamp>2016-10-20T19:51:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44180</identifier>
+          <identifier>RP-P-1906-3393</identifier>
+          <title>Portret van de dichter en predikant Matthias Jorissen</title>
+          <creator>Hodges, Charles Howard</creator>
+          <contributor>Geysen, F.</contributor>
+          <subject>Jorissen, Matthias</subject>
+          <date>1796</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3086</identifier>
+        <datestamp>2016-10-20T19:50:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43375</identifier>
+          <identifier>RP-P-1906-3086</identifier>
+          <title>Januari</title>
+          <title>Januarius / Les XII Mois de l'Année</title>
+          <title>De twaalf maanden van het jaar, "Les XII Mois de l'Année"</title>
+          <creator>Dusart, Cornelis</creator>
+          <contributor>Gole, Jacob</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>de sterren</subject>
+          <subject>Driekoningen</subject>
+          <date>1679 - 1704</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.090</identifier>
+        <datestamp>2016-12-27T10:34:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43633</identifier>
+          <identifier>RP-P-OB-17.090</identifier>
+          <title>Ceres verandert Lyncus in een lynx</title>
+          <creator>Gole, Jacob</creator>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <date>1670 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNzA4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

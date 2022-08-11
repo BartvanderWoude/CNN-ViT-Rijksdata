@@ -1,0 +1,485 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0ODc4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1960-445</identifier>
+        <datestamp>2019-02-26T16:58:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111251</identifier>
+          <identifier>RP-P-1960-445</identifier>
+          <title>Inval van de Noormannen, 810, en moord op Godfried de Noorman, 885</title>
+          <title>Inval der Noormannen, in den jaare 810 / Hertog Godefried gedood, in den jaare 885</title>
+          <title>Illustraties vaderlandse geschiedenis</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <subject>bezetting ~ oorlog</subject>
+          <subject>Merovingische en Karolingische tijd in Nederland</subject>
+          <subject>Nederland</subject>
+          <subject>Godfried de Noorman</subject>
+          <date>1784</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1960-433</identifier>
+        <datestamp>2019-02-26T16:58:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111596</identifier>
+          <identifier>RP-P-1960-433</identifier>
+          <title>Uitvarende vloot wordt uitgezwaaid</title>
+          <title>Illustraties vaderlandse geschiedenis</title>
+          <creator>Fokke, Simon</creator>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-3575</identifier>
+        <datestamp>2016-10-20T20:59:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111847</identifier>
+          <identifier>RP-P-1910-3575</identifier>
+          <title>Allegorische figuren in een tempel</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Folkema, Jacob</contributor>
+          <date>1721</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.797</identifier>
+        <datestamp>2016-10-20T20:59:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111137</identifier>
+          <identifier>RP-P-OB-50.797</identifier>
+          <title>Soldaten te paard en de Zwitserse Garde in de lijkstoet van Anna van Hannover te Delft, 1759</title>
+          <title>De hondert Zwitsers / Les Cent Suisses</title>
+          <title>Lijkstoet van prinses Anna van Hannover te Delft</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fargue, Paulus Constantijn la</contributor>
+          <subject>Delft</subject>
+          <subject>Anna van Hannover</subject>
+          <date>1759 - 1761</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-2049</identifier>
+        <datestamp>2016-10-20T20:59:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111401</identifier>
+          <identifier>RP-P-1910-2049</identifier>
+          <title>Roodkapje en de wolf</title>
+          <title>Reeks illustraties van Moeder de Gans</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Edelinck, G.</contributor>
+          <date>1754 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.020</identifier>
+        <datestamp>2019-05-29T15:38:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111700</identifier>
+          <identifier>RP-P-OB-52.020</identifier>
+          <title>Aeneas vlucht uit het brandende Troje</title>
+          <creator>Folkema, Jacob</creator>
+          <date>1702 - 1767</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.171</identifier>
+        <datestamp>2019-05-29T15:39:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111948</identifier>
+          <identifier>RP-P-OB-52.171</identifier>
+          <title>Romeinse soldaat knielt voor een vrouw</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Dubourg, Louis Fabritius</contributor>
+          <date>1703 - 1767</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1960-470</identifier>
+        <datestamp>2016-10-20T20:59:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111204</identifier>
+          <identifier>RP-P-1960-470</identifier>
+          <title>Monniken aan de schandpaal verbrand en de wrede daden van Paus Urbanus VI</title>
+          <title>Illustratie voor de wereldgeschiedenis</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <subject>Urbanus VI</subject>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.994</identifier>
+        <datestamp>2019-05-29T15:37:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111547</identifier>
+          <identifier>RP-P-OB-50.994</identifier>
+          <title>November</title>
+          <title>De twaalf maanden</title>
+          <creator>Fokke, Simon</creator>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-AO-2-70</identifier>
+        <datestamp>2018-02-09T02:20:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111718</identifier>
+          <identifier>RP-P-AO-2-70</identifier>
+          <title>Gezicht op IJlst</title>
+          <title>Stadsgezichten uit Friesland</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Allard, Abraham</contributor>
+          <contributor>onbekend</contributor>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <subject>IJlst</subject>
+          <date>1702 - 1725</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.751</identifier>
+        <datestamp>2021-10-07T11:13:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111054</identifier>
+          <identifier>RP-P-OB-50.751</identifier>
+          <title>Vrouw ontmoet een als een heidin verklede man</title>
+          <title>Man en vrouw bij de ingang van een tuin</title>
+          <title>De gewaande heidin / La Feinte Bohèmienne</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Buys, Jacobus</contributor>
+          <contributor>Monogrammist AH (schrijver 18e eeuw)</contributor>
+          <contributor>Monogrammist HJR (schrijver)</contributor>
+          <contributor>Greebe, Frederik Willem</contributor>
+          <subject>Roma</subject>
+          <date>1764</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-5767</identifier>
+        <datestamp>2016-10-20T20:59:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111570</identifier>
+          <identifier>RP-P-1905-5767</identifier>
+          <title>Fabel van de man en de hond</title>
+          <title>Illustraties voor fabelvertellingen van Phaedrus</title>
+          <creator>Fokke, Simon</creator>
+          <subject>fabels</subject>
+          <date>1769</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1933-53</identifier>
+        <datestamp>2018-06-06T12:05:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111619</identifier>
+          <identifier>RP-P-1933-53</identifier>
+          <title>Elymas met blindheid geslagen en 
+Paulus en Barnabas te Lystra</title>
+          <title>Elymas de Tovenaar met blindheid geslagen / Elymas frappé d'avenglement
+het Volk te Lystren wil Paulus en Barnabas offerhande doen / Les Lystriens veulent sacrifier à Paul et à Barnabas</title>
+          <creator>Fokke, Simon</creator>
+          <date>1791</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-2846</identifier>
+        <datestamp>2016-10-20T21:00:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.112277</identifier>
+          <identifier>RP-P-1905-2846</identifier>
+          <title>Petrus</title>
+          <title>St Petrus</title>
+          <creator>Forssell, Christian</creator>
+          <contributor>Moriz, L.</contributor>
+          <date>1787 - 1852</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.763</identifier>
+        <datestamp>2016-10-20T20:59:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111080</identifier>
+          <identifier>RP-P-OB-50.763</identifier>
+          <title>Turfschip van Breda, 1590</title>
+          <title>'t Kasteel van Breda verrast, door middel van een Turfschip, in 't jaar 1590</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Tirion, Isaak</contributor>
+          <subject>Inname van Breda (1590)</subject>
+          <subject>Tachtigjarige Oorlog</subject>
+          <subject>Breda</subject>
+          <date>1752</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-253</identifier>
+        <datestamp>2016-10-20T20:59:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111335</identifier>
+          <identifier>RP-P-1906-253</identifier>
+          <title>Telemachus en Mentor komen aan op het eiland van Calypso</title>
+          <title>Les Ecueils de la Volupté sont plus à craindre que le Naufrage</title>
+          <title>Avonturen van Telemachus</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <date>1775</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.062</identifier>
+        <datestamp>2019-05-29T15:38:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111767</identifier>
+          <identifier>RP-P-OB-52.062</identifier>
+          <title>Telemachus redt Antiope</title>
+          <title>Avonturen van Telemachus</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Dubourg, Louis Fabritius</contributor>
+          <date>1702 - 1767</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2020</identifier>
+        <datestamp>2016-10-20T20:59:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111931</identifier>
+          <identifier>RP-P-1909-2020</identifier>
+          <title>Erato wordt gelauwerd</title>
+          <title>Titelpagina voor: W. den Elger, Gedichten en Rotterdamsche arcadia, 1726</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Wandelaar, Jan</contributor>
+          <contributor>Barents, Willem</contributor>
+          <date>1726</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-3072</identifier>
+        <datestamp>2016-10-20T21:00:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.112005</identifier>
+          <identifier>RP-P-1907-3072</identifier>
+          <title>Portret van Henri Chatelain</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Dubourg, Louis Fabritius</contributor>
+          <subject>Chatelain, Henri</subject>
+          <date>1759</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.844</identifier>
+        <datestamp>2019-05-29T15:36:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111284</identifier>
+          <identifier>RP-P-OB-50.844</identifier>
+          <title>Vignet met Minerva en putto</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0ODgwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

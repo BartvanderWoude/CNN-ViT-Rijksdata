@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNDEyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-9227</identifier>
+        <datestamp>2020-04-14T16:53:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44864</identifier>
+          <identifier>RP-P-OB-9227</identifier>
+          <title>Portret van Desiderius Erasmus</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <contributor>Hoogstraten, David Fransz. van</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <subject>Erasmus, Desiderius</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3571</identifier>
+        <datestamp>2016-10-20T19:51:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45113</identifier>
+          <identifier>RP-P-1906-3571</identifier>
+          <title>Portret van de theoloog Benjamin Ursinus</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Ursinus, Benjamin</subject>
+          <date>1705</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-3714</identifier>
+        <datestamp>2021-01-28T13:24:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44460</identifier>
+          <identifier>RP-P-1904-3714</identifier>
+          <title>Portret van Paul Pfinzing</title>
+          <creator>Leonard, Johann Friedrich</creator>
+          <subject>Pfinzing, Paul</subject>
+          <date>1643 - 1680</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3515</identifier>
+        <datestamp>2016-10-20T19:51:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44970</identifier>
+          <identifier>RP-P-1906-3515</identifier>
+          <title>Portret van Job Ludolf</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Tentzel, Wilhelm Ernst</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Ludolf, Job</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3533</identifier>
+        <datestamp>2016-10-20T19:51:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45007</identifier>
+          <identifier>RP-P-1906-3533</identifier>
+          <title>Portret van Jan Norel</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Feitama, Izaäc</contributor>
+          <subject>Norel, Jan</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1894-A-18263</identifier>
+        <datestamp>2016-10-20T19:51:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44554</identifier>
+          <identifier>RP-P-1894-A-18263</identifier>
+          <title>Buste van een man met een muts</title>
+          <creator>Musscher, Michiel van</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1655 - 1705</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-432</identifier>
+        <datestamp>2016-10-20T19:51:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44566</identifier>
+          <identifier>RP-P-1908-432</identifier>
+          <title>Lezende oude man bij kaarslicht</title>
+          <creator>Pothoven, Hendrik</creator>
+          <contributor>Verkolje, Nicolaas</contributor>
+          <subject>lezen</subject>
+          <date>1735 - 1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-9213</identifier>
+        <datestamp>2020-01-28T10:57:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44815</identifier>
+          <identifier>RP-P-OB-9213</identifier>
+          <title>Portret van de theoloog en schrijver Joannes Brandt</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Hoogstraten, David Fransz. van</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>Stadsbestuur Amsterdam</contributor>
+          <subject>Brandt, Joannes</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-6794</identifier>
+        <datestamp>2016-10-20T19:51:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44827</identifier>
+          <identifier>RP-P-1910-6794</identifier>
+          <title>Portret van Karel V Leopold, hertog van Lotharingen</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Norel, Jan</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <subject>Karel V Leopold (hertog van Lotharingen)</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-405</identifier>
+        <datestamp>2016-10-20T19:51:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44617</identifier>
+          <identifier>RP-P-1908-405</identifier>
+          <title>Man bespiedt een naakte vrouw</title>
+          <creator>Picart, Bernard</creator>
+          <date>1705</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1913-883</identifier>
+        <datestamp>2016-10-20T19:52:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45172</identifier>
+          <identifier>RP-P-1913-883</identifier>
+          <title>Hagar en Ismaël in de wildernis</title>
+          <creator>anoniem</creator>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>anoniem</contributor>
+          <date>1680 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.294</identifier>
+        <datestamp>2022-03-02T15:17:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45221</identifier>
+          <identifier>RP-P-OB-17.294</identifier>
+          <title>Portret van Johan Hudde Dedel</title>
+          <creator>Schouman, Aert</creator>
+          <date>1778</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-74</identifier>
+        <datestamp>2019-05-23T15:53:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45258</identifier>
+          <identifier>RP-P-1909-74</identifier>
+          <title>Man met opgeheven glas</title>
+          <creator>Schouman, Aert</creator>
+          <date>1720 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3459</identifier>
+        <datestamp>2016-10-20T19:51:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44259</identifier>
+          <identifier>RP-P-1906-3459</identifier>
+          <title>Boerenfamilie bij het slachten van een varken</title>
+          <creator>Hoolaart, Jacob</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1723 - 1789</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3433</identifier>
+        <datestamp>2016-10-20T19:51:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44265</identifier>
+          <identifier>RP-P-1906-3433</identifier>
+          <title>Sater bij een naakte slapende nimf</title>
+          <creator>Hoolaart, Jacob</creator>
+          <contributor>Burch, Albertus van der</contributor>
+          <date>1723 - 1789</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1894-A-18365</identifier>
+        <datestamp>2016-10-20T19:51:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44511</identifier>
+          <identifier>RP-P-1894-A-18365</identifier>
+          <title>Twee lachende jongens</title>
+          <creator>Louw, Pieter</creator>
+          <contributor>Hals, Frans</contributor>
+          <date>1743 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.247</identifier>
+        <datestamp>2016-10-20T19:51:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44517</identifier>
+          <identifier>RP-P-OB-17.247</identifier>
+          <title>Portret van de remonstrantse predikant Johannes Brant</title>
+          <creator>Lubienitzki, Christoffel</creator>
+          <contributor>Monogrammist MA (schrijver)</contributor>
+          <contributor>Lubienitzki, Christoffel</contributor>
+          <subject>Brant, Johannes</subject>
+          <date>1675 - 1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3595</identifier>
+        <datestamp>2016-10-20T19:51:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44772</identifier>
+          <identifier>RP-P-1906-3595</identifier>
+          <title>Arme schilder met zijn familie</title>
+          <title>Magnus Pictor inops</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Vienot</contributor>
+          <contributor>Both, Andries</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>Staten van Holland</contributor>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-2043</identifier>
+        <datestamp>2016-10-20T19:51:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45021</identifier>
+          <identifier>RP-P-1905-2043</identifier>
+          <title>Portret van Gerardus Outhof</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Storm, J.</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Outhof, Gerardus</subject>
+          <date>1705 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-523</identifier>
+        <datestamp>2021-11-09T12:24:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44366</identifier>
+          <identifier>RP-P-1961-523</identifier>
+          <title>Anatomische studie van de schedel van een onvoldragen kindje</title>
+          <creator>Admiral, Jan l'</creator>
+          <date>1733 - 1738</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNDE0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

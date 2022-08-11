@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTcwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-132</identifier>
+        <datestamp>2021-11-29T23:37:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51837</identifier>
+          <identifier>RP-T-00-132</identifier>
+          <title>Gezicht op een kampement van het leger van Willem III nabij Leuven</title>
+          <creator>Grave, Josua de</creator>
+          <contributor>Schouman, Aert</contributor>
+          <subject>Guerre de Hollande</subject>
+          <subject>Leuven</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1674</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-340</identifier>
+        <datestamp>2021-10-02T12:25:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52130</identifier>
+          <identifier>BK-1955-340</identifier>
+          <title>Tegel met landschap</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>tegel</type>
+          <type>landschaptegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.055</identifier>
+        <datestamp>2019-05-22T12:36:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51341</identifier>
+          <identifier>RP-P-OB-31.055</identifier>
+          <title>Jason met het Gulden Vlies</title>
+          <creator>anoniem</creator>
+          <contributor>Parmigianino</contributor>
+          <contributor>Andreani, Andrea</contributor>
+          <date>1601 - 1609</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Mantua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.103</identifier>
+        <datestamp>2019-05-22T12:37:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51539</identifier>
+          <identifier>RP-P-OB-31.103</identifier>
+          <title>Gekroonde heilige op een wagen</title>
+          <creator>Parasole, Geronima Cagnaccia</creator>
+          <contributor>Tempesta, Antonio</contributor>
+          <subject>heiligen</subject>
+          <subject>engelen</subject>
+          <date>ca. 1579 - 1622</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.157</identifier>
+        <datestamp>2019-05-22T12:38:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51776</identifier>
+          <identifier>RP-P-OB-31.157</identifier>
+          <title>Cloelia steekt de Tiber over</title>
+          <creator>Vicentino, Niccolò</creator>
+          <contributor>Maturino da Firenze</contributor>
+          <contributor>Andreani, Andrea</contributor>
+          <subject>Tiber</subject>
+          <subject>Rome</subject>
+          <date>1608</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Mantua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-130</identifier>
+        <datestamp>2021-07-26T20:51:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51952</identifier>
+          <identifier>RP-T-00-130</identifier>
+          <title>Gezicht op een kampement van het leger van Willem III bij Leuven</title>
+          <creator>Grave, Josua de</creator>
+          <subject>Guerre de Hollande</subject>
+          <subject>Leuven</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1675</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leuven</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1897-A-3326</identifier>
+        <datestamp>2021-05-17T13:29:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51790</identifier>
+          <identifier>RP-T-1897-A-3326</identifier>
+          <title>Gezicht op Huis Pot bij Nivelles, Waals-Brabant</title>
+          <creator>Grave, Josua de</creator>
+          <subject>Huis Pot</subject>
+          <date>1676-07-03</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijvel</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3651-1</identifier>
+        <datestamp>2021-10-02T12:24:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52083</identifier>
+          <identifier>BK-NM-3651-1</identifier>
+          <title>Fragment groene zijden damast met patroon van slingerende ranken met gestileerde bladeren, anjelieren en rozen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1750</date>
+          <type>zijdedamast</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12981-N</identifier>
+        <datestamp>2021-10-02T12:23:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50900</identifier>
+          <identifier>BK-NM-12981-N</identifier>
+          <title>Strook kloskant met kruisje van vier blaadjes</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brazilië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1962-10</identifier>
+        <datestamp>2021-01-28T13:31:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51234</identifier>
+          <identifier>RP-T-1962-10</identifier>
+          <title>Gezicht op de Zwanenburg te Kleve</title>
+          <title>Bladen afkomstig uit Schetsboek van 165-1651</title>
+          <creator>Goyen, Jan van</creator>
+          <subject>Zwanenburcht</subject>
+          <subject>Kleef</subject>
+          <date>1650 - 1651</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11903-5</identifier>
+        <datestamp>2022-03-14T14:24:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51272</identifier>
+          <identifier>BK-NM-11903-5</identifier>
+          <title>Fragment paars fluweel met palmetten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1550 - ca. 1650</date>
+          <type>zijdefluweel</type>
+          <format>zijde</format>
+          <format>satijn</format>
+          <format>fluweel</format>
+          <format>ciseléfluweel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.888</identifier>
+        <datestamp>2022-03-02T15:20:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51590</identifier>
+          <identifier>RP-P-OB-17.888</identifier>
+          <title>Landschap met Christus en de Emmaüsgangers</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1776-01-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.924</identifier>
+        <datestamp>2022-03-02T15:21:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51699</identifier>
+          <identifier>RP-P-OB-17.924</identifier>
+          <title>Landschap met Mozes en de brandende braamstruik</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1776-12-03</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1954-146</identifier>
+        <datestamp>2019-01-03T16:50:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52003</identifier>
+          <identifier>RP-T-1954-146</identifier>
+          <title>Gezelschap drinkende boeren</title>
+          <creator>Gravenweert, D. van 's</creator>
+          <date>1695</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>potlood</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2229</identifier>
+        <datestamp>2020-04-15T10:18:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51525</identifier>
+          <identifier>RP-T-1889-A-2229</identifier>
+          <title>Wintergezicht bij de kalkoven te Zwolle</title>
+          <creator>Grasdorp, Gerrit</creator>
+          <subject>Zwolle</subject>
+          <date>1661 - 1693</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7983</identifier>
+        <datestamp>2021-11-03T23:48:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52121</identifier>
+          <identifier>BK-NM-7983</identifier>
+          <title>Haar- of kapnaald van zilver</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1800</date>
+          <type>sieraad</type>
+          <type>haarnaald</type>
+          <type>kapnaald</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.853</identifier>
+        <datestamp>2022-03-02T15:20:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51182</identifier>
+          <identifier>RP-P-OB-17.853</identifier>
+          <title>Landschap met herders, vee en de Milvische brug</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <subject>Milvische brug</subject>
+          <date>1775-05-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.016</identifier>
+        <datestamp>2019-05-22T12:35:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51225</identifier>
+          <identifier>RP-P-OB-31.016</identifier>
+          <title>Wonderbare visvangst</title>
+          <creator>Carpi, Ugo da</creator>
+          <contributor>Rafaël</contributor>
+          <date>1502 - 1532</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15367</identifier>
+        <datestamp>2021-10-02T12:24:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51637</identifier>
+          <identifier>BK-15367</identifier>
+          <title>Kleed van satijn met ciseléfluweel</title>
+          <date>1500 - 1600</date>
+          <type>kleed</type>
+          <format>zijde</format>
+          <format>fluweel</format>
+          <format>ciseléfluweel</format>
+          <format>satijn</format>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.905</identifier>
+        <datestamp>2022-03-02T15:20:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51650</identifier>
+          <identifier>RP-P-OB-17.905</identifier>
+          <title>Landschap met Apulische herder veranderend in een olijfboom en dansende nimfen</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1776-06-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTcyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

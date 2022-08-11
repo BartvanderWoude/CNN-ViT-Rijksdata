@@ -1,0 +1,489 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTc0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1971-195-A</identifier>
+        <datestamp>2021-10-02T12:24:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51750</identifier>
+          <identifier>BK-1971-195-A</identifier>
+          <title>Fragment ingeschoren fluweel met dessin "Zeenymphen", donkerblauw op goud</title>
+          <creator>Eindhovensche Trijpfabrieken Schellens en Marto</creator>
+          <contributor>Lion Cachet, Carel Adolph</contributor>
+          <date>in of na 1918 - ca. 1925</date>
+          <type>trijp</type>
+          <type>bekledingsstof</type>
+          <format>mohair</format>
+          <format>katoen</format>
+          <format>lamel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Eindhoven</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.917</identifier>
+        <datestamp>2022-03-02T15:21:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51686</identifier>
+          <identifier>RP-P-OB-17.917</identifier>
+          <title>Landschap met ruïne en rust tijdens de vlucht naar Egypte</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1776-09-02</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17281</identifier>
+        <datestamp>2021-10-02T12:24:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51692</identifier>
+          <identifier>BK-17281</identifier>
+          <title>Antependium van fluweel</title>
+          <date>1500 - 1600</date>
+          <date>1600 - 1699</date>
+          <date>1800 - 1900</date>
+          <type>antependium</type>
+          <format>zijde</format>
+          <format>fluweel</format>
+          <format>ciseléfluweel</format>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-141</identifier>
+        <datestamp>2021-11-29T23:37:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51905</identifier>
+          <identifier>RP-T-00-141</identifier>
+          <title>Kampement van het leger van Willem III bij Halle</title>
+          <creator>Grave, Josua de</creator>
+          <contributor>Schouman, Aert</contributor>
+          <subject>Guerre de Hollande</subject>
+          <subject>Halle</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Henegouwen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13283</identifier>
+        <datestamp>2021-10-02T12:24:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51570</identifier>
+          <identifier>BK-NM-13283</identifier>
+          <title>Fragment groen zijdedamast</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1799</date>
+          <type>zijdedamast</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.133</identifier>
+        <datestamp>2019-05-22T12:38:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51665</identifier>
+          <identifier>RP-P-OB-31.133</identifier>
+          <title>Circe drinkend</title>
+          <creator>Trento, Antonio da</creator>
+          <contributor>Parmigianino</contributor>
+          <contributor>Andreani, Andrea</contributor>
+          <date>1568 - 1629</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1949-491</identifier>
+        <datestamp>2018-04-21T02:30:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51871</identifier>
+          <identifier>RP-P-1949-491</identifier>
+          <title>Wedstrijd tussen Apollo en Marsyas</title>
+          <creator>Zanetti, Anton Maria I</creator>
+          <contributor>Parmigianino</contributor>
+          <contributor>Zanetti, Anton Maria I</contributor>
+          <contributor>Crozat, Pierre</contributor>
+          <date>1724</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14367-31-B</identifier>
+        <datestamp>2021-10-02T12:23:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50906</identifier>
+          <identifier>BK-NM-14367-31-B</identifier>
+          <title>Fragment kantborduurwerk met vierpuntige sterren in een vierkant netwerk</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1924</date>
+          <type>fragment</type>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Curaçao</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1899-A-4235</identifier>
+        <datestamp>2021-05-17T14:11:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51542</identifier>
+          <identifier>RP-T-1899-A-4235</identifier>
+          <title>Gezicht op de waterschans van Bergen op Zoom</title>
+          <creator>Grave, Josua de</creator>
+          <contributor>Klotz, Barend</contributor>
+          <subject>Waterschans</subject>
+          <subject>Bergen op Zoom</subject>
+          <date>1671</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bergen op Zoom</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.117</identifier>
+        <datestamp>2019-05-22T12:37:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51599</identifier>
+          <identifier>RP-P-OB-31.117</identifier>
+          <title>Vrouwelijke heilige ontvangt het Christuskind</title>
+          <creator>Trento, Antonio da</creator>
+          <contributor>Parmigianino</contributor>
+          <date>ca. 1520 - ca. 1550</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16403</identifier>
+        <datestamp>2021-11-03T19:26:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50972</identifier>
+          <identifier>BK-16403</identifier>
+          <title>Teagown</title>
+          <creator>Templier et Rondeau</creator>
+          <description>Vanaf 1900 droegen vrouwen thuis een minder formele jurk, ook wel een teagown genoemd. Het hier getoonde model heet een robe princesse en volgt, zonder taillenaad, de contouren van het lichaam. De fijne naadjes rond het middel geven vorm aan het lijf, waardoor de nadruk op billen en boezem ligt. Ook het korset dat onder de japon werd gedragen benadrukte deze lijn.</description>
+          <date>ca. 1906</date>
+          <type>dameskleding</type>
+          <type>japon</type>
+          <format>zijde</format>
+          <format>taf</format>
+          <format>zilverdraad</format>
+          <format>crêpe georgette</format>
+          <format>kant (materiaal)</format>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15996-B</identifier>
+        <datestamp>2021-11-03T19:26:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50984</identifier>
+          <identifier>BK-15996-B</identifier>
+          <title>Japon van bedrukte stof</title>
+          <creator>anoniem</creator>
+          <description>Deze japon is gemaakt van een geglansde katoen van Europese makelij. Dit soort Europese stoffen waren een goedkoper alternatief voor de Indiase sitsen (handbeschilderde katoenen stoffen). Ze werden, in tegenstelling tot de Indiase import, vaak bedrukt. De japon is versierd met banen van dezelfde stof waarbij plooien in een patroon van zeshoeken zijn gevouwen.</description>
+          <date>1775 - 1785</date>
+          <type>kleding</type>
+          <type>dameskleding</type>
+          <type>bovenkleding</type>
+          <type>rok</type>
+          <format>katoen</format>
+          <format>sits</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.274</identifier>
+        <datestamp>2020-11-12T09:51:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51245</identifier>
+          <identifier>RP-P-OB-31.274</identifier>
+          <title>De kruisafname</title>
+          <creator>Carpi, Ugo da</creator>
+          <contributor>Rafaël</contributor>
+          <subject>stadsgezichten en landschappen met bouwsels van mensen</subject>
+          <description>De Duitse uitvinding van de kleurenhoutsnede kreeg een succesvol vervolg in Italië. De eerste die de techniek hier toepaste was Ugo da Carpi. De Kruisafname naar ontwerp van Rafael is een van zijn vroegste prenten. In plaats van een enkel toonblok gebruikte de kunstenaar er twee: een voor het lichte blauw en een tweede voor de schaduwen in donkerblauw.</description>
+          <date>ca. 1518</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1897-A-3420</identifier>
+        <datestamp>2020-04-06T18:22:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51257</identifier>
+          <identifier>RP-T-1897-A-3420</identifier>
+          <title>Gezicht over het water op Dordrecht</title>
+          <creator>Goyen, Jan van</creator>
+          <subject>Dordrecht</subject>
+          <date>1606 - 1656</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.893</identifier>
+        <datestamp>2022-03-02T15:20:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51609</identifier>
+          <identifier>RP-P-OB-17.893</identifier>
+          <title>Zeegezicht met tekenaar zittend aan de kust</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1776-01-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.899</identifier>
+        <datestamp>2022-03-02T15:20:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51621</identifier>
+          <identifier>RP-P-OB-17.899</identifier>
+          <title>Kustgezicht met roof van Europa</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1776-01-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.183</identifier>
+        <datestamp>2018-04-21T02:45:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51925</identifier>
+          <identifier>RP-P-OB-31.183</identifier>
+          <title>Graflegging van Christus</title>
+          <creator>Monogrammist GGN</creator>
+          <contributor>Cambiaso, Luca</contributor>
+          <contributor>Cambiaso, Luca</contributor>
+          <date>1537 - 1585</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1992-2</identifier>
+        <datestamp>2021-10-02T12:24:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51938</identifier>
+          <identifier>BK-1992-2</identifier>
+          <title>Theefontein op komfoor</title>
+          <creator>Odiot, Charles Nicolas</creator>
+          <date>ca. 1838 - ca. 1845</date>
+          <type>samovar</type>
+          <type>komfoor</type>
+          <format>zilver</format>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8951</identifier>
+        <datestamp>2021-10-02T12:24:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51151</identifier>
+          <identifier>BK-NM-8951</identifier>
+          <title>Fragment groen met geel zijde lampas</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1730</date>
+          <type>lampas</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.148</identifier>
+        <datestamp>2019-05-22T12:38:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51764</identifier>
+          <identifier>RP-P-OB-31.148</identifier>
+          <title>Christus geneest melaatsen</title>
+          <creator>Vicentino, Niccolò</creator>
+          <contributor>Parmigianino</contributor>
+          <contributor>Andreani, Andrea</contributor>
+          <date>1608</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Mantua</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTc2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

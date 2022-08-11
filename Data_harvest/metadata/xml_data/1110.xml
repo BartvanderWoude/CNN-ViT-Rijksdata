@@ -1,0 +1,496 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjE4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-2288</identifier>
+        <datestamp>2021-01-28T15:53:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78166</identifier>
+          <identifier>RP-P-1908-2288</identifier>
+          <title>Twee stadsgezichten te Utrecht: Sint Margaretenhof en Beyerskameren</title>
+          <title>'T Margariten-hof te Utrecht</title>
+          <title>Breijers Kameren te Utrecht</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Bulthuis, Jan</contributor>
+          <subject>Utrecht</subject>
+          <date>1786 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-969</identifier>
+        <datestamp>2021-07-30T12:01:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78396</identifier>
+          <identifier>RP-P-BI-969</identifier>
+          <title>Zittende herder met zijn hond en geiten</title>
+          <title>Geiten</title>
+          <title>Animalia ad vivum delineata et aqua forti aeri impressa Studio et Arte Nicolai Berchemi</title>
+          <creator>anoniem</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>1648 - 1733</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-27.706</identifier>
+        <datestamp>2022-03-02T15:23:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78991</identifier>
+          <identifier>RP-P-OB-27.706</identifier>
+          <title>Portret van een onbekende man</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>Vermeulen, Abraham Adrianus</contributor>
+          <date>1858-11-24</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-35.271</identifier>
+        <datestamp>2021-01-28T16:07:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80286</identifier>
+          <identifier>RP-P-OB-35.271</identifier>
+          <title>Sculptuur van de Griekse godin Hebe</title>
+          <title>Ebe</title>
+          <title>Sculpturen van Antonio Canova</title>
+          <creator>Bertini, Angelo</creator>
+          <contributor>Tognolli, Giovanni</contributor>
+          <contributor>Canova, Antonio</contributor>
+          <contributor>Canova, Antonio</contributor>
+          <contributor>Ventignano, hertogin van</contributor>
+          <date>1793 - 1838</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-14122</identifier>
+        <datestamp>2021-01-28T16:10:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80589</identifier>
+          <identifier>RP-P-1888-A-14122</identifier>
+          <title>Buste van vrouw met muts</title>
+          <creator>Bikkers, Jan</creator>
+          <date>1840 - 1876</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1182</identifier>
+        <datestamp>2021-01-28T16:15:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81058</identifier>
+          <identifier>RP-P-BI-1182</identifier>
+          <title>Studieblad met verschillende figuren</title>
+          <creator>Bles, David</creator>
+          <date>1856</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-5194</identifier>
+        <datestamp>2021-01-28T15:54:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78235</identifier>
+          <identifier>RP-P-1905-5194</identifier>
+          <title>Gezicht op achterzijde Riedijkspoort met stadsherberg en het veer naar Gouda te Dordrecht</title>
+          <title>Gezicht op de Rietdijkze poort stadsherberg en het Goudze veer</title>
+          <title>Twaalf gezichten op Dordrecht</title>
+          <title>XII Gezichtjes der Stadt Dordrecht Langs de water zijde</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Bendorp, Carel Frederik (I)</contributor>
+          <subject>Dordrecht</subject>
+          <date>1803</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.593</identifier>
+        <datestamp>2017-04-11T14:58:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78484</identifier>
+          <identifier>RP-P-OB-26.593</identifier>
+          <title>Portret van Albert Sigismund van Beieren, prinsbisschop van Regensburg</title>
+          <title>Albertus Sigismundus D.G. (...) Praepos Constant &amp; Oetingan etc.</title>
+          <creator>Berg, Joannes van de</creator>
+          <contributor>Strobel, Wilhelm</contributor>
+          <subject>Albert Sigismund van Beieren</subject>
+          <date>1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-1646</identifier>
+        <datestamp>2019-05-23T14:33:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78968</identifier>
+          <identifier>RP-P-1906-1646</identifier>
+          <title>Portret van een onbekende man, mogelijk J.C. Hummel</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>Arnz &amp; Co., August</contributor>
+          <date>1847-04-09</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-542</identifier>
+        <datestamp>2021-01-28T16:10:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80487</identifier>
+          <identifier>RP-P-1878-A-542</identifier>
+          <title>Staande man met staartpruik</title>
+          <creator>Beijer, Jan de</creator>
+          <subject>kostuum</subject>
+          <date>1720 - 1780</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-2935</identifier>
+        <datestamp>2021-01-28T15:54:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78212</identifier>
+          <identifier>RP-P-1911-2935</identifier>
+          <title>Twee stadsgezichten te Amsterdam met Utrechterpoort</title>
+          <title>Utrechtsche Poort te Amsterdam</title>
+          <title>Dezelve van buiten</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Bulthuis, Jan</contributor>
+          <subject>Utrechtsepoort</subject>
+          <date>1786 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1893-A-18004</identifier>
+        <datestamp>2021-01-28T15:56:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78507</identifier>
+          <identifier>RP-P-1893-A-18004</identifier>
+          <title>Landschap met herderin en hond bij kudde schapen</title>
+          <creator>Berg, Simon van den</creator>
+          <date>1822 - 1899</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-711</identifier>
+        <datestamp>2016-10-20T20:28:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78945</identifier>
+          <identifier>RP-P-1909-711</identifier>
+          <title>Portret van A.F. Goudriaan</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <contributor>Berghaus, Johann Peter</contributor>
+          <subject>Goudriaan, Adrianus Franciscus</subject>
+          <date>1855-05-26</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1937-173</identifier>
+        <datestamp>2021-01-28T16:09:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80392</identifier>
+          <identifier>RP-P-1937-173</identifier>
+          <title>Spinnende vrouw in gesprek met vrouw</title>
+          <title>De moederlooze Maria</title>
+          <creator>Best, Johannes Alexander Rudolf</creator>
+          <contributor>Beijerinck, Gerrit Jan Adriaan</contributor>
+          <date>1807 - 1823</date>
+          <date>1823</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-3975</identifier>
+        <datestamp>2021-01-28T16:11:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80800</identifier>
+          <identifier>RP-P-1907-3975</identifier>
+          <title>Naakte man met boek en kaars</title>
+          <title>Paradigmata graphices variorum artificum</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Carracci, Annibale</contributor>
+          <contributor>Carracci, Annibale</contributor>
+          <date>1668 - 1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4523</identifier>
+        <datestamp>2021-01-28T15:56:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78434</identifier>
+          <identifier>RP-P-OB-4523</identifier>
+          <title>Kaart van Delfland (blad linksonder)</title>
+          <title>Ware afbeeldinghe van Delflandt</title>
+          <creator>Berckenrode, Floris Balthasarsz. van</creator>
+          <contributor>Berckenrode, Balthasar Florisz. van</contributor>
+          <subject>Delfland</subject>
+          <date>1612</date>
+          <type>prent</type>
+          <type>kaart</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1935-462</identifier>
+        <datestamp>2021-01-28T15:56:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78551</identifier>
+          <identifier>RP-P-1935-462</identifier>
+          <title>Liggend vrouwelijk naakt</title>
+          <title>Voorbeeldcomposities naar Gerard de Lairesse</title>
+          <creator>Berge, Pieter van den</creator>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>1694 - 1737</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1986-21</identifier>
+        <datestamp>2019-01-02T17:38:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78922</identifier>
+          <identifier>RP-P-1986-21</identifier>
+          <title>Portret van Hendrik Boursse Wils</title>
+          <creator>Berghaus, Johann Peter</creator>
+          <subject>Boursse Wils, Hendrik</subject>
+          <date>1845</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-13694</identifier>
+        <datestamp>2021-01-28T16:10:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80606</identifier>
+          <identifier>RP-P-1888-A-13694</identifier>
+          <title>Portret van filosoof, staatsman en toneelschrijver Lucius Annaeus Seneca</title>
+          <title>Seneca</title>
+          <creator>Bilderdijk, Willem</creator>
+          <subject>Seneca, Lucius Annaeus</subject>
+          <date>1766 - 1831</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-6588</identifier>
+        <datestamp>2021-01-28T16:12:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80823</identifier>
+          <identifier>RP-P-1905-6588</identifier>
+          <title>Drie vrouwenbeelden en een groep met twee vrouwen en een kind</title>
+          <title>Paradigmata graphices variorum artificum</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>Bandinelli, Baccio</contributor>
+          <contributor>Bartolommeo (Fra)</contributor>
+          <contributor>Bartolommeo (Fra)</contributor>
+          <contributor>anoniem</contributor>
+          <date>1668 - 1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjIwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

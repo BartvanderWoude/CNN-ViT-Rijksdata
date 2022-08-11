@@ -1,0 +1,506 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMjc0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.222</identifier>
+        <datestamp>2019-05-13T11:49:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41259</identifier>
+          <identifier>RP-P-OB-21.222</identifier>
+          <title>Portret van Léonor Goyon de Matignon</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Antonin, Pater</contributor>
+          <subject>Goyon de Matignon, Léonor</subject>
+          <date>1657</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4980</identifier>
+        <datestamp>2019-05-29T15:01:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40350</identifier>
+          <identifier>RP-P-OB-4980</identifier>
+          <title>Vogel op een distel</title>
+          <title>Kloosterleven in emblemen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621 - 1635</date>
+          <type>prent</type>
+          <type>embleem</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.760</identifier>
+        <datestamp>2019-05-29T15:03:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40604</identifier>
+          <identifier>RP-P-OB-20.760</identifier>
+          <title>Heilige Helena, Heilige Donatus van Arezzo (?), Heilige Ludovicus van Toulouse, Heilige Bernardus van Clairvaux (18-20 augustus)</title>
+          <title>Alle heiligen en de Christelijke feestdagen van het jaar</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <date>1632 - 1636</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.062</identifier>
+        <datestamp>2019-05-29T15:05:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41021</identifier>
+          <identifier>RP-P-OB-21.062</identifier>
+          <title>Twee vechtende mannen met zwaarden</title>
+          <title>Capricci di varie Figure di Jacopo Callot</title>
+          <title>Diverse figuren en voorstellingen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.160</identifier>
+        <datestamp>2019-05-13T11:48:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41119</identifier>
+          <identifier>RP-P-OB-21.160</identifier>
+          <title>La Carrière of de Rue Neuve in Nancy</title>
+          <title>La Carrière ou la rue Neuve de Nancy</title>
+          <title>Cariere et rue neufue de Nancy ou se font les Ioustes et Tournois, Combats et autres ieux de recreation</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <subject>Nancy</subject>
+          <date>1622 - 1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-5799</identifier>
+        <datestamp>2019-05-29T15:01:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40413</identifier>
+          <identifier>RP-P-OB-5799</identifier>
+          <title>Inscheping van Margaretha van Oostenrijk in Genua</title>
+          <creator>Callot, Jacques</creator>
+          <subject>Genua</subject>
+          <subject>Margaretha van Oostenrijk (koningin van Spanje)</subject>
+          <date>1612</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.828</identifier>
+        <datestamp>2019-05-29T15:03:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40673</identifier>
+          <identifier>RP-P-OB-20.828</identifier>
+          <title>Exercities met een musket: voorbereidingen voor het afvuren van een musket</title>
+          <title>Militaire exercities</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <contributor>Lodewijk XIII (koning van Frankrijk)</contributor>
+          <date>1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23889</identifier>
+        <datestamp>2021-07-12T17:07:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40759</identifier>
+          <identifier>RP-P-1903-A-23889</identifier>
+          <title>Dame met waaier, van voren gezien</title>
+          <title>La Noblesse</title>
+          <title>Edellieden uit Lotharingen</title>
+          <creator>anoniem</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Wit, Frederik de</contributor>
+          <subject>kostuum</subject>
+          <subject>Lotharingen</subject>
+          <date>1630 - 1690</date>
+          <type>kostuumprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4616</identifier>
+        <datestamp>2019-05-29T15:05:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40973</identifier>
+          <identifier>RP-P-OB-4616</identifier>
+          <title>Groteske figuur met draailier</title>
+          <title>Varie figure gobbi di Jacopo Callot</title>
+          <title>Diverse groteske figuren</title>
+          <title>Dwergen en gebochelden</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621 - 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.051</identifier>
+        <datestamp>2019-05-29T15:05:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41010</identifier>
+          <identifier>RP-P-OB-21.051</identifier>
+          <title>Tweemaal dezelfde man met bontmantel en wandelstok, van voren gezien</title>
+          <title>Capricci di varie Figure di Jacopo Callot</title>
+          <title>Diverse figuren en voorstellingen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-5658</identifier>
+        <datestamp>2019-05-13T11:49:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41305</identifier>
+          <identifier>RP-P-OB-5658</identifier>
+          <title>Portret van Pierre Dupuy</title>
+          <title>Petrus Puteanus</title>
+          <creator>Nanteuil, Robert</creator>
+          <contributor>Nanteuil, Robert</contributor>
+          <subject>Dupuy, Pierre</subject>
+          <date>1648</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.640</identifier>
+        <datestamp>2019-05-29T15:02:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40466</identifier>
+          <identifier>RP-P-OB-20.640</identifier>
+          <title>Galeien van Cosimo II de' Medici omsingelen een Turkse bertone</title>
+          <title>Galeien van Cosimo II de' Medici omsingelen het Turkse schip 'Bertone'</title>
+          <creator>Callot, Jacques</creator>
+          <subject>Medici, Cosimo II de'</subject>
+          <date>1617</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.934</identifier>
+        <datestamp>2019-05-29T15:04:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40813</identifier>
+          <identifier>RP-P-OB-20.934</identifier>
+          <title>Zittende bedelares met twee katten bij een ketel met hete kooltjes</title>
+          <title>Les Gueux / Les Mendiants / Les Baroni / Les Barons</title>
+          <title>Bedelaars</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1622 - 1623</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.947</identifier>
+        <datestamp>2019-05-29T15:04:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40819</identifier>
+          <identifier>RP-P-OB-20.947</identifier>
+          <title>Gezicht op de Seine met het Louvre te Parijs</title>
+          <title>Gezichten op Parijs</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <subject>Parijs</subject>
+          <subject>Musée du Louvre</subject>
+          <subject>Seine</subject>
+          <date>1630</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-21.109</identifier>
+        <datestamp>2021-07-12T16:57:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41067</identifier>
+          <identifier>RP-P-OB-21.109</identifier>
+          <title>Landschap met huizen aan een rivier</title>
+          <title>Divers paisages</title>
+          <title>Verschillende landschappen</title>
+          <creator>Collignon, François</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <date>1630 - 1660</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-5772</identifier>
+        <datestamp>2019-05-29T15:01:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40361</identifier>
+          <identifier>RP-P-OB-5772</identifier>
+          <title>Twee harten</title>
+          <title>Kloosterleven in emblemen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621 - 1635</date>
+          <type>prent</type>
+          <type>embleem</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.865</identifier>
+        <datestamp>2019-05-29T15:04:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40713</identifier>
+          <identifier>RP-P-OB-20.865</identifier>
+          <title>Feest te Florence: optocht van soldaten en praalwagens</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Parigi, Giulio</contributor>
+          <contributor>Pignoni, Zanobi</contributor>
+          <subject>Florence</subject>
+          <subject>Piazza Santa Croce</subject>
+          <subject>Medici, Cosimo II de'</subject>
+          <subject>Rovere, Federico Ubaldo della</subject>
+          <date>1616</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.871</identifier>
+        <datestamp>2019-05-29T15:04:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40719</identifier>
+          <identifier>RP-P-OB-20.871</identifier>
+          <title>Twee straatartiesten als Cicho Sgarra en Collo Francisco</title>
+          <title>Balli di Sfessania</title>
+          <title>Dansen van Sfessania</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <date>1621 - 1622</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4017</identifier>
+        <datestamp>2019-05-29T15:06:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41167</identifier>
+          <identifier>RP-P-OB-4017</identifier>
+          <title>Tuinierster met een mand</title>
+          <title>Hortulanae</title>
+          <creator>Bellange, Jacques</creator>
+          <contributor>Bellange, Jacques</contributor>
+          <date>1602 - 1616</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.686</identifier>
+        <datestamp>2019-05-29T15:02:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40512</identifier>
+          <identifier>RP-P-OB-20.686</identifier>
+          <title>De koning deelt onderscheidingen uit</title>
+          <title>Les miseres et les malheurs de la guerre</title>
+          <title>De gruwelen van de oorlog (groot)</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Marolles, Michel de</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <subject>Dertigjarige oorlog</subject>
+          <date>1633</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMjc2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

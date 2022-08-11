@@ -1,0 +1,490 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjI2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11441-Q</identifier>
+        <datestamp>2021-10-02T12:34:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56593</identifier>
+          <identifier>BK-NM-11441-Q</identifier>
+          <title>Tegel</title>
+          <creator>anoniem</creator>
+          <date>1640 - 1660</date>
+          <type>tegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-173</identifier>
+        <datestamp>2021-11-23T17:05:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57330</identifier>
+          <identifier>NG-VG-1-173</identifier>
+          <title>Karel V en Anna</title>
+          <creator>anoniem</creator>
+          <subject>Anna van Bohemen en Hongarije</subject>
+          <subject>Ferdinand I van Habsburg (Duits keizer)</subject>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <date>1532</date>
+          <type>rekenpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-436</identifier>
+        <datestamp>2021-10-20T13:42:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57577</identifier>
+          <identifier>NG-VG-1-436</identifier>
+          <title>Ter ere van de hertog van Anjou, als dank voor het ontzet van Kamerijk</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Tachtigjarige Oorlog</subject>
+          <subject>Ontzet van Kamerijk</subject>
+          <subject>Cambrai</subject>
+          <subject>Valois, François-Hercule de (hertog van Anjou)</subject>
+          <date>1581</date>
+          <type>noodmunt</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Cambrai</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1978-74</identifier>
+        <datestamp>2021-10-02T12:33:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56156</identifier>
+          <identifier>RP-T-1978-74</identifier>
+          <title>Boerderij tussen bomen</title>
+          <creator>Molijn, Pieter de</creator>
+          <date>1650 - 1660</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-62</identifier>
+        <datestamp>2021-10-20T13:40:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57232</identifier>
+          <identifier>NG-VG-1-62</identifier>
+          <title>Maximiliaan I, Duits keizer</title>
+          <creator>Reinhart, Hans (der Ältere)</creator>
+          <subject>Maximiliaan I van Habsburg (keizer van het Heilige Roomse Rijk)</subject>
+          <date>1547</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leipzig</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-278</identifier>
+        <datestamp>2021-10-20T13:41:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57430</identifier>
+          <identifier>NG-VG-1-278</identifier>
+          <title>Vrijlating van Filips de Grootmoedige van Hessen, volgens het verdrag van Passau</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>verdrag</subject>
+          <subject>vrijlating</subject>
+          <subject>Schmalkaldische oorlog</subject>
+          <subject>Verdrag van Passau</subject>
+          <subject>Passau</subject>
+          <subject>Filips I de Grootmoedige (landgraaf van Hessen)</subject>
+          <date>1552</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-37</identifier>
+        <datestamp>2021-10-20T13:39:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57208</identifier>
+          <identifier>NG-VG-1-37</identifier>
+          <title>Frederik III, Duits keizer en zijn zoon Maximiliaan</title>
+          <creator>Gebhart, Ulrich</creator>
+          <subject>Frederik III van Habsburg (keizer van het Heilige Roomse Rijk)</subject>
+          <subject>Maximiliaan I van Habsburg (keizer van het Heilige Roomse Rijk)</subject>
+          <date>1531</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zwickau</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-562</identifier>
+        <datestamp>2021-10-20T13:43:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57733</identifier>
+          <identifier>NG-VG-1-562</identifier>
+          <title>De verovering van Sluis weegt op tegen het verlies van Oostende</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Tachtigjarige Oorlog</subject>
+          <subject>Beleg en inname van Sluis (1604)</subject>
+          <subject>Overgave van Oostende (1604)</subject>
+          <subject>Sluis</subject>
+          <subject>Zeeland</subject>
+          <subject>Oostende</subject>
+          <subject>West-Vlaanderen</subject>
+          <date>1604</date>
+          <type>historiepenning</type>
+          <type>triomfpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Gelderland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10188</identifier>
+        <datestamp>2021-10-19T16:26:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56038</identifier>
+          <identifier>BK-NM-10188</identifier>
+          <title>Ruit met o.a. de heilige Lucas, Augustinius, Franciscus en de heilige Benedictus, bijbelse voorstellingen, waaronder Jozef en de vrouw van Potifar</title>
+          <creator>anoniem</creator>
+          <contributor>Vellert, Dirck</contributor>
+          <date>ca. 1540 - ca. 1700</date>
+          <type>ruit</type>
+          <format>glas</format>
+          <format>lood</format>
+          <format>glas-in-lood</format>
+          <format>grisailleverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-146</identifier>
+        <datestamp>2021-10-20T13:40:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57304</identifier>
+          <identifier>NG-VG-1-146</identifier>
+          <title>Pest in Duitsland</title>
+          <creator>anoniem</creator>
+          <subject>sociale geschiedenis</subject>
+          <subject>natuurverschijnsel</subject>
+          <subject>pestepidemie</subject>
+          <subject>Duitsland</subject>
+          <date>1528</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-197</identifier>
+        <datestamp>2021-10-20T13:40:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57353</identifier>
+          <identifier>NG-VG-1-197</identifier>
+          <title>Chaireddin Barbarossa, sjah van Algiers, admiraal der Turken</title>
+          <creator>Neufahrer, Ludwig</creator>
+          <subject>Barbarossa, Hayreddin</subject>
+          <date>1535</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Joachimsthal</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1897-A-3466(V)</identifier>
+        <datestamp>2016-10-20T20:00:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55899</identifier>
+          <identifier>RP-T-1897-A-3466(V)</identifier>
+          <title>Schets van een prieel</title>
+          <creator>Marot, Daniël (I)</creator>
+          <date>1672 - 1752</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14367-99</identifier>
+        <datestamp>2021-10-02T12:34:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56652</identifier>
+          <identifier>BK-NM-14367-99</identifier>
+          <title>Strook kloskant bedoeld of gebruikt als meubelbekleding met kelkbloem in hangende bloempot</title>
+          <creator>anoniem</creator>
+          <date>ca. 1960</date>
+          <type>meubelbekleding</type>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Napels</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-270</identifier>
+        <datestamp>2021-10-20T14:35:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57422</identifier>
+          <identifier>NG-VG-1-270</identifier>
+          <title>Maria, koningin van Bohemen</title>
+          <creator>Leoni, Leone</creator>
+          <subject>Maria (koningin van Bohemen)</subject>
+          <date>1550</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Milaan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-350</identifier>
+        <datestamp>2021-10-20T13:41:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57496</identifier>
+          <identifier>NG-VG-1-350</identifier>
+          <title>Filips van Montmorency, graaf van Horne en zijn vrouw Walburg van Nieuwenaar</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>Nieuwenaar, Walburg van (gravin van Horne)</subject>
+          <subject>Montmorency, Philips van (graaf van Horne)</subject>
+          <date>1566</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-506</identifier>
+        <datestamp>2021-10-20T13:43:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57684</identifier>
+          <identifier>NG-VG-1-506</identifier>
+          <title>Vergaan van de Spaanse vloot bij Kaap Finistere</title>
+          <creator>Bylaer, Gerard van</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Gulik-Kleefse kwestie</subject>
+          <subject>Vergaan van Spaanse vloot bij kaap Finisterre</subject>
+          <subject>Finisterre, Cabo de</subject>
+          <date>1596</date>
+          <type>historiepenning</type>
+          <type>triomfpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-NM-7079</identifier>
+        <datestamp>2021-11-03T21:18:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56408</identifier>
+          <identifier>AK-NM-7079</identifier>
+          <title>Paar handsieraden met ringen (hathiphul)</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750</date>
+          <type>sieraad</type>
+          <type>ring (sieraad)</type>
+          <type>duimring</type>
+          <format>goud</format>
+          <format>spiegelglas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Surat</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1962-78</identifier>
+        <datestamp>2021-10-02T12:34:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56537</identifier>
+          <identifier>RP-T-1962-78</identifier>
+          <title>Knielende herder</title>
+          <creator>Ostade, Isaac van</creator>
+          <contributor>Dusart, Cornelis</contributor>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1644 - 1649</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-627-A</identifier>
+        <datestamp>2021-10-02T12:34:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57125</identifier>
+          <identifier>BK-1978-627-A</identifier>
+          <title>Strookje kloskant met gestileerde bloem tussen twee vertikale lijnen en ovalen aan een rechthoekig fragment batist</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1600 - ca. 1624</date>
+          <type>strook</type>
+          <type>tussenzetsel</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Vlaanderen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-324</identifier>
+        <datestamp>2021-10-20T14:35:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57473</identifier>
+          <identifier>NG-VG-1-324</identifier>
+          <title>Antoine Perrenot, kardinaal van Granvelle</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>Granvelle, Antoine Perrenot de</subject>
+          <date>1561</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjI4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,551 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MzI2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3526-A</identifier>
+        <datestamp>2021-10-20T10:08:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63000</identifier>
+          <identifier>NG-VG-1-3526-A</identifier>
+          <title>Jan van Eyck, Vlaams schilder</title>
+          <creator>Hondt, Franciscus Johannes de</creator>
+          <subject>letterkunde</subject>
+          <subject>dramaturg</subject>
+          <subject>Eyck, Jan van</subject>
+          <date>1828</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brugge</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3440</identifier>
+        <datestamp>2021-10-20T14:37:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62900</identifier>
+          <identifier>NG-VG-1-3440</identifier>
+          <title>Oprichting van een monument, ontworpen door Karl Friedrich Schinkel ter herdenking van de overwinning op Napoleon</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>onderscheiding</subject>
+          <subject>oprichting van monument</subject>
+          <subject>oorlog</subject>
+          <subject>Napoleontische oorlogen</subject>
+          <subject>Berlijn</subject>
+          <subject>Schinkel, Karl Friedrich</subject>
+          <date>1820 - 1821</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Berlijn</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3116</identifier>
+        <datestamp>2021-10-20T10:03:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62548</identifier>
+          <identifier>NG-VG-1-3116</identifier>
+          <title>Napoleon Bonaparte, premier consul van Frankrijk, herstelt de godsdienst</title>
+          <creator>Andrieu, Bertrand</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>herstel van de godsdienst</subject>
+          <subject>Notre-Dame</subject>
+          <subject>Bonaparte, Napoleon I</subject>
+          <date>1803</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3353-F</identifier>
+        <datestamp>2021-10-20T10:06:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62800</identifier>
+          <identifier>NG-VG-1-3353-F</identifier>
+          <title>Overwinningen van de geallieerden in de oorlog in Spanje en Portugal</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Slag bij Vittoria</subject>
+          <subject>Slag bij Salamanca</subject>
+          <subject>Vitoria-Gasteiz</subject>
+          <subject>Salamanca</subject>
+          <subject>Wellington, Arthur Wellesley of</subject>
+          <date>1815</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3566</identifier>
+        <datestamp>2021-10-20T10:08:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63043</identifier>
+          <identifier>NG-VG-1-3566</identifier>
+          <title>Oprichting van burgerwachten</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>landmacht</subject>
+          <subject>burgerwacht</subject>
+          <subject>Belgische Revolutie</subject>
+          <subject>België</subject>
+          <date>1830</date>
+          <type>draagteken</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3825</identifier>
+        <datestamp>2021-10-20T10:11:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63299</identifier>
+          <identifier>NG-VG-1-3825</identifier>
+          <title>Driehonderdjarige herdenking van de invoering van het Lutheranisme in Brandenburg, ter ere van Joachim II Hector, keurvorst van Brandenburg</title>
+          <creator>Loos, Gottfried Bernhard</creator>
+          <contributor>Pfeuffer, Christoph Carl</contributor>
+          <subject>religieuze geschiedenis</subject>
+          <subject>protestantisme</subject>
+          <subject>lutheranisme</subject>
+          <subject>300-jarig jubileum</subject>
+          <subject>Spandau</subject>
+          <subject>Joachim II Hector, keurvorst van Brandenburg</subject>
+          <date>1839</date>
+          <type>historiepenning</type>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Berlijn</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3218</identifier>
+        <datestamp>2021-10-20T10:04:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62649</identifier>
+          <identifier>NG-VG-1-3218</identifier>
+          <title>Overwinningen van de hertog van Wellington in Spanje en Portugal</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Slag bij Vimiero</subject>
+          <subject>Slag bij Talavera</subject>
+          <subject>Slag bij Almeida</subject>
+          <subject>Inname van Ciudad Rodrigo</subject>
+          <subject>Slag bij Badajoz</subject>
+          <subject>Inname van Madrid (1808-1812)</subject>
+          <subject>Slag bij Salamanca</subject>
+          <subject>Inname van San Sebastian</subject>
+          <subject>Inname van Pamplona</subject>
+          <subject>Vimeiro</subject>
+          <subject>Talavera de la Reina</subject>
+          <subject>Almeida</subject>
+          <subject>Ciudad Rodrigo</subject>
+          <subject>Badajoz</subject>
+          <subject>Madrid</subject>
+          <subject>Salamanca</subject>
+          <subject>Donostia-San Sebastián</subject>
+          <subject>Pamplona</subject>
+          <subject>Wellington, Arthur Wellesley of</subject>
+          <date>1813</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3270</identifier>
+        <datestamp>2021-10-20T10:05:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62700</identifier>
+          <identifier>NG-VG-1-3270</identifier>
+          <title>Eerste vrede van Parijs tussen Frankrijk en de geallieerden, ter ere van Gebhard Leberecht vorst Blucher von Wahlstatt</title>
+          <creator>Kettle &amp; Söhne</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>geallieerden</subject>
+          <subject>Vrede van Parijs (1814)</subject>
+          <subject>Parijs</subject>
+          <subject>Blücher von Wahlstatt, Gebhard Leberecht vorst</subject>
+          <date>1814</date>
+          <type>rekenpenning</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Birmingham</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3723</identifier>
+        <datestamp>2021-10-20T10:10:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63193</identifier>
+          <identifier>NG-VG-1-3723</identifier>
+          <title>Franse steun tijdens de Tiendaagse veldtocht en bij de verovering van de citadel van Antwerpen</title>
+          <creator>Borrel, M.</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>revolutie</subject>
+          <subject>veldtocht</subject>
+          <subject>Belgische Revolutie</subject>
+          <subject>Strijd om de Citadel van Antwerpen (1832)</subject>
+          <subject>Tiendaagse Veldtocht</subject>
+          <subject>Citadel van Antwerpen (19e eeuw)</subject>
+          <subject>Gérard, Étienne Maurice</subject>
+          <date>1832</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3775</identifier>
+        <datestamp>2021-10-20T10:10:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63248</identifier>
+          <identifier>NG-VG-1-3775</identifier>
+          <title>Vijftigjarig bestaan van het Genootschap tot verdediging van den Christelijken Godsdienst</title>
+          <creator>Holtzhey, Johan George</creator>
+          <subject>genootschap</subject>
+          <subject>protestantisme</subject>
+          <subject>50-jarig jubileum</subject>
+          <subject>Den Haag</subject>
+          <subject>Genootschap tot verdediging van den Christelijken Godsdienst</subject>
+          <date>1791 - 1835</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2982</identifier>
+        <datestamp>2021-10-20T10:02:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62419</identifier>
+          <identifier>NG-VG-1-2982</identifier>
+          <title>Brabant vrij verklaard</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Verenigde Belgische Staten</subject>
+          <subject>vrijverklaring van Brabant</subject>
+          <subject>Brabantse omwenteling</subject>
+          <subject>Brabant</subject>
+          <date>1789 - 1790</date>
+          <type>historiepenning</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brabant</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3313-I</identifier>
+        <datestamp>2021-10-20T10:05:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62754</identifier>
+          <identifier>NG-VG-1-3313-I</identifier>
+          <title>Inname van Grenoble door Johann Maria Philipp Frimont</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Inname van Grenoble</subject>
+          <subject>Grenoble</subject>
+          <subject>Frimont, Johann Maria Philipp hertog</subject>
+          <subject>Palota (prins van Antrodocco), van</subject>
+          <date>1815</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3541</identifier>
+        <datestamp>2021-10-20T10:08:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63015</identifier>
+          <identifier>NG-VG-1-3541</identifier>
+          <title>Georg Wilhelm Friedrich Hegel, penning door zijn leerlingen geschonken</title>
+          <creator>Held, August Ludwig</creator>
+          <contributor>Drake</contributor>
+          <subject>wetenschapsgeschiedenis</subject>
+          <subject>wetenschap</subject>
+          <subject>filosofie</subject>
+          <subject>Hegel, Georg Wilhelm Friedrich</subject>
+          <date>1830</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Berlijn</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3616</identifier>
+        <datestamp>2021-10-20T10:08:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63086</identifier>
+          <identifier>NG-VG-1-3616</identifier>
+          <title>Het Belgisch congres bevestigt het voorlopig bewind</title>
+          <creator>Borrel, M.</creator>
+          <subject>vergaderen</subject>
+          <subject>politieke geschiedenis</subject>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>Nationaal Congres</subject>
+          <subject>vergadering</subject>
+          <subject>constitutionele monarchie</subject>
+          <subject>Belgische Revolutie</subject>
+          <subject>Brussel (stad)</subject>
+          <date>1830-11-13 - 1830-12-31</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3874</identifier>
+        <datestamp>2021-10-20T14:37:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63354</identifier>
+          <identifier>NG-VG-1-3874</identifier>
+          <title>Overlijden van Johan Hendrik van der Palm, hoogleraar te Leiden, agent van Nationale Opvoeding onder de Bataafse Republiek</title>
+          <creator>Kellen, David van der (1804-1879)</creator>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>politieke geschiedenis</subject>
+          <subject>universiteit</subject>
+          <subject>hoogleraar</subject>
+          <subject>wetenschap</subject>
+          <subject>literatuurwetenschap</subject>
+          <subject>nationaal bestuur</subject>
+          <subject>Leiden</subject>
+          <subject>Palm, Johannes Hendricus van der</subject>
+          <date>1840</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3942</identifier>
+        <datestamp>2021-10-20T14:38:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63425</identifier>
+          <identifier>NG-VG-1-3942</identifier>
+          <title>Anna Paulowna Romanova, koningin der Nederlanden</title>
+          <creator>Simon, Jean Henri</creator>
+          <subject>Anna Paulowna Romanowa</subject>
+          <date>1845</date>
+          <type>prijspenning</type>
+          <type>erepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3009</identifier>
+        <datestamp>2021-10-20T10:02:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62442</identifier>
+          <identifier>NG-VG-1-3009</identifier>
+          <title>Bediening van het sacrament van het H. Vormsel te Utrecht door Cesar Brancadoro, aartsbisschop van Nisibi en overste der missie</title>
+          <creator>Lageman, Johannes Michiel</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>katholicisme</subject>
+          <subject>Heilig Vormsel</subject>
+          <subject>Utrecht</subject>
+          <subject>Brancadoro, Ceasare</subject>
+          <date>1792</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3228</identifier>
+        <datestamp>2021-10-20T10:04:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62660</identifier>
+          <identifier>NG-VG-1-3228</identifier>
+          <title>Overwinning bij Leipzig, ter ere van Karl Philip van Schwarzenberg, generaal van het leger der geallieerden</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Slag bij Leipzig</subject>
+          <subject>Leipzig</subject>
+          <subject>Schwarzenberg, Karl Philipp zu</subject>
+          <date>1813</date>
+          <type>rekenpenning</type>
+          <format>legering</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3333</identifier>
+        <datestamp>2021-10-20T10:05:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62777</identifier>
+          <identifier>NG-VG-1-3333</identifier>
+          <title>Intocht van Lodewijk XVIII, koning van Frankrijk te Parijs</title>
+          <creator>Andrieu, Bertrand</creator>
+          <contributor>Gayrard, Raymond</contributor>
+          <subject>politieke geschiedenis</subject>
+          <subject>Restauratie der Bourbons</subject>
+          <subject>Zevende Coalitie-oorlog</subject>
+          <subject>Parijs</subject>
+          <subject>Lodewijk XVIII (koning van Frankrijk)</subject>
+          <date>1815</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3521</identifier>
+        <datestamp>2021-10-20T10:08:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62992</identifier>
+          <identifier>NG-VG-1-3521</identifier>
+          <title>Vijftigjarig bestaan van het genootschap Felix Meritis</title>
+          <creator>Hart, Laurent Joseph</creator>
+          <subject>genootschap</subject>
+          <subject>50-jarig jubileum</subject>
+          <subject>Amsterdam</subject>
+          <subject>Felix Meritis</subject>
+          <date>1827 - 1839</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MzI4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTQwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-74</identifier>
+        <datestamp>2016-10-20T19:53:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46710</identifier>
+          <identifier>RP-P-1911-74</identifier>
+          <title>Buste van een soldaat in een harnas</title>
+          <creator>Vaillant, Wallerant</creator>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-127</identifier>
+        <datestamp>2016-10-20T19:53:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46876</identifier>
+          <identifier>RP-P-1911-127</identifier>
+          <title>Kat met een vis</title>
+          <creator>Vaillant, Wallerant</creator>
+          <date>1658 - 1677</date>
+          <date>1665 - 1675</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-1095</identifier>
+        <datestamp>2016-10-20T19:53:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46733</identifier>
+          <identifier>RP-P-H-1095</identifier>
+          <title>Herbergier bedient zijn klanten</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Bega, Cornelis Pietersz.</contributor>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1662</identifier>
+        <datestamp>2019-05-23T15:56:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47231</identifier>
+          <identifier>RP-P-1910-1662</identifier>
+          <title>Kop van een man met een hoed</title>
+          <title>Mannen- en vrouwenkoppen</title>
+          <creator>anoniem</creator>
+          <date>1650 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1513</identifier>
+        <datestamp>2019-05-23T15:54:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46497</identifier>
+          <identifier>RP-P-1910-1513</identifier>
+          <title>Jan Claasz of de gewaande dienstmaagd: de liefdesverklaring van Reinier Adriaansz</title>
+          <creator>Troost, Cornelis</creator>
+          <date>1706 - 1750</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-12071</identifier>
+        <datestamp>2016-10-20T19:53:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46827</identifier>
+          <identifier>RP-P-1887-A-12071</identifier>
+          <title>Portret van Prins Ruprecht van de Palts</title>
+          <creator>Vaillant, Wallerant</creator>
+          <contributor>Ruprecht, Prinz</contributor>
+          <subject>Ruprecht, Prinz</subject>
+          <date>1658 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-199</identifier>
+        <datestamp>2016-10-20T19:53:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47088</identifier>
+          <identifier>RP-P-1911-199</identifier>
+          <title>Drinkende man op de schoot van een vrouw</title>
+          <creator>anoniem</creator>
+          <contributor>Verkolje, Nicolaas</contributor>
+          <contributor>Weenix, Jan Baptist</contributor>
+          <date>1680 - 1780</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-11279</identifier>
+        <datestamp>2016-10-20T19:53:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47162</identifier>
+          <identifier>RP-P-1886-A-11279</identifier>
+          <title>Vertumnus en Pomona</title>
+          <creator>Wakkerdak, Pieter Anthony</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Netscher, Caspar</contributor>
+          <date>1740 - 1774</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1992</identifier>
+        <datestamp>2020-04-14T16:53:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43076</identifier>
+          <identifier>RP-P-1910-1992</identifier>
+          <title>Portret Desiderius Erasmus</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Holbein, Hans (II)</contributor>
+          <contributor>Bloteling, Abraham</contributor>
+          <subject>Erasmus, Desiderius</subject>
+          <date>1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1978-151</identifier>
+        <datestamp>2021-12-01T15:48:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41549</identifier>
+          <identifier>RP-P-1978-151</identifier>
+          <title>Waterval van de rivier de Aare</title>
+          <title>Chute de L'Aar au dessus de Gutdannen</title>
+          <title>Vues remarquables des montagnes de la Suisse</title>
+          <creator>Descourtis, Charles Melchior</creator>
+          <contributor>Wolf, Caspar</contributor>
+          <contributor>Yntema, Jacob</contributor>
+          <contributor>Gayant le Jeune</contributor>
+          <contributor>Crauford, George</contributor>
+          <contributor>Hentzy, Rudolf Samuel</contributor>
+          <subject>Aare</subject>
+          <date>1763 - 1785</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1921-2094</identifier>
+        <datestamp>2019-05-09T16:35:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42765</identifier>
+          <identifier>RP-P-1921-2094</identifier>
+          <title>Het is beter om lui te zijn</title>
+          <title>Mejor es holgar</title>
+          <title>Los Caprichos</title>
+          <creator>Goya, Francisco de</creator>
+          <contributor>Goya, Francisco de</contributor>
+          <date>1797 - 1799</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-713</identifier>
+        <datestamp>2016-10-20T19:50:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43099</identifier>
+          <identifier>RP-P-1911-713</identifier>
+          <title>Portret van Catharina, koningin van Engeland</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Bloteling, Abraham</contributor>
+          <contributor>Lely, Peter (Sir)</contributor>
+          <subject>Bragança, Catharina van</subject>
+          <date>1662 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1953-26</identifier>
+        <datestamp>2020-04-24T16:45:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41480</identifier>
+          <identifier>RP-P-1953-26</identifier>
+          <title>Waterput</title>
+          <title>Les Soireés de Rome</title>
+          <title>Romeinse gezichten</title>
+          <creator>Robert, Hubert</creator>
+          <contributor>Robert, Hubert</contributor>
+          <date>1763 - 1766</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1921-2025</identifier>
+        <datestamp>2019-05-09T16:34:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.42696</identifier>
+          <identifier>RP-P-1921-2025</identifier>
+          <title>Moederskindje</title>
+          <title>El de la rollona</title>
+          <title>Los Caprichos</title>
+          <creator>Goya, Francisco de</creator>
+          <contributor>Goya, Francisco de</contributor>
+          <date>1797 - 1799</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1139</identifier>
+        <datestamp>2019-06-21T16:58:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.43030</identifier>
+          <identifier>RP-P-BI-1139</identifier>
+          <title>Actrice Susannah Maria Cibber in de rol van Cordelia</title>
+          <creator>Bleeck, Pieter van</creator>
+          <subject>Cibber, Susannah Maria</subject>
+          <date>1755 - 1764</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.606</identifier>
+        <datestamp>2019-05-29T15:12:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47139</identifier>
+          <identifier>RP-P-OB-17.606</identifier>
+          <title>Klassieke ruïnes in een grot</title>
+          <creator>Wakkerdak, Pieter Anthony</creator>
+          <contributor>Wakkerdak, Pieter Anthony</contributor>
+          <contributor>Asselijn, Jan</contributor>
+          <contributor>Wakkerdak, Pieter Anthony</contributor>
+          <date>1740 - 1774</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1587</identifier>
+        <datestamp>2019-05-23T15:56:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.47188</identifier>
+          <identifier>RP-P-1910-1587</identifier>
+          <title>Buste van een man met een baret</title>
+          <creator>Monogrammist BVH</creator>
+          <date>1785</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1911-135</identifier>
+        <datestamp>2016-10-20T19:53:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46919</identifier>
+          <identifier>RP-P-1911-135</identifier>
+          <title>Portret van Mary Davis</title>
+          <creator>Valck, Gerard</creator>
+          <contributor>Valck, Gerard</contributor>
+          <contributor>Lely, Peter (Sir)</contributor>
+          <contributor>Valck, Gerard</contributor>
+          <subject>Davids, Mary</subject>
+          <date>1662 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1940-229</identifier>
+        <datestamp>2021-01-28T13:16:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.41846</identifier>
+          <identifier>RP-P-1940-229</identifier>
+          <title>Italiaans landschap met bomen en kerk</title>
+          <title>Souvenir d'Italie</title>
+          <creator>Corot, Camille</creator>
+          <contributor>Corot, Camille</contributor>
+          <contributor>Cadart &amp; F. Chevalier, A.</contributor>
+          <contributor>Delâtre, Auguste</contributor>
+          <date>1865 - 1866</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1987-125</identifier>
+        <datestamp>2021-01-28T13:26:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46427</identifier>
+          <identifier>RP-P-1987-125</identifier>
+          <title>Rarekiek</title>
+          <title>o Rare Schow</title>
+          <creator>Somer, Jan van</creator>
+          <contributor>Heemskerck, Egbert van (I)</contributor>
+          <date>1655 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MTQyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

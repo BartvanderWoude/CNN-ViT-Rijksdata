@@ -1,0 +1,448 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMDYwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16609-C</identifier>
+        <datestamp>2021-10-02T11:44:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27797</identifier>
+          <identifier>BK-16609-C</identifier>
+          <title>Strook kloskant met oudroze en mosgroen beschilderde bloemen en bladeren</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1760</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1887-A-1183</identifier>
+        <datestamp>2022-03-02T15:12:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28050</identifier>
+          <identifier>RP-T-1887-A-1183</identifier>
+          <title>Mucius Scaevola voor Porsenna</title>
+          <creator>Lansinck, Berendtsz.</creator>
+          <date>1605</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1899-A-4225</identifier>
+        <datestamp>2021-10-02T11:46:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28093</identifier>
+          <identifier>RP-T-1899-A-4225</identifier>
+          <title>De toren Swijgh Utrecht te Amsterdam</title>
+          <creator>Vinckboons, David (I)</creator>
+          <subject>Swych Utrecht</subject>
+          <date>1599 - 1609</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1932-19</identifier>
+        <datestamp>2021-10-02T11:46:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28099</identifier>
+          <identifier>RP-T-1932-19</identifier>
+          <title>Godsdienstoefening</title>
+          <creator>Vinckboons, David (I)</creator>
+          <date>ca. 1605 - 1615</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-358(R)</identifier>
+        <datestamp>2021-10-02T11:49:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28724</identifier>
+          <identifier>RP-T-1948-358(R)</identifier>
+          <title>Boomgroep aan een meer in een bergachtig landschap</title>
+          <creator>Grimaldi, Giovanni Francesco</creator>
+          <date>1652 - 1662</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1969-210</identifier>
+        <datestamp>2020-05-27T12:27:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28070</identifier>
+          <identifier>RP-T-1969-210</identifier>
+          <title>Man in dikke kleding met bontmuts</title>
+          <creator>Savery, Roelant</creator>
+          <date>1603 - 1613</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-240</identifier>
+        <datestamp>2021-10-05T22:31:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28346</identifier>
+          <identifier>BK-1973-240</identifier>
+          <title>Langwerpige sjaal van mokkakleurige zijden tricot met een brede baan opengewerkte honinggraatmotief en een baan met een strooimotief van bota's</title>
+          <creator>anoniem</creator>
+          <date>ca. 1910 - ca. 1920</date>
+          <type>kleding</type>
+          <type>sjaal</type>
+          <format>zijde</format>
+          <format>tricot</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1946-85</identifier>
+        <datestamp>2021-10-02T11:49:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28793</identifier>
+          <identifier>RP-T-1946-85</identifier>
+          <title>Madonna met Christuskind en Johannes-knaapje</title>
+          <creator>Spada, Lionello</creator>
+          <date>1605 - 1622</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>verf</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-457-E</identifier>
+        <datestamp>2021-10-02T11:46:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28218</identifier>
+          <identifier>BK-1978-457-E</identifier>
+          <title>Fichu van katoen, driehoekig, met rond rand van dikke streepbiezen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1890 - ca. 1900</date>
+          <type>dameskleding</type>
+          <type>fichu</type>
+          <format>katoen</format>
+          <format>vloszijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-319</identifier>
+        <datestamp>2021-07-30T10:05:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28305</identifier>
+          <identifier>RP-T-00-319</identifier>
+          <title>Dronken liedjeszangers</title>
+          <creator>anoniem</creator>
+          <contributor>Bega, Cornelis Pietersz.</contributor>
+          <date>ca. 1664</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1888-A-1469</identifier>
+        <datestamp>2021-10-02T11:43:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27444</identifier>
+          <identifier>RP-T-1888-A-1469</identifier>
+          <title>Vrolijk gezelschap</title>
+          <creator>Baburen, Dirck van</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Baburen, Dirck van</contributor>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BFR-97</identifier>
+        <datestamp>2021-10-02T11:44:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27783</identifier>
+          <identifier>BK-BFR-97</identifier>
+          <title>Maaswerk, opgegraven te Utrecht bij het oude Minderbroederklooster (fragmenten)</title>
+          <creator>anoniem</creator>
+          <subject>Minderbroedersklooster</subject>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>maaswerk</type>
+          <format>zandsteen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1985-19</identifier>
+        <datestamp>2020-06-15T15:57:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28113</identifier>
+          <identifier>RP-T-1985-19</identifier>
+          <title>Appeloogst en druivenpluk</title>
+          <creator>anoniem</creator>
+          <date>ca. 1540 - ca. 1560</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8468</identifier>
+        <datestamp>2021-10-02T11:47:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28485</identifier>
+          <identifier>BK-NM-8468</identifier>
+          <title>Kraag van batist met overslag en gefestonneerde getande randen, ajour geborduurd</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1888</date>
+          <type>dameskleding</type>
+          <type>kraag</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-41</identifier>
+        <datestamp>2021-10-02T11:49:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28744</identifier>
+          <identifier>RP-T-1953-41</identifier>
+          <title>Diana bezoekt Endymion</title>
+          <creator>Mannozzi, Giovanni</creator>
+          <date>1622 - 1632</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-51</identifier>
+        <datestamp>2021-10-10T09:43:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27914</identifier>
+          <identifier>BK-1980-51</identifier>
+          <title>Rechthoekige kasjmiersjaal van bedrukte wol met een vol patroon tegen een wit veld en een kleurige rand</title>
+          <creator>anoniem</creator>
+          <date>ca. 1820 - ca. 1830</date>
+          <type>kleding</type>
+          <type>sjaal</type>
+          <type>kasjmiersjaal</type>
+          <format>wol</format>
+          <format>drukinkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kasjmir</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1977-122</identifier>
+        <datestamp>2019-01-03T14:49:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28007</identifier>
+          <identifier>RP-T-1977-122</identifier>
+          <title>Landschap met een burcht op een rots</title>
+          <creator>Bril, Paul</creator>
+          <date>1564</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2042(V)</identifier>
+        <datestamp>2021-10-02T11:48:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28638</identifier>
+          <identifier>RP-T-1889-A-2042(V)</identifier>
+          <title>Haman voor Ahasverus</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <subject>de geschiedenis van Esther</subject>
+          <date>ca. 1640 - ca. 1650</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-714-E</identifier>
+        <datestamp>2021-10-02T11:46:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28165</identifier>
+          <identifier>BK-1978-714-E</identifier>
+          <title>Strook batist met kantborduurwerk afkomstig van een blouse</title>
+          <creator>Bosch Reitz-Teding van Berkhout, C.I.</creator>
+          <date>ca. 1870</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <format>batist</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9592</identifier>
+        <datestamp>2021-10-02T11:46:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28181</identifier>
+          <identifier>BK-NM-9592</identifier>
+          <title>Haardsteen met voorstelling van twee klimmende leeuwen, geplaatst in twee ruiten</title>
+          <creator>anoniem</creator>
+          <date>ca. 1575 - ca. 1625</date>
+          <type>haardsteen</type>
+          <format>aardewerk</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMDYyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

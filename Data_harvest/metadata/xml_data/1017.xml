@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMDMyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-6305</identifier>
+        <datestamp>2021-01-28T15:49:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77783</identifier>
+          <identifier>RP-P-1909-6305</identifier>
+          <title>Bakker Arent Oostwaard en zijn vrouw Catharina Keizerswaard</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Steen, Jan Havicksz.</contributor>
+          <date>ca. 1800 - in of voor 1841</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1951-641</identifier>
+        <datestamp>2021-01-28T15:49:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77832</identifier>
+          <identifier>RP-P-1951-641</identifier>
+          <title>Officier en dame met groentemand</title>
+          <title>Uniformen en klederdrachten</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Langendijk Dzn, Jan Anthonie</contributor>
+          <date>1800 - 1841</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1935-58</identifier>
+        <datestamp>2022-05-09T15:48:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74881</identifier>
+          <identifier>RP-T-1935-58</identifier>
+          <title>Cavarra en Euripia</title>
+          <creator>Jordaens, Jacques</creator>
+          <date>1657</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>grafiet</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1986-54</identifier>
+        <datestamp>2021-10-02T13:10:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74952</identifier>
+          <identifier>RP-T-1986-54</identifier>
+          <title>Pleisterstudie van een zittend naakt kind</title>
+          <creator>Heur, Cornelis Joseph d'</creator>
+          <date>1717 - 1762</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1884-A-7949</identifier>
+        <datestamp>2021-01-28T14:54:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75664</identifier>
+          <identifier>RP-P-1884-A-7949</identifier>
+          <title>Godsdienst reikt Vrede de hand</title>
+          <creator>Bary, Hendrik</creator>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1877-A-287</identifier>
+        <datestamp>2021-01-28T17:07:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85806</identifier>
+          <identifier>RP-P-1877-A-287</identifier>
+          <title>Winterlandschap met ijsvermaak</title>
+          <creator>Bos, Anthonie van den</creator>
+          <contributor>Meijer, Louis</contributor>
+          <date>1778 - 1838</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2234</identifier>
+        <datestamp>2019-05-23T15:57:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77812</identifier>
+          <identifier>RP-P-1909-2234</identifier>
+          <title>Moord op generaal Theobald Dillon</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Langendijk, Dirk</contributor>
+          <subject>Eerste Coalitie-oorlog</subject>
+          <subject>Dillon, Theobald</subject>
+          <date>ca. 1800 - in of voor 1841</date>
+          <type>prent</type>
+          <type>historieprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2641</identifier>
+        <datestamp>2021-11-30T14:07:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84648</identifier>
+          <identifier>RP-P-BI-2641</identifier>
+          <title>Landschap met kasteel en Emmaüsgangers</title>
+          <creator>anoniem</creator>
+          <contributor>Bolswert, Schelte Adamsz.</contributor>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Donck, Geeraet</contributor>
+          <date>1596 - 1709</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2725</identifier>
+        <datestamp>2021-01-28T17:03:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85489</identifier>
+          <identifier>RP-P-BI-2725</identifier>
+          <title>Koe met halster</title>
+          <creator>Borssom, Anthonie van</creator>
+          <date>1639 - 1677</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-724</identifier>
+        <datestamp>2021-01-28T17:13:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86436</identifier>
+          <identifier>RP-P-BI-724</identifier>
+          <title>Landschap met vier jonge vrouwen aan de oever van een rivier</title>
+          <creator>Boudewyns, Adriaen Frans</creator>
+          <date>ca. 1660 - ca. 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-733</identifier>
+        <datestamp>2021-01-28T17:13:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.86442</identifier>
+          <identifier>RP-P-BI-733</identifier>
+          <title>Landschap met ruiters en wandelaars op een weg</title>
+          <creator>Boudewyns, Adriaen Frans</creator>
+          <contributor>Meulen, Adam Frans van der</contributor>
+          <contributor>Meulen, Adam Frans van der</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <date>1666 - 1681</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1885-A-9328</identifier>
+        <datestamp>2021-01-28T14:53:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75618</identifier>
+          <identifier>RP-P-1885-A-9328</identifier>
+          <title>Portret van Sigismund Philo Schelhammer</title>
+          <creator>Bary, Hendrik</creator>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-843</identifier>
+        <datestamp>2021-01-28T15:48:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77766</identifier>
+          <identifier>RP-P-BI-843</identifier>
+          <title>Paardenhoofd, naar rechts</title>
+          <title>Paardenkoppen naar Gerrit Malleyn</title>
+          <creator>Bemme, Joannes</creator>
+          <contributor>Malleyn, Gerrit</contributor>
+          <date>ca. 1800 - in of voor 1841</date>
+          <date>1801</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1952-97</identifier>
+        <datestamp>2021-03-26T23:04:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74858</identifier>
+          <identifier>RP-T-1952-97</identifier>
+          <title>Aanbidding der koningen</title>
+          <creator>Banken, Quirinus van</creator>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1884-A-7951</identifier>
+        <datestamp>2021-01-28T14:53:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.75641</identifier>
+          <identifier>RP-P-1884-A-7951</identifier>
+          <title>Portret van Johann Friedrich graaf van Waldstein</title>
+          <creator>Bary, Hendrik</creator>
+          <contributor>Janssonius van Waesberge, Johannes (I)</contributor>
+          <date>1657 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-808</identifier>
+        <datestamp>2021-01-28T15:49:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.77789</identifier>
+          <identifier>RP-P-BI-808</identifier>
+          <title>Studieblad met een soldaat aan het strand</title>
+          <creator>Bemme, Joannes</creator>
+          <subject>de soldaat; het leven van een soldaat</subject>
+          <date>1800 - 1841</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2586</identifier>
+        <datestamp>2021-09-17T10:35:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84691</identifier>
+          <identifier>RP-P-BI-2586</identifier>
+          <title>Portret van Marten Pepijn</title>
+          <title>Martinvs Pepyn</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <contributor>Enden, Martinus van den</contributor>
+          <contributor>onbekend</contributor>
+          <subject>Pepijn, Marten</subject>
+          <date>1596 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-4118</identifier>
+        <datestamp>2021-01-28T17:08:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.85921</identifier>
+          <identifier>RP-P-BI-4118</identifier>
+          <title>Maria met kind</title>
+          <creator>Bos, Anthonie van den</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>1778 - 1838</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-2568</identifier>
+        <datestamp>2019-05-29T15:22:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84668</identifier>
+          <identifier>RP-P-BI-2568</identifier>
+          <title>Portret van Albert, graaf van Arenberg</title>
+          <title>Albertvs. princeps. com. (...) vell. eq. etc.</title>
+          <creator>Bolswert, Schelte Adamsz.</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <contributor>Hendricx, Gilles</contributor>
+          <contributor>onbekend</contributor>
+          <subject>Ligne, Albert de (prins van Barbançon en Arenberg)</subject>
+          <date>1627 - 1659</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-13568</identifier>
+        <datestamp>2021-01-28T16:57:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.84890</identifier>
+          <identifier>RP-P-1888-A-13568</identifier>
+          <title>Sterfbed van een geliefde</title>
+          <creator>Bombled, Karel Frederik</creator>
+          <date>1832 - 1902</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMDM0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

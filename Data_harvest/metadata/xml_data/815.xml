@@ -1,0 +1,508 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNjI4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1827</identifier>
+        <datestamp>2021-10-20T13:53:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59022</identifier>
+          <identifier>NG-VG-1-1827</identifier>
+          <title>Inhuldiging van Filips V te Brussel</title>
+          <creator>Roëttiers, Philippe (II)</creator>
+          <subject>Brussel (stad)</subject>
+          <subject>Filips V (koning van Spanje)</subject>
+          <date>1702</date>
+          <type>historiepenning</type>
+          <type>strooipenning</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1888-A-1440</identifier>
+        <datestamp>2021-10-02T12:42:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59621</identifier>
+          <identifier>RP-T-1888-A-1440</identifier>
+          <title>Gezicht op de Ketelpoort en de Rotterdamse Poort te Delft</title>
+          <creator>Rademaker, Abraham</creator>
+          <subject>Rotterdamse Poort</subject>
+          <subject>Ketelpoort</subject>
+          <subject>Schiedamse Poort</subject>
+          <subject>Delft</subject>
+          <date>1685 - 1735</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1897-A-3482</identifier>
+        <datestamp>2020-03-20T17:35:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59701</identifier>
+          <identifier>RP-T-1897-A-3482</identifier>
+          <title>Wintergezicht met schaatsenrijders aan de Vecht</title>
+          <creator>Rutgers, Abraham</creator>
+          <contributor>Leupenius, Johannes</contributor>
+          <subject>Vecht</subject>
+          <date>ca. 1682 - ca. 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Maarssen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1680</identifier>
+        <datestamp>2021-10-20T13:52:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58873</identifier>
+          <identifier>NG-VG-1-1680</identifier>
+          <title>Herovering van Namen door Willem III</title>
+          <creator>Hautsch, Georg</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>beleg</subject>
+          <subject>Beleg en verovering van Namen (1695)</subject>
+          <subject>Negenjarige Oorlog</subject>
+          <subject>Namen (stad)</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <subject>Maximiliaan II Emanuel (keurvorst van Beieren)</subject>
+          <date>1695</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1728</identifier>
+        <datestamp>2021-10-20T13:52:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58922</identifier>
+          <identifier>NG-VG-1-1728</identifier>
+          <title>Overlijden van Anna Sophia Matthaeus, vrouw van G. Sixtus</title>
+          <creator>anoniem</creator>
+          <subject>Matthaeus, Anna Sophia</subject>
+          <date>1697</date>
+          <type>familiepenning</type>
+          <type>overlijdenspenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1777</identifier>
+        <datestamp>2021-10-20T13:53:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58971</identifier>
+          <identifier>NG-VG-1-1777</identifier>
+          <title>Karel XII van Zweden, bemiddelaar bij de totstandkoming van de vrede van Rijswijk</title>
+          <creator>Karlsteen, Arvid</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>vrede</subject>
+          <subject>diplomatieke betrekkingen</subject>
+          <subject>bemiddeling bij de onderhandelingen door Zweden</subject>
+          <subject>Vrede van Rijswijk (1697)</subject>
+          <subject>Rijswijk</subject>
+          <subject>Karel XII (koning van Zweden)</subject>
+          <date>1697</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Stockholm</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1851</identifier>
+        <datestamp>2021-10-20T13:54:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59045</identifier>
+          <identifier>NG-VG-1-1851</identifier>
+          <title>Zeeslag bij Vigo (Vigos): het verbranden van de Franse en Spaanse vloot</title>
+          <creator>Schmeltzing, Martin</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Zeeslag in de baai van Vigo</subject>
+          <subject>Haags verbond, groot</subject>
+          <subject>Vigo</subject>
+          <subject>Galicië</subject>
+          <date>1702</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2190</identifier>
+        <datestamp>2021-10-20T09:54:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59471</identifier>
+          <identifier>NG-VG-1-2190</identifier>
+          <title>Vijfentwintigjarig huwelijk van Johan Emants en Sara Maria Bruinstein</title>
+          <creator>anoniem</creator>
+          <subject>sociale geschiedenis</subject>
+          <subject>huwelijk</subject>
+          <subject>25-jarig jubileum</subject>
+          <subject>Emants, Johan</subject>
+          <subject>Bruinstein, Sara Maria</subject>
+          <date>1726</date>
+          <type>familiepenning</type>
+          <type>huwelijkspenning</type>
+          <type>huwelijksjubileumpenning 25</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2241</identifier>
+        <datestamp>2021-10-20T09:55:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59520</identifier>
+          <identifier>NG-VG-1-2241</identifier>
+          <title>Opname der Salzburger emigranten in Nederland</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>protestantisme</subject>
+          <subject>opname der Salzburger emigranten in Nederland</subject>
+          <subject>opname der Salzburger emigranten in Nederland</subject>
+          <subject>Breskens</subject>
+          <date>1733</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1881-A-161</identifier>
+        <datestamp>2021-10-02T12:42:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59595</identifier>
+          <identifier>RP-T-1881-A-161</identifier>
+          <title>Ruïne van het slot Oostvoorne</title>
+          <creator>Rademaker, Abraham</creator>
+          <subject>Burcht van Oostvoorne</subject>
+          <subject>Oostvoorne</subject>
+          <date>1685 - 1735</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1898-A-3683</identifier>
+        <datestamp>2020-02-11T02:01:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59645</identifier>
+          <identifier>RP-T-1898-A-3683</identifier>
+          <title>Spotbeeld op de Spanjaard</title>
+          <creator>Quast, Pieter Jansz.</creator>
+          <date>1644</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1628</identifier>
+        <datestamp>2021-10-20T13:52:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58821</identifier>
+          <identifier>NG-VG-1-1628</identifier>
+          <title>Bombardement van Ratzeburg door Christiaan V, koning van Denemarken, penning door de kroonprins aangeboden aan zijn vader op diens verjaardag</title>
+          <creator>Meyer, Barthold</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Beleg van Ratzeburg (1693-1694)</subject>
+          <subject>Ratzeburg</subject>
+          <subject>Sleeswijk-Holstein</subject>
+          <subject>Christiaan V (koning van Denemarken en Noorwegen)</subject>
+          <date>1694</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dömitz</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-410</identifier>
+        <datestamp>2019-04-03T13:26:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59784</identifier>
+          <identifier>RP-T-1948-410</identifier>
+          <title>Landschap</title>
+          <creator>Ruysdael, Salomon van</creator>
+          <date>1610 - 1670</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1936</identifier>
+        <datestamp>2021-10-20T09:51:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59166</identifier>
+          <identifier>NG-VG-1-1936</identifier>
+          <title>Duitsland van de Fransen bevrijd</title>
+          <creator>Nuernberger, Georg Friedrich</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Duitsland bevrijd van de Fransen</subject>
+          <subject>Duitsland</subject>
+          <date>1704</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1953-L</identifier>
+        <datestamp>2021-10-20T09:52:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59218</identifier>
+          <identifier>NG-VG-1-1953-L</identifier>
+          <title>Geboorte van Frederik Lodewijk van Pruisen</title>
+          <creator>Halter, Heinrich Friedrich</creator>
+          <subject>Frederik Lodewijk (erfprins van Pruisen)</subject>
+          <date>1707</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Maagdenburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2061</identifier>
+        <datestamp>2021-10-20T09:53:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59349</identifier>
+          <identifier>NG-VG-1-2061</identifier>
+          <title>Marie Louise, weduwe van Johan Willem Friso</title>
+          <creator>Monogrammist IWV</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>Maria Louisa van Hessen-Kassel</subject>
+          <subject>Staten van Friesland</subject>
+          <date>1712</date>
+          <type>landdagpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1757</identifier>
+        <datestamp>2021-10-20T13:53:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58951</identifier>
+          <identifier>NG-VG-1-1757</identifier>
+          <title>Vrede van Rijswijk</title>
+          <creator>Müller, Philipp Heinrich</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>vrede</subject>
+          <subject>Vrede van Rijswijk (1697)</subject>
+          <subject>Rijswijk</subject>
+          <date>1697</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1952-X</identifier>
+        <datestamp>2021-10-20T09:52:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59204</identifier>
+          <identifier>NG-VG-1-1952-X</identifier>
+          <title>Ontzet van Turijn en bevrijding van Savoye</title>
+          <creator>Schmeltzing, Martin</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Ontzet van Turijn (1706)</subject>
+          <subject>Bevrijding van Savoye</subject>
+          <subject>Turijn</subject>
+          <subject>Piemonte</subject>
+          <subject>Savoye</subject>
+          <subject>Victor Amadeus II (hertog van Savoye)</subject>
+          <subject>Savoye, Eugenius van</subject>
+          <date>1706</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2079</identifier>
+        <datestamp>2021-10-20T09:53:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59363</identifier>
+          <identifier>NG-VG-1-2079</identifier>
+          <title>Frankrijk en Spanje doen afstand van de rechten op elkaars troon</title>
+          <creator>Mauger, Jean</creator>
+          <contributor>Blanc, Jean le</contributor>
+          <subject>politieke geschiedenis</subject>
+          <subject>afstand van troonaanspraak</subject>
+          <subject>Spaanse Successieoorlog</subject>
+          <subject>Frankrijk</subject>
+          <subject>Spanje</subject>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1713</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1888-A-1760</identifier>
+        <datestamp>2021-10-02T12:42:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59615</identifier>
+          <identifier>RP-T-1888-A-1760</identifier>
+          <title>Kerk te Heiloo</title>
+          <creator>Rademaker, Abraham</creator>
+          <subject>Heiloo</subject>
+          <date>1685 - 1735</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNjMwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

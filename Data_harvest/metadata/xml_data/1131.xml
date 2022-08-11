@@ -1,0 +1,497 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjYwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2948</identifier>
+        <datestamp>2021-10-20T10:02:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62386</identifier>
+          <identifier>NG-VG-1-2948</identifier>
+          <title>Herstel van de orde in de Nederlanden, ter ere van Frederik Willem II, koning van Pruisen</title>
+          <creator>König, Anton Friedrich</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>strijd tussen patriotten en prinsgezinden</subject>
+          <subject>herstel van de stadhouder</subject>
+          <subject>Herstel van stadhouder Willem V (1787)</subject>
+          <subject>Pruisische inval in de Republiek</subject>
+          <subject>Frederik Willem II (koning van Pruisen)</subject>
+          <date>1787</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Wroclaw</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-362</identifier>
+        <datestamp>2021-10-02T12:15:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45847</identifier>
+          <identifier>RP-P-1958-362</identifier>
+          <title>Het is goed om de eerste boottocht te maken</title>
+          <title>Funenorisomeyoshi</title>
+          <title>Een serie voor de Hanazono dichtersvereniging</title>
+          <title>Hanazono bantsuzuki</title>
+          <creator>Hokkei, Totoya</creator>
+          <contributor>Umetatsu, Hyakkakai</contributor>
+          <contributor>Kazumasu, Renkidô</contributor>
+          <date>ca. 1822</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-762</identifier>
+        <datestamp>2021-12-17T11:50:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45979</identifier>
+          <identifier>RP-P-1956-762</identifier>
+          <title>Bamboe en mus</title>
+          <creator>Hiroshige (I), Utagawa</creator>
+          <contributor>Kawaguchiya Shozo</contributor>
+          <date>1830 - 1840</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-543</identifier>
+        <datestamp>2021-10-02T12:17:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46262</identifier>
+          <identifier>RP-P-1958-543</identifier>
+          <title>Ichikawa Danjûrô VII en Segawa Kikunojô V in het toneelstuk Shibaraku</title>
+          <creator>Shuntei, Katsukawa</creator>
+          <contributor>Enba, Danjûrô</contributor>
+          <contributor>Issen</contributor>
+          <date>1819</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-593</identifier>
+        <datestamp>2021-12-17T11:50:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45582</identifier>
+          <identifier>RP-P-1956-593</identifier>
+          <title>Busteportret van Iwai Hanshiro IV.</title>
+          <creator>Sharaku, Toshusai</creator>
+          <contributor>Tsutaya Juzaburo (Koshodo)</contributor>
+          <subject>Iwai Hanshiro IV</subject>
+          <date>1794</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>mica</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Tokyo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-162</identifier>
+        <datestamp>2019-05-23T15:54:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46324</identifier>
+          <identifier>RP-P-1909-162</identifier>
+          <title>Bode brengt een brief</title>
+          <creator>Somer, Jan van</creator>
+          <date>1655 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1887-A-1396</identifier>
+        <datestamp>2021-01-28T13:36:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61298</identifier>
+          <identifier>RP-T-1887-A-1396</identifier>
+          <title>Enkele vaartuigen op een kalme zee</title>
+          <creator>Velde, Willem van de (II)</creator>
+          <subject>maritieme geschiedenis</subject>
+          <date>1674</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12204</identifier>
+        <datestamp>2022-01-26T13:22:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61378</identifier>
+          <identifier>BK-NM-12204</identifier>
+          <title>Bord met op het plat het familiewapen Douw</title>
+          <creator>anoniem</creator>
+          <date>1750</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-377</identifier>
+        <datestamp>2022-01-27T15:55:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61427</identifier>
+          <identifier>BK-NM-12400-377</identifier>
+          <title>Bord van veelkleurig beschilderde faïence met familiewapen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1720 - ca. 1740</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2621</identifier>
+        <datestamp>2021-10-20T09:59:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62068</identifier>
+          <identifier>NG-VG-1-2621</identifier>
+          <title>Huwelijk van Karel Christiaan van Nassau-Weilburg en Carolina, prinses van Oranje-Nassau</title>
+          <creator>Holtzhey, Johan George</creator>
+          <subject>Den Haag</subject>
+          <subject>Carolina (prinses van Oranje-Nassau)</subject>
+          <subject>Nassau-Weilburg, Karel Christiaan vorst van</subject>
+          <date>1760</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1894-A-18364</identifier>
+        <datestamp>2016-10-20T19:53:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46310</identifier>
+          <identifier>RP-P-1894-A-18364</identifier>
+          <title>Musicerend gezelschap</title>
+          <creator>Somer, Jan van</creator>
+          <contributor>Zijl, Gerard Pietersz. van</contributor>
+          <date>1655 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-W-827</identifier>
+        <datestamp>2021-10-02T12:15:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45784</identifier>
+          <identifier>RP-P-W-827</identifier>
+          <title>Prachtige dingen</title>
+          <title>Medetaki mono-karanishiki kasaritachi</title>
+          <title>Het kussenboek</title>
+          <title>Makura no sôshi</title>
+          <creator>Hokuba, Teisai</creator>
+          <contributor>Shizueda, Kanryûen</contributor>
+          <contributor>Katsuyoshi, Zuinichien</contributor>
+          <date>ca. 1823</date>
+          <type>prent</type>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1976-231</identifier>
+        <datestamp>2021-01-28T13:26:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45790</identifier>
+          <identifier>RP-P-1976-231</identifier>
+          <title>De Yôrô waterval</title>
+          <title>Yôrô no kôfu</title>
+          <creator>Hokuga, Karyôsai</creator>
+          <contributor>Umekage, Shôtarô</contributor>
+          <contributor>Shushintei</contributor>
+          <date>ca. 1820 - ca. 1830</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-774</identifier>
+        <datestamp>2021-12-17T11:50:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46073</identifier>
+          <identifier>RP-P-1956-774</identifier>
+          <title>Bloesemende kersenboom</title>
+          <creator>Hiroshige (I), Utagawa</creator>
+          <date>1830 - 18340</date>
+          <type>prent</type>
+          <type>briefpapier</type>
+          <format>papier</format>
+          <format>koperpoeder</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2348-A</identifier>
+        <datestamp>2021-10-20T09:56:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61805</identifier>
+          <identifier>NG-VG-1-2348-A</identifier>
+          <title>Gelegenheidspenning</title>
+          <creator>Monogrammist WV</creator>
+          <date>1742</date>
+          <type>penning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2606</identifier>
+        <datestamp>2021-12-20T13:45:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62054</identifier>
+          <identifier>NG-VG-1-2606</identifier>
+          <title>Anna van Hannover, prinses van Oranje-Nassau (1709-1759)</title>
+          <creator>Swinderen, Nicolaas van</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>stad Sneek</subject>
+          <subject>Sneek</subject>
+          <subject>Anna van Hannover</subject>
+          <description>De meeste munten hebben een zijde waarop een portret staat, meestal van een vorst of vorstin. Daarnaast zijn er altijd ook portretpenningen gemaakt, als eerbetoon, ter opluistering van een belangrijke gebeurtenis of als herinnering. Vaak waren ze bestemd voor een algemeen publiek, soms bleven ze binnen de familie. Hoe dan ook probeerden de medailleurs de portretten zo goed mogelijk te laten lijken. Daarom worden ze als apart genre gezien.</description>
+          <date>1752 - 1759</date>
+          <type>erepenning</type>
+          <type>magistraatspenning</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2864</identifier>
+        <datestamp>2021-10-20T10:01:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62306</identifier>
+          <identifier>NG-VG-1-2864</identifier>
+          <title>Overlijden van Johan Hendrik Vorstius, Luthers predikant te Monnickendam, Alkmaar, 's-Gravenhage en Amsterdam</title>
+          <creator>Lageman, Johannes Michiel</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>lutheranisme</subject>
+          <subject>predikant</subject>
+          <subject>Monnickendam</subject>
+          <subject>Alkmaar</subject>
+          <subject>Den Haag</subject>
+          <subject>Amsterdam</subject>
+          <subject>Vorstius, Jan Hendrik</subject>
+          <date>1783</date>
+          <type>familiepenning</type>
+          <type>overlijdenspenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1918-224</identifier>
+        <datestamp>2019-04-03T14:40:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61151</identifier>
+          <identifier>RP-T-1918-224</identifier>
+          <title>Boerderijen aan het water</title>
+          <creator>Velde, Esaias van de</creator>
+          <date>1617 - 1621</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-454</identifier>
+        <datestamp>2021-10-02T12:16:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45885</identifier>
+          <identifier>RP-P-1958-454</identifier>
+          <title>Ôe no Takachika, een voorbeeld uit Een bloemlezing van gehoorde dingen, heden en verleden</title>
+          <title>Ôe no Takachika - Chomonjû</title>
+          <title>Vierentwintig Japanse voorbeelden van kinderlijke gehoorzaamheid voor de Honchôren</title>
+          <title>Honchôren-Honchô nijûshikô</title>
+          <creator>Gakutei, Yashima</creator>
+          <contributor>Makikata, Utsunoya</contributor>
+          <date>ca. 1821</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-434</identifier>
+        <datestamp>2021-10-02T12:16:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45940</identifier>
+          <identifier>RP-P-1958-434</identifier>
+          <title>Meningsverschil tussen een achtjarige jongen en Confucius</title>
+          <title>Hasai no ko to Kôshi no mondô</title>
+          <title>Aanvullende verhalen uit Uji</title>
+          <title>Uji shûi Monogatari</title>
+          <creator>Gakutei, Yashima</creator>
+          <contributor>Bunsô, Kaori</contributor>
+          <contributor>Bunbunsha</contributor>
+          <date>ca. 1829</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjYyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

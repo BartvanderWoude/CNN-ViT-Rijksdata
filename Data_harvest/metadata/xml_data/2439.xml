@@ -1,0 +1,495 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0ODc2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-36.126</identifier>
+        <datestamp>2019-01-07T10:07:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.112094</identifier>
+          <identifier>RP-P-OB-36.126</identifier>
+          <title>Vrede</title>
+          <title>Pace</title>
+          <title>Sculpturen van Antonio Canova</title>
+          <creator>Fontana, Pietro</creator>
+          <contributor>Tognolli, Giovanni</contributor>
+          <contributor>Canova, Antonio</contributor>
+          <contributor>Canova, Antonio</contributor>
+          <contributor>Alexander I (tsaar van Rusland)</contributor>
+          <date>1772 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Rusland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.774</identifier>
+        <datestamp>2016-10-20T20:59:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111097</identifier>
+          <identifier>RP-P-OB-50.774</identifier>
+          <title>Zeeslag met de zes Spaanse galeien van Spinola, 1602</title>
+          <title>Zes galeien overzeild en in den grond geschooten, door de Staatschen, in 't jaar 1602</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <contributor>Tirion, Isaak</contributor>
+          <subject>Vernietiging van Spaanse galeien (1602)</subject>
+          <subject>Het Kanaal</subject>
+          <subject>Spinola, Ambrogio (markies de los Balbases)</subject>
+          <date>1729 - 1766</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-1624</identifier>
+        <datestamp>2019-09-06T13:50:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111410</identifier>
+          <identifier>RP-P-1909-1624</identifier>
+          <title>Vier voorstellingen uit de klassieke geschiedenis</title>
+          <title>Illustraties uit de klassieke geschiedenis</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-1686</identifier>
+        <datestamp>2016-10-20T20:59:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111447</identifier>
+          <identifier>RP-P-1910-1686</identifier>
+          <title>Welgesteld gezelschap in een vertrek</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-444</identifier>
+        <datestamp>2016-10-20T20:59:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111747</identifier>
+          <identifier>RP-P-1905-444</identifier>
+          <title>Troepen van Civilis bestormen de Romeinse vesting te Xanten, 69-70</title>
+          <title>Klaudius Civilis bestormt de Romeinsche legerplaats te Vetera</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Dubourg, Louis Fabritius</contributor>
+          <subject>beleg, stellingoorlog</subject>
+          <date>1749 - 1759</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.140</identifier>
+        <datestamp>2019-05-29T15:38:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111901</identifier>
+          <identifier>RP-P-OB-52.140</identifier>
+          <title>Vignet met de personificatie van Waarheid</title>
+          <title>Deugden en ondeugden</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Bosch, Johannes de</contributor>
+          <date>1723 - 1767</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.951</identifier>
+        <datestamp>2019-02-26T17:01:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111504</identifier>
+          <identifier>RP-P-OB-50.951</identifier>
+          <title>Vier episodes uit de vaderlandse geschiedenis</title>
+          <title>Illustraties vaderlandse geschiedenis</title>
+          <creator>Fokke, Simon</creator>
+          <subject>historische gebeurtenissen en situaties</subject>
+          <subject>historische personen (portretten en taferelen uit het leven)</subject>
+          <subject>Moord op Willem van Oranje</subject>
+          <subject>Valois, François-Hercule de (hertog van Anjou)</subject>
+          <subject>Willem I (prins van Oranje)</subject>
+          <subject>Gerards, Balthasar</subject>
+          <subject>Maurits (prins van Oranje)</subject>
+          <subject>Dudley, Robert (1e graaf van Leicester)</subject>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.111</identifier>
+        <datestamp>2019-05-29T15:38:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111841</identifier>
+          <identifier>RP-P-OB-52.111</identifier>
+          <title>Geloof</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Cochin, Charles Nicolas (II)</contributor>
+          <date>1725 - 1767</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.116</identifier>
+        <datestamp>2017-10-31T09:19:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111853</identifier>
+          <identifier>RP-P-OB-52.116</identifier>
+          <title>Intocht van Willem IV als erfheer van Vlissingen, 5 juni 1751</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Schouman, Aert</contributor>
+          <contributor>Tirion, Isaak</contributor>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <date>1753</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.792X</identifier>
+        <datestamp>2016-10-20T20:59:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111131</identifier>
+          <identifier>RP-P-OB-50.792X</identifier>
+          <title>Lijk van prinses Anna van Hannover op het praalbed</title>
+          <title>Representation du Corps de S.A.R. dessiné d'apres Nature, sur le lit de Parade / Afbeelding van het Lyck van H.K.H. nae de Natuur geteykent, op het Praalbed</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Swart, Pieter de</contributor>
+          <subject>Anna van Hannover</subject>
+          <date>1759 - 1761</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.803</identifier>
+        <datestamp>2016-10-20T20:59:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111143</identifier>
+          <identifier>RP-P-OB-50.803</identifier>
+          <title>Leden van de hoffelijke administratie in de lijkstoet van Anna van Hannover te Delft, 1759</title>
+          <title>Lijkstoet van prinses Anna van Hannover te Delft</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fargue, Paulus Constantijn la</contributor>
+          <subject>Delft</subject>
+          <subject>Anna van Hannover</subject>
+          <date>1759 - 1761</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.940</identifier>
+        <datestamp>2019-02-26T17:01:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111493</identifier>
+          <identifier>RP-P-OB-50.940</identifier>
+          <title>Twaalf episodes uit de vaderlandse geschiedenis</title>
+          <title>Illustraties vaderlandse geschiedenis</title>
+          <creator>Fokke, Simon</creator>
+          <subject>historische gebeurtenissen en situaties</subject>
+          <subject>historische personen (portretten en taferelen uit het leven)</subject>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.856</identifier>
+        <datestamp>2019-05-29T15:37:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111301</identifier>
+          <identifier>RP-P-OB-50.856</identifier>
+          <title>Allegorie op de standvastigheid</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <date>1736</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1960-392</identifier>
+        <datestamp>2016-10-20T20:59:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111550</identifier>
+          <identifier>RP-P-1960-392</identifier>
+          <title>Twaalf fabel-illustraties</title>
+          <title>Illustraties voor fabelvertellingen van Phaedrus</title>
+          <creator>Fokke, Simon</creator>
+          <subject>fabels</subject>
+          <date>1769</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-4746X</identifier>
+        <datestamp>2016-10-20T20:59:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111893</identifier>
+          <identifier>RP-P-1908-4746X</identifier>
+          <title>Vignet met de personificatie van Wraakzucht</title>
+          <title>Wraakzucht</title>
+          <title>Deugden en ondeugden</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Bosch, Johannes de</contributor>
+          <date>1723 - 1767</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1933-42</identifier>
+        <datestamp>2019-03-04T15:09:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.112049</identifier>
+          <identifier>RP-P-1933-42</identifier>
+          <title>Opwekking van Lazarus en de rijke jongeling verlaat Chistus</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Groot, Johannes de (II)</contributor>
+          <contributor>Blussé &amp; Zoon, Abraham</contributor>
+          <date>1791</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-437</identifier>
+        <datestamp>2016-10-20T20:59:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111183</identifier>
+          <identifier>RP-P-1905-437</identifier>
+          <title>Allegorie op het jubileum van Nederlands Vrijheid, 1748</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <contributor>Meyer, Pieter</contributor>
+          <date>1748</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1960-394</identifier>
+        <datestamp>2016-10-20T20:59:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111355</identifier>
+          <identifier>RP-P-1960-394</identifier>
+          <title>Vijf heren op een roeiboot</title>
+          <creator>Fokke, Simon</creator>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.212</identifier>
+        <datestamp>2019-05-29T15:37:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111654</identifier>
+          <identifier>RP-P-OB-52.212</identifier>
+          <title>Twee slapende kinderen</title>
+          <creator>Folkema, Anna</creator>
+          <date>1748</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.194</identifier>
+        <datestamp>2019-05-29T15:39:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111994</identifier>
+          <identifier>RP-P-OB-52.194</identifier>
+          <title>Zes bijbelse scènes uit het leven van Christus</title>
+          <title>Titelpagina voor: C. Boomkamp, Christus de Messias, 1741</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Folkema, Jacob</contributor>
+          <contributor>Boomcamp, Gijsbert</contributor>
+          <contributor>Hoolwerf, Simon van</contributor>
+          <date>1741</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Alkmaar</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0ODc4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

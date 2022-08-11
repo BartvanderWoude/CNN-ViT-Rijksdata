@@ -1,0 +1,469 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyOTMyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1960-123-V</identifier>
+        <datestamp>2021-09-23T16:36:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18930</identifier>
+          <identifier>BK-1960-123-V</identifier>
+          <title>Schotel van porselein</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>ca. 1774 - ca. 1778</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10779</identifier>
+        <datestamp>2021-10-02T00:52:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18999</identifier>
+          <identifier>BK-NM-10779</identifier>
+          <title>Ring met inscriptie: IC BIN DÜN AVE MARIA PLENA CASPAR MELSIOR BALTASAR,</title>
+          <creator>anoniem</creator>
+          <date>ca. 1200 - ca. 1300</date>
+          <type>ring (sieraad)</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11109</identifier>
+        <datestamp>2021-10-02T00:53:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19005</identifier>
+          <identifier>BK-NM-11109</identifier>
+          <title>Hanger met Amor in een nis</title>
+          <creator>anoniem</creator>
+          <date>ca. 1550 - ca. 1560</date>
+          <type>hanger (sieraad)</type>
+          <format>goud</format>
+          <format>email</format>
+          <format>parel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11240</identifier>
+        <datestamp>2021-10-02T01:02:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19531</identifier>
+          <identifier>BK-NM-11240</identifier>
+          <title>Fragment van een kruik met musicerende vrouwen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1550 - ca. 1599</date>
+          <type>kruik</type>
+          <type>fragment</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Raeren</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11221</identifier>
+        <datestamp>2021-10-02T00:50:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18768</identifier>
+          <identifier>BK-NM-11221</identifier>
+          <title>Insigne van het Sint-Jorisgilde in Breda</title>
+          <creator>anoniem</creator>
+          <subject>sociale geschiedenis</subject>
+          <subject>economische geschiedenis</subject>
+          <subject>gilde</subject>
+          <subject>Sint-Jorisgilde</subject>
+          <subject>Breda</subject>
+          <description>Midden in het draagteken van het schuttersgilde staat Sint-Joris, die met zijn lans een draak heeft gedood. Sint-Joris was de patroonheilige van de voetboogschutters. Op de twee wapenschilden: links het wapen van de Heren van Breda, rechts dat van de stad.</description>
+          <date>ca. 1500</date>
+          <type>draagteken</type>
+          <format>zilver</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brabant</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2401</identifier>
+        <datestamp>2021-11-03T16:51:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14623</identifier>
+          <identifier>BK-NM-2401</identifier>
+          <title>Kraagkandelaar van messing</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1650 - ca. 1700</date>
+          <type>kandelaar</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9079-1</identifier>
+        <datestamp>2021-11-03T16:50:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13876</identifier>
+          <identifier>BK-NM-9079-1</identifier>
+          <title>Vuurijzer met koperen knoppen</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>vuurijzer</type>
+          <format>ijzer</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8797</identifier>
+        <datestamp>2021-11-03T16:50:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13885</identifier>
+          <identifier>BK-NM-8797</identifier>
+          <title>Treeft</title>
+          <creator>anoniem</creator>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>rooster</type>
+          <type>treeft</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-84</identifier>
+        <datestamp>2021-10-01T23:41:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14273</identifier>
+          <identifier>BK-1975-84</identifier>
+          <title>Kan</title>
+          <creator>De Drie Posteleyne Astonne</creator>
+          <contributor>Kam, Pieter Gerritsz.</contributor>
+          <contributor>Kam, weduwe Pieter Gerritsz.</contributor>
+          <date>ca. 1700 - ca. 1720</date>
+          <type>kan</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11675</identifier>
+        <datestamp>2021-11-03T16:52:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14726</identifier>
+          <identifier>BK-NM-11675</identifier>
+          <title>Schotel met renaissancevaas opgehouden door hermen</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1550</date>
+          <type>schotel</type>
+          <format>messing</format>
+          <format>ijzerdraad</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-325</identifier>
+        <datestamp>2021-11-03T19:17:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14046</identifier>
+          <identifier>BK-1978-325</identifier>
+          <title>Brisé-waaier van ajour en in reliëf gesneden ivoor waarop scènes uit het Chinese leven met pagodes, huizen, bomen en in het midden een onversierd ovaal medaillon</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1820</date>
+          <type>briséwaaier</type>
+          <format>ivoor</format>
+          <format>koper</format>
+          <format>parelmoer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kanton</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-82</identifier>
+        <datestamp>2021-10-01T23:42:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14327</identifier>
+          <identifier>BK-NM-12400-82</identifier>
+          <title>Fles van faïence</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Eenhoorn, Samuel van</contributor>
+          <date>ca. 1675 - ca. 1690</date>
+          <type>fles</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-VBR-396</identifier>
+        <datestamp>2021-10-01T23:53:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14953</identifier>
+          <identifier>BK-VBR-396</identifier>
+          <title>Ring met vrouw die offert op het altaar der liefde</title>
+          <creator>anoniem</creator>
+          <date>ca. 1785 - ca. 1800</date>
+          <type>sieraad</type>
+          <type>ring (sieraad)</type>
+          <format>goud</format>
+          <format>glas</format>
+          <format>parelmoer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-504-C</identifier>
+        <datestamp>2021-10-01T23:37:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13933</identifier>
+          <identifier>BK-1980-504-C</identifier>
+          <title>Tafellaken</title>
+          <date>1710 - 1715</date>
+          <type>tafellaken</type>
+          <type>fragment</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-591</identifier>
+        <datestamp>2021-10-02T00:49:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18731</identifier>
+          <identifier>BK-NM-591</identifier>
+          <title>Hansje in de kelder. De schaal is versierd met gedreven vruchttrossen en heeft in het midden een halve bol met opklapbare deksel waaronder een verguld kinderfiguur zit.</title>
+          <creator>Stoffels, Gerrit</creator>
+          <date>1600 - 1650</date>
+          <type>fantasiebeker</type>
+          <type>drinkschaal</type>
+          <type>Hansje-in-de-kelder</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Harlingen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15057</identifier>
+        <datestamp>2021-11-02T08:27:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19108</identifier>
+          <identifier>BK-15057</identifier>
+          <title>Dameshorloge met translucide email waarop gouden sterren</title>
+          <creator>Romilly, Firma</creator>
+          <date>ca. 1785 - ca. 1800</date>
+          <type>sieraad</type>
+          <type>dameshorloge</type>
+          <format>goud</format>
+          <format>email</format>
+          <format>parel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17103</identifier>
+        <datestamp>2021-10-02T01:01:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19469</identifier>
+          <identifier>BK-17103</identifier>
+          <title>Kan</title>
+          <creator>anoniem</creator>
+          <date>ca. 1350</date>
+          <type>kan</type>
+          <format>bergkristal</format>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuid-Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1956-25</identifier>
+        <datestamp>2021-10-02T00:49:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18707</identifier>
+          <identifier>BK-1956-25</identifier>
+          <title>Drinkschaal</title>
+          <creator>Vianen, Adam van (I)</creator>
+          <description>De vlakke schaal is gegraveerd met een familiewapen, misschien van het Utrechtse geslacht Van Aller. Adam van Vianen maakte het merendeel van zijn zilveren kunstwerken waarschijnlijk voor vermogende liefhebbers in Nederland. De kwabbige rand gaat over in een groep van antieke goden: Bacchus, Ceres en Venus met Amor.</description>
+          <date>1624</date>
+          <type>schaal</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14561-J</identifier>
+        <datestamp>2021-10-02T00:51:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18835</identifier>
+          <identifier>BK-14561-J</identifier>
+          <title>Terrine</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <description>Manufactuur Oud-Loosdrecht
+Loosdrecht, ca. 1782–1784
+porselein</description>
+          <date>ca. 1782 - ca. 1784</date>
+          <type>terrine</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15080</identifier>
+        <datestamp>2021-10-02T00:54:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19085</identifier>
+          <identifier>BK-15080</identifier>
+          <title>Repetitiehorloge met ontwakende amor</title>
+          <creator>Roy, Julien Le</creator>
+          <contributor>Roy, Julien Le</contributor>
+          <contributor>anoniem</contributor>
+          <date>ca. 1759</date>
+          <date>ca. 1762</date>
+          <type>sieraad</type>
+          <type>dameshorloge</type>
+          <format>goud</format>
+          <format>diamant</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyOTM0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

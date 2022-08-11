@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyOTQ2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1977-259-A</identifier>
+        <datestamp>2021-07-14T16:48:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18844</identifier>
+          <identifier>BK-1977-259-A</identifier>
+          <title>Kop met personen in een landschap</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>kop</type>
+          <type>vervalsing</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zwitserland</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16914</identifier>
+        <datestamp>2021-10-01T23:45:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14471</identifier>
+          <identifier>BK-16914</identifier>
+          <title>Centaur-aquamanile</title>
+          <creator>anoniem</creator>
+          <subject>kerkschat</subject>
+          <date>ca. 1220 - ca. 1240</date>
+          <type>aquamanile</type>
+          <type>beeld</type>
+          <format>koperlegering</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Hildesheim</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2188</identifier>
+        <datestamp>2021-11-03T16:50:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14520</identifier>
+          <identifier>BK-NM-2188</identifier>
+          <title>Wijwateremmer, rond</title>
+          <creator>anoniem</creator>
+          <date>ca. 1500 - ca. 1600</date>
+          <type>wijwateremmer</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-43</identifier>
+        <datestamp>2021-11-03T16:51:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14637</identifier>
+          <identifier>BK-NM-43</identifier>
+          <title>Lantaarn van messing bekleed met robbenvel</title>
+          <creator>anoniem</creator>
+          <date>ca. 1300 - ca. 1500</date>
+          <type>lantaarn</type>
+          <format>messing</format>
+          <format>leer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-4692</identifier>
+        <datestamp>2021-11-03T16:51:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14689</identifier>
+          <identifier>BK-NM-4692</identifier>
+          <title>Wandplaat met leeuwenkop voor een wandluchter</title>
+          <creator>anoniem</creator>
+          <date>ca. 1685 - ca. 1700</date>
+          <type>wandplaat</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Marseille</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13313</identifier>
+        <datestamp>2021-10-01T23:42:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14330</identifier>
+          <identifier>BK-NM-13313</identifier>
+          <title>Bloemenhouder</title>
+          <creator>De Metaale Pot</creator>
+          <contributor>Eenhoorn, Lambertus van</contributor>
+          <date>ca. 1690 - ca. 1720</date>
+          <type>bloemhouder</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2331</identifier>
+        <datestamp>2021-11-03T16:50:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14494</identifier>
+          <identifier>BK-NM-2331</identifier>
+          <title>Monstrans uit de R.K. kerk te Vessem, Noord-Brabant</title>
+          <creator>anoniem</creator>
+          <date>ca. 1550 - ca. 1600</date>
+          <type>monstrans</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Trier</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1963-84</identifier>
+        <datestamp>2021-10-01T23:53:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14959</identifier>
+          <identifier>BK-1963-84</identifier>
+          <title>Reticule van gebreide katoen versierd met veelkleurige glazen kraaltjes en voorzien van metalen ringen voor de vorm</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1820 - ca. 1840</date>
+          <type>reticule</type>
+          <format>katoen</format>
+          <format>glas</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11006</identifier>
+        <datestamp>2021-11-03T19:16:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13797</identifier>
+          <identifier>BK-NM-11006</identifier>
+          <title>Parasol met franje</title>
+          <creator>anoniem</creator>
+          <date>ca. 1840 - ca. 1860</date>
+          <type>parasol</type>
+          <format>zijde</format>
+          <format>hout</format>
+          <format>balein</format>
+          <format>been</format>
+          <format>zijde</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13318</identifier>
+        <datestamp>2021-10-01T23:41:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14307</identifier>
+          <identifier>BK-NM-13318</identifier>
+          <title>Doornuittrekker (Spinario)</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Kool, Jacob van der</contributor>
+          <date>ca. 1725 - ca. 1740</date>
+          <type>beeld</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5750</identifier>
+        <datestamp>2021-10-01T23:51:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14860</identifier>
+          <identifier>BK-NM-5750</identifier>
+          <title>Ring</title>
+          <creator>anoniem</creator>
+          <date>ca. 1670 - ca. 1690</date>
+          <type>sieraad</type>
+          <type>ring (sieraad)</type>
+          <format>goud</format>
+          <format>diamant</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-2</identifier>
+        <datestamp>2021-10-01T23:52:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14931</identifier>
+          <identifier>BK-1967-2</identifier>
+          <title>"Vlaams Hart"</title>
+          <creator>anoniem</creator>
+          <date>ca. 1785 - ca. 1800</date>
+          <type>hanger (sieraad)</type>
+          <format>zilver</format>
+          <format>diamant</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuid-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1306</identifier>
+        <datestamp>2021-11-03T16:52:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14709</identifier>
+          <identifier>BK-NM-1306</identifier>
+          <title>Bekken met Adam en Eva en het jaartal 1611</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1600</date>
+          <type>bekken (schaal)</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1311</identifier>
+        <datestamp>2021-11-03T16:52:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14715</identifier>
+          <identifier>BK-NM-1311</identifier>
+          <title>Bekken met Samson en de leeuw</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1550</date>
+          <type>bekken (schaal)</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-643</identifier>
+        <datestamp>2021-10-02T00:57:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19287</identifier>
+          <identifier>BK-1978-643</identifier>
+          <title>Strook kloskant met dikke gebogen bladeren en drielobbige bloemen</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1700 - ca. 1709</date>
+          <type>strook</type>
+          <type>tussenzetsel</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Binche</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8080</identifier>
+        <datestamp>2022-03-02T15:11:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18740</identifier>
+          <identifier>BK-NM-8080</identifier>
+          <title>Gildeschild van gedreven zilver</title>
+          <creator>anoniem</creator>
+          <subject>gilde</subject>
+          <subject>slachtersgilde</subject>
+          <subject>Middelburg</subject>
+          <date>1667</date>
+          <type>gildeschild</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Middelburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7364</identifier>
+        <datestamp>2021-11-02T08:28:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19393</identifier>
+          <identifier>BK-NM-7364</identifier>
+          <title>Horlogedeksel met Judith</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>horlogekast</type>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-4684</identifier>
+        <datestamp>2021-10-02T00:59:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19399</identifier>
+          <identifier>BK-NM-4684</identifier>
+          <title>Horloge</title>
+          <creator>anoniem</creator>
+          <contributor>Huaud, Jean Pierre</contributor>
+          <contributor>Huaud, Amy</contributor>
+          <date>1760</date>
+          <date>ca. 1700</date>
+          <type>sieraad</type>
+          <type>horloge</type>
+          <format>goud</format>
+          <format>email</format>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zwitserland</coverage>
+          <coverage>Genève</coverage>
+          <coverage>Genève</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8424</identifier>
+        <datestamp>2021-11-03T16:51:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14563</identifier>
+          <identifier>BK-NM-8424</identifier>
+          <title>Kandelaar in de vorm van een leeuw</title>
+          <creator>anoniem</creator>
+          <date>ca. 1275 - ca. 1325</date>
+          <type>kandelaar</type>
+          <format>koperlegering</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9098-1</identifier>
+        <datestamp>2021-11-03T16:50:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13865</identifier>
+          <identifier>BK-NM-9098-1</identifier>
+          <title>Vleeskroon</title>
+          <creator>anoniem</creator>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>vleeskroon</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyOTQ4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

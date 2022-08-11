@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMDg4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1971-88</identifier>
+        <datestamp>2021-10-02T11:48:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28593</identifier>
+          <identifier>RP-T-1971-88</identifier>
+          <title>Juda en Tamar</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <date>ca. 1640 - ca. 1650</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1891-A-2426</identifier>
+        <datestamp>2021-10-02T11:48:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28599</identifier>
+          <identifier>RP-T-1891-A-2426</identifier>
+          <title>Esther bezwijmt voor Ahasverus</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <subject>de geschiedenis van Esther</subject>
+          <date>1640</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>verf</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-595</identifier>
+        <datestamp>2021-10-02T11:44:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27686</identifier>
+          <identifier>RP-T-1948-595</identifier>
+          <title>Jonge Bacchus staand</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>anoniem</contributor>
+          <date>1648 - 1671</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1897-A-3340</identifier>
+        <datestamp>2021-10-02T11:44:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27692</identifier>
+          <identifier>RP-T-1897-A-3340</identifier>
+          <title>Offerdienaar</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>anoniem</contributor>
+          <date>1648 - 1671</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1961-85</identifier>
+        <datestamp>2021-08-09T12:01:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28570</identifier>
+          <identifier>RP-T-1961-85</identifier>
+          <title>Gezicht op de Amstelveenseweg buiten Amsterdam</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <subject>Amstelveenseweg</subject>
+          <description>In het midden loopt de Amstelveenseweg, verdwijnend in de verte richting Amstelveen. Links van de weg loopt een sloot met daarover een stenen brug. Een pad onder de bomen leidt via een toegangshek naar een huis, waarvan het dak deels zichtbaar is. Rembrandt tekende het tafereel eerst schetsmatig met een rietpen, en gebruikte daarna een penseel of natte vinger om enkele schaduwen toe te voegen.</description>
+          <date>ca. 1660 - ca. 1662</date>
+          <type>tekening</type>
+          <format>kardoespapier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1961-82</identifier>
+        <datestamp>2021-10-02T11:48:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28576</identifier>
+          <identifier>RP-T-1961-82</identifier>
+          <title>Grootmogol Jahangir</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1656 - ca. 1658</date>
+          <type>tekening</type>
+          <format>Oosters papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1958-108</identifier>
+        <datestamp>2021-10-02T11:48:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28693</identifier>
+          <identifier>RP-T-1958-108</identifier>
+          <title>Studie van een op de grond ingeslapen mannelijk model</title>
+          <creator>Cavedone, Giacomo</creator>
+          <date>1587 - 1660</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1989-112</identifier>
+        <datestamp>2021-10-02T11:44:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27654</identifier>
+          <identifier>RP-T-1989-112</identifier>
+          <title>Zittende naakte jongeling</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>Michelangelo</contributor>
+          <contributor>Piombo, Sebastiano del</contributor>
+          <description>Dit is de centrale figuur uit een nogal raadselachtige compositie van Michelangelo, die al sinds de 16de eeuw bekend staat onder de naam Il Sogno, de droom. Van Michelangelo’s tekening bestaan verschillende versies, die niet allemaal van hemzelf zijn. Ook De Bisschop had zijn twijfels over het exemplaar dat hij natekende, getuige de inscriptie op de ets (zie hiernaast) die hij er later van maakte.</description>
+          <date>1648 - 1671</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8464</identifier>
+        <datestamp>2021-11-03T19:24:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28464</identifier>
+          <identifier>BK-NM-8464</identifier>
+          <title>Sjaal</title>
+          <creator>anoniem</creator>
+          <description>Sjaals uit Kasjmir zijn te herkennen aan het specifieke ornament, de bota. Vanaf de 17de eeuw ontwikkelde deze weergave van een bloeiend anjerplantje zich tot een gestileerde druppelvorm aan het begin van de 19de eeuw. Aangezien rond die tijd zowel in Frankrijk als in Groot-Brittannië imitaties van de sjaals uit Kasjmir werden gemaakt, is de herkomst niet altijd even duidelijk.</description>
+          <date>ca. 1820</date>
+          <type>sjaal</type>
+          <type>kasjmiersjaal</type>
+          <format>zijde</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1959-82A(V)</identifier>
+        <datestamp>2021-10-02T11:48:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28645</identifier>
+          <identifier>RP-T-1959-82A(V)</identifier>
+          <title>Boomgroep bij een stroomversnelling</title>
+          <creator>Angeluccio</creator>
+          <contributor>Dughet, Gaspard</contributor>
+          <date>1640 - 1660</date>
+          <type>tekening</type>
+          <format>potlood</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1883-A-273(R)</identifier>
+        <datestamp>2021-10-02T11:43:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27423</identifier>
+          <identifier>RP-T-1883-A-273(R)</identifier>
+          <title>Liggende koe en fragment van koeienkop</title>
+          <creator>Begeyn, Abraham Jansz</creator>
+          <contributor>Bega, Cornelis Pietersz.</contributor>
+          <date>ca. 1660 - ca. 1665</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2532</identifier>
+        <datestamp>2021-10-02T11:47:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28489</identifier>
+          <identifier>BK-KOG-2532</identifier>
+          <title>Omslagdoek van linnenbatist, driehoekig, langs twee zijden geborduurd met bloemslingers van katoen en open zomen van fils tirés en katoen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1815</date>
+          <type>dameskleding</type>
+          <type>omslagdoek</type>
+          <format>linnen</format>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1930-39</identifier>
+        <datestamp>2021-10-02T11:48:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28622</identifier>
+          <identifier>RP-T-1930-39</identifier>
+          <title>Schrijvende oude man met een baard</title>
+          <creator>Rijn, Rembrandt van</creator>
+          <subject>schrijven en brieven</subject>
+          <date>ca. 1640 - ca. 1650</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1884-A-410</identifier>
+        <datestamp>2021-10-02T11:45:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28042</identifier>
+          <identifier>RP-T-1884-A-410</identifier>
+          <title>Heilige monnik op audiëntie bij een Duitse keizer</title>
+          <creator>Jode, Pieter de (I)</creator>
+          <date>1580 - 1634</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>dekverf</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-93</identifier>
+        <datestamp>2021-10-02T11:47:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28403</identifier>
+          <identifier>BK-1968-93</identifier>
+          <title>Fichu met een breed kraagmodel met sjaalkraag van linnen glasbatist en machinale kant van zwarte zijde</title>
+          <creator>anoniem</creator>
+          <date>ca. 1860 - ca. 1870</date>
+          <type>dameskleding</type>
+          <type>fichu</type>
+          <format>linnen</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1930-6</identifier>
+        <datestamp>2021-10-02T11:48:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28498</identifier>
+          <identifier>RP-T-1930-6</identifier>
+          <title>Dochter van farao vindt Mozes</title>
+          <creator>Bol, Ferdinand</creator>
+          <date>1640 - 1645</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1946-44(R)</identifier>
+        <datestamp>2021-10-02T11:49:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28756</identifier>
+          <identifier>RP-T-1946-44(R)</identifier>
+          <title>Viola da gamba-speler, en face</title>
+          <creator>Mola, Pier Francesco</creator>
+          <date>1645 - 1650</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1950-431</identifier>
+        <datestamp>2021-10-02T11:49:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.28768</identifier>
+          <identifier>RP-T-1950-431</identifier>
+          <title>Maria met het Christuskind onder een boom</title>
+          <creator>Piola, Domenico I</creator>
+          <date>1637 - 1703</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-318</identifier>
+        <datestamp>2020-02-21T14:27:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27486</identifier>
+          <identifier>RP-T-00-318</identifier>
+          <title>Uitgebrande ruïne van het oude Amsterdamse stadhuis, 1652</title>
+          <creator>Beerstraten, Jan Abrahamsz.</creator>
+          <subject>Damrak</subject>
+          <subject>Dam</subject>
+          <subject>Stadhuis van Amsterdam (1655-1808)</subject>
+          <subject>Grote Vismarkt</subject>
+          <subject>Waag op de Dam</subject>
+          <date>1652</date>
+          <type>tekening</type>
+          <type>historieplaat</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-801</identifier>
+        <datestamp>2021-10-02T11:45:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.27931</identifier>
+          <identifier>BK-1978-801</identifier>
+          <title>Vierkante kasjmiersjaal, met rood, blauw en beige strooipatroon op wit veld en langs de rand een band</title>
+          <creator>anoniem</creator>
+          <date>ca. 1830</date>
+          <type>kleding</type>
+          <type>sjaal</type>
+          <type>kasjmiersjaal</type>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Norwich</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzMDkwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

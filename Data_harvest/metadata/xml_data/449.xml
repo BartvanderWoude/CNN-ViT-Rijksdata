@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw4OTYw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1948-80</identifier>
+        <datestamp>2019-05-09T15:08:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30072</identifier>
+          <identifier>RP-P-1948-80</identifier>
+          <title>Madonna, door twee engelen gekroond</title>
+          <creator>anoniem</creator>
+          <contributor>Schongauer, Martin</contributor>
+          <contributor>Monogrammist LCZ</contributor>
+          <date>1500 - 1599</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+          <coverage>Bocholt (Duitsland)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2613</identifier>
+        <datestamp>2022-03-02T15:13:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30407</identifier>
+          <identifier>RP-P-OB-2613</identifier>
+          <title>Adam</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>Aldegrever, Heinrich</contributor>
+          <date>1551</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-11363</identifier>
+        <datestamp>2019-05-09T15:13:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30868</identifier>
+          <identifier>RP-P-1886-A-11363</identifier>
+          <title>Titelprent met zes geleerden zittend rond een tafel en tekst in boekdruk</title>
+          <creator>Burgkmair, Hans (I)</creator>
+          <contributor>Steiner, Heinrich</contributor>
+          <date>1483 - 1519</date>
+          <date>1540</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-961</identifier>
+        <datestamp>2019-05-29T14:31:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29962</identifier>
+          <identifier>RP-P-OB-961</identifier>
+          <title>Hellevaart</title>
+          <title>Passieverhaal</title>
+          <creator>Monogrammist AG (15e eeuw)</creator>
+          <date>1475 - 1500</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-3124</identifier>
+        <datestamp>2021-10-02T11:53:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30214</identifier>
+          <identifier>RP-P-OB-3124</identifier>
+          <title>Ornament met putto met knots</title>
+          <creator>Monogrammist FG</creator>
+          <date>1534</date>
+          <type>prent</type>
+          <type>ornamentprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-3101</identifier>
+        <datestamp>2019-05-29T14:31:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30226</identifier>
+          <identifier>RP-P-OB-3101</identifier>
+          <title>Heilige Christoffel</title>
+          <creator>Monogrammist HL (16e eeuw)</creator>
+          <contributor>Leinberger, Hans</contributor>
+          <date>1505 - 1533</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2735</identifier>
+        <datestamp>2021-10-02T11:53:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30559</identifier>
+          <identifier>RP-P-OB-2735</identifier>
+          <title>Naastenliefde</title>
+          <title>Zeven Deugden</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>Aldegrever, Heinrich</contributor>
+          <date>1552</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2972</identifier>
+        <datestamp>2021-10-02T11:54:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30716</identifier>
+          <identifier>RP-P-OB-2972</identifier>
+          <title>Vedelspeler</title>
+          <creator>Altdorfer, Albrecht</creator>
+          <contributor>Altdorfer, Albrecht</contributor>
+          <date>ca. 1506 - 1538</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1123</identifier>
+        <datestamp>2019-05-09T15:08:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30025</identifier>
+          <identifier>RP-P-OB-1123</identifier>
+          <title>De dood van Maria</title>
+          <title>Het leven van Maria</title>
+          <creator>Meckenem, Israhel van</creator>
+          <contributor>Holbein, Hans (I)</contributor>
+          <date>1455 - 1503</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bocholt (Duitsland)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-247-A</identifier>
+        <datestamp>2019-08-01T09:38:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30373</identifier>
+          <identifier>BK-BR-J-247-A</identifier>
+          <title>Halfovaalvormig fragment van kloskant met strooipatroon en bladerenrand</title>
+          <creator>anoniem</creator>
+          <date>ca. 1870</date>
+          <type>fragment</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bayeux</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-Z-157</identifier>
+        <datestamp>2019-05-09T15:11:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30570</identifier>
+          <identifier>RP-P-H-Z-157</identifier>
+          <title>Zorgvuldigheid</title>
+          <title>Zeven Deugden</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>Aldegrever, Heinrich</contributor>
+          <date>1552</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2962</identifier>
+        <datestamp>2019-05-09T15:12:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30705</identifier>
+          <identifier>RP-P-OB-2962</identifier>
+          <title>Sater en een man vechten om een vrouw</title>
+          <creator>Altdorfer, Albrecht</creator>
+          <contributor>Raimondi, Marcantonio</contributor>
+          <date>ca. 1506 - 1538</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4382</identifier>
+        <datestamp>2019-05-09T15:14:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30902</identifier>
+          <identifier>RP-P-OB-4382</identifier>
+          <title>Triomfwagen met musici die spelen op blaasinstrumenten</title>
+          <title>Triomfen van Keizer Maximiliaan I</title>
+          <creator>Burgkmair, Hans (I)</creator>
+          <date>1483 - 1526</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4187</identifier>
+        <datestamp>2019-05-09T15:14:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30914</identifier>
+          <identifier>RP-P-OB-4187</identifier>
+          <title>Heilige Barbara met kelk en hostie</title>
+          <creator>Beham, Barthel</creator>
+          <contributor>Beham, Barthel</contributor>
+          <date>1520</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-1113</identifier>
+        <datestamp>2019-05-29T14:31:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30014</identifier>
+          <identifier>RP-P-OB-1113</identifier>
+          <title>Joachims offer wordt geweigerd</title>
+          <title>Het leven van Maria</title>
+          <creator>Meckenem, Israhel van</creator>
+          <contributor>Holbein, Hans (I)</contributor>
+          <date>1455 - 1503</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Bocholt (Duitsland)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-3090</identifier>
+        <datestamp>2021-10-02T11:53:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30266</identifier>
+          <identifier>RP-P-OB-3090</identifier>
+          <title>Embleem met Hoop, Tegenspoed, Afgunst en Tolerantie</title>
+          <creator>Monogrammist IB (16e eeuw)</creator>
+          <contributor>Pencz, Georg</contributor>
+          <date>1529</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-1172</identifier>
+        <datestamp>2022-03-02T15:13:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30320</identifier>
+          <identifier>RP-P-1905-1172</identifier>
+          <title>Portret van Dr. Georg Roggenbach</title>
+          <creator>Lautensack, Hans</creator>
+          <subject>Roggenbach, Georg</subject>
+          <date>1554</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2777</identifier>
+        <datestamp>2021-10-02T11:53:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30616</identifier>
+          <identifier>RP-P-OB-2777</identifier>
+          <title>Dansend paar</title>
+          <title>Kleine paren dansende bruiloftsgasten, tweede serie</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>Aldegrever, Heinrich</contributor>
+          <date>1551</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-2810</identifier>
+        <datestamp>2021-10-02T11:53:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.30659</identifier>
+          <identifier>RP-P-OB-2810</identifier>
+          <title>Portret van Martin Luther</title>
+          <creator>Aldegrever, Heinrich</creator>
+          <contributor>Brosamer, Hans</contributor>
+          <subject>Luther, Martin</subject>
+          <date>1540</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1955-553</identifier>
+        <datestamp>2021-01-28T13:02:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.29968</identifier>
+          <identifier>RP-P-1955-553</identifier>
+          <title>Kruisdraging</title>
+          <title>Passieverhaal</title>
+          <creator>Monogrammist AG (15e eeuw)</creator>
+          <date>1475 - 1500</date>
+          <type>prent</type>
+          <format>perkament</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw4OTgw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

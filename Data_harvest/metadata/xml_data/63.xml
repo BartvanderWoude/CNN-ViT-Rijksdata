@@ -1,0 +1,495 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMjQw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-H-OB-842</identifier>
+        <datestamp>2021-10-02T12:13:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39324</identifier>
+          <identifier>RP-P-H-OB-842</identifier>
+          <title>Het sluisje</title>
+          <creator>Ruyscher, Jan</creator>
+          <contributor>Ruyscher, Jan</contributor>
+          <date>1635 - 1674</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-1678</identifier>
+        <datestamp>2021-07-13T16:15:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39571</identifier>
+          <identifier>RP-P-1878-A-1678</identifier>
+          <title>Boerderij bij bevroren rivier met schaatsers op het ijs</title>
+          <title>Kleine landschappen (kopieën)</title>
+          <creator>anoniem</creator>
+          <contributor>Velde, Esaias van de</contributor>
+          <contributor>Visscher, Claes Jansz. (II)</contributor>
+          <date>1614 - 1617</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.505</identifier>
+        <datestamp>2019-05-29T14:58:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39768</identifier>
+          <identifier>RP-P-OB-20.505</identifier>
+          <title>De Appelmarkt</title>
+          <title>De Appelmarckt</title>
+          <title>Verscheide gesichten binnen Amsterdam</title>
+          <title>Gezichten op Amsterdam</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <contributor>Jonghe, Clement de</contributor>
+          <subject>Appelmarkt</subject>
+          <date>1657 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.553</identifier>
+        <datestamp>2019-05-09T16:10:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39866</identifier>
+          <identifier>RP-P-OB-20.553</identifier>
+          <title>Blokhuizen op de Amstel</title>
+          <title>De Block-huÿsen</title>
+          <title>Verschillende schepen en stadsgezichten van Amsterdam, derde deel</title>
+          <title>Derde deel. Verscheijden Schepen en Gesichten van Amsterdam, naer t leven afgetekent en opt Cooper gebracht, door Reinier Nooms, alias Zeeman</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <subject>Amsterdam</subject>
+          <subject>Amstel</subject>
+          <date>1652 - 1654</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4707</identifier>
+        <datestamp>2019-05-29T14:59:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40113</identifier>
+          <identifier>RP-P-OB-4707</identifier>
+          <title>De verloren zoon verbrast zijn geld</title>
+          <title>De verloren zoon</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Henriet, Israël</contributor>
+          <contributor>Lodewijk XIII (koning van Frankrijk)</contributor>
+          <date>1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1879-A-3194</identifier>
+        <datestamp>2020-05-06T11:49:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39335</identifier>
+          <identifier>RP-P-1879-A-3194</identifier>
+          <title>Landschap met drie figuren bij een meer</title>
+          <title>Kleine landschappen</title>
+          <creator>Uden, Lucas van</creator>
+          <contributor>Uden, Lucas van</contributor>
+          <date>1605 - 1673</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1884-A-8101</identifier>
+        <datestamp>2019-05-09T16:08:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39668</identifier>
+          <identifier>RP-P-1884-A-8101</identifier>
+          <title>Ingang van de rede van Texel</title>
+          <creator>anoniem</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <subject>Texel</subject>
+          <date>1650 - 1714</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.652</identifier>
+        <datestamp>2021-02-09T23:51:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39834</identifier>
+          <identifier>RP-P-OB-17.652</identifier>
+          <title>Portret van Joan Somes</title>
+          <title>Madam Sooms</title>
+          <creator>Beckett, Isaac</creator>
+          <contributor>Kneller, Gottfried</contributor>
+          <contributor>Beckett, Isaac</contributor>
+          <subject>Somes, Joan</subject>
+          <date>ca. 1683 - ca. 1688</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4690</identifier>
+        <datestamp>2019-05-29T14:59:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40096</identifier>
+          <identifier>RP-P-OB-4690</identifier>
+          <title>Wonderbare visvangst</title>
+          <title>Scènes uit het Nieuwe Testament</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Henriet, Israël</contributor>
+          <contributor>Lodewijk XIII (koning van Frankrijk)</contributor>
+          <date>1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4876</identifier>
+        <datestamp>2019-05-29T15:00:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40262</identifier>
+          <identifier>RP-P-OB-4876</identifier>
+          <title>De marteldood van Petrus</title>
+          <title>Schilderijen en sculpturen te Rome</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Passignano, Domenico</contributor>
+          <date>1608 - 1611</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.954</identifier>
+        <datestamp>2019-05-09T16:08:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39691</identifier>
+          <identifier>RP-P-OB-12.954</identifier>
+          <title>Zeelieden op een kade</title>
+          <title>quelqe port dee Meer faicts par R.N. Zeeman A amsterdam Ao 1656</title>
+          <title>Enkele zeehavens</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <date>1656</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17210</identifier>
+        <datestamp>2019-05-09T16:09:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39740</identifier>
+          <identifier>RP-P-1892-A-17210</identifier>
+          <title>Strand met een op het zand getrokken zeilschip</title>
+          <title>Verscheyde Binne-Waters</title>
+          <title>Binnenwateren</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <date>1654 - 1658</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4770</identifier>
+        <datestamp>2019-05-29T15:00:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40190</identifier>
+          <identifier>RP-P-OB-4770</identifier>
+          <title>Apostel Simon</title>
+          <title>De grote apostelen</title>
+          <title>Christus, Maria en de apostelen</title>
+          <creator>Callot, Jacques</creator>
+          <contributor>Callot, Jacques</contributor>
+          <contributor>Henriet, Israël</contributor>
+          <date>1631</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nancy</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4843</identifier>
+        <datestamp>2019-05-29T15:00:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40239</identifier>
+          <identifier>RP-P-OB-4843</identifier>
+          <title>Maria  met het Christuskind</title>
+          <title>S. Maria ad columna</title>
+          <title>Schilderijen en sculpturen te Rome</title>
+          <creator>Callot, Jacques</creator>
+          <date>1608 - 1611</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-12.922</identifier>
+        <datestamp>2019-05-29T14:57:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39455</identifier>
+          <identifier>RP-P-OB-12.922</identifier>
+          <title>Liggende geit</title>
+          <title>Schapen en geiten</title>
+          <creator>Velde, Adriaen van de</creator>
+          <contributor>Velde, Adriaen van de</contributor>
+          <date>1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14340</identifier>
+        <datestamp>2019-05-09T16:10:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39883</identifier>
+          <identifier>RP-P-1889-A-14340</identifier>
+          <title>Na de zeeslag</title>
+          <title>Nieuwe Scheeps Batalien</title>
+          <creator>Nooms, Reinier</creator>
+          <contributor>Nooms, Reinier</contributor>
+          <contributor>Jonghe, Clement de</contributor>
+          <subject>zeeslag</subject>
+          <date>1652 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-20.603</identifier>
+        <datestamp>2022-04-07T10:35:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.40047</identifier>
+          <identifier>RP-P-OB-20.603</identifier>
+          <title>Portret van dr. Gachet</title>
+          <title>L'Homme à la Pipe</title>
+          <title>De man met de pijp</title>
+          <creator>Gogh, Vincent van</creator>
+          <contributor>Gachet, Paul Ferdinand</contributor>
+          <subject>Gachet, Paul Ferdinand</subject>
+          <date>1890-06-15</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Auvers-sur-Oise</coverage>
+          <coverage>Auvers-sur-Oise</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-2854</identifier>
+        <datestamp>2020-05-06T11:49:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39404</identifier>
+          <identifier>RP-P-1878-A-2854</identifier>
+          <title>Landschap met ruiters</title>
+          <title>Kleine landschappen naar Titiaan</title>
+          <creator>Uden, Lucas van</creator>
+          <contributor>Titiaan</contributor>
+          <contributor>Wijngaerde, Frans van den</contributor>
+          <date>1605 - 1673</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-5634</identifier>
+        <datestamp>2019-05-09T16:06:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39478</identifier>
+          <identifier>RP-P-OB-5634</identifier>
+          <title>Mannen laden graanschoven in een boot</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Vlieger, Simon de</contributor>
+          <date>1610 - 1703</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-1690</identifier>
+        <datestamp>2020-08-19T17:54:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.39528</identifier>
+          <identifier>RP-P-1878-A-1690</identifier>
+          <title>Ruiter en wandelaars op een weg bij Lisse</title>
+          <title>Landschappen</title>
+          <creator>Velde, Esaias van de</creator>
+          <contributor>Velde, Esaias van de</contributor>
+          <contributor>Berendrecht, Johannes Pietersz.</contributor>
+          <subject>Lisse</subject>
+          <date>1615 - 1616</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMjYw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,508 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTUyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1504</identifier>
+        <datestamp>2021-01-28T16:22:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81635</identifier>
+          <identifier>RP-P-BI-1504</identifier>
+          <title>Koeien</title>
+          <title>Dieren</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>na 1635 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1495X</identifier>
+        <datestamp>2021-01-28T16:24:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81758</identifier>
+          <identifier>RP-P-BI-1495X</identifier>
+          <title>Portret van Thomas à Kempis</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Frederick</contributor>
+          <subject>Kempis, Thomas à</subject>
+          <date>ca. 1635 - ca. 1649</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1387</identifier>
+        <datestamp>2021-01-28T16:20:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81487</identifier>
+          <identifier>RP-P-BI-1387</identifier>
+          <title>Vrouw met kippen</title>
+          <title>Pastorale scènes</title>
+          <title>Otia delectant</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Cornelis (II)</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>na ca. 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1689</identifier>
+        <datestamp>2021-01-28T16:25:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81833</identifier>
+          <identifier>RP-P-BI-1689</identifier>
+          <title>Brandende huizen</title>
+          <title>Kleine landschappen</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Frederick</contributor>
+          <subject>landschappen</subject>
+          <date>na 1635</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1753</identifier>
+        <datestamp>2022-02-15T13:34:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81910</identifier>
+          <identifier>RP-P-BI-1753</identifier>
+          <title>Allegorie op het Oude en Nieuwe Testament met Mozes en Aaron</title>
+          <title>Titelpagina voor: De Heylige historien zoo van het Oude als Nieuwe Testament, Amsterdam</title>
+          <title>De Heylige historien zoo van het Oude als Nieuwe Testament</title>
+          <creator>Blois, Abraham de</creator>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <contributor>Staten-Generaal der Verenigde Nederlanden</contributor>
+          <date>1651 - 1679</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1852</identifier>
+        <datestamp>2021-01-28T16:30:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82168</identifier>
+          <identifier>RP-P-BI-1852</identifier>
+          <title>Leeuw met leeuwin</title>
+          <title>Variæ leonum Icones</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <date>1655 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1240</identifier>
+        <datestamp>2021-01-28T16:17:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81196</identifier>
+          <identifier>RP-P-BI-1240</identifier>
+          <title>Allegorie met vrouwelijke personificaties en engelen met afbeelding van de tempel van Jeruzalem</title>
+          <title>Titelpagina voor: Humphrey Prideaux, Het Oude en Nieuwe Verbond aen een geschakelt in de geschiedenissen der joden en der aengrenzende volkeren, Leiden 1729</title>
+          <title>Het O. en N. verbond</title>
+          <creator>Bleyswijck, François van</creator>
+          <contributor>Mij, Hieronymus van der</contributor>
+          <contributor>Linden, Johannes van der (uitgever)</contributor>
+          <contributor>onbekend</contributor>
+          <date>1681 - 1729</date>
+          <date>1729</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.656-15</identifier>
+        <datestamp>2021-01-28T16:22:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81594</identifier>
+          <identifier>RP-P-OB-26.656-15</identifier>
+          <title>Water</title>
+          <title>16 prenten uit verschillende series van Cornelis en Frederik Bloemaert</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <subject>water (een van de vier elementen)</subject>
+          <date>1700 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1561</identifier>
+        <datestamp>2021-01-28T16:25:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81798</identifier>
+          <identifier>RP-P-BI-1561</identifier>
+          <title>De maand januari</title>
+          <title>Januarius</title>
+          <title>De Maanden van het Jaar</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <contributor>onbekend</contributor>
+          <date>na 1635 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15281</identifier>
+        <datestamp>2021-01-28T16:30:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82216</identifier>
+          <identifier>RP-P-1890-A-15281</identifier>
+          <title>Boer en boerin als liefdespaar in deuropening</title>
+          <title>Caprice</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <contributor>Bloteling, Abraham</contributor>
+          <date>1655 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.569</identifier>
+        <datestamp>2021-01-28T16:31:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82228</identifier>
+          <identifier>RP-P-OB-22.569</identifier>
+          <title>Titelprent voor Hugo de Groots Nederlandtsche Jaerboeken en Historien, 1681</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Webber, Zacharias (II)</contributor>
+          <date>1679 - 1681</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1375</identifier>
+        <datestamp>2021-01-28T16:20:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81453</identifier>
+          <identifier>RP-P-BI-1375</identifier>
+          <title>Slapende jager</title>
+          <title>Pastorale scènes</title>
+          <title>Otia delectant</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Cornelis (II)</contributor>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>na ca. 1625</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-4539</identifier>
+        <datestamp>2021-01-28T16:23:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81704</identifier>
+          <identifier>RP-P-1907-4539</identifier>
+          <title>Vier zwevende kinderen</title>
+          <title>Het teekenboek van Abraham Bloemaert</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Nicolaes (II)</contributor>
+          <date>ca. 1679 - ca. 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1535</identifier>
+        <datestamp>2021-01-28T16:25:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81787</identifier>
+          <identifier>RP-P-BI-1535</identifier>
+          <title>Smaak</title>
+          <title>Gustus</title>
+          <title>Vijf zintuigen</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <date>1632 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1885-A-9193</identifier>
+        <datestamp>2021-01-28T16:27:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81956</identifier>
+          <identifier>RP-P-1885-A-9193</identifier>
+          <title>Vrouw kijkt in een wieg</title>
+          <creator>Blommers, Bernardus Johannes</creator>
+          <date>1855 - 1914</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23234</identifier>
+        <datestamp>2021-01-28T16:29:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82122</identifier>
+          <identifier>RP-P-1903-A-23234</identifier>
+          <title>Portret van Henry Howard 6e hertog van Norfolk</title>
+          <title>Henry Duke of Norfolk (...)</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Lely, Peter (Sir)</contributor>
+          <subject>Howard, 6e hertog van Norfolk, Henry</subject>
+          <date>1678</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1265</identifier>
+        <datestamp>2021-01-28T16:17:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81307</identifier>
+          <identifier>RP-P-BI-1265</identifier>
+          <title>Madonna zittend op de maansikkel</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Bloemaert, Cornelis (II)</contributor>
+          <date>ca. 1630</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Théâtre des Folies-Marigny</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1971-163</identifier>
+        <datestamp>2021-01-28T16:19:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81393</identifier>
+          <identifier>RP-P-1971-163</identifier>
+          <title>Prometheus</title>
+          <title>Promethée</title>
+          <creator>Bloemaert, Cornelis (II)</creator>
+          <contributor>Mariette, Pierre (II)</contributor>
+          <contributor>Warin, Jean (II)</contributor>
+          <date>1655 - 1716</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1519</identifier>
+        <datestamp>2021-01-28T16:22:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.81641</identifier>
+          <identifier>RP-P-BI-1519</identifier>
+          <title>Twee zwanen</title>
+          <title>Dieren</title>
+          <creator>Bloemaert, Frederick</creator>
+          <contributor>Bloemaert, Abraham</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <contributor>Staten-Generaal</contributor>
+          <date>na 1635 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1885-A-8933</identifier>
+        <datestamp>2021-01-28T16:30:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.82182</identifier>
+          <identifier>RP-P-1885-A-8933</identifier>
+          <title>Gezicht op de Hogesluis vanaf de Utrechtse zijde</title>
+          <title>Amstel-Gesichies</title>
+          <title>Amstelgezichten</title>
+          <creator>Bloteling, Abraham</creator>
+          <contributor>Ruisdael, Jacob Isaacksz van</contributor>
+          <contributor>Danckerts, Justus</contributor>
+          <subject>Amsterdam</subject>
+          <subject>Hogesluis</subject>
+          <date>1655 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzOTU0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

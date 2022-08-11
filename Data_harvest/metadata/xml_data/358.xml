@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3MTQw">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10134</identifier>
+        <datestamp>2021-10-02T02:00:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24981</identifier>
+          <identifier>BK-NM-10134</identifier>
+          <title>Maria met kind</title>
+          <creator>Pompe, Walter</creator>
+          <date>1728-02-19</date>
+          <type>beeldhouwwerk</type>
+          <format>terracotta</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2000</identifier>
+        <datestamp>2021-11-03T16:57:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25906</identifier>
+          <identifier>BK-KOG-2000</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-239-9</identifier>
+        <datestamp>2022-03-29T09:24:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24736</identifier>
+          <identifier>BK-1968-239-9</identifier>
+          <title>Kop met hoo-vogels</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1670 - ca. 1700</date>
+          <type>kop</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Arita</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-B-112</identifier>
+        <datestamp>2022-06-01T08:36:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25132</identifier>
+          <identifier>BK-B-112</identifier>
+          <title>Borstbeeld van Gerard Keller (1829-1899), letterkundige</title>
+          <creator>Keller, Johan</creator>
+          <subject>Keller, Gerard</subject>
+          <date>ca. 1840 - ca. 1900</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14347</identifier>
+        <datestamp>2021-11-03T16:56:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25347</identifier>
+          <identifier>BK-NM-14347</identifier>
+          <title>Vrouwenkop, applique</title>
+          <date>1600</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-631</identifier>
+        <datestamp>2021-10-02T11:35:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25469</identifier>
+          <identifier>BK-NM-631</identifier>
+          <title>Deksel van een spiegeldoos met schaakspelende man en vrouw</title>
+          <creator>anoniem</creator>
+          <date>ca. 1350</date>
+          <type>reliëf</type>
+          <type>deksel</type>
+          <type>spiegeldoos</type>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Île-de-France</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8976</identifier>
+        <datestamp>2022-03-14T14:24:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25035</identifier>
+          <identifier>BK-NM-8976</identifier>
+          <title>Aan moeders graf</title>
+          <creator>Royer, Louis</creator>
+          <date>ca. 1803 - ca. 1868</date>
+          <type>beeldhouwwerk</type>
+          <format>terracotta</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7217</identifier>
+        <datestamp>2021-10-02T11:34:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25286</identifier>
+          <identifier>BK-NM-7217</identifier>
+          <title>Naakte vrouwenfiguur</title>
+          <creator>anoniem</creator>
+          <date>1525 - 1575</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-675</identifier>
+        <datestamp>2022-03-14T14:24:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25416</identifier>
+          <identifier>BK-1973-675</identifier>
+          <title>Ceintuurstrik van zijde, versierd met rozen in de chiné-techniek</title>
+          <creator>anoniem</creator>
+          <date>ca. 1925 - ca. 1935</date>
+          <type>dameskleding</type>
+          <type>ceintuur</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lyon</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9153</identifier>
+        <datestamp>2021-11-03T16:57:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25803</identifier>
+          <identifier>BK-NM-9153</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1962-2</identifier>
+        <datestamp>2021-10-02T02:00:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24987</identifier>
+          <identifier>BK-1962-2</identifier>
+          <title>Portret van Jan Stolker (1724-1785)</title>
+          <creator>Dieren, Hendrick van</creator>
+          <subject>Stolker, Jan</subject>
+          <date>1751</date>
+          <type>beeldhouwwerk</type>
+          <format>terracotta</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7221</identifier>
+        <datestamp>2021-10-02T11:33:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25240</identifier>
+          <identifier>BK-NM-7221</identifier>
+          <title>Satyrwijfje met jonge Satyr, kandelaar</title>
+          <creator>Briosco, Andrea</creator>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1272-N</identifier>
+        <datestamp>2021-10-02T11:36:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25650</identifier>
+          <identifier>BK-KOG-1272-N</identifier>
+          <title>Christus als man van smarten</title>
+          <creator>anoniem</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>katholicisme</subject>
+          <subject>Lage Landen</subject>
+          <date>ca. 1450 - ca. 1500</date>
+          <type>beeldhouwwerk</type>
+          <format>pijpaarde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2009</identifier>
+        <datestamp>2021-11-03T16:57:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25915</identifier>
+          <identifier>BK-KOG-2009</identifier>
+          <title>Sleutel</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>sleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-B-68-D</identifier>
+        <datestamp>2022-05-20T09:25:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24864</identifier>
+          <identifier>BK-B-68-D</identifier>
+          <title>Titus Flavius Domitianus</title>
+          <creator>Eggers, Bartholomeus</creator>
+          <contributor>Dronrijp, Barent</contributor>
+          <description>Bartholomeus Eggers kreeg in 1674 een opdracht voor twaalf marmeren bustes van Romeinse keizers, bestemd voor de tuinen van paleis Oranienburg bij Berlijn. Enkele van die marmeren bustes komen overeen met de vier loden beelden in de tuin van het Rijksmuseum. Waarschijnlijk werden Eggers’ modellen gebruikt door een beeldgieter om er deze loden versies van te maken.</description>
+          <date>na 1674</date>
+          <type>tuinbeeld</type>
+          <format>lood</format>
+          <format>zandsteen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18814</identifier>
+        <datestamp>2022-01-24T14:44:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25087</identifier>
+          <identifier>BK-18814</identifier>
+          <title>Bijbelse figuur</title>
+          <creator>Lacomblé, Eugène</creator>
+          <date>1800 - 1900</date>
+          <type>beeldhouwwerk</type>
+          <format>klei</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1282</identifier>
+        <datestamp>2021-10-02T11:35:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25475</identifier>
+          <identifier>BK-NM-1282</identifier>
+          <title>Rechtervleugel van een tweeluik met de kruisiging</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1375 - ca. 1400</date>
+          <type>reliëf</type>
+          <type>diptiek</type>
+          <format>ivoor</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+          <coverage>Rijnland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13050</identifier>
+        <datestamp>2021-11-03T16:56:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25756</identifier>
+          <identifier>BK-NM-13050</identifier>
+          <title>Dopsleutel van brons</title>
+          <date>ca. 1300 - ca. 1400</date>
+          <type>sleutel</type>
+          <type>dopsleutel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1968-242-7</identifier>
+        <datestamp>2022-03-29T09:30:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24716</identifier>
+          <identifier>BK-1968-242-7</identifier>
+          <title>Schotel met de 'drie vrienden van de winter'</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1670 - ca. 1700</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Arita</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16447-B</identifier>
+        <datestamp>2021-10-02T01:59:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24918</identifier>
+          <identifier>BK-16447-B</identifier>
+          <title>De zomer</title>
+          <creator>anoniem</creator>
+          <contributor>Larson, Johan</contributor>
+          <date>ca. 1750</date>
+          <type>beeldhouwwerk</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw3MTYw</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

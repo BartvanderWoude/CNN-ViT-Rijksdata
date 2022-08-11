@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyODc0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1963-30</identifier>
+        <datestamp>2021-10-01T23:41:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14302</identifier>
+          <identifier>BK-1963-30</identifier>
+          <title>Schotel</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Kocx, Adrianus</contributor>
+          <date>ca. 1685 - ca. 1695</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-88</identifier>
+        <datestamp>2021-10-01T23:42:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14351</identifier>
+          <identifier>BK-NM-12400-88</identifier>
+          <title>Borstelrug</title>
+          <creator>anoniem</creator>
+          <date>ca. 1725 - ca. 1750</date>
+          <type>borstelrug</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2679</identifier>
+        <datestamp>2021-11-03T16:52:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14853</identifier>
+          <identifier>BK-KOG-2679</identifier>
+          <title>Tabaksdoos met scenes uit het leven van Christus</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>tabaksdoos</type>
+          <format>messing</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1986-64-B</identifier>
+        <datestamp>2021-11-03T19:19:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14926</identifier>
+          <identifier>BK-1986-64-B</identifier>
+          <title>Onderbroek (directoire) van roze crêpe de chine afgezet met Blonde appliqué-kant.</title>
+          <creator>Watrigant, Madame</creator>
+          <date>1920 - 1930</date>
+          <type>lingerie</type>
+          <type>onderbroek</type>
+          <type>directoire</type>
+          <format>crêpe de Chine</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12144</identifier>
+        <datestamp>2021-10-01T23:36:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13847</identifier>
+          <identifier>BK-NM-12144</identifier>
+          <title>Haakijzer</title>
+          <date>1700 - 1800</date>
+          <type>haakijzer</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-40</identifier>
+        <datestamp>2021-10-01T23:40:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14243</identifier>
+          <identifier>BK-NM-12400-40</identifier>
+          <title>Bord, het plat beschilderd met de Steniging van Stephanus</title>
+          <title>Bord van faïence, Steniging van Stephanus</title>
+          <creator>anoniem</creator>
+          <date>ca. 1670 - ca. 1685</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15123-A</identifier>
+        <datestamp>2021-11-03T16:51:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14578</identifier>
+          <identifier>BK-15123-A</identifier>
+          <title>Kandelaar met geprofileerde voet en stam, rustend op drie leeuwen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1900</date>
+          <type>kandelaar</type>
+          <type>vervalsing</type>
+          <format>messing</format>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1959-138</identifier>
+        <datestamp>2021-10-01T23:53:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14948</identifier>
+          <identifier>RP-T-1959-138</identifier>
+          <title>Kop van een paard</title>
+          <creator>Delacroix, Eugène</creator>
+          <date>1825</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12519</identifier>
+        <datestamp>2021-11-03T19:17:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13886</identifier>
+          <identifier>BK-NM-12519</identifier>
+          <title>Dunne stok (badine) van hout belijmd met schildpad en voorzien van een knop van wit porseleinen, versierd met ornamentjes van bladgoud, gezet in een vergulde rand</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1775</date>
+          <type>wandelstok</type>
+          <type>badine</type>
+          <format>hout</format>
+          <format>schildpad</format>
+          <format>porselein</format>
+          <format>goud</format>
+          <format>zilver</format>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1533</identifier>
+        <datestamp>2021-10-01T23:41:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14268</identifier>
+          <identifier>BK-KOG-1533</identifier>
+          <title>Paar bloemhouders</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Kocx, Adrianus</contributor>
+          <description>In elk van de gaatjes aan de bovenkant van deze houders kan een bloem gestoken worden. De voorstellingen op de wanden lijken erg op elkaar, maar zijn allemaal een beetje anders.</description>
+          <date>ca. 1690 - ca. 1700</date>
+          <type>bloemhouder</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1962-52-A</identifier>
+        <datestamp>2021-11-03T16:51:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14601</identifier>
+          <identifier>BK-1962-52-A</identifier>
+          <title>Kandelaar met voet in kwabstijl</title>
+          <creator>anoniem</creator>
+          <date>ca. 1650 - ca. 1700</date>
+          <type>kandelaar</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1962-75</identifier>
+        <datestamp>2021-10-01T23:53:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14973</identifier>
+          <identifier>BK-1962-75</identifier>
+          <title>Tas samengesteld uit verstevigde twee harten bekleed met velours, met bloemen beschilderd, omgeven door een rand van crèmekleurige gerimpelde zijde</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1830</date>
+          <type>tas</type>
+          <format>karton</format>
+          <format>zijde</format>
+          <format>olieverf</format>
+          <format>zijde</format>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-2470</identifier>
+        <datestamp>2021-11-03T19:19:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14186</identifier>
+          <identifier>BK-KOG-2470</identifier>
+          <title>Vouwwaaier met blad van dun leer waarop met aquarel een pastorale scene is geschilderd, op een montuur van parelmoer ajour en in reliëf gesneden met 'métal en quatre coleurs'</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>anoniem</contributor>
+          <date>ca. 1780 - ca. 1790</date>
+          <type>vouwwaaier</type>
+          <format>leer</format>
+          <format>waterverf</format>
+          <format>goudverf</format>
+          <format>parelmoer</format>
+          <format>glas</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7233</identifier>
+        <datestamp>2021-11-03T16:50:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14532</identifier>
+          <identifier>BK-NM-7233</identifier>
+          <title>Kat</title>
+          <creator>anoniem</creator>
+          <date>ca. 1400 - ca. 1500</date>
+          <type>beeld</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1967-49</identifier>
+        <datestamp>2021-11-03T19:19:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14880</identifier>
+          <identifier>BK-1967-49</identifier>
+          <title>Beugeltas van zilver en zijden brokaat</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1789</date>
+          <date>ca. 1725 - ca. 1765</date>
+          <type>beugeltas</type>
+          <format>brokaat</format>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18748</identifier>
+        <datestamp>2022-05-25T13:57:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14218</identifier>
+          <identifier>BK-18748</identifier>
+          <title>Plaat met een gezicht op Overschie bij Rotterdam</title>
+          <creator>Frytom, Frederik van</creator>
+          <subject>Overschie</subject>
+          <date>ca. 1670 - ca. 1700</date>
+          <type>plaat</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2762</identifier>
+        <datestamp>2021-11-03T16:51:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14555</identifier>
+          <identifier>BK-NM-2762</identifier>
+          <title>Triptiek met de Moeder Gods omgeven door heiligen en scènes uit het leven van Christus</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1850</date>
+          <type>triptiek</type>
+          <type>reisicoon</type>
+          <format>koper</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rusland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1986-64-A</identifier>
+        <datestamp>2021-11-03T19:19:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14916</identifier>
+          <identifier>BK-1986-64-A</identifier>
+          <title>Onderjurk van roze crêpe de chine afgezet met een brede strook appliqué-kant</title>
+          <creator>Watrigant, Madame</creator>
+          <date>1920 - 1930</date>
+          <type>lingerie</type>
+          <type>onderjurk</type>
+          <format>crêpe de Chine</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1963-25</identifier>
+        <datestamp>2021-10-01T23:44:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14414</identifier>
+          <identifier>BK-1963-25</identifier>
+          <title>pot (zonder deksel) van faience met bloemdecoratie</title>
+          <creator>Het Jonge Moriaanshooft</creator>
+          <date>ca. 1670 - ca. 1690</date>
+          <type>dekselpot</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1008</identifier>
+        <datestamp>2021-11-03T16:50:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14486</identifier>
+          <identifier>BK-KOG-1008</identifier>
+          <title>Ciborie, zeshoekig</title>
+          <creator>anoniem</creator>
+          <date>ca. 1500</date>
+          <type>ciborie</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rijnstreek</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyODc2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

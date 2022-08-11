@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDkyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1958-135</identifier>
+        <datestamp>2021-10-01T23:00:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9912</identifier>
+          <identifier>RP-T-1958-135</identifier>
+          <title>Europa op de stier</title>
+          <title>Studies van dieren uit het Dierenalbum</title>
+          <creator>Lorrain, Claude</creator>
+          <date>1640 - 1645</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1443</identifier>
+        <datestamp>2022-05-02T11:21:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9031</identifier>
+          <identifier>SK-A-1443</identifier>
+          <title>Bergachtig landschap met rivierdal en kastelen</title>
+          <creator>Meerhout, Jan</creator>
+          <subject>landschap</subject>
+          <date>1661</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1959-161</identifier>
+        <datestamp>2021-10-01T22:50:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9317</identifier>
+          <identifier>RP-T-1959-161</identifier>
+          <title>Zelfportret</title>
+          <creator>Mellan, Claude</creator>
+          <subject>Mellan, Claude</subject>
+          <date>na 1635 - 1688</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3491</identifier>
+        <datestamp>2021-10-01T22:35:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8682</identifier>
+          <identifier>SK-A-3491</identifier>
+          <title>Kasteel Loenersloot aan de Angstel</title>
+          <creator>Heyden, Jan van der</creator>
+          <subject>dorpsgezicht</subject>
+          <subject>Angstel</subject>
+          <subject>Loenersloot</subject>
+          <subject>Kasteel Loenersloot</subject>
+          <date>1650 - 1750</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1416-EE</identifier>
+        <datestamp>2020-11-25T17:30:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8203</identifier>
+          <identifier>AK-MAK-1416-EE</identifier>
+          <title>Wrijfprent</title>
+          <date>ca. 1900</date>
+          <type>wrijfprent</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3831</identifier>
+        <datestamp>2021-10-01T23:01:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10003</identifier>
+          <identifier>SK-A-3831</identifier>
+          <title>De tuin en het koetshuis van Keizersgracht 524 in Amsterdam</title>
+          <creator>Keun, Hendrik</creator>
+          <subject>(het verhaal van) Hercules (Herakles)</subject>
+          <subject>Keizersgracht</subject>
+          <subject>Doekscheer, Nicolaas</subject>
+          <description>Nicolaas Doekscheer, de bewoner van Keizersgracht 524, liet in de Kerkstraat achter zijn tuin een groot koetshuis in rococostijl bouwen. Hier is hij afgebeeld in gesprek met de tuinman, terwijl zijn vrouw de dienstmeid toespreekt. De twee jonge mannen zijn Doekscheers neven en erfgenamen. Het schilderij heeft nog zijn originele rococolijst.</description>
+          <date>1772</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4382</identifier>
+        <datestamp>2021-10-01T23:08:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10281</identifier>
+          <identifier>SK-A-4382</identifier>
+          <title>Portret van een vrouw</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1720</date>
+          <type>miniatuur (schildering)</type>
+          <format>perkament</format>
+          <format>goud</format>
+          <format>glas</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1978-127-14028-W</identifier>
+        <datestamp>2021-07-15T15:43:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8048</identifier>
+          <identifier>NG-1978-127-14028-W</identifier>
+          <title>Bord, gevonden bij V.O.C.-schip Witte Leeuw, mogelijk afkomstig van Zeelelie</title>
+          <creator>anoniem</creator>
+          <subject>bord (vaatwerk)</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>1725 - 1800</date>
+          <type>bord (vaatwerk)</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jingdezhen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3395</identifier>
+        <datestamp>2022-03-15T09:17:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8419</identifier>
+          <identifier>SK-A-3395</identifier>
+          <title>Maria met kind</title>
+          <creator>Ferrari, Defendente</creator>
+          <contributor>Rafaël</contributor>
+          <contributor>Ferrari, Defendente</contributor>
+          <subject>historiestuk</subject>
+          <date>1526</date>
+          <type>schilderij</type>
+          <format>olieverf</format>
+          <format>paneel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1280-5-A</identifier>
+        <datestamp>2021-11-23T15:57:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7997</identifier>
+          <identifier>BK-KOG-1280-5-A</identifier>
+          <title>Schoen van zwart leer</title>
+          <creator>anoniem</creator>
+          <date>ca. 1670 - ca. 1700</date>
+          <type>herenkleding</type>
+          <type>schoen</type>
+          <format>leer</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3838</identifier>
+        <datestamp>2022-05-19T14:14:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8171</identifier>
+          <identifier>SK-A-3838</identifier>
+          <title>Portret van Jan Gerritsz van Egmond van de Nijenburg</title>
+          <creator>Cornelisz. van Oostsanen, Jacob</creator>
+          <contributor>Cornelisz. van Oostsanen, Jacob</contributor>
+          <subject>vroege portretten 1500-1550</subject>
+          <subject>Egmond, Jan Gerritsz van</subject>
+          <description>De geportretteerde behoorde tot een vooraanstaande Hollandse familie. Hij was onder andere schout en burgemeester van Alkmaar. In zijn rechterhand houdt hij een in zilver of goud gevatte gebedsnoot, een zeer kostbaar voorwerp voor privédevotie. Met dit object toonde hij, naast zijn vroomheid, vooral ook zijn welgestelde status.</description>
+          <date>ca. 1518</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4332</identifier>
+        <datestamp>2021-10-01T23:07:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10231</identifier>
+          <identifier>SK-A-4332</identifier>
+          <title>Frederika Sophia Wilhelmina (1751-1820), prinses van Pruisen. Echtgenote van prins Willem V</title>
+          <creator>Lamprecht, Georg</creator>
+          <subject>Wilhelmina van Pruisen (1751-1820)</subject>
+          <date>1780-08-07</date>
+          <type>miniatuur (schildering)</type>
+          <format>ivoor</format>
+          <format>metaal</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-1364</identifier>
+        <datestamp>2022-03-21T08:48:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9047</identifier>
+          <identifier>SK-C-1364</identifier>
+          <title>Drieluik met de aanbidding der koningen (middenpaneel en binnenzijde vleugels), de heilige Antonius Abt (buitenzijde linkervleugel) en de heilige Adrianus (buitenzijde rechtervleugel)</title>
+          <title>Drieluik met de aanbidding der koningen</title>
+          <creator>Meester van Alkmaar</creator>
+          <contributor>Meester van Alkmaar</contributor>
+          <subject>historiestuk</subject>
+          <date>ca. 1500 - ca. 1504</date>
+          <type>schilderij</type>
+          <type>triptiek</type>
+          <type>grisaille</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3660</identifier>
+        <datestamp>2021-10-01T22:57:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9767</identifier>
+          <identifier>SK-A-3660</identifier>
+          <title>Lezende man</title>
+          <creator>Daumier, Honoré</creator>
+          <subject>lezen</subject>
+          <date>1818 - 1879</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3698</identifier>
+        <datestamp>2021-10-01T22:58:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9805</identifier>
+          <identifier>SK-A-3698</identifier>
+          <title>Bosrand</title>
+          <creator>Mauve, Anton</creator>
+          <date>1848 - 1888</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3710</identifier>
+        <datestamp>2021-10-01T22:58:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9817</identifier>
+          <identifier>SK-A-3710</identifier>
+          <title>Studie van een staande luipaard</title>
+          <creator>Swan, John Macallan</creator>
+          <date>1857 - 1910</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1977-122-W</identifier>
+        <datestamp>2021-10-06T16:42:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9206</identifier>
+          <identifier>NG-1977-122-W</identifier>
+          <title>Theekom uit V.O.C.-schip de 'Witte Leeuw'</title>
+          <creator>anoniem</creator>
+          <subject>theekom</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>voor 1613</date>
+          <type>kom</type>
+          <type>theekom</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jingdezhen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1978-12</identifier>
+        <datestamp>2021-10-01T22:54:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9560</identifier>
+          <identifier>RP-T-1978-12</identifier>
+          <title>De ophaalbrug</title>
+          <creator>Maris, Jacob</creator>
+          <date>1875</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2801</identifier>
+        <datestamp>2022-06-01T13:14:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9386</identifier>
+          <identifier>SK-A-2801</identifier>
+          <title>De doop van Christus</title>
+          <creator>anoniem</creator>
+          <subject>historiestuk</subject>
+          <date>1500 - 1549</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2809</identifier>
+        <datestamp>2022-05-02T15:22:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9394</identifier>
+          <identifier>SK-A-2809</identifier>
+          <title>Portret van een Indiase prins</title>
+          <title>Portret van een Indische prins</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1799</date>
+          <type>miniatuur (schildering)</type>
+          <format>ivoor</format>
+          <format>metaal</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDk0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

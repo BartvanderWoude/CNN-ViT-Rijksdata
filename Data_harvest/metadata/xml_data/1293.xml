@@ -1,0 +1,512 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNTg0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1893-A-2812</identifier>
+        <datestamp>2021-10-02T12:48:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64512</identifier>
+          <identifier>RP-T-1893-A-2812</identifier>
+          <title>Leeuwenburg bij Twello</title>
+          <creator>Beerstraten, Jan Abrahamsz.</creator>
+          <subject>Leeuwenburg, de</subject>
+          <subject>Twello</subject>
+          <date>1632 - 1666</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-918</identifier>
+        <datestamp>2016-10-20T20:10:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64159</identifier>
+          <identifier>RP-F-00-918</identifier>
+          <title>Stoomschip Willem III, na de brand van 1871</title>
+          <title>Het verbrande stoomschip Willem III</title>
+          <creator>Wegner &amp; Mottu</creator>
+          <contributor>Wegner, Louis</contributor>
+          <contributor>Mottu, Pierre Alexis</contributor>
+          <contributor>Wegner &amp; Mottu</contributor>
+          <subject>Portsmouth</subject>
+          <subject>Willem III (schip)</subject>
+          <date>1871</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1900-A-4450</identifier>
+        <datestamp>2021-10-02T13:02:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69199</identifier>
+          <identifier>RP-T-1900-A-4450</identifier>
+          <title>Een zittende hond, zich ontlastend, van voren gezien</title>
+          <creator>Snijders, Frans</creator>
+          <date>1589 - 1657</date>
+          <type>tekening</type>
+          <format>geprepareerd papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1879-A-70</identifier>
+        <datestamp>2021-10-02T12:48:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63828</identifier>
+          <identifier>RP-T-1879-A-70</identifier>
+          <title>Huis Kronenburg te Loenen</title>
+          <creator>Waterloo, Anthonie</creator>
+          <contributor>Ruisdael, Jacob Isaacksz van</contributor>
+          <subject>Huis Kronenburg</subject>
+          <date>1619 - 1690</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-1908-145</identifier>
+        <datestamp>2021-08-16T13:40:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64209</identifier>
+          <identifier>RP-F-1908-145</identifier>
+          <title>Ontwerp voor het huldebewijs aangeboden aan koning Willem III door de Nederlandse jeugd in 1874</title>
+          <creator>anoniem</creator>
+          <subject>Willem III (koning der Nederlanden)</subject>
+          <date>1874</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1886-A-656</identifier>
+        <datestamp>2019-01-03T16:46:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64283</identifier>
+          <identifier>RP-T-1886-A-656</identifier>
+          <title>Oktober</title>
+          <title>De twaalf maanden van het jaar</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-441</identifier>
+        <datestamp>2021-10-07T16:30:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69411</identifier>
+          <identifier>NG-1980-27-H-441</identifier>
+          <title>Fragment tuimelaar uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>glas</type>
+          <type>tuimelaar</type>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1948-110</identifier>
+        <datestamp>2019-09-09T16:25:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64643</identifier>
+          <identifier>RP-T-1948-110</identifier>
+          <title>Aloë perfoliata</title>
+          <creator>Saftleven, Herman</creator>
+          <date>1619 - 1685</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1879-A-36</identifier>
+        <datestamp>2019-01-03T15:16:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63794</identifier>
+          <identifier>RP-T-1879-A-36</identifier>
+          <title>Landschap</title>
+          <creator>Vlieger, Simon de</creator>
+          <date>1610 - 1653</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1951-328</identifier>
+        <datestamp>2021-08-16T14:40:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63915</identifier>
+          <identifier>RP-T-1951-328</identifier>
+          <title>Blad met zeven verschillende insecten</title>
+          <creator>Withoos, Pieter</creator>
+          <description>Net zoals zijn vader, zijn broers en zijn zussen bekwaamde Pieter Withoos zich in de teken- en schilderkunst. Zijn carrière nam een vlucht toen de rijke Agneta Block hem aanstelde voor het natekenen van haar indrukwekkende verzameling uitheemse gewassen, insecten en vogels. Op haar buitenplaats Vijverhof in Loenen aan de Vecht verbouwde ze de meest exotische bloemen en planten, waaronder de eerste ananas in Europa.</description>
+          <date>ca. 1680 - ca. 1692</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-964</identifier>
+        <datestamp>2021-01-06T12:45:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64360</identifier>
+          <identifier>RP-F-00-964</identifier>
+          <title>Ruiterstandbeeld van Pollux in Turijn</title>
+          <title>Torino Poll[...]</title>
+          <creator>Maggi, Giovanni Battista</creator>
+          <subject>Turijn</subject>
+          <date>ca. 1870 - ca. 1885</date>
+          <type>foto</type>
+          <type>kabinetfoto</type>
+          <format>fotodrager</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Turijn</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1028</identifier>
+        <datestamp>2021-03-10T09:01:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64589</identifier>
+          <identifier>RP-F-00-1028</identifier>
+          <title>Gezicht op boerderijen nabij Semmering, Oostenrijk</title>
+          <title>Semmering</title>
+          <creator>M. Frankenstein &amp; Co.</creator>
+          <contributor>M. Frankenstein &amp; Co.</contributor>
+          <subject>Semmering</subject>
+          <date>1870 - 1890</date>
+          <type>kabinetfoto</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Semmering</coverage>
+          <coverage>Wenen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-3965</identifier>
+        <datestamp>2021-10-20T14:38:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63452</identifier>
+          <identifier>NG-VG-1-3965</identifier>
+          <title>Jonkheer Johan Willem van Vredenburch, ter ere van zijn voorouders</title>
+          <creator>Schouberg, Johannes Petrus</creator>
+          <subject>sekte</subject>
+          <subject>vrijmetselarij</subject>
+          <subject>Vredenburch van Groeneveld, jonkheer Johan Willem van</subject>
+          <subject>Vredenburch, Huych Gerritsz</subject>
+          <subject>Vredenburch, Willem Hugensz</subject>
+          <subject>Vredenburch, Willem</subject>
+          <subject>Vredenburch, Adriaan</subject>
+          <subject>Vredenburch, Jacob van, heer van Adrichem</subject>
+          <subject>Vredenburch, Adriaan van</subject>
+          <subject>Vredenburch, Gerard van</subject>
+          <subject>Vredenburch, Jakob van</subject>
+          <subject>Boelen, Maritge</subject>
+          <subject>Walenburch, Maria van</subject>
+          <subject>Graeff, Sara van der</subject>
+          <subject>Goes, Catharina van der</subject>
+          <subject>Gael, Henrietta</subject>
+          <subject>Dussen, Agatha Corvina van der</subject>
+          <subject>Assendelft, Wilhelmina Machteld van</subject>
+          <subject>Vredenburch-Van der Pot, jonkvrouw Maria Adriana van</subject>
+          <date>1842</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-315-H</identifier>
+        <datestamp>2019-08-01T09:42:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63874</identifier>
+          <identifier>BK-BR-J-315-H</identifier>
+          <title>Strook naaldkant met gepluimde ranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1875 - ca. 1895</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Burano</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-1908</identifier>
+        <datestamp>2021-10-07T16:31:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69434</identifier>
+          <identifier>NG-1980-27-H-1908</identifier>
+          <title>Stop van vaatwerk uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>vaatwerk</type>
+          <type>stop</type>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1980-27-H-2966</identifier>
+        <datestamp>2021-10-19T15:39:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69766</identifier>
+          <identifier>NG-1980-27-H-2966</identifier>
+          <title>Fragment scheepsbel uit het wrak van de Oost-Indiëvaarder Hollandia</title>
+          <creator>anoniem</creator>
+          <subject>maritieme geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Annet</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Hollandia (schip)</subject>
+          <date>1700 - in of voor 1743-08-13</date>
+          <type>muziekinstrument</type>
+          <type>slaginstrument</type>
+          <type>klok (idiofoon)</type>
+          <type>scheepsbel</type>
+          <type>fragment</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-B-73-2-5</identifier>
+        <datestamp>2022-01-24T09:09:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69239</identifier>
+          <identifier>BI-B-73-2-5</identifier>
+          <title>Olijfbomen in het dal van Hinnom, nabij Jeruzalem</title>
+          <title>Jérusalem. Vallée de Hinnom. Champ du Sang</title>
+          <creator>Salzmann, Auguste</creator>
+          <contributor>Blanquart-Evrard, Louis-Désiré</contributor>
+          <contributor>Gide et J. Baudry</contributor>
+          <subject>Dal van Hinnom</subject>
+          <date>1854 - 1856</date>
+          <type>foto</type>
+          <type>bladzijde</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dal van Hinnom</coverage>
+          <coverage>Lille</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BI-B-73-2-9</identifier>
+        <datestamp>2022-01-24T09:09:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.69246</identifier>
+          <identifier>BI-B-73-2-9</identifier>
+          <title>Graf van de rechters, Jeruzalem</title>
+          <title>Jérusalem. Tombeau des Juges</title>
+          <creator>Salzmann, Auguste</creator>
+          <contributor>Blanquart-Evrard, Louis-Désiré</contributor>
+          <contributor>Gide et J. Baudry</contributor>
+          <subject>Jeruzalem</subject>
+          <date>1854 - 1856</date>
+          <type>foto</type>
+          <type>bladzijde</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jeruzalem</coverage>
+          <coverage>Lille</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1982-20</identifier>
+        <datestamp>2021-10-02T12:49:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.64666</identifier>
+          <identifier>RP-T-1982-20</identifier>
+          <title>Zittend mannelijk naakt</title>
+          <creator>Schuer, Theodoor van der</creator>
+          <date>1638 - 1707</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1902-A-4647</identifier>
+        <datestamp>2021-10-02T12:48:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.63941</identifier>
+          <identifier>RP-T-1902-A-4647</identifier>
+          <title>Riviergezicht met windmolen</title>
+          <creator>Wieringen, Cornelis Claesz. van</creator>
+          <subject>windmolen</subject>
+          <date>1590 - 1633</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNTg2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

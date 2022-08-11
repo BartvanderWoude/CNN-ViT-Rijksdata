@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MTY0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1879-A-3494</identifier>
+        <datestamp>2021-01-28T19:24:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95455</identifier>
+          <identifier>RP-P-1879-A-3494</identifier>
+          <title>Landschap met grote boom</title>
+          <creator>Christ, Pieter Casper</creator>
+          <date>1843</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijmegen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-1827</identifier>
+        <datestamp>2021-12-01T11:18:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95984</identifier>
+          <identifier>RP-P-1904-1827</identifier>
+          <title>Gezicht op Rome</title>
+          <title>Burgus Romae</title>
+          <title>Ruinarum varii prospectus</title>
+          <creator>anoniem</creator>
+          <contributor>Cleve, Hendrick van</contributor>
+          <contributor>Galle, Philips</contributor>
+          <subject>Rome</subject>
+          <date>1585</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1978-88</identifier>
+        <datestamp>2021-01-28T19:46:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96994</identifier>
+          <identifier>RP-P-1978-88</identifier>
+          <title>Juli: de Goede Herder</title>
+          <title>Het leven van Christus in de twaalf maanden</title>
+          <title>Emblemata Evangelica</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Sadeler</contributor>
+          <date>1585</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1912-402</identifier>
+        <datestamp>2021-01-28T19:50:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97245</identifier>
+          <identifier>RP-P-1912-402</identifier>
+          <title>Lucretia</title>
+          <title>Lucresia</title>
+          <title>Ontwerpen van bekende personen uit de Bijbel, de mythologie en de Oudheid</title>
+          <creator>Collaert, Hans (I)</creator>
+          <contributor>Lombard, Lambert</contributor>
+          <contributor>Collaert, Hans (I)</contributor>
+          <date>1530 - 1580</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Luik</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-4376</identifier>
+        <datestamp>2020-03-23T10:38:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96083</identifier>
+          <identifier>RP-P-1909-4376</identifier>
+          <title>Portret van kardinaal Ascanio Filomarino</title>
+          <title>Portretten van kardinalen</title>
+          <title>Effigies cardinalium nunc viventium</title>
+          <creator>Clouwet, Albertus</creator>
+          <contributor>Clouwet, Albertus</contributor>
+          <contributor>Rossi, Giovanni Giacomo de'</contributor>
+          <subject>Filomarino, Ascanio</subject>
+          <date>1666 - 1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1894-A-18610</identifier>
+        <datestamp>2021-01-28T19:39:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96480</identifier>
+          <identifier>RP-P-1894-A-18610</identifier>
+          <title>Studieblad met negen hoofden</title>
+          <creator>Coclers, Louis Bernard</creator>
+          <contributor>Coclers, Louis Bernard</contributor>
+          <date>1756 - 1817</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-7259-5</identifier>
+        <datestamp>2021-12-01T10:33:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.92785</identifier>
+          <identifier>RP-P-OB-7259-5</identifier>
+          <title>Penning met een embleem en de namen van keizers van het Heilig Roomse Rijk</title>
+          <creator>anoniem</creator>
+          <contributor>Chevalier, Nicolas</contributor>
+          <date>1712</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5706</identifier>
+        <datestamp>2021-01-28T19:07:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91981</identifier>
+          <identifier>RP-P-BI-5706</identifier>
+          <title>Man met hoed</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <date>1748 - 1795</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-326</identifier>
+        <datestamp>2016-10-20T20:46:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96069</identifier>
+          <identifier>RP-P-1907-326</identifier>
+          <title>Portret van Guercino</title>
+          <creator>Clouwet, Albertus</creator>
+          <contributor>Guercino</contributor>
+          <subject>Guercino</subject>
+          <date>1646 - 1679</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+          <coverage>Bologna</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-1828</identifier>
+        <datestamp>2021-12-01T11:22:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95978</identifier>
+          <identifier>RP-P-1904-1828</identifier>
+          <title>Gezicht op de ruïne van de thermen van Diocletianus</title>
+          <title>Thermae Diocletiani</title>
+          <title>Ruinarum varii prospectus</title>
+          <creator>anoniem</creator>
+          <contributor>Cleve, Hendrick van</contributor>
+          <contributor>Galle, Philips</contributor>
+          <subject>Thermen van Diocletianus</subject>
+          <date>1585</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-1766</identifier>
+        <datestamp>2021-01-28T19:47:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97040</identifier>
+          <identifier>RP-P-1904-1766</identifier>
+          <title>Landschap met ruïne van een tempel</title>
+          <title>Landschappen met ruïnes</title>
+          <title>Regionum, rurium, fundorumque, varii at ove amoeni prospectus</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Cleve, Hendrick van</contributor>
+          <contributor>Galle, Philips</contributor>
+          <date>1587</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17411</identifier>
+        <datestamp>2021-10-02T13:12:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97128</identifier>
+          <identifier>RP-P-1892-A-17411</identifier>
+          <title>Enkele vogels in een landschap</title>
+          <title>Vogels</title>
+          <title>Avivm vivae</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Collaert, Adriaen</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <date>1598 - 1618</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-11117</identifier>
+        <datestamp>2016-10-20T20:42:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91955</identifier>
+          <identifier>RP-P-1886-A-11117</identifier>
+          <title>Zelfportret van Jan Chalon</title>
+          <creator>Chalon, Jan</creator>
+          <contributor>Chalon, Jan</contributor>
+          <subject>Chalon, Jan</subject>
+          <date>1788</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-3659</identifier>
+        <datestamp>2021-01-28T19:37:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96314</identifier>
+          <identifier>RP-P-1904-3659</identifier>
+          <title>Daphne verandert in een laurierboom</title>
+          <title>Landschappen met bijbelse en mythologische scènes</title>
+          <creator>Cock, Hieronymus</creator>
+          <contributor>Cock, Matthys</contributor>
+          <contributor>Cock, Hieronymus</contributor>
+          <date>ca. 1551 - voor 1558</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-750</identifier>
+        <datestamp>2016-10-20T20:46:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96535</identifier>
+          <identifier>RP-P-1878-A-750</identifier>
+          <title>Schoenmaker aan het werk</title>
+          <title>La mariage precipite</title>
+          <creator>Cocq, H. de</creator>
+          <subject>Vrede van Utrecht (1713)</subject>
+          <date>1713</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6039G</identifier>
+        <datestamp>2021-01-28T19:41:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96685</identifier>
+          <identifier>RP-P-BI-6039G</identifier>
+          <title>Gebeurtenissen uit het leven van Jakob</title>
+          <title>Scènes uit Genesis</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Hoeswinckel, Eduwart van</contributor>
+          <date>1579 - 1583</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1944-1056</identifier>
+        <datestamp>2021-01-28T19:46:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96980</identifier>
+          <identifier>RP-P-1944-1056</identifier>
+          <title>Konijnenjacht</title>
+          <title>Landschappen met Bijbelse, mythologische scènes en jachttaferelen</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Hoeswinckel, Eduwart van</contributor>
+          <date>1582 - 1586</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5660</identifier>
+        <datestamp>2021-01-28T18:55:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91361</identifier>
+          <identifier>RP-P-BI-5660</identifier>
+          <title>Filippus</title>
+          <title>Christus en de apostelen</title>
+          <creator>Caukercken, Cornelis van</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <contributor>Galle, Cornelis (II)</contributor>
+          <date>ca. 1640 - 1680</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5673</identifier>
+        <datestamp>2019-05-29T15:26:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.91373</identifier>
+          <identifier>RP-P-BI-5673</identifier>
+          <title>Cimon en Pero (Caritas Romana)</title>
+          <creator>Caukercken, Cornelis van</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <contributor>Caukercken, Cornelis van</contributor>
+          <contributor>Bosch, Karel van den</contributor>
+          <contributor>Caukercken, Cornelis van</contributor>
+          <date>ca. 1640 - ca. 1660</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17612</identifier>
+        <datestamp>2021-01-28T19:24:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.95447</identifier>
+          <identifier>RP-P-1892-A-17612</identifier>
+          <title>Landschap met denneboom en ruiter</title>
+          <title>Waterlandschappen</title>
+          <creator>Christ, Pieter Casper</creator>
+          <date>ca. 1860 - ca. 1870</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Arnhem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MTY2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

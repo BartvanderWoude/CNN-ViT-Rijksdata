@@ -1,0 +1,504 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MTA2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1893-A-18100</identifier>
+        <datestamp>2021-01-28T19:37:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96344</identifier>
+          <identifier>RP-P-1893-A-18100</identifier>
+          <title>Portret van een jonge vrouw met hoed die uit het raam kijkt</title>
+          <creator>Coclers, Louis Bernard</creator>
+          <date>1756 - 1817</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-5576</identifier>
+        <datestamp>2019-01-28T15:30:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107450</identifier>
+          <identifier>RP-P-1908-5576</identifier>
+          <title>Portret van Jean de La Fontaine</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Rigaud, Hyacinthe</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>La Fontaine, Jean de</subject>
+          <date>1669 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-4300</identifier>
+        <datestamp>2016-10-20T20:56:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107528</identifier>
+          <identifier>RP-P-1910-4300</identifier>
+          <title>Portret van Pierre Surirey de Saint Rémy</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Rigaud, Hyacinthe</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Surirey de Saint Rémy, Pierre</subject>
+          <date>1697</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7547</identifier>
+        <datestamp>2019-05-29T15:33:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107474</identifier>
+          <identifier>RP-P-BI-7547</identifier>
+          <title>Lodewijk de XIV in Romeins keizerskostuum</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Watelé, Henri</contributor>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1666 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7574</identifier>
+        <datestamp>2019-05-29T15:33:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107505</identifier>
+          <identifier>RP-P-BI-7574</identifier>
+          <title>Portret van Charles Perrault</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Tortebat, Jean</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Perrault, Charles</subject>
+          <date>1694</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6020</identifier>
+        <datestamp>2021-01-28T19:49:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97133</identifier>
+          <identifier>RP-P-BI-6020</identifier>
+          <title>Drie vogels in een landschap</title>
+          <title>Vogels</title>
+          <title>Avivm vivae</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Collaert, Adriaen</contributor>
+          <contributor>Collaert, Adriaen</contributor>
+          <date>1598 - 1602</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1963-292</identifier>
+        <datestamp>2021-01-28T19:43:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96822</identifier>
+          <identifier>RP-P-1963-292</identifier>
+          <title>Wonderen van Ignatius</title>
+          <title>Vita beati patris Ignatii Loyolae</title>
+          <title>Scènes uit het leven van Ignatius van Loyola</title>
+          <creator>Collaert, Jan (II)</creator>
+          <contributor>Mesa, Juan de</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <date>1610</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Madrid</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7507</identifier>
+        <datestamp>2019-05-29T15:32:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107427</identifier>
+          <identifier>RP-P-BI-7507</identifier>
+          <title>Portret van Ferdinand von Fürstenberg</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Le Brun, Charles</contributor>
+          <contributor>Verdier, François</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Fürstenberg, Ferdinand van</subject>
+          <date>1683</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7410X</identifier>
+        <datestamp>2019-05-29T15:33:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107551</identifier>
+          <identifier>RP-P-BI-7410X</identifier>
+          <title>Portret van Louis de La Vergne-Montenard de Tressan</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Desmarest, Martin</contributor>
+          <contributor>Lodewijk XIV (koning van Frankrijk)</contributor>
+          <subject>Vergne-Montenard de Tressan, Louis de la</subject>
+          <date>1666 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>onbekend</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1981-64</identifier>
+        <datestamp>2021-01-28T19:45:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.96916</identifier>
+          <identifier>RP-P-1981-64</identifier>
+          <title>Babytijd onder invloed van de maan</title>
+          <title>Septem planetae, septem hominis</title>
+          <title>De zeven planeten en de zeven leeftijden</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Vos, Maerten de</contributor>
+          <contributor>Jode, Gerard de</contributor>
+          <subject>'Natura' (allegorisch figuur of allegorische scÃ¨ne; of als Diana van Ephesos, met veel borsten); 'Natura' (Ripa)</subject>
+          <date>1581</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-3545</identifier>
+        <datestamp>2021-01-28T19:50:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.97250</identifier>
+          <identifier>RP-P-1904-3545</identifier>
+          <title>Saul pleegt zelfmoord</title>
+          <title>David en Saul</title>
+          <creator>Collaert, Hans (I)</creator>
+          <contributor>Francken, Ambrosius (I)</contributor>
+          <contributor>Jode, Gerard de</contributor>
+          <date>1585</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.179</identifier>
+        <datestamp>2019-05-29T15:34:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107614</identifier>
+          <identifier>RP-P-OB-50.179</identifier>
+          <title>Vliegende engel</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Champaigne, Jean-Baptiste de</contributor>
+          <date>1666 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-6267</identifier>
+        <datestamp>2016-10-20T20:57:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108672</identifier>
+          <identifier>RP-P-1882-A-6267</identifier>
+          <title>Heilige Drieëenheid</title>
+          <creator>Eynhoudts, Remoldus</creator>
+          <contributor>Schut, Cornelis (I)</contributor>
+          <subject>de Heilige Drie-eenheid, 'Trinitas coelestis'; Vader, Zoon en Heilige Geest ~ Christelijke religie</subject>
+          <date>1626 - 1680</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7226</identifier>
+        <datestamp>2019-05-29T15:31:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106620</identifier>
+          <identifier>RP-P-BI-7226</identifier>
+          <title>Vijf putti aan het bellenblazen</title>
+          <creator>Dubourg, Louis Fabritius</creator>
+          <contributor>Dubourg, Louis Fabritius</contributor>
+          <date>1713 - 1775</date>
+          <date>1741</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1978-25</identifier>
+        <datestamp>2016-10-20T20:56:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.108040</identifier>
+          <identifier>RP-P-1978-25</identifier>
+          <title>Gezicht op het Buitenhof</title>
+          <title>het Hoff</title>
+          <creator>Elandts, Cornelis</creator>
+          <subject>Buitenhof</subject>
+          <subject>Hofvijver</subject>
+          <date>1663 - 1670</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17442</identifier>
+        <datestamp>2016-10-20T20:54:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106116</identifier>
+          <identifier>RP-P-1892-A-17442</identifier>
+          <title>H. Bartolomeüs</title>
+          <title>Christus, de apostelen en de H. Paulus</title>
+          <creator>Dolendo, Zacharias</creator>
+          <contributor>Gheyn, Jacob de (II)</contributor>
+          <contributor>Gheyn, Jacob de (II)</contributor>
+          <date>ca. 1596</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7101</identifier>
+        <datestamp>2019-05-29T15:31:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106128</identifier>
+          <identifier>RP-P-BI-7101</identifier>
+          <title>H. Martinus deelt zijn mantel met de bedelaar</title>
+          <creator>Dolendo, Zacharias</creator>
+          <contributor>Spranger, Bartholomeus</contributor>
+          <contributor>Gheyn, Jacob de (II)</contributor>
+          <date>ca. 1593</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1959</identifier>
+        <datestamp>2019-05-29T15:31:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.106518</identifier>
+          <identifier>RP-P-BI-1959</identifier>
+          <title>Rommelpotspeler</title>
+          <creator>Dubois, J.</creator>
+          <contributor>Matham, Jacob</contributor>
+          <date>1645 - 1655</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1941-277</identifier>
+        <datestamp>2016-10-20T20:56:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107409</identifier>
+          <identifier>RP-P-1941-277</identifier>
+          <title>Portret van Remy du Laury</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Oost, Jacob van (I)</contributor>
+          <subject>Du Laury, Remi</subject>
+          <date>1676 - 1707</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>onbekend</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-7437X</identifier>
+        <datestamp>2019-05-29T15:34:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.107568</identifier>
+          <identifier>RP-P-BI-7437X</identifier>
+          <title>Penning met buste van Lodewijk XIV</title>
+          <creator>Edelinck, Gerard</creator>
+          <contributor>Coypel, Antoine</contributor>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1702</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1MTA4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

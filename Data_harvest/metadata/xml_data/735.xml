@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNDY4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1886-A-699</identifier>
+        <datestamp>2020-04-08T14:30:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60975</identifier>
+          <identifier>RP-T-1886-A-699</identifier>
+          <title>Gezicht te Rome</title>
+          <creator>Ulft, Jacob van der</creator>
+          <contributor>Breenbergh, Bartholomeus</contributor>
+          <subject>Rome</subject>
+          <subject>Tempel van Hercules Invictus</subject>
+          <date>1637 - 1689</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1888-A-12868</identifier>
+        <datestamp>2016-10-20T19:51:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44290</identifier>
+          <identifier>RP-P-1888-A-12868</identifier>
+          <title>Jongen ontvangt geld van een vrouw</title>
+          <creator>Hoolaart, Jacob</creator>
+          <date>1723 - 1789</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-420</identifier>
+        <datestamp>2016-10-20T19:51:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44588</identifier>
+          <identifier>RP-P-1908-420</identifier>
+          <title>Portret van Gerbrand van Leeuwen</title>
+          <creator>Plas, Pieter van der (II)</creator>
+          <contributor>Plas, David van der</contributor>
+          <subject>Leeuwen, Gerbrand van</subject>
+          <date>1687 - 1708</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14230</identifier>
+        <datestamp>2019-06-21T17:05:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44631</identifier>
+          <identifier>RP-P-1889-A-14230</identifier>
+          <title>Portret van een staande vrouw</title>
+          <creator>Myn, Andreas van der</creator>
+          <date>1724 - 1800</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Engeland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-9305</identifier>
+        <datestamp>2016-10-20T19:51:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45092</identifier>
+          <identifier>RP-P-OB-9305</identifier>
+          <title>Portret van Jacobus Streso</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Boonen, Arnold</contributor>
+          <contributor>Schelte, Dirk</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Streso, Jacobus</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1927-114</identifier>
+        <datestamp>2016-10-20T19:51:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44439</identifier>
+          <identifier>RP-P-1927-114</identifier>
+          <title>Portret van keizer Tiberius</title>
+          <title>Imp. III</title>
+          <title>Romeinse keizers</title>
+          <creator>Leonard, Johann Friedrich</creator>
+          <contributor>Seghers, Gerard</contributor>
+          <subject>Tiberius (keizer van het Romeinse Rijk)</subject>
+          <date>1643 - 1680</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-477</identifier>
+        <datestamp>2016-10-20T19:51:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44694</identifier>
+          <identifier>RP-P-1908-477</identifier>
+          <title>Mars en Venus</title>
+          <creator>Ryck, Willem de</creator>
+          <date>1683</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-9274</identifier>
+        <datestamp>2020-03-20T13:35:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45038</identifier>
+          <identifier>RP-P-OB-9274</identifier>
+          <title>Portret van Maurits van Reverhorst</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Jens, Johannes</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Reverhorst, Maurits van</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1981-70</identifier>
+        <datestamp>2021-10-02T12:45:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61018</identifier>
+          <identifier>BK-1981-70</identifier>
+          <title>Beeld van de ontslagen dienstbode</title>
+          <creator>Porzellanmanufaktur Frankenthal</creator>
+          <date>ca. 1765 - ca. 1770</date>
+          <type>figuur</type>
+          <type>beeld</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankenthal</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1974-60</identifier>
+        <datestamp>2020-06-05T11:41:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61024</identifier>
+          <identifier>RP-T-1974-60</identifier>
+          <title>Ruiter naast een paard en een hond</title>
+          <creator>Velde, Adriaen van de</creator>
+          <date>1646 - 1672</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-2041</identifier>
+        <datestamp>2016-10-20T19:51:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44892</identifier>
+          <identifier>RP-P-1905-2041</identifier>
+          <title>Portret van de schrijver en predikant Dominicus Goltzius</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Bekker, Balthasar</contributor>
+          <contributor>Boekholt, Abraham</contributor>
+          <subject>Goltzius, Dominicus</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1927-154</identifier>
+        <datestamp>2016-10-20T19:51:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44740</identifier>
+          <identifier>RP-P-1927-154</identifier>
+          <title>Winter</title>
+          <title>Hyems</title>
+          <title>De vier seizoenen</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-3494</identifier>
+        <datestamp>2016-10-20T19:51:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44906</identifier>
+          <identifier>RP-P-1906-3494</identifier>
+          <title>Portret van Anna Augusta gravin van Hohenlohe</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Hohenlohe, Anna Augusta gravin van</subject>
+          <date>1670 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1935-249</identifier>
+        <datestamp>2019-05-23T13:30:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44371</identifier>
+          <identifier>RP-P-1935-249</identifier>
+          <title>Anatomische studie van menselijke huid en nagel</title>
+          <creator>Admiral, Jan l'</creator>
+          <contributor>Haak, Dirk (II)</contributor>
+          <contributor>Graal, Jacob</contributor>
+          <contributor>Leth, Hendrik de</contributor>
+          <date>1737</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Leiden</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.254</identifier>
+        <datestamp>2019-05-29T15:10:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44539</identifier>
+          <identifier>RP-P-OB-17.254</identifier>
+          <title>Zelfportret</title>
+          <creator>Moor, Carel de (II)</creator>
+          <subject>Moor, Carel de (II)</subject>
+          <date>1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-1881</identifier>
+        <datestamp>2016-10-20T19:51:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.44883</identifier>
+          <identifier>RP-P-1908-1881</identifier>
+          <title>Portret van de predikant Johannes Fritsch</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Spener, Philipp Jacob</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Fritsch, Johannes</subject>
+          <date>1699 - 1713</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-1370</identifier>
+        <datestamp>2020-03-25T13:47:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45049</identifier>
+          <identifier>RP-P-1907-1370</identifier>
+          <title>Portret van Godfried Schalcken</title>
+          <creator>Schenk, Pieter (I)</creator>
+          <contributor>Schalcken, Godfried</contributor>
+          <contributor>Schenk, Pieter (I)</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <subject>Schalcken, Godfried</subject>
+          <date>1694 - 1718</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1902-A-4570</identifier>
+        <datestamp>2019-01-03T16:42:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59945</identifier>
+          <identifier>RP-T-1902-A-4570</identifier>
+          <title>Zittende jongen met schalmei</title>
+          <creator>Saftleven, Cornelis</creator>
+          <date>1665</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1658</identifier>
+        <datestamp>2021-10-02T12:44:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60549</identifier>
+          <identifier>BK-NM-1658</identifier>
+          <title>Drieënveertig vloertegels</title>
+          <creator>anoniem</creator>
+          <subject>Kessel</subject>
+          <date>ca. 1500 - voor 1800</date>
+          <type>bouwfragment</type>
+          <type>vloertegel</type>
+          <format>aardewerk</format>
+          <format>loodglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1888-A-1519</identifier>
+        <datestamp>2021-01-28T13:36:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.60599</identifier>
+          <identifier>RP-T-1888-A-1519</identifier>
+          <title>Italiaanse haven</title>
+          <creator>Storck, Abraham</creator>
+          <date>1645 - 1710</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNDcwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

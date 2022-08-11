@@ -1,0 +1,489 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NTQ4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3900</identifier>
+        <datestamp>2021-10-01T23:02:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10040</identifier>
+          <identifier>SK-A-3900</identifier>
+          <title>Putti met spiegels</title>
+          <creator>Wit, Jacob de</creator>
+          <subject>bovendeurstuk</subject>
+          <date>1725 - 1744</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4072</identifier>
+        <datestamp>2021-10-01T23:03:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10089</identifier>
+          <identifier>SK-A-4072</identifier>
+          <title>Rudolf van Olden (1746-1813). Raad- en rekenmeester van prins Willem V</title>
+          <creator>Temminck, Leonardus</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Olden, Rudolf van</subject>
+          <subject>Willem V (prins van Oranje-Nassau)</subject>
+          <date>1780 - 1800</date>
+          <type>miniatuur (schildering)</type>
+          <format>ivoor</format>
+          <format>haar (materiaal)</format>
+          <format>metaal</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3147-A</identifier>
+        <datestamp>2022-06-01T20:37:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9131</identifier>
+          <identifier>SK-A-3147-A</identifier>
+          <title>De Sint-Elisabethsvloed</title>
+          <creator>Meester van de Heilige Elisabeth-Panelen</creator>
+          <contributor>anoniem</contributor>
+          <subject>Stad en land</subject>
+          <subject>watersnoodramp</subject>
+          <subject>Sint Elisabethsvloed</subject>
+          <subject>Dordrecht</subject>
+          <description>In de nacht van 19 november 1421 – de naamdag van de heilige Elisabeth – overstroomden grote delen van Holland. Vooral de omgeving van Dordrecht werd door deze ramp zwaar getroffen: 23 dorpen gingen ten onder en 2000 mensen vonden de dood. De nabestaanden lieten later een altaarstuk maken. Op de buitenpanelen werd de ramp afgebeeld, met rechts de dijkdoorbraak en links het veilige Dordrecht.</description>
+          <date>ca. 1490 - ca. 1495</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3690</identifier>
+        <datestamp>2021-10-01T22:58:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9797</identifier>
+          <identifier>SK-A-3690</identifier>
+          <title>Zonsondergang</title>
+          <creator>Maris, Willem</creator>
+          <date>1844 - 1910</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>houtskool</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3696</identifier>
+        <datestamp>2021-10-01T22:58:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9803</identifier>
+          <identifier>SK-A-3696</identifier>
+          <title>Larens binnenhuis</title>
+          <creator>Mauve, Anton</creator>
+          <subject>Laren</subject>
+          <date>1848 - 1888</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2431</identifier>
+        <datestamp>2021-10-01T22:45:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9022</identifier>
+          <identifier>SK-A-2431</identifier>
+          <title>Huisje aan de zandweg</title>
+          <creator>Mauve, Anton</creator>
+          <subject>landschap</subject>
+          <date>1870 - 1888</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3438</identifier>
+        <datestamp>2021-10-01T22:55:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9671</identifier>
+          <identifier>SK-A-3438</identifier>
+          <title>Allegorische vrouwenfiguur met een schild of spiegel (wellicht Voorzichtigheid)</title>
+          <creator>Tiepolo, Giovanni Battista</creator>
+          <description>De vrouwenfiguren op dit schilderij en op zijn tegenhanger zijn in weinig kleuren geschilderd. Daardoor lijken het reliëfs van marmer of stuc op een gouden ondergrond. Tiepolo vond het niet nodig de figuren duidelijk herkenbaar te maken, omdat de decoratieve schilderijen alleen op grote hoogte gezien werden. Wellicht stelt deze vrouw de Voorzichtigheid (prudentia) voor; de andere Kracht (fortitudo) met een knots in de hand.</description>
+          <date>ca. 1740 - 1750</date>
+          <type>schilderij</type>
+          <type>grisaille</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1554</identifier>
+        <datestamp>2022-05-03T13:41:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9080</identifier>
+          <identifier>SK-A-1554</identifier>
+          <title>Maria Hermina Heemskerk (1827-1908). Echtgenote van Menno David Graaf van Limburg Stirum</title>
+          <creator>Mesdag, Hendrik Willem</creator>
+          <subject>portret</subject>
+          <subject>Heemskerk, Maria Hermina</subject>
+          <subject>Limburg Stirum, Menno David graaf van</subject>
+          <date>1887</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-42</identifier>
+        <datestamp>2021-10-01T22:48:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9184</identifier>
+          <identifier>RP-T-1953-42</identifier>
+          <title>Twee studies van bedelaars</title>
+          <creator>Callot, Jacques</creator>
+          <date>1602 - 1635</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3763</identifier>
+        <datestamp>2021-10-01T22:59:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9854</identifier>
+          <identifier>SK-A-3763</identifier>
+          <title>Cornelis van der Lijn (1608?-79). Gouverneur-generaal (1645-50)</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <subject>portret</subject>
+          <subject>politieke geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Lijn, Cornelis van der</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>1645 - 1675</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Batavia</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3774</identifier>
+        <datestamp>2021-10-01T23:00:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9953</identifier>
+          <identifier>SK-A-3774</identifier>
+          <title>Mattheus de Haan (1725-1729)</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <subject>portret</subject>
+          <subject>Haan, Mattheus de</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <description>De hoogste VOC-functionaris in Azië was de gouverneur-generaal. Hij zetelde in het door Nederlanders gebouwde fort, het Kasteel van Batavia (nu Jakarta, Indonesië). De vergaderzaal in het Kasteel van Batavia was het centrum van de Nederlandse macht in Azië. Langs de wanden hingen portretten van alle gouverneurs-generaal. De meeste van de hier getoonde 18de- eeuwse exem¬plaren zijn in Azië geschilderd.</description>
+          <date>1726-10</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Batavia</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3875</identifier>
+        <datestamp>2022-06-01T16:31:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9107</identifier>
+          <identifier>SK-A-3875</identifier>
+          <title>Portret van Johannes Wtenbogaert (1557-1644)</title>
+          <title>Portret van Johannes Wtenbogaert (1557-1644). Remonstrants predikant te Den Haag</title>
+          <creator>Mierevelt, Michiel Jansz. van</creator>
+          <subject>portret</subject>
+          <subject>religieuze geschiedenis</subject>
+          <subject>religie</subject>
+          <subject>protestantisme</subject>
+          <subject>remonstranten</subject>
+          <subject>Twaalfjarig Bestand</subject>
+          <subject>Den Haag</subject>
+          <subject>Arminius, Jacobus</subject>
+          <subject>Wtenbogaert, Johannes</subject>
+          <date>1632</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3719</identifier>
+        <datestamp>2022-03-17T13:34:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9826</identifier>
+          <identifier>SK-A-3719</identifier>
+          <title>Gezicht op een kade</title>
+          <creator>Weissenbruch, Johan Hendrik</creator>
+          <date>1834 - 1903</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1971-271-A-1</identifier>
+        <datestamp>2021-10-01T22:59:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9886</identifier>
+          <identifier>BK-1971-271-A-1</identifier>
+          <title>Kous van effen crèmekleurige zijde, met een verticale streep uitlopend in een palmvorm op de klink, aan de boord twee knopen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1910</date>
+          <type>kleding</type>
+          <type>kous</type>
+          <format>zijde</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3804</identifier>
+        <datestamp>2021-10-01T23:01:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9977</identifier>
+          <identifier>SK-A-3804</identifier>
+          <title>Charles Ferdinand Pahud (1803-73). Gouverneur-generaal (1855-61)</title>
+          <creator>Spoel, Jacob</creator>
+          <subject>portret</subject>
+          <subject>Mortanges, Charles Ferdinand Pahud de</subject>
+          <date>1863 - 1868</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3324</identifier>
+        <datestamp>2022-06-01T13:14:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9045</identifier>
+          <identifier>SK-A-3324</identifier>
+          <title>De aanbidding der koningen</title>
+          <creator>Cornelisz. van Oostsanen, Jacob</creator>
+          <contributor>Meester van Alkmaar</contributor>
+          <subject>historiestuk</subject>
+          <date>ca. 1510 - ca. 1515</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3544</identifier>
+        <datestamp>2021-10-01T22:56:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9701</identifier>
+          <identifier>SK-A-3544</identifier>
+          <title>Amsterdams stadsgezicht</title>
+          <creator>Breitner, George Hendrik</creator>
+          <subject>Dam</subject>
+          <subject>Amsterdam</subject>
+          <date>1880 - 1923</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2939</identifier>
+        <datestamp>2022-03-02T15:10:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9475</identifier>
+          <identifier>SK-A-2939</identifier>
+          <title>Twee kinderen in een boereninterieur</title>
+          <creator>Neuhuys, Albert (1844-1914)</creator>
+          <date>1879</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1978-28</identifier>
+        <datestamp>2021-10-01T22:54:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9555</identifier>
+          <identifier>RP-T-1978-28</identifier>
+          <title>Twee Snoeken in een aquarium, van opzij en van voren gezien</title>
+          <creator>Dijsselhof, Gerrit Willem</creator>
+          <date>ca. 1876 - ca. 1924</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4280</identifier>
+        <datestamp>2022-06-01T16:21:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10184</identifier>
+          <identifier>SK-A-4280</identifier>
+          <title>Fazanten</title>
+          <creator>Schouman, Aert</creator>
+          <subject>bovendeurstuk</subject>
+          <date>1730 - 1760</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NTUwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

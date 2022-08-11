@@ -1,0 +1,493 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjE0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-4522</identifier>
+        <datestamp>2021-01-28T15:56:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78433</identifier>
+          <identifier>RP-P-OB-4522</identifier>
+          <title>Kaart van Delfland (blad midden onder)</title>
+          <title>Ware afbeeldinghe van Delflandt</title>
+          <creator>Berckenrode, Floris Balthasarsz. van</creator>
+          <contributor>Berckenrode, Balthasar Florisz. van</contributor>
+          <subject>Delfland</subject>
+          <date>1612</date>
+          <type>prent</type>
+          <type>kaart</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-15889</identifier>
+        <datestamp>2021-01-28T15:57:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78602</identifier>
+          <identifier>RP-P-1890-A-15889</identifier>
+          <title>Jonge vrouw met vruchten en korenaren</title>
+          <title>L'Eté / De Somer</title>
+          <title>De vier seizoenen</title>
+          <creator>Berge, Pieter van den</creator>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>1695 - 1697</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5487</identifier>
+        <datestamp>2021-01-28T16:10:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80563</identifier>
+          <identifier>RP-P-BI-5487</identifier>
+          <title>Jongenskop met hoed</title>
+          <creator>Bijlaert, Joannis Jacobus</creator>
+          <date>1768</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-3800</identifier>
+        <datestamp>2021-01-28T16:11:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80696</identifier>
+          <identifier>RP-P-1905-3800</identifier>
+          <title>Portret van Roelof Jacob Schierbeek</title>
+          <creator>Binger, Charles</creator>
+          <contributor>Berghaus, Johann Peter</contributor>
+          <contributor>Binger, Charles</contributor>
+          <contributor>Buijs, Cornelis Bernardus</contributor>
+          <subject>Schierbeek, Roelof Jacob</subject>
+          <date>1840 - 1916</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Nederland</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1003</identifier>
+        <datestamp>2021-07-30T11:58:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78402</identifier>
+          <identifier>RP-P-BI-1003</identifier>
+          <title>Drie schapen en een steenblok met bas-reliëf</title>
+          <title>Schapen</title>
+          <title>Animalia ad vivum delineata et aqua forti aeri impressa Studio et Arte Nicolai Berchemi</title>
+          <creator>anoniem</creator>
+          <contributor>Berchem, Nicolaes Pietersz.</contributor>
+          <date>1648 - 1733</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1900-A-21952</identifier>
+        <datestamp>2021-01-28T15:58:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78616</identifier>
+          <identifier>RP-P-1900-A-21952</identifier>
+          <title>Boer uit Vlieland</title>
+          <title>Paysan de Vlielant</title>
+          <title>Nederlandse klederdrachten</title>
+          <creator>Berge, Pieter van den</creator>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Persoy, Pieter</contributor>
+          <contributor>Le Moine de l’Espine, Jaques</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>1669 - in of voor 1689</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1101</identifier>
+        <datestamp>2021-01-28T16:01:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.79067</identifier>
+          <identifier>RP-P-BI-1101</identifier>
+          <title>Heuvellandschap met beek en brug waarop man met vee loopt</title>
+          <creator>Berghe, Willem Jan van den</creator>
+          <date>1833 - 1901</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Middelburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-3994</identifier>
+        <datestamp>2021-01-28T16:12:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80814</identifier>
+          <identifier>RP-P-1907-3994</identifier>
+          <title>Kariatide op haar rug gezien</title>
+          <title>Paradigmata graphices variorum artificum</title>
+          <creator>Bisschop, Jan de</creator>
+          <contributor>Daniele da Volterra</contributor>
+          <date>1668 - 1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-4933</identifier>
+        <datestamp>2021-01-28T16:13:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80903</identifier>
+          <identifier>RP-P-1882-A-4933</identifier>
+          <title>Landschap met liggende koe met horens</title>
+          <title>Koeien</title>
+          <creator>Bisschop, Cornelis (1762-1829)</creator>
+          <date>1777 - 1829</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1925-41</identifier>
+        <datestamp>2021-01-28T15:54:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78217</identifier>
+          <identifier>RP-P-1925-41</identifier>
+          <title>Gasthuiskerk te Leiden</title>
+          <title>De Gasthuis Kerk te Leiden</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Bulthuis, Jan</contributor>
+          <subject>Leiden</subject>
+          <date>1786 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.575</identifier>
+        <datestamp>2021-01-28T15:54:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78223</identifier>
+          <identifier>RP-P-OB-26.575</identifier>
+          <title>Titelpagina voor: Vaderlandsche Kermisvreugd vertoond in acht kunstplaaten geteekend en gegraveerd door K.F. Bendorp, met toepasselijke Vaersjes door R. Arends, H. de Haas en Compagnie, Dordrecht</title>
+          <creator>Bendorp, Carel Frederik (I)</creator>
+          <contributor>Haas, Hendrik de</contributor>
+          <date>1782</date>
+          <type>prent</type>
+          <type>titelprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1935-465A</identifier>
+        <datestamp>2021-01-28T15:58:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78659</identifier>
+          <identifier>RP-P-1935-465A</identifier>
+          <title>Titelpagina voor Ter bruylofte van den heere Johannes van Coevenhoven en jongkvrouwe Maria Hoos, Amsterdam, 1723</title>
+          <creator>Berge, Pieter van den</creator>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Berge, Pieter van den</contributor>
+          <subject>(het verhaal van) Hercules (Herakles)</subject>
+          <date>1723</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1093</identifier>
+        <datestamp>2021-01-28T16:01:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78867</identifier>
+          <identifier>RP-P-BI-1093</identifier>
+          <title>Portret van monnik F.J. van der Linden met doodshoofd</title>
+          <title>F.J. van der Linden Eqúes jerosolymitanús, Alexianorúm Provincialis</title>
+          <creator>Bergh, Nicolas van den</creator>
+          <contributor>Rubens, Peter Paul</contributor>
+          <subject>Linden, F.J. van der</subject>
+          <date>1735 - 1774</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1934-84</identifier>
+        <datestamp>2021-01-28T16:03:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.79195</identifier>
+          <identifier>RP-P-1934-84</identifier>
+          <title>Christus in de hof van Gethsemane</title>
+          <title>Christus van eenen Engel gesterkt</title>
+          <creator>Bernards, Balthasar</creator>
+          <contributor>Picart, Bernard</contributor>
+          <date>ca. 1711 - ca. 1720</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1898-A-20574</identifier>
+        <datestamp>2021-01-28T16:11:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80763</identifier>
+          <identifier>RP-P-1898-A-20574</identifier>
+          <title>Portret van Nicolaas Tulp</title>
+          <creator>Bisschop, Jan de</creator>
+          <subject>Tulp, Nicolaes</subject>
+          <date>1638 - 1671</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-1070</identifier>
+        <datestamp>2021-01-28T15:56:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78489</identifier>
+          <identifier>RP-P-BI-1070</identifier>
+          <title>Weidelandschap met koeien bij water</title>
+          <creator>Berg, Simon van den</creator>
+          <date>1822 - 1891</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.595</identifier>
+        <datestamp>2021-01-28T15:56:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78495</identifier>
+          <identifier>RP-P-OB-26.595</identifier>
+          <title>Landschap met vrouw die koe melkt en jongen met schapen</title>
+          <creator>Berg, Simon van den</creator>
+          <date>1822 - 1891</date>
+          <type>prent</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1939-265</identifier>
+        <datestamp>2021-01-28T15:57:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78559</identifier>
+          <identifier>RP-P-1939-265</identifier>
+          <title>Minerva vliegend</title>
+          <creator>Berge, Pieter van den</creator>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Staten van Holland en West-Friesland</contributor>
+          <date>1694 - 1737</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-4729</identifier>
+        <datestamp>2021-01-28T15:57:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.78565</identifier>
+          <identifier>RP-P-1908-4729</identifier>
+          <title>Theegezelschap</title>
+          <title>La grande occupation! Le veritable passetems!</title>
+          <creator>Berge, Pieter van den</creator>
+          <contributor>Berge, Pieter van den</contributor>
+          <contributor>Berge, Pieter van den</contributor>
+          <date>1694 - 1737</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-26.622</identifier>
+        <datestamp>2021-10-07T11:11:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.80374</identifier>
+          <identifier>RP-P-OB-26.622</identifier>
+          <title>Edwin Bligh leest voor uit de Bijbel aan tot slaaf gemaakte Afrikaanse Amerikanen in een bos in Mississippi</title>
+          <title>Blanke man houdt toespraak voor zwarte bewoners van vreemd land</title>
+          <creator>Best, Johannes Alexander Rudolf</creator>
+          <subject>personen van Afrikaanse oorsprong</subject>
+          <subject>slavernij</subject>
+          <date>ca. 1836 - ca. 1855</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <format>chine collé</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjE2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,452 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNTM0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11618</identifier>
+        <datestamp>2022-06-01T08:35:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24346</identifier>
+          <identifier>BK-NM-11618</identifier>
+          <title>Maria met kind</title>
+          <creator>anoniem</creator>
+          <date>ca. 1410 - ca. 1420</date>
+          <type>beeldhouwwerk</type>
+          <format>zandsteen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Westfalen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-99-B-1</identifier>
+        <datestamp>2019-08-01T09:36:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23822</identifier>
+          <identifier>BK-BR-J-99-B-1</identifier>
+          <title>Strook gehaakte kant met roosje en klaverblad</title>
+          <creator>anoniem</creator>
+          <date>ca. 1890 - ca. 1909</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ierland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-15918-B</identifier>
+        <datestamp>2022-03-21T14:38:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24107</identifier>
+          <identifier>AK-RBK-15918-B</identifier>
+          <title>Bord met het wapen van de provincie Zeeland</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1959-75</identifier>
+        <datestamp>2022-06-01T08:35:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24394</identifier>
+          <identifier>BK-1959-75</identifier>
+          <title>Pietà</title>
+          <creator>anoniem</creator>
+          <date>ca. 1500</date>
+          <type>beeldhouwwerk</type>
+          <format>notenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijk Brabant</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16426</identifier>
+        <datestamp>2022-03-31T11:22:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24493</identifier>
+          <identifier>BK-16426</identifier>
+          <title>Stier in aanval</title>
+          <creator>anoniem</creator>
+          <date>ca. 1850 - ca. 1900</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-15806-F</identifier>
+        <datestamp>2022-03-17T11:13:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23944</identifier>
+          <identifier>AK-RBK-15806-F</identifier>
+          <title>Schotel met vakken in de vorm van een bloem gevuld met bloemtakken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-16290-E</identifier>
+        <datestamp>2022-04-13T11:24:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24054</identifier>
+          <identifier>AK-RBK-16290-E</identifier>
+          <title>Bekervaas met vrouwn en bloempotten in vakken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>vaas</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-AM-40-A</identifier>
+        <datestamp>2022-03-14T14:23:54Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24546</identifier>
+          <identifier>BK-AM-40-A</identifier>
+          <title>Inschrijving van de bedeelden, gevelsteen van het Nieuwezijds Huiszittenhuis</title>
+          <creator>Keyser, Willem de</creator>
+          <creator>Jansz., Pieter</creator>
+          <date>1649</date>
+          <type>gevelsteen</type>
+          <format>zandsteen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-437-C-1</identifier>
+        <datestamp>2019-08-01T09:36:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23791</identifier>
+          <identifier>BK-BR-J-437-C-1</identifier>
+          <title>Manchet van gehaakte kant met bloemenmand en strik</title>
+          <creator>anoniem</creator>
+          <date>ca. 1890 - ca. 1909</date>
+          <type>manchet</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Ierland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-15895-D</identifier>
+        <datestamp>2021-10-02T01:40:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23883</identifier>
+          <identifier>AK-RBK-15895-D</identifier>
+          <title>Achthoekige kop en schotel met café-au-lait, dieren en bloemtakken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>kop-en-schotel</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8741</identifier>
+        <datestamp>2021-10-02T01:43:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24062</identifier>
+          <identifier>BK-NM-8741</identifier>
+          <title>Knip</title>
+          <creator>anoniem</creator>
+          <type>knip</type>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1228</identifier>
+        <datestamp>2021-10-02T01:49:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24366</identifier>
+          <identifier>BK-NM-1228</identifier>
+          <title>Hof van olijven</title>
+          <creator>anoniem</creator>
+          <date>ca. 1515 - ca. 1520</date>
+          <type>beeldhouwwerk</type>
+          <format>eikenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15608</identifier>
+        <datestamp>2021-10-02T01:50:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24437</identifier>
+          <identifier>BK-15608</identifier>
+          <title>Geseling van Christus</title>
+          <creator>anoniem</creator>
+          <date>ca. 1530 - ca. 1540</date>
+          <type>beeldhouwwerk</type>
+          <format>eikenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RBK-16316-B</identifier>
+        <datestamp>2022-03-15T15:41:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24630</identifier>
+          <identifier>AK-RBK-16316-B</identifier>
+          <title>Puntfles vaas met café-au-lait en decoratieve banden</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>puntfles</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9044</identifier>
+        <datestamp>2021-10-02T01:43:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24031</identifier>
+          <identifier>BK-NM-9044</identifier>
+          <title>Sleutel</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1600</date>
+          <type>sleutel</type>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10252-A</identifier>
+        <datestamp>2021-11-03T19:22:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24119</identifier>
+          <identifier>BK-NM-10252-A</identifier>
+          <title>Bril van Berlijns zilver, ronde glazen</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1800 - ca. 1850</date>
+          <type>bril</type>
+          <format>alpaca</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16503</identifier>
+        <datestamp>2022-04-07T08:54:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24487</identifier>
+          <identifier>BK-16503</identifier>
+          <title>Sextus Tarquinius en Lucretia</title>
+          <creator>Vries, Adriaen de</creator>
+          <creator>Vries, Adriaen de</creator>
+          <date>ca. 1600 - ca. 1700</date>
+          <type>beeldhouwwerk</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Zuid-Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-280-B</identifier>
+        <datestamp>2021-11-03T19:21:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23688</identifier>
+          <identifier>BK-1978-280-B</identifier>
+          <title>Rok van een avondjapon in smal model van zwarte crêpe, met een baan aan de rechterkant van kleurige bloemen, op sommige plekken opgefestonneerd; achter 13 stofknoopjes</title>
+          <creator>Ricci, Nina</creator>
+          <date>1938</date>
+          <type>dameskleding</type>
+          <type>bovenkleding</type>
+          <type>haute couture</type>
+          <type>rok</type>
+          <format>zijde</format>
+          <format>crêpe georgette</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-365-A</identifier>
+        <datestamp>2022-05-25T13:34:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.23759</identifier>
+          <identifier>BK-1973-365-A</identifier>
+          <title>Avondjapon met corsage en sleep</title>
+          <creator>Yteb, Maison</creator>
+          <date>1919 - 1922</date>
+          <type>kleding</type>
+          <type>dameskleding</type>
+          <type>bovenkleding</type>
+          <type>avondkleding</type>
+          <type>japon</type>
+          <type>avondjapon</type>
+          <format>zijde</format>
+          <format>satijn</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7496</identifier>
+        <datestamp>2022-02-04T16:14:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24460</identifier>
+          <identifier>BK-NM-7496</identifier>
+          <title>Maria met kind, Johannes de Doper en een engel</title>
+          <creator>Mone, Jan</creator>
+          <date>ca. 1540</date>
+          <type>beeldhouwwerk</type>
+          <format>albast (mineraal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Mechelen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwzNTM2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

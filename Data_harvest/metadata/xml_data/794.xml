@@ -1,0 +1,536 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNTg2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1981</identifier>
+        <datestamp>2021-10-20T09:52:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59271</identifier>
+          <identifier>NG-VG-1-1981</identifier>
+          <title>Vredesonderhandelingen met Frankrijk</title>
+          <creator>Wermuth, Christian</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>diplomatieke betrekkingen</subject>
+          <subject>vredesonderhandelingen</subject>
+          <subject>Haags verbond, groot</subject>
+          <subject>Den Haag</subject>
+          <subject>Nederland</subject>
+          <subject>Frankrijk</subject>
+          <date>1709</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Gotha</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2060</identifier>
+        <datestamp>2021-10-20T09:53:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59348</identifier>
+          <identifier>NG-VG-1-2060</identifier>
+          <title>Tweede eeuwfeest van de droogmaking van de Beemster</title>
+          <creator>Wijs, Willem de</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>waterbouwkunde</subject>
+          <subject>drooglegging</subject>
+          <subject>Beemster</subject>
+          <subject>Noord-Holland</subject>
+          <date>1712</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1894-A-2998</identifier>
+        <datestamp>2021-10-02T12:42:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59120</identifier>
+          <identifier>RP-T-1894-A-2998</identifier>
+          <title>Het Huis te Kessel bij 's Hertogenbosch</title>
+          <creator>Rademaker, Abraham</creator>
+          <subject>Kasteel Kessel</subject>
+          <subject>'s-Hertogenbosch</subject>
+          <date>1685 - 1735</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1957</identifier>
+        <datestamp>2021-10-20T09:52:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59248</identifier>
+          <identifier>NG-VG-1-1957</identifier>
+          <title>Mislukte invasie van Jacobus III in Schotland</title>
+          <creator>Hautsch, Georg</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Mislukte invasie van Schotland (1708)</subject>
+          <subject>Firth of Forth</subject>
+          <subject>Schotland</subject>
+          <subject>Anna Stuart (koningin van Engeland en Schotland)</subject>
+          <subject>Stuart, Jacobus Frans Eduard (prins van Wales)</subject>
+          <date>1708</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2086</identifier>
+        <datestamp>2021-10-20T09:53:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59371</identifier>
+          <identifier>NG-VG-1-2086</identifier>
+          <title>Vrede van Rastatt</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>natuurverschijnsel</subject>
+          <subject>volksgeloof</subject>
+          <subject>astrologie</subject>
+          <subject>Vrede van Rastatt</subject>
+          <subject>Rastatt</subject>
+          <subject>Baden-Württemberg</subject>
+          <subject>Savoye, Eugenius van</subject>
+          <subject>Villars, Claude Louis Hector hertog van</subject>
+          <date>1714</date>
+          <type>spotpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14563-L-2</identifier>
+        <datestamp>2021-10-02T12:43:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59868</identifier>
+          <identifier>BK-14563-L-2</identifier>
+          <title>Schaal</title>
+          <creator>Den Haag, Porseleinfabriek</creator>
+          <date>1777 - 1790</date>
+          <type>schaal</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1688</identifier>
+        <datestamp>2021-10-20T13:52:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58881</identifier>
+          <identifier>NG-VG-1-1688</identifier>
+          <title>Deinse en Dixmuiden door de Fransen ingenomen</title>
+          <creator>Mauger, Jean</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>beleg</subject>
+          <subject>Overgave van Deinze</subject>
+          <subject>Overgave van Diksmuide</subject>
+          <subject>Negenjarige Oorlog</subject>
+          <subject>Deinze</subject>
+          <subject>Sint-Martens-Leerne</subject>
+          <subject>Diksmuide</subject>
+          <subject>West-Vlaanderen</subject>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1699 - 1703</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1700</identifier>
+        <datestamp>2021-10-20T13:52:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58893</identifier>
+          <identifier>NG-VG-1-1700</identifier>
+          <title>Stillen van het aansprekersoproer te Amsterdam, penning aan de gewapende burgers vereerd</title>
+          <creator>Boskam, Jan</creator>
+          <subject>sociale geschiedenis</subject>
+          <subject>ambacht en industrie</subject>
+          <subject>sociale onrust</subject>
+          <subject>landmacht</subject>
+          <subject>gewapende burgerij</subject>
+          <subject>Aansprekersoproer</subject>
+          <subject>Amsterdam</subject>
+          <date>1696</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijmegen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1912</identifier>
+        <datestamp>2021-10-20T09:51:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59143</identifier>
+          <identifier>NG-VG-1-1912</identifier>
+          <title>Slag bij Blenheim, ter ere van Eugenius, hertog van Savoye</title>
+          <creator>Hautsch, Georg</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Slag bij Blenheim</subject>
+          <subject>Blenheim</subject>
+          <subject>Höchstädt</subject>
+          <subject>Beieren</subject>
+          <subject>Savoye, Eugenius van</subject>
+          <date>1704</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1953-X</identifier>
+        <datestamp>2021-10-20T09:52:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59230</identifier>
+          <identifier>NG-VG-1-1953-X</identifier>
+          <title>George Lodewijk van Braunschweig en Lueneburg benoemd tot opperbevelhebber over het keizerlijke leger</title>
+          <creator>Müller, Philipp Heinrich</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>opperbevelhebber van het Rijnleger</subject>
+          <subject>Spaanse Successieoorlog</subject>
+          <subject>George I (koning van Groot-Brittannië en Ierland)</subject>
+          <date>1707</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2200</identifier>
+        <datestamp>2021-10-20T09:54:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59482</identifier>
+          <identifier>NG-VG-1-2200</identifier>
+          <title>Burgerlijke cavalerie te Batavia</title>
+          <creator>anoniem</creator>
+          <subject>overzeese geschiedenis</subject>
+          <subject>militaire geschiedenis</subject>
+          <subject>burgerlijke cavalerie</subject>
+          <subject>landmacht</subject>
+          <subject>schutterij</subject>
+          <subject>Batavia</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>1727</date>
+          <type>schutterspenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jogjakarta</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1889-A-2200</identifier>
+        <datestamp>2021-10-02T12:42:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59637</identifier>
+          <identifier>RP-T-1889-A-2200</identifier>
+          <title>Gezicht op Haarlem met het Spaarne op de voorgrond</title>
+          <creator>Rademaker, Abraham</creator>
+          <subject>Haarlem</subject>
+          <subject>Spaarne</subject>
+          <date>1685 - 1735</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1791</identifier>
+        <datestamp>2021-10-20T13:53:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58987</identifier>
+          <identifier>NG-VG-1-1791</identifier>
+          <title>Vijfentwintigjarig huwelijk van Abraham Steijaart en Zara van Helsdingen</title>
+          <creator>Tilburg, A. van</creator>
+          <subject>sociale geschiedenis</subject>
+          <subject>huwelijk</subject>
+          <subject>25-jarig jubileum</subject>
+          <subject>Steijaart, Abraham</subject>
+          <subject>Helsdingen, Zara van</subject>
+          <date>1699</date>
+          <type>familiepenning</type>
+          <type>huwelijkspenning</type>
+          <type>huwelijksjubileumpenning 25</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2037-A</identifier>
+        <datestamp>2021-10-20T09:53:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59325</identifier>
+          <identifier>NG-VG-1-2037-A</identifier>
+          <title>Karel VI gekozen tot Duits keizer</title>
+          <creator>anoniem</creator>
+          <subject>Karel VI (keizer van het Heilige Roomse Rijk)</subject>
+          <date>1711</date>
+          <type>strooipenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2262</identifier>
+        <datestamp>2021-10-20T09:55:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59543</identifier>
+          <identifier>NG-VG-1-2262</identifier>
+          <title>Honderdste planting van de meiboom te 's-Gravenhage, penning vereerd aan de onderofficieren en rotsgezellen van het Groene Vendel</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>landmacht</subject>
+          <subject>Groene Vendel</subject>
+          <subject>recreatie</subject>
+          <subject>planten van de meiboom</subject>
+          <subject>100-jarig jubileum</subject>
+          <subject>Den Haag</subject>
+          <date>1734</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1733</identifier>
+        <datestamp>2021-10-20T13:53:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58927</identifier>
+          <identifier>NG-VG-1-1733</identifier>
+          <title>Vrede van Rijswijk, penning uitgedeeld aan ieder die in de loterij van Muiden geen prijs heeft gewonnen</title>
+          <creator>Luder, Jan (I)</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>vrede</subject>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>loterij</subject>
+          <subject>Vrede van Rijswijk (1697)</subject>
+          <subject>Rijswijk</subject>
+          <subject>Muiden</subject>
+          <date>1697</date>
+          <type>prijspenning</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1748</identifier>
+        <datestamp>2021-10-20T13:53:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58941</identifier>
+          <identifier>NG-VG-1-1748</identifier>
+          <title>Vrede van Rijswijk, ter ere van Lodewijk XIV</title>
+          <creator>Roussel, Jérôme</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>vrede</subject>
+          <subject>Vrede van Rijswijk (1697)</subject>
+          <subject>Rijswijk</subject>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1697</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1954-K</identifier>
+        <datestamp>2021-10-20T09:52:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59242</identifier>
+          <identifier>NG-VG-1-1954-K</identifier>
+          <title>Vereniging van Engeland en Schotland</title>
+          <creator>Croker, John</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Vereniging van Engeland en Schotland</subject>
+          <subject>Engeland</subject>
+          <subject>Schotland</subject>
+          <subject>Anna Stuart (koningin van Engeland en Schotland)</subject>
+          <date>1707</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2295</identifier>
+        <datestamp>2021-10-20T09:55:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59577</identifier>
+          <identifier>NG-VG-1-2295</identifier>
+          <title>Overlijden van Herman Boerhaave</title>
+          <creator>Bemme, Adriaan</creator>
+          <subject>wetenschapsgeschiedenis</subject>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>universiteit, hogeschool en academie</subject>
+          <subject>hoogleraar</subject>
+          <subject>geneeskunde</subject>
+          <subject>scheikunde</subject>
+          <subject>75-jarig jubileum</subject>
+          <subject>Leiden</subject>
+          <subject>Boerhaave, Hermanus</subject>
+          <date>ca. 1813</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12267</identifier>
+        <datestamp>2021-10-02T12:42:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59589</identifier>
+          <identifier>BK-NM-12267</identifier>
+          <title>Vier tegels</title>
+          <creator>anoniem</creator>
+          <date>ca. 1575 - ca. 1650</date>
+          <type>tegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Spanje</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNTg4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyODY0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-95</identifier>
+        <datestamp>2021-11-03T19:17:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14067</identifier>
+          <identifier>BK-1973-95</identifier>
+          <title>Vouwwaaier met dubbel blad van organza met geappliceerd en gedeeltelijk opengewerkt machinaal kant op een ajour gesneden parelmoeren montuur</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1875 - ca. 1899</date>
+          <type>vouwwaaier</type>
+          <format>organza</format>
+          <format>kant (materiaal)</format>
+          <format>parelmoer</format>
+          <format>metaal</format>
+          <format>parelmoer</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9524</identifier>
+        <datestamp>2021-10-01T23:44:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14434</identifier>
+          <identifier>BK-NM-9524</identifier>
+          <title>Botervloot met deksel van faience</title>
+          <creator>anoniem</creator>
+          <date>ca. 1740 - ca. 1780</date>
+          <type>botervloot</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1976-10-A</identifier>
+        <datestamp>2021-10-01T23:50:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14771</identifier>
+          <identifier>BK-1976-10-A</identifier>
+          <title>Vijzel met opschrift: PEETER VANDEN GHEIN ME FECIT MCCCCCLXXXXI</title>
+          <creator>Ghein, Peeter van den (II)</creator>
+          <date>1591</date>
+          <type>vijzel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Mechelen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7484</identifier>
+        <datestamp>2021-11-03T19:17:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14091</identifier>
+          <identifier>BK-NM-7484</identifier>
+          <title>Wandelstok bekleed met balein en knop in de vorm van pijp</title>
+          <creator>Steinberg</creator>
+          <subject>rook- en tabakwaar</subject>
+          <date>ca. 1815 - ca. 1840</date>
+          <type>wandelstok</type>
+          <type>pijp</type>
+          <format>balein</format>
+          <format>hoorn (materiaal)</format>
+          <format>been</format>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3151</identifier>
+        <datestamp>2021-11-03T19:19:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14183</identifier>
+          <identifier>BK-NM-3151</identifier>
+          <title>Vuurscherm van linnen, gespannen over geschulpt, houten(?) frame, aan de voorkant geborduurd met veelkleurige wol en aan de achterkant bedrukt met een brullende leeuw</title>
+          <creator>Teyler, Johan</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1688 - ca. 1720</date>
+          <type>vuurscherm (waaier)</type>
+          <type>handscherm</type>
+          <type>stokwaaier</type>
+          <format>linnen</format>
+          <format>hout</format>
+          <format>wol</format>
+          <format>drukinkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijmegen</coverage>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3375</identifier>
+        <datestamp>2021-10-01T23:44:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14458</identifier>
+          <identifier>BK-NM-3375</identifier>
+          <title>Plaat beschilderd met landschap met figuren</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>plaat</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2796</identifier>
+        <datestamp>2021-11-03T16:50:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14529</identifier>
+          <identifier>BK-NM-2796</identifier>
+          <title>Maria met kind</title>
+          <creator>anoniem</creator>
+          <date>ca. 1450 - ca. 1500</date>
+          <type>kroonluchter</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Mechelen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15398</identifier>
+        <datestamp>2021-10-01T23:50:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14797</identifier>
+          <identifier>BK-15398</identifier>
+          <title>Vijzel met maskers, rankwerk en parelsnoeren</title>
+          <creator>anoniem</creator>
+          <date>ca. 1500 - ca. 1525</date>
+          <type>vijzel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1969-79</identifier>
+        <datestamp>2021-11-03T19:19:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14875</identifier>
+          <identifier>BK-1969-79</identifier>
+          <title>Reticule in een langwerpig model van gehaakte zwarte koordzijde, gevoerd met donkergroene katoen</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1925</date>
+          <type>reticule</type>
+          <format>zijde</format>
+          <format>katoen</format>
+          <format>kunststof</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15611-A</identifier>
+        <datestamp>2021-10-01T23:39:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14160</identifier>
+          <identifier>BK-15611-A</identifier>
+          <title>Vouwwaaier met leren blad, waarop met gouache Pan en de Naiaden is geschilderd, op een schildpad montuur</title>
+          <creator>Lepautre, Jean</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1650 - ca. 1699</date>
+          <type>vouwwaaier</type>
+          <format>leer</format>
+          <format>gouache (waterverf)</format>
+          <format>schildpad</format>
+          <format>verf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7200</identifier>
+        <datestamp>2021-10-01T23:45:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14506</identifier>
+          <identifier>BK-NM-7200</identifier>
+          <title>Wierookvat, bolvormig</title>
+          <creator>anoniem</creator>
+          <date>ca. 1100 - ca. 1300</date>
+          <type>wierookvat</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1962-52-D</identifier>
+        <datestamp>2021-11-03T16:51:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14604</identifier>
+          <identifier>BK-1962-52-D</identifier>
+          <title>Kandelaar met voet in kwabstijl</title>
+          <creator>anoniem</creator>
+          <date>ca. 1650 - ca. 1700</date>
+          <type>kandelaar</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Lage Landen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9115</identifier>
+        <datestamp>2021-11-03T16:52:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14976</identifier>
+          <identifier>BK-NM-9115</identifier>
+          <title>Beslag voor een deurplaat van vertind ijzer</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1699</date>
+          <type>beslag</type>
+          <type>deurplaat</type>
+          <format>ijzer</format>
+          <format>tin</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>West-Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1984-158</identifier>
+        <datestamp>2021-11-03T19:16:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13855</identifier>
+          <identifier>BK-1984-158</identifier>
+          <title>Paraplu met dek van grijze zijde in een koker van esdoornhout, met verguld koperen beslag en een zijden koord met dito rozet</title>
+          <creator>Vickery, J.C.</creator>
+          <date>in of na 1909</date>
+          <type>paraplu</type>
+          <format>zijde</format>
+          <format>metaal</format>
+          <format>hout</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Regent Street</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-35</identifier>
+        <datestamp>2021-10-01T23:40:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14240</identifier>
+          <identifier>BK-NM-12400-35</identifier>
+          <title>Drie borden met Bijbelse voorstellingen</title>
+          <creator>anoniem</creator>
+          <description>Van deze borden zal nooit gegeten zijn: ze werden opgehangen als wanddecoratie of geplaatst op de rand van een lambrisering. De brede witte randen van de borden geven de indruk van een schilderij in een lijst. De voorstellingen zijn: de intocht van Jezus in Jeruzalem, de bekering van Paulus en zijn schipbreuk bij Malta.</description>
+          <date>ca. 1670 - ca. 1685</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1961-33-B</identifier>
+        <datestamp>2021-10-01T23:42:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14319</identifier>
+          <identifier>BK-1961-33-B</identifier>
+          <title>Twee zoutvaten</title>
+          <creator>De Drie Posteleyne Astonne</creator>
+          <contributor>Dextra, Zacharias</contributor>
+          <description>toegeschreven aan de Drie Posteleyne Astonne (Zacharias Dextra) 
+Delft, ca. 1720–1735
+geglazuurd aardewerk (faience)</description>
+          <date>ca. 1720 - ca. 1735</date>
+          <type>zoutvat</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2387-B</identifier>
+        <datestamp>2021-11-03T16:51:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14581</identifier>
+          <identifier>BK-NM-2387-B</identifier>
+          <title>Kandelaar, gedragen door leeuwen</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1400 - ca. 1500</date>
+          <type>kandelaar</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1986-61-A</identifier>
+        <datestamp>2021-11-03T19:19:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14945</identifier>
+          <identifier>BK-1986-61-A</identifier>
+          <title>Teagown met geplisseerde rok</title>
+          <creator>Watrigant, Madame</creator>
+          <description>De verlaagde taille van deze teagown (japon die rond theetijd werd gedragen) sluit aan bij de mode van de jaren 1920. De japon is afgezet met brede stroken machinaal kant en loopt aan de achterkant uit in een sleepje, waardoor het geheel de uitstraling van een avondjapon krijgt. De japon is gekocht bij Watrigant-Thévenet, een exclusieve lingeriewinkel in Brussel.</description>
+          <date>ca. 1925 - ca. 1930</date>
+          <type>nachtkleding</type>
+          <type>nachtjapon</type>
+          <type>tea-gown</type>
+          <format>crêpe de Chine</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1963-41-A</identifier>
+        <datestamp>2021-10-01T23:40:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14215</identifier>
+          <identifier>BK-1963-41-A</identifier>
+          <title>Paar borden met springende paarden</title>
+          <creator>anoniem</creator>
+          <date>ca. 1660 - ca. 1690</date>
+          <type>bord (vaatwerk)</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1958-22</identifier>
+        <datestamp>2021-10-01T23:42:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14342</identifier>
+          <identifier>BK-1958-22</identifier>
+          <title>Kandelaar</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Eenhoorn, Samuel van</contributor>
+          <date>ca. 1678 - ca. 1686</date>
+          <type>kandelaar</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyODY2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

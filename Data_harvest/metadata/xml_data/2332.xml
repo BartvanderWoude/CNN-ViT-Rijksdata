@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NjYyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-3934</identifier>
+        <datestamp>2016-10-20T21:10:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124686</identifier>
+          <identifier>RP-P-1905-3934</identifier>
+          <title>Priesteres Pythia in de tempel van Delphi</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>Delphi</subject>
+          <date>1687</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-180</identifier>
+        <datestamp>2018-10-29T21:36:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125106</identifier>
+          <identifier>RP-P-1905-180</identifier>
+          <title>Toren van heggen in het park van Enghien</title>
+          <title>Het park van Enghien (Edingen)</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <contributor>Visscher, Nicolaes (I)</contributor>
+          <contributor>Staten-Generaal</contributor>
+          <subject>Park van Enghien</subject>
+          <subject>Edingen</subject>
+          <date>1685</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1881-A-4753</identifier>
+        <datestamp>2016-10-20T21:10:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124264</identifier>
+          <identifier>RP-P-1881-A-4753</identifier>
+          <title>Vos en de drie honden</title>
+          <creator>Hondius, Abraham Daniëlsz.</creator>
+          <contributor>Hondius, Abraham Daniëlsz.</contributor>
+          <date>ca. 1641 - 1691</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-6608</identifier>
+        <datestamp>2016-10-20T21:10:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124516</identifier>
+          <identifier>RP-P-1905-6608</identifier>
+          <title>Kaart van Afrika</title>
+          <creator>Hondius, Jodocus (I)</creator>
+          <contributor>Hondius, Jodocus (I)</contributor>
+          <subject>Afrika</subject>
+          <date>1573 - 1612</date>
+          <type>prent</type>
+          <type>kaart</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-55.185</identifier>
+        <datestamp>2016-10-20T21:10:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124617</identifier>
+          <identifier>RP-P-OB-55.185</identifier>
+          <title>Spotprent op de inmenging van Lodewijk XIV in de Engelse troonopvolging, 1689</title>
+          <title>Arlequin Deodat et Pamirge Hypochondriaques</title>
+          <title>De Duytse Doctor, en de vreemde Patienten / Le Docteur parlant à l'Assamblée</title>
+          <title>Spotprenten op Jacobus II en Lodewijk XIV en de gebeurtenissen in de jaren 1688-1689</title>
+          <creator>Gisling</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <contributor>Gisling</contributor>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>Glorious Revolution</subject>
+          <subject>Jacobus II (koning van Engeland en Schotland)</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <subject>Fürstenberg-Heiligenberg, Wilhelm Egon von</subject>
+          <subject>Maria van Modena (koningin van Engeland)</subject>
+          <subject>Stuart, Jacobus Frans Eduard (prins van Wales)</subject>
+          <date>1688</date>
+          <type>prent</type>
+          <type>spotprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Genève</coverage>
+          <coverage>Nederland</coverage>
+          <coverage>Genève</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1913-5924</identifier>
+        <datestamp>2016-10-20T21:10:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124868</identifier>
+          <identifier>RP-P-1913-5924</identifier>
+          <title>Illustratie voor 'Den Arbeid van Mars' van Allain Manesson Mallet</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>wiskunde</subject>
+          <date>1672</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-3386</identifier>
+        <datestamp>2016-10-20T21:10:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.123900</identifier>
+          <identifier>RP-P-OB-3386</identifier>
+          <title>Paard</title>
+          <creator>Hoolaart, Jacob</creator>
+          <date>1728 - 1789</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1913-6037</identifier>
+        <datestamp>2016-10-20T21:11:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124974</identifier>
+          <identifier>RP-P-1913-6037</identifier>
+          <title>Illustratie voor 'Den Arbeid van Mars' van Allain Manesson Mallet</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>wiskunde</subject>
+          <date>1672</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-55.280</identifier>
+        <datestamp>2019-05-29T15:46:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124090</identifier>
+          <identifier>RP-P-OB-55.280</identifier>
+          <title>Portret van Adriaen Pauw</title>
+          <creator>Holsteyn, Pieter (II)</creator>
+          <contributor>Borch, Gerard ter (II)</contributor>
+          <contributor>Waesberge, Abraham van (I)</contributor>
+          <subject>Pauw, Adriaen (1585-1653)</subject>
+          <date>1646</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-16.215</identifier>
+        <datestamp>2020-04-20T16:06:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124566</identifier>
+          <identifier>RP-P-OB-16.215</identifier>
+          <title>Dode boom in een landschap</title>
+          <title>Landschappen in ovalen</title>
+          <creator>Hooch, Chaerles de</creator>
+          <contributor>Loc, M. van</contributor>
+          <date>ca. 1613 - 1638</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1913-2565</identifier>
+        <datestamp>2016-10-20T21:10:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124579</identifier>
+          <identifier>RP-P-1913-2565</identifier>
+          <title>Herderin en jongeman bij een schuur</title>
+          <title>Annette en Lubin</title>
+          <creator>Hoogers, Hendrik</creator>
+          <subject>pastorales, Arcadische taferelen</subject>
+          <date>1787</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijmegen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1913-5978</identifier>
+        <datestamp>2016-10-20T21:10:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124914</identifier>
+          <identifier>RP-P-1913-5978</identifier>
+          <title>Illustratie voor 'Den Arbeid van Mars' van Allain Manesson Mallet</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>wiskunde</subject>
+          <date>1672</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1900-A-21942</identifier>
+        <datestamp>2016-10-20T21:10:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124075</identifier>
+          <identifier>RP-P-1900-A-21942</identifier>
+          <title>Portret van Johannes Gerarts</title>
+          <creator>Holsteyn, Pieter (II)</creator>
+          <subject>Gerarts, Johannes</subject>
+          <date>in of na 1637 - 1673</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1913-5993</identifier>
+        <datestamp>2016-10-20T21:10:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124928</identifier>
+          <identifier>RP-P-1913-5993</identifier>
+          <title>Illustratie voor 'Den Arbeid van Mars' van Allain Manesson Mallet</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>wiskunde</subject>
+          <date>1672</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1926-653</identifier>
+        <datestamp>2019-03-04T11:03:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124626</identifier>
+          <identifier>RP-P-1926-653</identifier>
+          <title>Aankomst van Willem III bij de Westeinderbrug, 1691</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <subject>Intocht van Willem III te Den Haag (1691)</subject>
+          <subject>Westeinderbrug</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>in of voor 1691</date>
+          <type>nieuwsprent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-AO-24-31-2</identifier>
+        <datestamp>2017-11-14T14:22:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125114</identifier>
+          <identifier>RP-P-AO-24-31-2</identifier>
+          <title>De teba (bima) in de Portugese Synagoge te Amsterdam, ca. 1695</title>
+          <title>De predikstoel en binnen transen</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <contributor>Persoy, Pieter</contributor>
+          <contributor>Staten-Generaal</contributor>
+          <subject>Portugese Synagoge</subject>
+          <date>ca. 1695</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-AO-25-74-1</identifier>
+        <datestamp>2018-03-02T22:14:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125120</identifier>
+          <identifier>RP-P-AO-25-74-1</identifier>
+          <title>Huis van David de Pinto aan de Sint-Antoniesbreestraat te Amsterdam</title>
+          <title>Hof van de E: heer de Pinto</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <contributor>Persoy, Pieter</contributor>
+          <contributor>Staten-Generaal</contributor>
+          <subject>Huis de Pinto</subject>
+          <date>ca. 1695</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-55.209</identifier>
+        <datestamp>2020-03-23T09:55:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124404</identifier>
+          <identifier>RP-P-OB-55.209</identifier>
+          <title>Portret van Gerrit Pietersz. Sweelinck</title>
+          <title>Gerardus Petri, Amstelred. Pictor.</title>
+          <title>Portretten van beroemde schilders uit de Lage Landen</title>
+          <title>Pictorum aliquot celebrium praecipuae Germaniae Inferioris effigies</title>
+          <creator>Frisius, Simon</creator>
+          <contributor>Hondius, Hendrick (I)</contributor>
+          <contributor>onbekend</contributor>
+          <subject>Sweelink, Gerrit Pietersz.</subject>
+          <date>1610</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-389</identifier>
+        <datestamp>2016-10-20T21:10:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124410</identifier>
+          <identifier>RP-P-1907-389</identifier>
+          <title>Portret van Albrecht Dürer</title>
+          <title>Illustere kunstenaars</title>
+          <creator>Hondius, Hendrick (I)</creator>
+          <contributor>Hondius, Hendrick (I)</contributor>
+          <subject>Dürer, Albrecht</subject>
+          <date>1598</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-55.028</identifier>
+        <datestamp>2016-10-20T21:10:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.124720</identifier>
+          <identifier>RP-P-OB-55.028</identifier>
+          <title>Titelblad voor het pamflet: De Horlende Kollendans, op Tilburn, 1702</title>
+          <title>De Horlende Kollendans, op Tilburn</title>
+          <title>Esopus in Europa</title>
+          <creator>Hooghe, Romeyn de</creator>
+          <contributor>Hooghe, Romeyn de</contributor>
+          <subject>Spaanse Successieoorlog</subject>
+          <date>1702</date>
+          <type>prent</type>
+          <type>titelblad</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NjY0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

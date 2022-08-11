@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDM4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-141</identifier>
+        <datestamp>2021-10-01T22:33:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8622</identifier>
+          <identifier>SK-C-141</identifier>
+          <title>De groentevrouw</title>
+          <creator>Hansen, Lambertus Johannes</creator>
+          <subject>figuurvoorstelling</subject>
+          <date>1825 - 1845</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2645</identifier>
+        <datestamp>2022-01-10T15:26:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7901</identifier>
+          <identifier>SK-A-2645</identifier>
+          <title>Portret van een vrouw</title>
+          <creator>anoniem</creator>
+          <date>ca. 1790</date>
+          <type>miniatuur (schildering)</type>
+          <format>ivoor</format>
+          <format>metaal</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1990-37</identifier>
+        <datestamp>2021-10-01T22:19:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8047</identifier>
+          <identifier>RP-T-1990-37</identifier>
+          <title>Figuurstudie van een zittende vrouw, mogelijk Louise-Charlotte Marini</title>
+          <creator>Trinquesse, Louis Rolland</creator>
+          <subject>kostuum</subject>
+          <date>ca. 1756 - 1800</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1911</identifier>
+        <datestamp>2022-06-01T16:30:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8570</identifier>
+          <identifier>SK-A-1911</identifier>
+          <title>Familiegroep in een landschap</title>
+          <creator>Graat, Barend</creator>
+          <subject>portret</subject>
+          <date>1650 - 1660</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1054</identifier>
+        <datestamp>2022-02-01T13:47:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8844</identifier>
+          <identifier>SK-A-1054</identifier>
+          <title>Een straat in Amersfoort</title>
+          <creator>Jelgerhuis, Johannes</creator>
+          <subject>stadsgezicht</subject>
+          <subject>Amersfoort</subject>
+          <date>1826</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2596</identifier>
+        <datestamp>2022-06-01T13:13:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8107</identifier>
+          <identifier>SK-A-2596</identifier>
+          <title>Fragment met de transfiguratie van Christus</title>
+          <title>De verrijzenis van Christus</title>
+          <creator>Joest van Kalkar, Jan</creator>
+          <subject>historiestuk</subject>
+          <date>ca. 1515 - ca. 1520</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2359</identifier>
+        <datestamp>2022-06-01T16:20:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8469</identifier>
+          <identifier>SK-A-2359</identifier>
+          <title>De gevangenneming van Christus</title>
+          <creator>Gelder, Aert de</creator>
+          <subject>historiestuk</subject>
+          <date>1710 - 1727</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2072</identifier>
+        <datestamp>2022-06-01T16:30:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8475</identifier>
+          <identifier>SK-A-2072</identifier>
+          <title>Hortensia del Prado (gest 1627). Echtgenote van Jean Fourmenois</title>
+          <creator>Geldorp, Gortzius</creator>
+          <subject>portret</subject>
+          <subject>Prado, Hortensia del</subject>
+          <date>1596</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-605</identifier>
+        <datestamp>2022-06-01T13:14:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8785</identifier>
+          <identifier>SK-A-605</identifier>
+          <title>De slag aan de Boyne (Ierland) tussen Jacobus II en Willem III, 12 juli 1690</title>
+          <creator>Huchtenburg, Jan van</creator>
+          <subject>historiestuk</subject>
+          <subject>militaire geschiedenis</subject>
+          <subject>Koninklijk Huis</subject>
+          <subject>Slag aan de Boyne</subject>
+          <subject>Boyne Battlesite</subject>
+          <subject>Jacobus II (koning van Engeland en Schotland)</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1690 - 1733</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1952-315</identifier>
+        <datestamp>2021-10-01T22:18:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8001</identifier>
+          <identifier>RP-T-1952-315</identifier>
+          <title>Landschap met een stad bij een brug</title>
+          <creator>Natoire, Charles Joseph</creator>
+          <date>1710 - 1777</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1952-112(V)</identifier>
+        <datestamp>2021-10-01T22:23:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8256</identifier>
+          <identifier>RP-T-1952-112(V)</identifier>
+          <title>Afgesneden figuur van Hercules (Farnese)</title>
+          <creator>Loo, Carle van</creator>
+          <date>1715 - 1765</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4702</identifier>
+        <datestamp>2022-01-10T16:14:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8900</identifier>
+          <identifier>SK-A-4702</identifier>
+          <title>Lezende oude vrouw</title>
+          <creator>Lievens, Jan</creator>
+          <subject>lezen</subject>
+          <date>1626 - 1633</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1617</identifier>
+        <datestamp>2022-06-01T13:13:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8155</identifier>
+          <identifier>SK-A-1617</identifier>
+          <title>De hemelvaart van Elia</title>
+          <creator>Colijns, David</creator>
+          <subject>bijbelse voorstelling</subject>
+          <date>1627</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3032</identifier>
+        <datestamp>2022-06-01T13:14:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8420</identifier>
+          <identifier>SK-A-3032</identifier>
+          <title>Maria met kind</title>
+          <creator>Ferrari, Gaudenzio</creator>
+          <contributor>Lanino, Bernardino</contributor>
+          <subject>historiestuk</subject>
+          <date>1525 - 1535</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1322</identifier>
+        <datestamp>2022-04-29T13:32:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8736</identifier>
+          <identifier>SK-A-1322</identifier>
+          <title>Watervogels</title>
+          <creator>Hondecoeter, Gijsbert Gillisz. de</creator>
+          <subject>diervoorstelling</subject>
+          <date>1652</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-994</identifier>
+        <datestamp>2021-10-01T22:27:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8402</identifier>
+          <identifier>SK-A-994</identifier>
+          <title>Maria Eversdijck (geb 1628). Echtgenote van Nicolaes Blancardus</title>
+          <creator>Eversdijck, Willem</creator>
+          <subject>portret</subject>
+          <date>1666</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2311</identifier>
+        <datestamp>2021-10-01T22:32:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8574</identifier>
+          <identifier>SK-A-2311</identifier>
+          <title>De kruisafneming</title>
+          <creator>Grebber, Pieter Fransz. de</creator>
+          <subject>historiestuk</subject>
+          <date>1633</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-246</identifier>
+        <datestamp>2021-10-01T22:42:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8949</identifier>
+          <identifier>SK-A-246</identifier>
+          <title>De spinster</title>
+          <creator>Maes, Nicolaes</creator>
+          <date>1650 - 1660</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-1193-A</identifier>
+        <datestamp>2021-10-01T22:19:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8021</identifier>
+          <identifier>BK-KOG-1193-A</identifier>
+          <title>Schoen van zwart leer in reuzenformaat</title>
+          <creator>anoniem</creator>
+          <date>ca. 1730 - ca. 1800</date>
+          <type>herenkleding</type>
+          <type>schoen</type>
+          <format>leer</format>
+          <format>leer</format>
+          <format>zijde</format>
+          <format>leer</format>
+          <format>leer</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noord-Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3767</identifier>
+        <datestamp>2021-10-01T22:31:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8550</identifier>
+          <identifier>SK-A-3767</identifier>
+          <title>Cornelis Speelman (1628-84). Gouverneur-generaal (1681-84)</title>
+          <creator>Palin, Martin</creator>
+          <subject>portret</subject>
+          <subject>Speelman, Cornelis Jansz.</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>1680 - 1700</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Batavia</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDQwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

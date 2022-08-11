@@ -1,0 +1,518 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNDI2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-186</identifier>
+        <datestamp>2018-06-12T14:27:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61206</identifier>
+          <identifier>BK-BR-J-186</identifier>
+          <title>Antependiumstrook van kloskant met brede rivière</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1760</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2635</identifier>
+        <datestamp>2021-10-20T09:59:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62083</identifier>
+          <identifier>NG-VG-1-2635</identifier>
+          <title>Vrede van Hubertusburg, penning geslagen door de stad Frankfurt</title>
+          <creator>Öxlein, Johann Leonhard</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>institutionele geschiedenis</subject>
+          <subject>vrede</subject>
+          <subject>stad Frankfurt</subject>
+          <subject>Vrede van Hubertusburg</subject>
+          <subject>Hubertusburg</subject>
+          <subject>Frankfurt am Main</subject>
+          <date>1763</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Fulda</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-611</identifier>
+        <datestamp>2021-12-17T11:49:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45348</identifier>
+          <identifier>RP-P-1956-611</identifier>
+          <title>De tweede maand</title>
+          <title>Nigatsu</title>
+          <title>Elegante gedichten over de vier seizoenen.</title>
+          <title>Furyu shiki kasen</title>
+          <creator>Harunobu, Suzuki</creator>
+          <date>1765 - 1770</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-639</identifier>
+        <datestamp>2021-12-17T11:49:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45466</identifier>
+          <identifier>RP-P-1956-639</identifier>
+          <title>Drie vrouwen bezoeken een Jizo heiligdom</title>
+          <title>Acht gezichten op de Kinryuzan in Asakusa</title>
+          <title>Asakusa Kinryuzan hakkyo</title>
+          <creator>Kiyonaga, Torii</creator>
+          <contributor>Nishimura Yohachi</contributor>
+          <date>1780 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Tokyo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1961-40</identifier>
+        <datestamp>2021-01-28T13:25:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45685</identifier>
+          <identifier>RP-P-1961-40</identifier>
+          <title>Terugkeren schepen te Yabase</title>
+          <title>Yabase no kihan</title>
+          <title>Gegraveerde Acht gezichten op de provincie Omi</title>
+          <title>Doban Omi hakkei</title>
+          <creator>Hokusai, Katsushika</creator>
+          <contributor>Soshuya Yohei</contributor>
+          <date>1809 - 1814</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-345</identifier>
+        <datestamp>2021-10-02T12:15:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45804</identifier>
+          <identifier>RP-P-1958-345</identifier>
+          <title>Vergeten schelp, pruimenbloesem schelp en kersen schelp</title>
+          <title>Wasuregai, umenohanagai, sakuragai</title>
+          <title>Een serie van schelpen</title>
+          <title>Kaitsukushi</title>
+          <creator>Hokkei, Totoya</creator>
+          <contributor>Teruzumi, Yoyoan</contributor>
+          <contributor>Tomohiko, Asahi</contributor>
+          <contributor>Nokimori, Asahi</contributor>
+          <date>1821</date>
+          <type>prent</type>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-W-851</identifier>
+        <datestamp>2021-03-05T09:17:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46022</identifier>
+          <identifier>RP-P-W-851</identifier>
+          <title>Japanse struikzanger op pruimentak, met haiku</title>
+          <creator>Hiroshige (I), Utagawa</creator>
+          <contributor>Tanaka Heijiro</contributor>
+          <subject>planten; begroeiing</subject>
+          <date>1843 - 1844</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1952-195</identifier>
+        <datestamp>2022-02-02T09:30:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46217</identifier>
+          <identifier>RP-P-1952-195</identifier>
+          <title>Avondgloed te Ryogoku</title>
+          <title>Ryogoku no sekisho</title>
+          <title>Acht gezichten op beroemde plaatsen en schoonheden in Edo</title>
+          <title>Edo meisho bijin hakkei</title>
+          <creator>Eizan, Kikugawa</creator>
+          <contributor>Sanoya Kihei</contributor>
+          <date>1813 - 1817</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Tokyo</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1952-220</identifier>
+        <datestamp>2021-10-02T12:17:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46114</identifier>
+          <identifier>RP-P-1952-220</identifier>
+          <title>Het Tenman heiligdom te Kameido in de Oostelijke hoofdstad</title>
+          <title>Toto Kameido Tenmangu</title>
+          <creator>Kunisada, Utagawa (I)</creator>
+          <contributor>Fujiokaya Hikotaro</contributor>
+          <subject>huis</subject>
+          <date>1830 - 1835</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-93</identifier>
+        <datestamp>2019-05-23T15:53:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45278</identifier>
+          <identifier>RP-P-1909-93</identifier>
+          <title>Buste van een vrouw met brede hoed</title>
+          <creator>Schouman, Aert</creator>
+          <date>1720 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1890-A-2399</identifier>
+        <datestamp>2019-02-22T15:34:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61458</identifier>
+          <identifier>RP-T-1890-A-2399</identifier>
+          <title>Man twee paarden vasthoudend en een man bij vogels</title>
+          <creator>Venne, Adriaen Pietersz. van de</creator>
+          <contributor>Brueghel, Jan</contributor>
+          <date>1600 - 1662</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>dekverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2415</identifier>
+        <datestamp>2021-10-20T09:57:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61868</identifier>
+          <identifier>NG-VG-1-2415</identifier>
+          <title>Slag bij Culloden, ter ere van Willem, hertog van Cumberland</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>opstand</subject>
+          <subject>Schotse opstand</subject>
+          <subject>Slag bij Culloden</subject>
+          <subject>Culloden</subject>
+          <subject>Inverness</subject>
+          <subject>Cumberland, Willem van (hertog)</subject>
+          <date>1746</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2422</identifier>
+        <datestamp>2021-10-20T09:57:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61874</identifier>
+          <identifier>NG-VG-1-2422</identifier>
+          <title>Cornelis van den Brande, vijftig jaar raadsheer aan het Hof van Vlaanderen te Middelburg</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>50-jarig jubileum</subject>
+          <subject>Middelburg</subject>
+          <subject>Brande, jonkheer Cornelis van den</subject>
+          <subject>Hof van Vlaanderen</subject>
+          <date>1746</date>
+          <type>erepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-446</identifier>
+        <datestamp>2021-10-02T12:16:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45897</identifier>
+          <identifier>RP-P-1958-446</identifier>
+          <title>De gehoorzame zoon van Kamakura, een voorbeeld uit de Collectie van zand en kiezelstenen</title>
+          <title>Kamakura kôshi-Sasekishû</title>
+          <title>Vierentwintig Japanse voorbeelden van kinderlijke gehoorzaamheid voor de Honchôren</title>
+          <title>Honchôren-Honchô nijûshikô</title>
+          <creator>Gakutei, Yashima</creator>
+          <contributor>Naonari, Asanoya</contributor>
+          <date>ca. 1821</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-382</identifier>
+        <datestamp>2021-10-02T12:16:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45928</identifier>
+          <identifier>RP-P-1958-382</identifier>
+          <title>Nummer één: Vrouw die shamisen stemt</title>
+          <title>Sono ichi</title>
+          <title>Een trio van muziekinstrumenten</title>
+          <title>Sankyoku</title>
+          <creator>Gakutei, Yashima</creator>
+          <contributor>Mochimaru, Saieitei</contributor>
+          <contributor>Namio, Sekigentei</contributor>
+          <date>ca. 1825</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2472</identifier>
+        <datestamp>2021-10-20T09:57:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61922</identifier>
+          <identifier>NG-VG-1-2472</identifier>
+          <title>Wapenplaat van Willem IV</title>
+          <creator>anoniem</creator>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <date>1747</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2898</identifier>
+        <datestamp>2021-10-20T10:01:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62343</identifier>
+          <identifier>NG-VG-1-2898</identifier>
+          <title>Verkiezing van Bernardus Blok tot secretaris van de gecommitteerde raden in West-Friesland en het Noorderkwartier, penning geslagen op last van het Patriottisch Genootschap te Enkhuizen</title>
+          <creator>Holtzhey, Johan George</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>politieke groepering</subject>
+          <subject>patriotten</subject>
+          <subject>genootschap</subject>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>secretaris van gecommitteerde Raden</subject>
+          <subject>West-Friesland</subject>
+          <subject>Noorderkwartier</subject>
+          <subject>Enkhuizen</subject>
+          <subject>Blok, Bernardus</subject>
+          <subject>Patriottisch Genootschap</subject>
+          <date>1785</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16129</identifier>
+        <datestamp>2021-10-02T12:46:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61548</identifier>
+          <identifier>BK-16129</identifier>
+          <title>Stoel</title>
+          <creator>anoniem</creator>
+          <description>Stoelen van dit type, met hoge, rijk bewerkte ruggen, stonden in rijen tegen de wand. Zo maakten ze deel uit van de versiering van een vertrek. Het snijwerk in de rug is in Franse stijl uitgevoerd. Het is geïnspireerd op de prenten met decoratieve ontwerpen van Daniël Marot. In het midden is een Romeinse keizer afgebeeld.</description>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>meubilair</type>
+          <type>zitmeubel</type>
+          <type>stoel</type>
+          <format>hout</format>
+          <format>notenhout</format>
+          <format>fluweel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2365-A</identifier>
+        <datestamp>2021-10-20T09:56:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61822</identifier>
+          <identifier>NG-VG-1-2365-A</identifier>
+          <title>Inhuldiging van Maria Theresia als gravin van Brabant en Vlaanderen</title>
+          <creator>Roëttiers, Jacques (II)</creator>
+          <subject>Brabant</subject>
+          <subject>Vlaanderen</subject>
+          <subject>Maria Theresia (Rooms-Duits keizerin)</subject>
+          <date>1744</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2495</identifier>
+        <datestamp>2021-10-20T09:57:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61945</identifier>
+          <identifier>NG-VG-1-2495</identifier>
+          <title>Tekenen van de voorlopige vrede te Aken</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>voorlopige vrede van Aken</subject>
+          <subject>Vrede van Aken (1748)</subject>
+          <subject>Aken</subject>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <date>1748</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNDI4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

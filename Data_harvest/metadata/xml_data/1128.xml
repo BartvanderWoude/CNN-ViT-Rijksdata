@@ -1,0 +1,500 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjU0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-145</identifier>
+        <datestamp>2019-05-23T15:54:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46344</identifier>
+          <identifier>RP-P-1909-145</identifier>
+          <title>Zangers in een venster</title>
+          <creator>Somer, Jan van</creator>
+          <contributor>Ostade, Adriaen van</contributor>
+          <date>1655 - 1700</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1956-701</identifier>
+        <datestamp>2021-12-17T11:49:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45411</identifier>
+          <identifier>RP-P-1956-701</identifier>
+          <title>Acteur Matsumoto Koshiro III in de vrouwenrol Asagao</title>
+          <creator>Bunchô, Ippitsusai</creator>
+          <subject>Ichikawa Danjûrô V</subject>
+          <date>1768</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3116</identifier>
+        <datestamp>2021-10-02T12:46:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61579</identifier>
+          <identifier>BK-NM-3116</identifier>
+          <title>Stoel</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1700</date>
+          <type>stoel</type>
+          <format>hout</format>
+          <format>notenhout</format>
+          <format>riet</format>
+          <format>trijp</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2364</identifier>
+        <datestamp>2021-10-20T09:56:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61819</identifier>
+          <identifier>NG-VG-1-2364</identifier>
+          <title>Inhuldiging van Maria Theresia als gravin van Brabant en Vlaanderen</title>
+          <creator>Roëttiers, Jacques (II)</creator>
+          <subject>Brabant</subject>
+          <subject>Vlaanderen</subject>
+          <subject>Maria Theresia (Rooms-Duits keizerin)</subject>
+          <date>1744</date>
+          <type>rekenpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1958-404</identifier>
+        <datestamp>2021-10-02T12:16:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.45911</identifier>
+          <identifier>RP-P-1958-404</identifier>
+          <title>Negen oude mannen uit Kôzan</title>
+          <title>Kôzan kyûrô</title>
+          <title>Een serie van tien prenten van beroemde nummers voor de Katsushika dichtersvereniging</title>
+          <title>Katsushikaren meisû jûban</title>
+          <creator>Gakutei, Yashima</creator>
+          <contributor>Shirabe, Shôfûken no</contributor>
+          <contributor>Chieda, Matsu no mado</contributor>
+          <date>ca. 1822</date>
+          <type>surimono</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.710</identifier>
+        <datestamp>2021-01-24T09:16:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.46241</identifier>
+          <identifier>RP-P-OB-17.710</identifier>
+          <title>Presentatie van Christus in de tempel</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Rijn, Rembrandt van</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1771</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2391</identifier>
+        <datestamp>2021-10-20T09:56:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61848</identifier>
+          <identifier>NG-VG-1-2391</identifier>
+          <title>Kroning van Frans I tot Duits keizer</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>Frans I Stefan (Duits keizer)</subject>
+          <date>1745</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2569</identifier>
+        <datestamp>2021-10-20T09:58:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62017</identifier>
+          <identifier>NG-VG-1-2569</identifier>
+          <title>Francois-Armand d'Usson, markies de Bonnac, Frans afgezant in de Nederlanden</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>diplomatieke betrekkingen</subject>
+          <subject>Frankrijk</subject>
+          <subject>Usson, Francois-Armand d' (markies de Bonnac)</subject>
+          <date>1751</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-147</identifier>
+        <datestamp>2021-10-02T12:47:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61712</identifier>
+          <identifier>BK-1955-147</identifier>
+          <title>Veld van drie tegels met diamantkoppen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1570 - ca. 1600</date>
+          <type>tegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Sevilla</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2419</identifier>
+        <datestamp>2021-10-20T09:57:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61871</identifier>
+          <identifier>NG-VG-1-2419</identifier>
+          <title>Slag bij Rocourt</title>
+          <creator>Marteau, Francois Joseph</creator>
+          <contributor>Roëttiers, Joseph Charles</contributor>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Oostenrijkse successieoorlog</subject>
+          <subject>Slag bij Rocourt (1746)</subject>
+          <subject>Rocourt</subject>
+          <subject>Luik</subject>
+          <subject>Lodewijk XV (koning van Frankrijk)</subject>
+          <date>1746</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2547</identifier>
+        <datestamp>2021-10-20T09:58:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61994</identifier>
+          <identifier>NG-VG-1-2547</identifier>
+          <title>Nikolaus Ludwig, graaf van Zinzendorf, stichter van de Hernhutters</title>
+          <creator>Kittel, Georg Wilhelm</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>protestantisme</subject>
+          <subject>Hernhutters</subject>
+          <subject>Zinzendorf, Nikolaus Ludwig Graf von</subject>
+          <subject>Evangelische Broedergemeente</subject>
+          <date>1750</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Wroclaw</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2979-A</identifier>
+        <datestamp>2021-10-20T10:02:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62415</identifier>
+          <identifier>NG-VG-1-2979-A</identifier>
+          <title>Namen vrij verklaard</title>
+          <creator>Berckel, Theodorus Victor van</creator>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Verenigde Belgische Staten</subject>
+          <subject>vrijverklaring van Namen</subject>
+          <subject>Brabantse omwenteling</subject>
+          <subject>Namen (stad)</subject>
+          <date>1790</date>
+          <type>historiepenning</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Namen (stad)</coverage>
+          <coverage>Namen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5348</identifier>
+        <datestamp>2021-10-02T12:46:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61441</identifier>
+          <identifier>BK-NM-5348</identifier>
+          <title>Twee sauskommen</title>
+          <creator>anoniem</creator>
+          <description>Deze twee sauskommen hebben exact dezelfde vorm; alleen de decoraties zijn anders. De oranjerode schilderingen
+op de ene kom accentueren de gemodelleerde decoraties eronder. De tweede kom is bijna helemaal wit gelaten, op één goud met rode band na. Het imiteert het soms spaarzaam gedecoreerde, maar erg kostbare Duitse porselein.</description>
+          <date>1740 - 1765</date>
+          <type>sauskom</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2435</identifier>
+        <datestamp>2021-10-20T09:57:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61888</identifier>
+          <identifier>NG-VG-1-2435</identifier>
+          <title>Verheffing van de prins van Oranje tot stadhouder door de Staten van Holland</title>
+          <creator>Swinderen, Nicolaas van</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>stadhouderschap</subject>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <subject>Staten van Holland</subject>
+          <date>1747</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2521</identifier>
+        <datestamp>2021-10-20T09:58:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61971</identifier>
+          <identifier>NG-VG-1-2521</identifier>
+          <title>Eerste eeuwfeest van de vrede van Munster, penning geslagen door de stad Memmingen</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>vrede</subject>
+          <subject>100-jarig jubileum</subject>
+          <subject>Tachtigjarige Oorlog</subject>
+          <subject>Vrede van Münster</subject>
+          <subject>Münster</subject>
+          <subject>Memmingen</subject>
+          <date>1748</date>
+          <type>strooipenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Memmingen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2775</identifier>
+        <datestamp>2021-10-20T10:00:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62221</identifier>
+          <identifier>NG-VG-1-2775</identifier>
+          <title>Honderdste verjaardag van de oprichting van het weeshuis "de Oranjeappel" te Amsterdam</title>
+          <creator>anoniem</creator>
+          <subject>sociale geschiedenis</subject>
+          <subject>protestantisme</subject>
+          <subject>doopsgezinden</subject>
+          <subject>sociale zorg</subject>
+          <subject>weeshuis</subject>
+          <subject>100-jarig jubileum</subject>
+          <subject>Oranjeappel, de</subject>
+          <date>1775</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1959-70</identifier>
+        <datestamp>2021-10-02T12:46:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61381</identifier>
+          <identifier>BK-1959-70</identifier>
+          <title>Inktstel</title>
+          <creator>De Twee Scheepjes</creator>
+          <date>ca. 1750 - ca. 1782</date>
+          <type>horlogestandaard</type>
+          <type>inktstel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2837</identifier>
+        <datestamp>2021-10-20T10:01:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.62283</identifier>
+          <identifier>NG-VG-1-2837</identifier>
+          <title>Slag bij Doggersbank</title>
+          <creator>Lageman, Johannes Michiel</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>zeeslag</subject>
+          <subject>Zeeslag bij Doggersbank</subject>
+          <subject>Doggersbank</subject>
+          <date>1781</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-22.429</identifier>
+        <datestamp>2021-06-24T16:30:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61395</identifier>
+          <identifier>RP-P-OB-22.429</identifier>
+          <title>Voorstelling uit de geschiedenis van Celadon en Galathee</title>
+          <creator>Venne, Adriaen Pietersz. van de</creator>
+          <contributor>Matham, Adriaen</contributor>
+          <contributor>Venne, Jan Pietersz. van de</contributor>
+          <date>1625</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2382</identifier>
+        <datestamp>2021-10-20T09:56:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.61842</identifier>
+          <identifier>NG-VG-1-2382</identifier>
+          <title>Aanvang van 1745, op de hoop dat de oorlog dit jaar beeindigd wordt</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>Hollandse Tuin</subject>
+          <date>1744</date>
+          <type>nieuwjaarspenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMjU2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

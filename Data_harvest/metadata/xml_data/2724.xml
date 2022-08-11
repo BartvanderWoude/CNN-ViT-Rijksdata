@@ -1,0 +1,463 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NDQ2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-234-A</identifier>
+        <datestamp>2022-05-09T14:05:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.407</identifier>
+          <identifier>BK-NM-5783-234-A</identifier>
+          <title>Laken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1850</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>laken (object)</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-500-A</identifier>
+        <datestamp>2021-11-03T11:47:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1917</identifier>
+          <identifier>AK-MAK-500-A</identifier>
+          <title>Deurhengsel</title>
+          <creator>anoniem</creator>
+          <description>De hengsels zijn gedecoreerd met een vijfklauwige draak. Monsterkoppen houden de hengsels in hun bek. Monster
+en draak waren een passende keuze voor deurbeslag zij weerden boze geesten af.</description>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>deurhengsel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-259</identifier>
+        <datestamp>2021-10-01T20:19:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1992</identifier>
+          <identifier>AK-MAK-259</identifier>
+          <title>Javaanse kris</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1900</date>
+          <type>kris</type>
+          <format>ijzer</format>
+          <format>nikkel</format>
+          <format>witgoud</format>
+          <format>diamant</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Java</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1113</identifier>
+        <datestamp>2022-03-15T17:35:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1097</identifier>
+          <identifier>AK-MAK-1113</identifier>
+          <title>Zwaardstootplaat</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1699</date>
+          <type>tsuba</type>
+          <format>ijzer</format>
+          <format>goud</format>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-364</identifier>
+        <datestamp>2021-11-12T13:21:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1701</identifier>
+          <identifier>AK-MAK-364</identifier>
+          <title>Rolschildering</title>
+          <creator>anoniem</creator>
+          <date>1800 - 1900</date>
+          <type>rolschildering</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-113</identifier>
+        <datestamp>2021-10-01T20:17:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1896</identifier>
+          <identifier>AK-MAK-113</identifier>
+          <title>Altaarkleed met symbolen en polychrome, floralistische motieven</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1699</date>
+          <type>altaarkleed</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RAK-1971-7</identifier>
+        <datestamp>2022-03-22T13:37:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.2229</identifier>
+          <identifier>AK-RAK-1971-7</identifier>
+          <title>Klokvormige kom met bloemranken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1400 - ca. 1499</date>
+          <type>kom</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Vietnam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1002</identifier>
+        <datestamp>2022-03-15T17:39:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1545</identifier>
+          <identifier>AK-MAK-1002</identifier>
+          <title>Netsuke</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>netsuke</type>
+          <format>hout</format>
+          <format>roodlak</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1991-12</identifier>
+        <datestamp>2022-03-09T12:54:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.687</identifier>
+          <identifier>RP-T-1991-12</identifier>
+          <title>Ontwerp voor een lichtkroon</title>
+          <creator>Dugourc, Jean Démosthène</creator>
+          <description>Dugourc ontwierp deze magnifieke lichtkroon voor groothertog Paul van Rusland, de latere tsaar Paul I, die in 1782 Parijs had bezocht. De blauw gekleurde onderdelen waren bedoeld om in Sèvres-porselein te worden uitgevoerd, de gele in verguld brons, en de pegels zouden van bergkristal zijn. Dit grandioze object, dat ongeveer 150 cm hoog zou worden, is nooit uitgevoerd.</description>
+          <date>1784</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1240</identifier>
+        <datestamp>2022-03-28T12:13:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1205</identifier>
+          <identifier>AK-MAK-1240</identifier>
+          <title>Kan met een geribde buik</title>
+          <creator>anoniem</creator>
+          <date>ca. 900 - ca. 999</date>
+          <type>kan</type>
+          <format>aardewerk</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-92-A</identifier>
+        <datestamp>2022-05-09T14:05:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.210</identifier>
+          <identifier>BK-NM-5783-92-A</identifier>
+          <title>Wandbak</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>wandbak</type>
+          <format>mahoniehout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4877</identifier>
+        <datestamp>2021-10-01T19:50:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5</identifier>
+          <identifier>SK-A-4877</identifier>
+          <title>Portret van Jacob Maris</title>
+          <creator>Maris, Matthijs</creator>
+          <subject>portret</subject>
+          <subject>Maris, Jacob</subject>
+          <date>1857</date>
+          <type>schilderij</type>
+          <format>papier</format>
+          <format>olieverf</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1019</identifier>
+        <datestamp>2022-03-15T17:34:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1003</identifier>
+          <identifier>AK-MAK-1019</identifier>
+          <title>Zwaardmesheft met vliegende mussen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1900</date>
+          <type>kozuka</type>
+          <format>goud</format>
+          <format>zilver</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1953-196</identifier>
+        <datestamp>2021-10-01T19:52:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.529</identifier>
+          <identifier>RP-T-1953-196</identifier>
+          <title>Studie voor Lélie, die Mascarille ontmaskert</title>
+          <title>Ontwerpen voor illustraties voor de uitgave van 1734 van Molière's toneelstukken (uit toneelstuk ''L'Etourdi", vol. I, p. 3)</title>
+          <creator>Boucher, François</creator>
+          <subject>literaire personages en voorwerpen</subject>
+          <date>1713 - 1734</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1070</identifier>
+        <datestamp>2022-03-15T17:35:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1054</identifier>
+          <identifier>AK-MAK-1070</identifier>
+          <title>Zwaardstootplaat met kersenboom en fazanten</title>
+          <creator>Ishiguro Masatsune</creator>
+          <date>ca. 1800 - ca. 1850</date>
+          <type>tsuba</type>
+          <format>ijzer</format>
+          <format>goud</format>
+          <format>suassa</format>
+          <format>shibuichi</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1120</identifier>
+        <datestamp>2022-03-15T17:35:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1104</identifier>
+          <identifier>AK-MAK-1120</identifier>
+          <title>Zwaardstootplaat</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1900</date>
+          <type>tsuba</type>
+          <type>namban-tsuba</type>
+          <format>ijzer</format>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Hizen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-53</identifier>
+        <datestamp>2022-05-09T14:04:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.104</identifier>
+          <identifier>BK-NM-5783-53</identifier>
+          <title>Speeltafel, nagenoeg vierkant, het blad bekleed met groen laken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1775 - ca. 1800</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>tafel</type>
+          <type>speeltafel</type>
+          <format>mahoniehout</format>
+          <format>wol</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-237-A</identifier>
+        <datestamp>2022-05-09T14:05:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.416</identifier>
+          <identifier>BK-NM-5783-237-A</identifier>
+          <title>Stapel lappen, samengebonden met een band</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>lap</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1896-A-3156</identifier>
+        <datestamp>2021-10-01T19:52:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.510</identifier>
+          <identifier>RP-T-1896-A-3156</identifier>
+          <title>Paris aan Venus de appel gevende</title>
+          <creator>Boitard, François</creator>
+          <date>1680 - 1715</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-109</identifier>
+        <datestamp>2022-03-21T09:59:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1143</identifier>
+          <identifier>AK-MAK-109</identifier>
+          <title>Vaas met een plant, vogel en karakters</title>
+          <creator>anoniem</creator>
+          <date>ca. 1368 - ca. 1644</date>
+          <type>vaas</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NDQ4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

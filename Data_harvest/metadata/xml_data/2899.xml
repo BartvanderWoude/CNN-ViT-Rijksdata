@@ -1,0 +1,500 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1Nzk2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2079</identifier>
+        <datestamp>2021-10-01T23:18:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11615</identifier>
+          <identifier>BK-NM-2079</identifier>
+          <title>Kruik (schnelle) met scènes uit het leven van Lazarus</title>
+          <creator>Knütgen, Anno</creator>
+          <date>ca. 1567 - ca. 1590</date>
+          <type>kruik</type>
+          <type>schnelle</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <format>tin</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Siegburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-10107</identifier>
+        <datestamp>2021-10-01T23:27:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12409</identifier>
+          <identifier>BK-NM-10107</identifier>
+          <title>Zoutvat met vogels en krulwerk</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1799</date>
+          <type>zoutvat</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Westerwald</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4541</identifier>
+        <datestamp>2021-10-01T23:11:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10432</identifier>
+          <identifier>SK-A-4541</identifier>
+          <title>Christoffel van Swoll (1663-1718). Gouverneur-generaal (1713-18)</title>
+          <creator>Bosch, Hendrik van den</creator>
+          <subject>portret</subject>
+          <subject>economische geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Swoll, Christoffel van</subject>
+          <date>1750 - 1800</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1978-127-6152-W</identifier>
+        <datestamp>2021-07-19T12:57:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11173</identifier>
+          <identifier>NG-1978-127-6152-W</identifier>
+          <title>Bord uit V.O.C.-schip de 'Witte Leeuw'</title>
+          <creator>anoniem</creator>
+          <subject>bord (vaatwerk)</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>voor 1613</date>
+          <type>bord (vaatwerk)</type>
+          <format>porselein</format>
+          <format>kraakporselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jingdezhen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-4732</identifier>
+        <datestamp>2021-10-01T23:11:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10456</identifier>
+          <identifier>BK-NM-4732</identifier>
+          <title>Windvaan van koper, met triton, afkomstig van de Hogewoerdspoort te Leiden</title>
+          <subject>Hogewoerdspoort</subject>
+          <type>windwijzer</type>
+          <format>ijzer</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1943-9(R)</identifier>
+        <datestamp>2021-10-01T23:17:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11197</identifier>
+          <identifier>RP-T-1943-9(R)</identifier>
+          <title>Ontwerp voor een Lodewijk XIV-penanttafel</title>
+          <creator>anoniem</creator>
+          <date>1662</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4410</identifier>
+        <datestamp>2021-10-01T23:09:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10309</identifier>
+          <identifier>SK-A-4410</identifier>
+          <title>Marie, markiezin van Sévigné (1626-96)</title>
+          <creator>anoniem</creator>
+          <contributor>Nanteuil, Robert</contributor>
+          <subject>Rabutin-Chantal, Marie de</subject>
+          <date>1660 - 1670</date>
+          <type>miniatuur (schildering)</type>
+          <format>karton</format>
+          <format>schildpad</format>
+          <format>metaal</format>
+          <format>glas</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4416</identifier>
+        <datestamp>2021-10-01T23:09:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10315</identifier>
+          <identifier>SK-A-4416</identifier>
+          <title>Kop van een oude man</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1799</date>
+          <type>miniatuur (schildering)</type>
+          <format>perkament</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4494</identifier>
+        <datestamp>2021-10-01T23:10:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10386</identifier>
+          <identifier>SK-A-4494</identifier>
+          <title>Hendrik Nobel (1568-1649), gekozen in 1625</title>
+          <creator>Werff, Pieter van der</creator>
+          <contributor>Cool, Jan Daemen</contributor>
+          <subject>economische geschiedenis</subject>
+          <subject>Rotterdam</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <subject>Nobel, Hendrik Willemsz</subject>
+          <date>1695 - 1722</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-166</identifier>
+        <datestamp>2021-10-01T23:22:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12057</identifier>
+          <identifier>SK-C-166</identifier>
+          <title>Italiaans landschap</title>
+          <creator>Koekkoek, Barend Cornelis</creator>
+          <subject>landschap</subject>
+          <date>1848</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1954</identifier>
+        <datestamp>2022-06-01T16:31:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12063</identifier>
+          <identifier>SK-A-1954</identifier>
+          <title>Joost van den Vondel (1587-1679). Dichter</title>
+          <creator>Koninck, Philips</creator>
+          <subject>portret</subject>
+          <subject>Vondel, Joost van den</subject>
+          <date>1674</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-NM-8041</identifier>
+        <datestamp>2021-10-20T14:12:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12023</identifier>
+          <identifier>SK-NM-8041</identifier>
+          <title>Feestvierend gezelschap en figuren uit de Commedia dell'Arte in een galerij</title>
+          <creator>Monogrammist DB (schilder)</creator>
+          <subject>interieur</subject>
+          <date>1634</date>
+          <type>schilderij</type>
+          <type>perspectiefkast</type>
+          <format>glas</format>
+          <format>mica</format>
+          <format>papier</format>
+          <format>papier</format>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <format>amalgaam</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4087</identifier>
+        <datestamp>2022-01-17T10:17:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12038</identifier>
+          <identifier>SK-A-4087</identifier>
+          <title>Gezicht op de koffieplantage Marienbosch in Suriname</title>
+          <title>Gezicht op de koffieplantage 'Meerzorg' aan het Taparoepikanaal in Suriname?</title>
+          <creator>Klerk, Willem de</creator>
+          <contributor>Brockmann, Alexander Ludwich</contributor>
+          <subject>economische geschiedenis</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>plantage</subject>
+          <subject>koffiehandel</subject>
+          <subject>slavernij</subject>
+          <subject>Suriname</subject>
+          <subject>Plantage Mariënbosch</subject>
+          <subject>Plantage Meerzorg</subject>
+          <date>1829 - 1876</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2080</identifier>
+        <datestamp>2021-10-01T23:25:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12193</identifier>
+          <identifier>BK-NM-2080</identifier>
+          <title>Kruik (schnelle) met het leven van Jonas en twee wapens</title>
+          <creator>Knütgen, Christian</creator>
+          <date>ca. 1574 - ca. 1600</date>
+          <type>kruik</type>
+          <type>schnelle</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Siegburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1963-14</identifier>
+        <datestamp>2021-11-03T19:16:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11643</identifier>
+          <identifier>BK-1963-14</identifier>
+          <title>Mantel (dolman) met kant</title>
+          <creator>anoniem</creator>
+          <subject>mantel</subject>
+          <subject>gedragen</subject>
+          <subject>Veen-Blokhuis, C.C.J. van</subject>
+          <description>Het belangrijkste kenmerk van de dolman zijn de aangeknipte mouwen waardoor het een overgangsvorm is tussen een jasje en een cape. In de jaren 70 en 80 van de 19de eeuw werd deze mantel veel gedragen. De voorkant was meestal langer dan de achterkant, waar uitstaande panden ruimte boden aan de queue, een constructie om de rok achter uit te laten staan.</description>
+          <date>ca. 1880 - ca. 1885</date>
+          <type>dameskleding</type>
+          <type>bovenkleding</type>
+          <type>mantel</type>
+          <type>visite</type>
+          <type>sortie</type>
+          <format>wol</format>
+          <format>zijde</format>
+          <format>kant (materiaal)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-1558</identifier>
+        <datestamp>2021-10-01T23:21:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11956</identifier>
+          <identifier>SK-C-1558</identifier>
+          <title>Gecalligrafeerde spreuk geflankeerd door twee tulpen</title>
+          <creator>Hondius, Isaac</creator>
+          <subject>stilleven</subject>
+          <date>1667</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-KOG-468</identifier>
+        <datestamp>2022-01-25T14:11:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11191</identifier>
+          <identifier>BK-KOG-468</identifier>
+          <title>Fragment van een kruik (schnelle) met een wapen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1575 - ca. 1599</date>
+          <type>kruik</type>
+          <type>schnelle</type>
+          <type>fragment</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Siegburg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-307</identifier>
+        <datestamp>2022-06-01T16:21:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10692</identifier>
+          <identifier>SK-C-307</identifier>
+          <title>Bijbellezen</title>
+          <creator>Pistorius, Eduard Karl Gustav Lebrecht</creator>
+          <subject>genrestuk</subject>
+          <date>1831</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-1978-127-5188-W</identifier>
+        <datestamp>2021-07-19T12:57:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11142</identifier>
+          <identifier>NG-1978-127-5188-W</identifier>
+          <title>Fragment bord uit V.O.C.-schip de 'Witte Leeuw'</title>
+          <creator>anoniem</creator>
+          <subject>bord (vaatwerk)</subject>
+          <subject>overzeese geschiedenis</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Sint-Helena</subject>
+          <subject>Verenigde Oostindische Compagnie</subject>
+          <date>voor 1613</date>
+          <type>bord (vaatwerk)</type>
+          <type>scherf</type>
+          <format>kraakporselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Jingdezhen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1952-57</identifier>
+        <datestamp>2021-10-01T23:17:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.11214</identifier>
+          <identifier>RP-T-1952-57</identifier>
+          <title>Veroordelingsscène</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1699</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1Nzk4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

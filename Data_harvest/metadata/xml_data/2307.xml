@@ -1,0 +1,538 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NjEyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-1065</identifier>
+        <datestamp>2021-10-02T13:14:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114476</identifier>
+          <identifier>RP-T-00-1065</identifier>
+          <title>De Eed der Horatii</title>
+          <creator>Andriessen, Jurriaan</creator>
+          <contributor>David, Jacques-Louis</contributor>
+          <date>1752 - 1819</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-5934</identifier>
+        <datestamp>2019-03-18T13:57:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114563</identifier>
+          <identifier>RP-P-OB-5934</identifier>
+          <title>Koning Josia scheurt zijn kleren bij het horen van de woorden uit het wetboek</title>
+          <title>Geschiedenis van koning Josia</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>Varlenius, Hieronymus</contributor>
+          <date>ca. 1569</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-6620</identifier>
+        <datestamp>2020-05-06T11:50:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114772</identifier>
+          <identifier>RP-P-OB-6620</identifier>
+          <title>Delfische Sibille</title>
+          <title>Sibylla Delphica</title>
+          <title>Sibillen</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Blocklandt, Anthonie</contributor>
+          <contributor>Arias Montanus, Benedictus</contributor>
+          <contributor>Galle, Philips</contributor>
+          <date>1575</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Lage Landen</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1898-A-19932</identifier>
+        <datestamp>2016-10-20T21:02:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114809</identifier>
+          <identifier>RP-P-1898-A-19932</identifier>
+          <title>Waternimf Arethusa</title>
+          <title>Arthvsa</title>
+          <title>Stroom- en waternimfen</title>
+          <title>Nimpharum oceanitidum, ephydridum potamidum naiadum</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Galle, Philips</contributor>
+          <date>1587</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-2436</identifier>
+        <datestamp>2019-05-23T16:04:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115107</identifier>
+          <identifier>RP-P-1906-2436</identifier>
+          <title>Portret van Petrus Canisius</title>
+          <title>Petrvs Canisivs Neomagvs Soc. Iesv Theologvs</title>
+          <title>Bekende schrijvers uit de Nederlanden</title>
+          <title>Bibliotheca Belgica</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Mire, Aubert le</contributor>
+          <contributor>Foppens, Franciscus</contributor>
+          <subject>Canisius, Petrus</subject>
+          <date>1604</date>
+          <date>1739</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-1075</identifier>
+        <datestamp>2021-10-02T13:14:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114468</identifier>
+          <identifier>RP-T-00-1075</identifier>
+          <title>Twee schetsen van een kind en twee volwassenen (?)</title>
+          <creator>Andriessen, Jurriaan</creator>
+          <contributor>Coclers, Louis Bernard</contributor>
+          <date>1808-02-13</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1985-259</identifier>
+        <datestamp>2016-10-20T21:02:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114623</identifier>
+          <identifier>RP-P-1985-259</identifier>
+          <title>Christus aan het kruis</title>
+          <title>Passie, dood en wederopstanding van Christus</title>
+          <title>Passio, mors et resurrection dn. Nostri Iesu Christ</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Straet, Jan van der</contributor>
+          <contributor>Galle, Philips</contributor>
+          <date>1585 - 1586</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Florence</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1906-682</identifier>
+        <datestamp>2019-05-23T16:04:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115207</identifier>
+          <identifier>RP-P-1906-682</identifier>
+          <title>Portret van Jacob Reyvaert</title>
+          <title>Iacobvs. Raevardvs Brugensis</title>
+          <title>Portretten van beroemde Nederlandse en Vlaamse geleerden</title>
+          <title>Illustrium Galliae Belgicae scriptorum icones et elogi</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Lernutius, Janus</contributor>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <subject>Reyvaert, Jacob</subject>
+          <date>1604 - 1608</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-4456</identifier>
+        <datestamp>2020-03-24T15:25:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115213</identifier>
+          <identifier>RP-P-1909-4456</identifier>
+          <title>Portret van Jacopo Sannazaro</title>
+          <title>Iacobvs Sanazarivs</title>
+          <title>Portretten van beroemde geleerden</title>
+          <title>Imagines L. doctorum virorum</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Raphelengius, Franciscus (I)</contributor>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <subject>Sannazaro, Jacopo</subject>
+          <date>1587 - 1606</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1880-A-4110</identifier>
+        <datestamp>2016-10-20T21:02:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114517</identifier>
+          <identifier>RP-P-1880-A-4110</identifier>
+          <title>De dronkenschap van Noach</title>
+          <title>De onheilsdagen van het Joodse volk</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1880-A-4116</identifier>
+        <datestamp>2016-10-20T21:02:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114523</identifier>
+          <identifier>RP-P-1880-A-4116</identifier>
+          <title>De verwoesting van Ai en de steniging van Achan</title>
+          <title>De onheilsdagen van het Joodse volk</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <date>1569</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1898-A-19941</identifier>
+        <datestamp>2016-10-20T21:02:19Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114818</identifier>
+          <identifier>RP-P-1898-A-19941</identifier>
+          <title>Waternimf Aganippe</title>
+          <title>Aganippe</title>
+          <title>Stroom- en waternimfen</title>
+          <title>Nimpharum oceanitidum, ephydridum potamidum naiadum</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Galle, Philips</contributor>
+          <date>1587</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1908-4473</identifier>
+        <datestamp>2016-10-20T21:02:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115159</identifier>
+          <identifier>RP-P-1908-4473</identifier>
+          <title>Portret van Thomas à Kempis</title>
+          <title>Thomas Kempensis Canonicvs</title>
+          <title>Portretten van beroemde Nederlandse en Vlaamse geleerden</title>
+          <title>Illustrium Galliae Belgicae scriptorum icones et elogi</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Vrients, Maximiliaan</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <subject>Kempis, Thomas à</subject>
+          <date>1604 - 1608</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Gent</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-6080</identifier>
+        <datestamp>2020-10-14T17:43:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115313</identifier>
+          <identifier>RP-P-BI-6080</identifier>
+          <title>Misbruik van het handelsrecht</title>
+          <title>Misbruik in procesvoering</title>
+          <title>Litis Abusus</title>
+          <creator>Collaert, Adriaen</creator>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Goltzius, Hendrick</contributor>
+          <contributor>Galle, Philips</contributor>
+          <date>ca. 1593 - ca. 1597</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-1033</identifier>
+        <datestamp>2021-10-02T13:14:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114421</identifier>
+          <identifier>RP-T-00-1033</identifier>
+          <title>Ontwerp voor kamerwand</title>
+          <creator>Andriessen, Jurriaan</creator>
+          <date>ca. 1752 - ca. 1819</date>
+          <type>tekening</type>
+          <type>ontwerp</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <format>inkt</format>
+          <format>grafiet</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1979-4</identifier>
+        <datestamp>2016-10-20T21:02:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114669</identifier>
+          <identifier>RP-P-1979-4</identifier>
+          <title>Christus en de Samaritaanse vrouw bij de bron</title>
+          <title>Zes scènes met Christus en vrouwen uit de evangeliën</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Blocklandt, Anthonie</contributor>
+          <date>ca. 1577 - ca. 1579</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1952-541</identifier>
+        <datestamp>2019-03-11T16:03:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114913</identifier>
+          <identifier>RP-P-1952-541</identifier>
+          <title>Vuur</title>
+          <title>Ignis</title>
+          <title>De vier elementen</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Junius, Hadrianus</contributor>
+          <contributor>Galle, Philips</contributor>
+          <subject>vuur (een van de vier elementen)</subject>
+          <date>1564</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1886-A-10821</identifier>
+        <datestamp>2019-03-11T16:04:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115012</identifier>
+          <identifier>RP-P-1886-A-10821</identifier>
+          <title>Hazenjacht met drijvers</title>
+          <title>Jacht en visvangst</title>
+          <title>Venationes, Piscationes et Aucupii Typi</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Bol, Hans</contributor>
+          <contributor>Galle, Theodoor</contributor>
+          <date>1582</date>
+          <date>1582 - 1633</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-474</identifier>
+        <datestamp>2016-10-20T21:02:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115259</identifier>
+          <identifier>RP-P-1904-474</identifier>
+          <title>Jozefs roede in bloei</title>
+          <title>Cvm B. Virgine Desponsatio</title>
+          <title>Taferelen uit het leven van de Heilige Familie</title>
+          <creator>Galle, Theodoor</creator>
+          <contributor>Galle, Theodoor</contributor>
+          <date>1581 - 1633</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-5939</identifier>
+        <datestamp>2019-03-20T11:55:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.114569</identifier>
+          <identifier>RP-P-OB-5939</identifier>
+          <title>Koning Josia laat de paarden en wagens ter ere van de zon verwijderen</title>
+          <title>Geschiedenis van koning Josia</title>
+          <creator>Galle, Philips</creator>
+          <contributor>Heemskerck, Maarten van</contributor>
+          <contributor>Varlenius, Hieronymus</contributor>
+          <date>ca. 1569</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Haarlem</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NjE0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

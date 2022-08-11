@@ -1,0 +1,487 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0ODEyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1937-790</identifier>
+        <datestamp>2019-05-21T09:58:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118490</identifier>
+          <identifier>RP-P-1937-790</identifier>
+          <title>Gezicht op het Muntplein van Amsterdam</title>
+          <creator>Greive, Johan Conrad</creator>
+          <contributor>Greive, Johan Conrad</contributor>
+          <subject>Muntplein</subject>
+          <subject>Munttoren</subject>
+          <date>1882</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.517</identifier>
+        <datestamp>2019-05-29T15:41:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116286</identifier>
+          <identifier>RP-P-OB-52.517</identifier>
+          <title>Landschap met omgevallen boom</title>
+          <creator>Genoels, Abraham</creator>
+          <contributor>Genoels, Abraham</contributor>
+          <date>1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.586</identifier>
+        <datestamp>2019-05-29T15:43:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116363</identifier>
+          <identifier>RP-P-OB-52.586</identifier>
+          <title>Landschap met rivier</title>
+          <creator>Genoels, Abraham</creator>
+          <contributor>Genoels, Abraham</contributor>
+          <date>1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-60.003</identifier>
+        <datestamp>2019-05-29T15:43:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117987</identifier>
+          <identifier>RP-P-OB-60.003</identifier>
+          <title>Openbaring aan de evangelisten / Prediking van Johannes de Doper / Bekering van Paulus</title>
+          <creator>Gouwen, Gilliam van der</creator>
+          <contributor>Picart, Bernard</contributor>
+          <date>1670 - ca. 1740</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1924-713</identifier>
+        <datestamp>2016-10-20T21:05:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118273</identifier>
+          <identifier>RP-P-1924-713</identifier>
+          <title>Landschap bij Overveen</title>
+          <creator>Grave, Jan Evert</creator>
+          <subject>Overveen</subject>
+          <date>1769 - 1805</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.537</identifier>
+        <datestamp>2019-05-29T15:42:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116309</identifier>
+          <identifier>RP-P-OB-52.537</identifier>
+          <title>Arcadisch landschap met triomfboog</title>
+          <title>Klassieke landschappen</title>
+          <creator>Genoels, Abraham</creator>
+          <contributor>Genoels, Abraham</contributor>
+          <date>1684</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.563</identifier>
+        <datestamp>2019-05-29T15:42:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116340</identifier>
+          <identifier>RP-P-OB-52.563</identifier>
+          <title>Landschap met rotsen</title>
+          <title>Rivierlandschappen</title>
+          <creator>Genoels, Abraham</creator>
+          <contributor>Genoels, Abraham</contributor>
+          <contributor>Meulen, Adam Frans van der</contributor>
+          <date>1650 - 1690</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-60.017</identifier>
+        <datestamp>2016-10-20T21:05:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118010</identifier>
+          <identifier>RP-P-OB-60.017</identifier>
+          <title>Nachtelijke overval</title>
+          <creator>Gouwen, Gilliam van der</creator>
+          <contributor>Picart, Bernard</contributor>
+          <date>1670 - 1740</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1889-A-14936</identifier>
+        <datestamp>2016-10-20T21:05:24Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118249</identifier>
+          <identifier>RP-P-1889-A-14936</identifier>
+          <title>Balzaal</title>
+          <title>De Redoute</title>
+          <creator>Grave, Jan Evert</creator>
+          <contributor>Langeveld, Dirk Meland</contributor>
+          <date>1769 - 1805</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.489</identifier>
+        <datestamp>2019-05-29T15:41:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.115644</identifier>
+          <identifier>RP-P-OB-52.489</identifier>
+          <title>Apostel Petrus</title>
+          <title>S.Petrvs</title>
+          <creator>Gauw, Gerrit</creator>
+          <contributor>Matham, Jacob</contributor>
+          <contributor>Goos, Abraham</contributor>
+          <date>1604 - 1638</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.504</identifier>
+        <datestamp>2016-10-20T21:03:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116671</identifier>
+          <identifier>RP-P-OB-52.504</identifier>
+          <title>Fabel over ooievaars en hun godsdienst</title>
+          <creator>Gheeraerts, Marcus (I)</creator>
+          <contributor>Gheeraerts, Marcus (I)</contributor>
+          <contributor>Galle, Philips</contributor>
+          <contributor>Pieterss, Dirck</contributor>
+          <subject>fabels</subject>
+          <date>1578</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.970</identifier>
+        <datestamp>2019-05-29T15:43:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117927</identifier>
+          <identifier>RP-P-OB-52.970</identifier>
+          <title>Tobias en de engel bij een rivier</title>
+          <creator>Goudt, Hendrick</creator>
+          <contributor>Elsheimer, Adam</contributor>
+          <date>1608</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1882-A-5916</identifier>
+        <datestamp>2016-10-20T21:05:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118404</identifier>
+          <identifier>RP-P-1882-A-5916</identifier>
+          <title>Portret van Jurriaan Buttner</title>
+          <creator>Greenwood, John</creator>
+          <contributor>Greenwood, John</contributor>
+          <contributor>Monogrammist HVE (schrijver)</contributor>
+          <subject>Buttner, Jurriaan</subject>
+          <date>1737 - 1792</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.498</identifier>
+        <datestamp>2016-10-20T21:03:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116156</identifier>
+          <identifier>RP-P-OB-52.498</identifier>
+          <title>Kaart van Palestina</title>
+          <title>Terrae Sanctae seu terrae promissionis nova descripto</title>
+          <creator>Geelkercken, Nicolaes van</creator>
+          <contributor>Geilkercken, Arnoldus van</contributor>
+          <contributor>Geelkercken, Nicolaes van</contributor>
+          <contributor>Geelkercken, Nicolaes van</contributor>
+          <subject>kaarten, atlassen</subject>
+          <subject>Palestina</subject>
+          <subject>Israël</subject>
+          <date>1621</date>
+          <type>prent</type>
+          <type>kaart</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.606</identifier>
+        <datestamp>2021-10-07T11:17:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.116483</identifier>
+          <identifier>RP-P-OB-52.606</identifier>
+          <title>Titelpagina voor "Begin ende voortgang vande Vereenigde Neederlandtsche geoctroyeerde Oost-Indische Compagnie", 1646</title>
+          <title>Begin ende voortgang vande Vereenigde Neederlandtsche geoctroyeerde Oost-Indische Compagnie</title>
+          <creator>Gerritsz, Hessel</creator>
+          <contributor>Janssonius, Johannes</contributor>
+          <date>1646</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-172</identifier>
+        <datestamp>2016-10-20T21:05:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117964</identifier>
+          <identifier>RP-P-1905-172</identifier>
+          <title>Portret van admiraal Jacob van Wassenaar</title>
+          <creator>Goutsbloem, Jacob</creator>
+          <contributor>Beusekom, Francoys van</contributor>
+          <contributor>anoniem</contributor>
+          <subject>Wassenaer heer van Obdam, Jacob baron van</subject>
+          <date>1642 - 1665</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1887-A-12133</identifier>
+        <datestamp>2018-12-11T15:08:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118296</identifier>
+          <identifier>RP-P-1887-A-12133</identifier>
+          <title>Gezicht op Culemborg</title>
+          <title>Nederlandse dorpen</title>
+          <creator>Grave, Jan Evert</creator>
+          <contributor>Beijer, Jan de</contributor>
+          <subject>Culemborg</subject>
+          <date>1786 - 1805</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.795</identifier>
+        <datestamp>2019-05-29T15:43:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117168</identifier>
+          <identifier>RP-P-OB-52.795</identifier>
+          <title>Minerva verdrijft Afgunst: een allegorie op zekerheid</title>
+          <title>Bijbelse, mythologische en allegorische voorstellingen</title>
+          <creator>Glauber, Johannes</creator>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Lairesse, Gerard de</contributor>
+          <contributor>Schenk, Leonard</contributor>
+          <subject>Amstel</subject>
+          <date>1672 - 1726</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>onbekend</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1892-A-17517</identifier>
+        <datestamp>2016-10-20T21:05:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.117825</identifier>
+          <identifier>RP-P-1892-A-17517</identifier>
+          <title>Oktober</title>
+          <title>October</title>
+          <title>De twaalf maanden</title>
+          <creator>Goltzius, Julius</creator>
+          <contributor>Mostaert, Gillis (I)</contributor>
+          <contributor>Luyck, Hans van</contributor>
+          <date>ca. 1560 - 1595</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1951-341</identifier>
+        <datestamp>2020-01-27T16:02:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.118457</identifier>
+          <identifier>RP-T-1951-341</identifier>
+          <title>Zittende vrouw, schilderend</title>
+          <creator>Barbiers, Pieter Bartholomeusz.</creator>
+          <date>1782 - 1837</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0ODE0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

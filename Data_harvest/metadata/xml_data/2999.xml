@@ -1,0 +1,473 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTk2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14685-B</identifier>
+        <datestamp>2021-11-03T19:26:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51020</identifier>
+          <identifier>BK-14685-B</identifier>
+          <title>Rok met queue en sleep van paars fluweel, versierd met veelkleurige florale applicaties.</title>
+          <creator>Hirsch &amp; Cie N.V.</creator>
+          <date>1893</date>
+          <type>kleding</type>
+          <type>dameskleding</type>
+          <type>bovenkleding</type>
+          <type>rok</type>
+          <format>zijde</format>
+          <format>fluweel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12206-C-1</identifier>
+        <datestamp>2021-08-19T17:12:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51516</identifier>
+          <identifier>BK-NM-12206-C-1</identifier>
+          <title>Fragment bedrukte katoen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1920 - ca. 1950</date>
+          <type>bedrukte katoen</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13282</identifier>
+        <datestamp>2021-10-02T12:24:22Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51568</identifier>
+          <identifier>BK-NM-13282</identifier>
+          <title>Vijf aan elkaar genaaide fragmenten rood zijdedamast</title>
+          <creator>anoniem</creator>
+          <date>ca. 1500 - ca. 1699</date>
+          <type>zijdedamast</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.132</identifier>
+        <datestamp>2019-05-22T12:38:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51663</identifier>
+          <identifier>RP-P-OB-31.132</identifier>
+          <title>Circe drinkend</title>
+          <creator>Trento, Antonio da</creator>
+          <contributor>Parmigianino</contributor>
+          <contributor>Andreani, Andrea</contributor>
+          <date>1568 - 1629</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1958-84</identifier>
+        <datestamp>2021-10-02T12:24:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51748</identifier>
+          <identifier>BK-1958-84</identifier>
+          <title>Fragment van een wandbespanning</title>
+          <creator>anoniem</creator>
+          <date>ca. 1825</date>
+          <type>wandbespanning</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.956</identifier>
+        <datestamp>2022-03-02T15:21:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51849</identifier>
+          <identifier>RP-P-OB-17.956</identifier>
+          <title>Apollo en de muzen op de berg Helicon</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <subject>Helikoon, heilig voor de Muzen</subject>
+          <subject>Helicon</subject>
+          <date>1777-03-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-333-A</identifier>
+        <datestamp>2021-10-02T12:25:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52143</identifier>
+          <identifier>BK-1955-333-A</identifier>
+          <title>Veld van vier diertegels</title>
+          <creator>anoniem</creator>
+          <date>ca. 1620 - ca. 1640</date>
+          <type>tegel</type>
+          <type>tegelveld</type>
+          <type>diertegel</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12028-30-B</identifier>
+        <datestamp>2021-11-03T23:08:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51100</identifier>
+          <identifier>BK-NM-12028-30-B</identifier>
+          <title>Japon (robe ajustée)</title>
+          <creator>anoniem</creator>
+          <description>18de-eeuwse japonnen die aan de achterkant op het lichaam aansloten werden wel robe ajustée genoemd. Het opvallende motief van de stof – speels verdeelde exotische planten en kleine gebouwtjes – was in de jaren 30 en 40 van 18de eeuw in de mode. De scherp geplooide vorm van de manchetten is kenmerkend voor de eerste helft van die eeuw.</description>
+          <date>1750</date>
+          <type>kleding</type>
+          <type>dameskleding</type>
+          <type>bovenkleding</type>
+          <type>tablier</type>
+          <format>zijde</format>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11604</identifier>
+        <datestamp>2022-03-14T14:24:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51163</identifier>
+          <identifier>BK-NM-11604</identifier>
+          <title>Fragment zijden ciselé fluweel.</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1625</date>
+          <type>fragment</type>
+          <format>zijde</format>
+          <format>fluweel</format>
+          <format>ciseléfluweel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1952-98</identifier>
+        <datestamp>2019-01-23T11:40:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51301</identifier>
+          <identifier>RP-T-1952-98</identifier>
+          <title>Wandelaars op een weg langs hoge bomen</title>
+          <creator>Haagen, Joris van der</creator>
+          <date>1625 - 1669</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1888-A-1867</identifier>
+        <datestamp>2021-05-17T15:32:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51976</identifier>
+          <identifier>RP-T-1888-A-1867</identifier>
+          <title>Italiaans rivierlandschap met muzikanten, herders en een monument</title>
+          <creator>Grave, Josua de</creator>
+          <date>in of na ca. 1676 - ca. </date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5511-B</identifier>
+        <datestamp>2021-10-02T12:24:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51149</identifier>
+          <identifier>BK-NM-5511-B</identifier>
+          <title>Stoelbekleding van reliëffluweel met floraal patroon in bordeauxrood op naturel</title>
+          <creator>anoniem</creator>
+          <date>ca. 1650 - ca. 1700</date>
+          <type>stoelrug</type>
+          <type>stoelbekleding</type>
+          <format>katoen</format>
+          <format>linnen</format>
+          <format>wol</format>
+          <format>fluweel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.050</identifier>
+        <datestamp>2019-05-22T12:36:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51320</identifier>
+          <identifier>RP-P-OB-31.050</identifier>
+          <title>Lezende Sibille met kind</title>
+          <creator>anoniem</creator>
+          <contributor>Trento, Antonio da</contributor>
+          <creator>Carpi, Ugo da</creator>
+          <contributor>Rafaël</contributor>
+          <subject>lezen</subject>
+          <date>in of na ca. 1516</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-5567X</identifier>
+        <datestamp>2019-05-22T12:38:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51683</identifier>
+          <identifier>RP-P-BI-5567X</identifier>
+          <title>Naakte man in een landschap</title>
+          <creator>Trento, Antonio da</creator>
+          <contributor>Parmigianino</contributor>
+          <subject>landschappen</subject>
+          <date>ca. 1520 - ca. 1550</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3661</identifier>
+        <datestamp>2021-10-02T12:24:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52092</identifier>
+          <identifier>BK-NM-3661</identifier>
+          <title>Fragment veelkleurige zijde met op een wit fond (bruin verkleurd?) een patroon van krulwerk en gestileerde bladmotieven met in en op de geslingerde banen bloemen en bloemtakken</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1725</date>
+          <type>gebrocheerde zijde</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-31.220</identifier>
+        <datestamp>2019-05-22T12:40:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52104</identifier>
+          <identifier>RP-P-OB-31.220</identifier>
+          <title>Heilige Judas Taddeüs</title>
+          <title>Christus en de twaalf apostelen</title>
+          <creator>Trento, Antonio da</creator>
+          <contributor>Parmigianino</contributor>
+          <date>ca. 1520 - ca. 1550</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15286-F</identifier>
+        <datestamp>2021-10-02T12:23:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.50912</identifier>
+          <identifier>BK-15286-F</identifier>
+          <title>Strook kloskant met kruis en ruit of "silverkors"</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dalarna</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.892</identifier>
+        <datestamp>2022-03-02T15:20:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51606</identifier>
+          <identifier>RP-P-OB-17.892</identifier>
+          <title>Landschap met aanbidding van het gouden kalf</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1776-01-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-17.909</identifier>
+        <datestamp>2022-03-02T15:20:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.51669</identifier>
+          <identifier>RP-P-OB-17.909</identifier>
+          <title>Koningin Esther nadert het paleis van Ahasuerus</title>
+          <title>Prenten naar tekeningen van Claude Lorrain</title>
+          <title>Liber Veritatis. Or a Collection of Two Hundred Prints, after the original designs of Claude le Lorrain (...)</title>
+          <creator>Earlom, Richard</creator>
+          <contributor>Lorrain, Claude</contributor>
+          <contributor>Boydell, John</contributor>
+          <date>1776-06-01</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1992-8-C</identifier>
+        <datestamp>2021-10-02T12:25:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.52159</identifier>
+          <identifier>BK-1992-8-C</identifier>
+          <title>Strook kloskant met ovalen die diepe puntige schulpen vormen</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <contributor>anoniem</contributor>
+          <date>ca. 1825 - ca. 1849</date>
+          <type>strook</type>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>België</coverage>
+          <coverage>Frankrijk</coverage>
+          <coverage>Le Puy</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1OTk4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

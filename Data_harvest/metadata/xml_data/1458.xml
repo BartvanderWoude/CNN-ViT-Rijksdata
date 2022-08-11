@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyOTE0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2414</identifier>
+        <datestamp>2021-11-03T16:51:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14611</identifier>
+          <identifier>BK-NM-2414</identifier>
+          <title>Kandelaar van messing</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1450 - ca. 1500</date>
+          <type>kandelaar</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15122-B</identifier>
+        <datestamp>2021-10-01T23:50:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14781</identifier>
+          <identifier>BK-15122-B</identifier>
+          <title>Stamper van brons</title>
+          <creator>Horst, Henrick ter</creator>
+          <date>1622</date>
+          <type>stamper</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Deventer</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5751</identifier>
+        <datestamp>2021-10-01T23:52:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14867</identifier>
+          <identifier>BK-NM-5751</identifier>
+          <title>Entouragering, de hoep in de vorm van een strik</title>
+          <creator>anoniem</creator>
+          <date>ca. 1670 - ca. 1690</date>
+          <type>sieraad</type>
+          <type>ring (sieraad)</type>
+          <format>zilver</format>
+          <format>diamant</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-BR-J-368</identifier>
+        <datestamp>2019-08-01T09:23:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14200</identifier>
+          <identifier>BK-BR-J-368</identifier>
+          <title>Waaierblad van gemengde kant met vlindertjes</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1910</date>
+          <type>waaierblad</type>
+          <format>katoen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1309</identifier>
+        <datestamp>2021-11-03T16:52:06Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14708</identifier>
+          <identifier>BK-NM-1309</identifier>
+          <title>Bekken met Adam en Eva</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1600</date>
+          <type>bekken (schaal)</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1313</identifier>
+        <datestamp>2021-11-03T16:52:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14714</identifier>
+          <identifier>BK-NM-1313</identifier>
+          <title>Bekken met de heilige Joris</title>
+          <creator>anoniem</creator>
+          <date>1500 - 1600</date>
+          <type>bekken (schaal)</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9419</identifier>
+        <datestamp>2021-10-01T23:49:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14758</identifier>
+          <identifier>BK-NM-9419</identifier>
+          <title>Kookpot met opschrift: MARGRIETIEN BARTOLDS IN DEO SPES MEA ANO 1635</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1635</date>
+          <type>kookpot</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8301-A</identifier>
+        <datestamp>2021-10-01T23:50:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14764</identifier>
+          <identifier>BK-NM-8301-A</identifier>
+          <title>Vijzel met opschrift: jhesus.maria.anno.domini.m.cccc.xxxvii</title>
+          <creator>Hachmann, Albert</creator>
+          <date>1537</date>
+          <type>vijzel</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kleef</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1966-77</identifier>
+        <datestamp>2021-10-01T23:52:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14900</identifier>
+          <identifier>BK-1966-77</identifier>
+          <title>Speelbeurs van flessengroen fluweel geborduurd met zilverdraad, op de bodem versierd met ongeïdentificeerd wapen in zilverbrokaat en zijdenpassement</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>speelbeurs</type>
+          <format>fluweel</format>
+          <format>zilverbrokaat</format>
+          <format>zilverdraad</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1973-29</identifier>
+        <datestamp>2021-11-03T16:52:23Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14738</identifier>
+          <identifier>BK-1973-29</identifier>
+          <title>Lavabo</title>
+          <creator>anoniem</creator>
+          <date>1800 - 1900</date>
+          <type>lavabo</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Morteau</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1966-65</identifier>
+        <datestamp>2021-11-03T19:19:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14937</identifier>
+          <identifier>BK-1966-65</identifier>
+          <title>Speelbeurs van wijnrood fluweel, geborduurd met zilverdraad en blauwe zijde, met het wapen van de Dauphin van Frankrijk of de provincie Viennois later bekend als de Dauphiné</title>
+          <creator>anoniem</creator>
+          <date>ca. 1680 - ca. 1720</date>
+          <type>speelbeurs</type>
+          <format>fluweel</format>
+          <format>geitenleer</format>
+          <format>zilverdraad</format>
+          <format>vloszijde</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14917</identifier>
+        <datestamp>2021-11-03T19:17:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13864</identifier>
+          <identifier>BK-14917</identifier>
+          <title>Wandelstok van bamboe met twaalfzijdige zilveren knop met op bovenzijde de H. Christoffel met Kind Jezus op de arm</title>
+          <creator>anoniem</creator>
+          <date>ca. 1775 - ca. 1800</date>
+          <type>wandelstok</type>
+          <format>rotan</format>
+          <format>zilver</format>
+          <format>koper</format>
+          <format>metaal</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Europa</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1980-477</identifier>
+        <datestamp>2021-08-19T16:55:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.13919</identifier>
+          <identifier>BK-1980-477</identifier>
+          <title>Handdoek van wit linnen</title>
+          <date>1878 - 1915</date>
+          <type>handdoek</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1978-314-A</identifier>
+        <datestamp>2021-11-03T19:17:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14057</identifier>
+          <identifier>BK-1978-314-A</identifier>
+          <title>Vouwwaaier, bestaande uit een enkel blad van dun leer waarop met gouache een Godenmaaltijd (?) omgeven door een rand met rode, blauwe en gouden chinoiseriemotiefjes, op een montuur van ivoor ajour en in reliëf gesneden</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <subject>geven</subject>
+          <subject>eten</subject>
+          <subject>vouwwaaier</subject>
+          <subject>pillegift</subject>
+          <subject>geveinsde liefde</subject>
+          <subject>geboorte</subject>
+          <subject>maaltijd</subject>
+          <subject>Amsterdam</subject>
+          <subject>Bosch Reitz, Gijs</subject>
+          <subject>Six, jonkvrouw Catharina Isabella</subject>
+          <subject>Bosch Reitz-Teding van Berkhout, Catharina Isabella</subject>
+          <subject>Teding van Berkhout-Low, Catharina Isabella</subject>
+          <date>ca. 1740 - ca. 1750</date>
+          <type>vouwwaaier</type>
+          <format>leer</format>
+          <format>gouache (waterverf)</format>
+          <format>goudverf</format>
+          <format>hout</format>
+          <format>ivoor</format>
+          <format>metaal</format>
+          <format>parelmoer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Frankrijk</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2399</identifier>
+        <datestamp>2021-11-03T16:51:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14585</identifier>
+          <identifier>BK-NM-2399</identifier>
+          <title>Kandelaar met geprofileerde voet en stam</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1500 - ca. 1550</date>
+          <type>kandelaar</type>
+          <format>messing</format>
+          <format>lood</format>
+          <format>tin</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Zuidelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-2430</identifier>
+        <datestamp>2021-11-03T16:51:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14634</identifier>
+          <identifier>BK-NM-2430</identifier>
+          <title>Blaker van messing met rankenornament</title>
+          <creator>anoniem</creator>
+          <date>ca. 1600 - ca. 1699</date>
+          <type>blaker</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Mechelen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-7007</identifier>
+        <datestamp>2021-11-03T19:18:56Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14179</identifier>
+          <identifier>BK-NM-7007</identifier>
+          <title>Brisé-waaier van ivoor, in reliëf gesneden met bloemen en ranken, en voorzien van drie ovale medaillons waarop in de middelste 'Sacred to Love'</title>
+          <creator>anoniem</creator>
+          <date>ca. 1780 - ca. 1790</date>
+          <type>briséwaaier</type>
+          <format>ivoor</format>
+          <format>katoen</format>
+          <format>parelmoer</format>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kanton</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11494</identifier>
+        <datestamp>2021-10-01T23:44:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14441</identifier>
+          <identifier>BK-NM-11494</identifier>
+          <title>Reclamebord van Hendrik Rusing</title>
+          <creator>anoniem</creator>
+          <date>ca. 1760 - ca. 1780</date>
+          <type>reclamebord</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1976-15-A</identifier>
+        <datestamp>2021-11-03T11:47:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14694</identifier>
+          <identifier>BK-1976-15-A</identifier>
+          <title>Kaarsenhouder</title>
+          <creator>anoniem</creator>
+          <date>ca. 1625 - ca. 1675</date>
+          <type>kaarsenhouder</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9074</identifier>
+        <datestamp>2021-10-01T23:53:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14982</identifier>
+          <identifier>BK-NM-9074</identifier>
+          <title>Deurklopper</title>
+          <date>ca. 1400 - ca. 1950</date>
+          <type>deurklopper</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyOTE2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

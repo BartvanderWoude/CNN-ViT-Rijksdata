@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1Njc4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-22</identifier>
+        <datestamp>2022-05-09T14:04:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.162</identifier>
+          <identifier>BK-NM-5783-22</identifier>
+          <title>Lessenaar met rechthoekig blad op achthoekige, balustervormige stam</title>
+          <creator>anoniem</creator>
+          <date>ca. 1700</date>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <type>meubilair</type>
+          <type>lessenaar</type>
+          <format>tropisch hardhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5783-247-A</identifier>
+        <datestamp>2022-05-09T14:05:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.459</identifier>
+          <identifier>BK-NM-5783-247-A</identifier>
+          <title>Tafellaken Grachtenhuis, met ingeweven pellenpatroon</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>tafellaken</type>
+          <type>miniatuur (poppenhuisgoed)</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-RAK-1977-11</identifier>
+        <datestamp>2022-05-16T09:55:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.2178</identifier>
+          <identifier>AK-RAK-1977-11</identifier>
+          <title>Set van twaalf maandkopjes</title>
+          <creator>anoniem</creator>
+          <description>Deze set van twaalf kopjes werd uitgevoerd met een buitengewone technische verfijning. Elk kopje toont de bloem die de betreffende maand representeert: prunus voor januari, magnolia voor februari, perzik voor maart, roos voor april, krab-appel voor mei, pioenroos voor
+juni, lotus voor juli, granaatappel voor augustus, zoete osmanthus voor september, chrysanten voor oktober, orchidee voor november, narcissen voor december.</description>
+          <date>ca. 1700 - ca. 1724</date>
+          <type>kop</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <format>email</format>
+          <format>kobalt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-677</identifier>
+        <datestamp>2022-03-15T17:38:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1411</identifier>
+          <identifier>AK-MAK-677</identifier>
+          <title>Wierookdoos in de vorm van een ijsvogel</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <date>ca. 1700 - ca. 1799</date>
+          <type>wierookdoos</type>
+          <type>kogo</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Japan</coverage>
+          <coverage>Bizen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-NM-1104</identifier>
+        <datestamp>2021-11-03T19:13:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1773</identifier>
+          <identifier>NG-NM-1104</identifier>
+          <title>Hemd, mogelijk gedragen door Hendrik Casimir tijdens de bestorming van een fort bij Hulst</title>
+          <creator>anoniem</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Beleg van Hulst</subject>
+          <subject>Hulst</subject>
+          <subject>Nassau-Dietz, Hendrik Casimir I graaf van</subject>
+          <date>in of voor 1640</date>
+          <type>herenkleding</type>
+          <type>bovenkleding</type>
+          <type>hemd</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1202</identifier>
+        <datestamp>2022-05-13T10:20:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.2044</identifier>
+          <identifier>AK-MAK-1202</identifier>
+          <title>Chunda</title>
+          <creator>anoniem</creator>
+          <description>De boeddhistische gelovigen op het oude Java vereerden ook een aantal vrouwelijke goden. Chunda, de godin van eeuwige wijsheid, is een van de bekendste. Maar er waren er veel meer, soms gekoppeld aan bepaalde boeddhistische teksten. Daartoe behoorden ook magische formules die gereciteerd konden worden bij praktische zaken, zoals bij ziekte of een bevalling.</description>
+          <date>800 - 850</date>
+          <type>beeldhouwwerk</type>
+          <type>beeld</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Midden-Java</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1311</identifier>
+        <datestamp>2022-04-21T11:09:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.2128</identifier>
+          <identifier>AK-MAK-1311</identifier>
+          <title>Schildering</title>
+          <date>1800 - 1900</date>
+          <type>schildering</type>
+          <format>inkt</format>
+          <format>verfstof</format>
+          <format>zijde</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-539</identifier>
+        <datestamp>2022-03-30T08:28:00Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1154</identifier>
+          <identifier>AK-MAK-539</identifier>
+          <title>Pot met een geribde wand</title>
+          <creator>anoniem</creator>
+          <creator>anoniem</creator>
+          <date>ca. 960 - ca. 1279</date>
+          <type>pot</type>
+          <format>steengoed</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+          <coverage>Juluxian</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1192</identifier>
+        <datestamp>2021-10-01T20:03:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1203</identifier>
+          <identifier>AK-MAK-1192</identifier>
+          <title>Vogeldoos</title>
+          <creator>anoniem</creator>
+          <date>ca. 960 - ca. 1279</date>
+          <type>doos</type>
+          <format>porselein</format>
+          <format>glazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2266</identifier>
+        <datestamp>2022-03-15T09:16:51Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7693</identifier>
+          <identifier>SK-A-2266</identifier>
+          <title>Molen bij een plas</title>
+          <creator>Gabriël, Paul Joseph Constantin</creator>
+          <subject>landschap</subject>
+          <date>ca. 1860 - ca. 1903</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1964-152</identifier>
+        <datestamp>2021-10-01T22:00:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6893</identifier>
+          <identifier>RP-T-1964-152</identifier>
+          <title>Kop van een gebaarde oosterling met tulband, van voren, naar beneden ziend</title>
+          <creator>Boucher, François</creator>
+          <date>1713 - 1770</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1983-63</identifier>
+        <datestamp>2021-10-01T22:07:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7293</identifier>
+          <identifier>RP-T-1983-63</identifier>
+          <title>Gezicht in de tuin van Penhaverde, Portugal</title>
+          <creator>Lelu, Pierre</creator>
+          <subject>Pena Verde</subject>
+          <date>1772 - 1778</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Portugal</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1907</identifier>
+        <datestamp>2022-06-01T16:29:32Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7573</identifier>
+          <identifier>SK-A-1907</identifier>
+          <title>Portret van een jongetje</title>
+          <creator>Delff, Jacob Willemsz. (I)</creator>
+          <subject>portret</subject>
+          <date>1581</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2339</identifier>
+        <datestamp>2021-10-01T22:14:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7724</identifier>
+          <identifier>SK-A-2339</identifier>
+          <title>Jonge vrouw met citroen</title>
+          <creator>Schalcken, Godfried</creator>
+          <date>1685 - 1690</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2139</identifier>
+        <datestamp>2022-03-15T09:16:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7630</identifier>
+          <identifier>SK-A-2139</identifier>
+          <title>Louis Metayer Phz (1728-90). Goudsmid en kunstverzamelaar</title>
+          <creator>Mijn, George van der</creator>
+          <subject>Metayer Phzn., Louis</subject>
+          <date>1759</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-656</identifier>
+        <datestamp>2021-10-01T22:01:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6975</identifier>
+          <identifier>SK-A-656</identifier>
+          <title>Johan Melchior Kemper (1776-1824). Rechtsgeleerde en staatsman</title>
+          <creator>Humbert de Superville, David Pièrre Giottino</creator>
+          <subject>portret</subject>
+          <subject>politieke geschiedenis</subject>
+          <subject>Kemper, jonkheer Joan Melchior</subject>
+          <date>1815</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-928</identifier>
+        <datestamp>2021-10-01T22:03:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7062</identifier>
+          <identifier>SK-A-928</identifier>
+          <title>Wapenbord met de wapens van het echtpaar Pieter Courten en Hortensia del Prado, 1625</title>
+          <creator>anoniem</creator>
+          <date>1625</date>
+          <type>heraldisch object</type>
+          <type>familiewapen</type>
+          <type>wapenbord</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2480</identifier>
+        <datestamp>2021-10-01T22:16:17Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7799</identifier>
+          <identifier>SK-A-2480</identifier>
+          <title>Landschap met molen in de sneeuw</title>
+          <creator>Maris, Jacob</creator>
+          <date>1847 - 1899</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2487</identifier>
+        <datestamp>2022-03-10T14:59:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7806</identifier>
+          <identifier>SK-A-2487</identifier>
+          <title>Knotwilgen aan een sloot</title>
+          <creator>Poggenbeek, Geo</creator>
+          <date>1863 - 1903</date>
+          <type>tekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-719</identifier>
+        <datestamp>2022-03-15T09:16:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.7000</identifier>
+          <identifier>SK-A-719</identifier>
+          <title>Alexander de Grote in de slag tegen de Perzen bij de Granikos</title>
+          <creator>Troost, Cornelis</creator>
+          <subject>Alexander de Grote</subject>
+          <date>1737</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw1NjgwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

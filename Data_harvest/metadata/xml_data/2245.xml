@@ -1,0 +1,493 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NDg4MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4223</identifier>
+        <datestamp>2021-10-20T14:41:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66105</identifier>
+          <identifier>NG-VG-1-4223</identifier>
+          <title>Jacob van Lennep, voorzittend meester van de loge Willem Fredrik te Amsterdam</title>
+          <creator>Elion, Jacob Samuel Cohen</creator>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>sekte</subject>
+          <subject>vrijmetselarij</subject>
+          <subject>Amsterdam</subject>
+          <subject>Lennep, Jacob van</subject>
+          <date>1866</date>
+          <type>erepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4239</identifier>
+        <datestamp>2021-10-20T14:41:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66122</identifier>
+          <identifier>NG-VG-1-4239</identifier>
+          <title>Internationale tentoonstelling van voorwerpen voor de huishouding en het bedrijf van de handwerksman te Amsterdam, penning uitgereikt door de Vereeniging ter bevordering van Fabrijk- en Handwerksnijverheid</title>
+          <creator>anoniem</creator>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>sociale geschiedenis</subject>
+          <subject>tentoonstelling</subject>
+          <subject>internationale tentoonstelling</subject>
+          <subject>huishouden</subject>
+          <subject>ambacht</subject>
+          <subject>Internationale Tentoonstelling van Voorwerpen voor de Huishouding en het Bedrijf van den Handwerksman</subject>
+          <subject>Amsterdam</subject>
+          <subject>Paleis voor Volksvlijt</subject>
+          <subject>Vereeniging van Fabriek- en Handwerksnijverheid</subject>
+          <date>1869</date>
+          <type>prijspenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1460</identifier>
+        <datestamp>2022-01-24T11:05:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66930</identifier>
+          <identifier>RP-F-00-1460</identifier>
+          <title>Gezicht op de kliffen van Sorrento</title>
+          <title>Sorrento</title>
+          <creator>anoniem</creator>
+          <subject>Sorrento</subject>
+          <date>1851 - 1900</date>
+          <type>foto</type>
+          <format>papier</format>
+          <format>karton</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Sorrento</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2099</identifier>
+        <datestamp>2021-01-28T14:27:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73443</identifier>
+          <identifier>RP-P-1909-2099</identifier>
+          <title>Ruth, Boaz en een opzichter werken op het land</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <contributor>Luyken, Jan</contributor>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-372</identifier>
+        <datestamp>2021-01-28T14:30:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73652</identifier>
+          <identifier>RP-P-BI-372</identifier>
+          <title>Waterlandschap bij de Adriatische Zee</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <contributor>Bagelaar, Ernst Willem Jan</contributor>
+          <subject>Adriatische zee</subject>
+          <date>1817</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2148</identifier>
+        <datestamp>2021-01-28T14:32:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73746</identifier>
+          <identifier>RP-P-1909-2148</identifier>
+          <title>Stuiterende witte hengst</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <contributor>Haag, Tethart Philip Christian</contributor>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4300</identifier>
+        <datestamp>2021-10-20T14:42:26Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66185</identifier>
+          <identifier>NG-VG-1-4300</identifier>
+          <title>David van der Kellen jr., gepensioneerd na vierenvijftig jaar aan de Rijksmunt te Utrecht werkzaam te zijn geweest, penning aangeboden door zijn collega's</title>
+          <creator>Menger, Johan Philip</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>muntwezen</subject>
+          <subject>jubileum</subject>
+          <subject>Utrecht</subject>
+          <subject>Kellen, David van der (1804-1879)</subject>
+          <subject>Bake, Herman Adriaan van den Wall</subject>
+          <subject>Koninklijke Nederlandse Munt NV</subject>
+          <date>1874</date>
+          <type>erepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1376</identifier>
+        <datestamp>2021-03-10T09:01:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66288</identifier>
+          <identifier>RP-F-00-1376</identifier>
+          <title>Portret van de schilder Frans Kaspar Huibrecht Vinck, ten voeten uit</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Vinck, Frans</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1387</identifier>
+        <datestamp>2021-03-10T09:02:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66328</identifier>
+          <identifier>RP-F-00-1387</identifier>
+          <title>Portret van de schilder Antoon van Ysendyck, halffiguur</title>
+          <title>L'École d'Anvers. Portraits biographies cartes de visite. Collection Dupont</title>
+          <creator>Dupont, Joseph</creator>
+          <subject>Van IJsendijck, Antoon</subject>
+          <date>1861</date>
+          <type>foto</type>
+          <type>carte-de-visite</type>
+          <format>karton</format>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1957-251</identifier>
+        <datestamp>2021-10-02T12:51:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66941</identifier>
+          <identifier>RP-T-1957-251</identifier>
+          <title>Christus door de engelen boven de tinnen des tempels opgenomen</title>
+          <creator>Tiepolo, Giovanni Domenico</creator>
+          <date>1737 - 1804</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-2131</identifier>
+        <datestamp>2021-01-28T14:29:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73598</identifier>
+          <identifier>RP-P-1909-2131</identifier>
+          <title>Berglandschap met vier schapen</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1901-A-4508</identifier>
+        <datestamp>2020-03-31T12:06:18Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67478</identifier>
+          <identifier>RP-T-1901-A-4508</identifier>
+          <title>Gezicht op het kasteel Hagenstein</title>
+          <creator>Peeters, Bonaventura (I)</creator>
+          <subject>Duitsland</subject>
+          <date>1624 - 1652</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-BI-411</identifier>
+        <datestamp>2021-01-28T14:31:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73698</identifier>
+          <identifier>RP-P-BI-411</identifier>
+          <title>Landschap met drie koeien in een plas, rechts leunt een herder tegen een boom</title>
+          <creator>Bagelaar, Ernst Willem Jan</creator>
+          <date>1798 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1904-218</identifier>
+        <datestamp>2021-01-28T14:39:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.74415</identifier>
+          <identifier>RP-P-1904-218</identifier>
+          <title>Apostel Andreas met kruis in omlijsting met architectuur ornamenten</title>
+          <title>S. Andreas</title>
+          <title>SS. Apostolorum et Evangelistorum Icones</title>
+          <creator>Barbé, Jan-Baptist</creator>
+          <contributor>Loon, Theodoor van</contributor>
+          <contributor>Barbé, Jan-Baptist</contributor>
+          <contributor>Cools, J.</contributor>
+          <date>1588 - 1648</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1907-4471</identifier>
+        <datestamp>2021-01-28T14:22:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.73018</identifier>
+          <identifier>RP-P-1907-4471</identifier>
+          <title>Rechtszaal</title>
+          <title>Titelpagina voor Willem van Loon, Eleythería sive De manumissione servorum apud Romanos, Utrecht, 1685</title>
+          <creator>Aveele, Johannes Jacobsz van den</creator>
+          <contributor>Aveele, Johannes Jacobsz van den</contributor>
+          <date>1685</date>
+          <type>prent</type>
+          <type>titelpagina</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Utrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-NM-8969</identifier>
+        <datestamp>2021-10-07T11:22:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66241</identifier>
+          <identifier>NG-NM-8969</identifier>
+          <title>Erepenning voor George, een tot slaaf gemaakte man</title>
+          <creator>anoniem</creator>
+          <subject>overzeese geschiedenis</subject>
+          <subject>sociale geschiedenis</subject>
+          <subject>economische geschiedenis</subject>
+          <subject>plantage</subject>
+          <subject>sociale onrust</subject>
+          <subject>slavenopstand</subject>
+          <subject>slavernij</subject>
+          <subject>Nickerie</subject>
+          <subject>Coronie</subject>
+          <subject>George (slaafgemaakte)</subject>
+          <description>In 1836 brak in het Surinaamse district Nickerie een opstand uit. George, die op plantage Leasowes werkte, voorzag het koloniale bewind van informatie waarna een aantal tot slaafgemaakten werd gearresteerd. Hij kreeg deze penning als beloning. Colin, de leider van het verzet, werd ter dood veroordeeld, maar speelt vandaag de dag in de mondelinge overlevering in Suriname nog een rol omdat hij de afschaffing van de slavernij voorspelde.</description>
+          <date>1837</date>
+          <type>erepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1965-56</identifier>
+        <datestamp>2021-12-02T14:40:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67012</identifier>
+          <identifier>RP-T-1965-56</identifier>
+          <title>Boom met vogels</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1800</date>
+          <type>tekening</type>
+          <type>ornamenttekening</type>
+          <type>aquarel</type>
+          <format>papier</format>
+          <format>waterverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-F-00-1500</identifier>
+        <datestamp>2022-01-24T11:05:02Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.67059</identifier>
+          <identifier>RP-F-00-1500</identifier>
+          <title>Man in een kloostergang, mogelijk in Napels</title>
+          <creator>Sommer, Giorgio</creator>
+          <date>1857 - 1914</date>
+          <type>foto</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Napels</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-4233</identifier>
+        <datestamp>2021-10-20T14:41:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66114</identifier>
+          <identifier>NG-VG-1-4233</identifier>
+          <title>Opening van de eerste spoorlijn in Zeeland, penning door de inwoners van Zeeland aangeboden aan de ontwerper Dirk Dronkers</title>
+          <creator>Elion, Jacob Samuel Cohen</creator>
+          <subject>economische geschiedenis</subject>
+          <subject>vervoer over land</subject>
+          <subject>spoorweg</subject>
+          <subject>Noord-Brabant</subject>
+          <subject>Goes</subject>
+          <subject>Dronkers, Dirk</subject>
+          <date>1868</date>
+          <type>erepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1961-7</identifier>
+        <datestamp>2021-10-02T12:50:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.66799</identifier>
+          <identifier>RP-T-1961-7</identifier>
+          <title>Zittende hond</title>
+          <creator>Tiepolo, Giovanni Domenico</creator>
+          <description>Deze tekening is waarschijnlijk gebruikt voor een decoratie in het huis van de familie Tiepolo zelf. De hond is gekopieerd naar een studie die eerder werd gebruikt door Domenico’s vader Giambattista Tiepolo voor een fresco in Würzburg. De kunstenaar heeft  deze relatief kleine, maar uitgewerkte tekening voluit gesigneerd. Dat wijst erop dat Domenico zijn ontwerp ook bedoelde om verkocht te worden.</description>
+          <date>ca. 1775 - ca. 1795</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0NDkwMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

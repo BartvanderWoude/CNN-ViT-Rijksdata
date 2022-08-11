@@ -1,0 +1,498 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjMwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14559-M-A</identifier>
+        <datestamp>2020-03-02T15:50:09Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57651</identifier>
+          <identifier>BK-14559-M-A</identifier>
+          <title>Theepot of koffiekan, polychroombeschilderd met een landschap in een medaillon uitgespaard in een geometrisch patroon</title>
+          <creator>Weesper porseleinfabriek</creator>
+          <date>ca. 1759 - ca. 1771</date>
+          <type>theepot</type>
+          <type>koffiekan</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Weesp</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12981-I</identifier>
+        <datestamp>2021-10-02T12:33:41Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56281</identifier>
+          <identifier>BK-NM-12981-I</identifier>
+          <title>Strook kloskant met ruiten en waaierschulpen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1800 - ca. 1899</date>
+          <type>strook</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-29</identifier>
+        <datestamp>2021-10-20T13:39:55Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57202</identifier>
+          <identifier>NG-VG-1-29</identifier>
+          <title>Maximiliaan, aartshertog van Oostenrijk en Maria, hertogin van Bourgondie</title>
+          <creator>Candida, Giovanni di</creator>
+          <contributor>Gebhart, Ulrich</contributor>
+          <subject>Maximiliaan I van Habsburg (keizer van het Heilige Roomse Rijk)</subject>
+          <subject>Maria (hertogin van Bourgondië)</subject>
+          <date>1506</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-303</identifier>
+        <datestamp>2021-10-20T13:41:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57453</identifier>
+          <identifier>NG-VG-1-303</identifier>
+          <title>Thomas Cranmer, aartsbisschop van Canterbury, levend verbrand te Oxford</title>
+          <creator>Dassier, Jean</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>protestantisme</subject>
+          <subject>hervorming</subject>
+          <subject>katholicisme</subject>
+          <subject>herstel van katholicisme</subject>
+          <subject>terechtstelling</subject>
+          <subject>Oxford</subject>
+          <subject>Cranmer, Thomas</subject>
+          <date>1725</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Genève</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-317</identifier>
+        <datestamp>2021-10-20T13:41:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57465</identifier>
+          <identifier>NG-VG-1-317</identifier>
+          <title>Vrede van Le Cateau-Cambresis, ter ere van Filips II van Spanje</title>
+          <creator>Poggini, Gianpaolo</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>vrede</subject>
+          <subject>Oorlog tussen Filips II en Hendrik II</subject>
+          <subject>Vrede van Le Cateau-Cambrésis</subject>
+          <subject>Le Cateau-Cambrésis</subject>
+          <subject>Filips II (koning van Spanje)</subject>
+          <date>1559-04-02 - 1559-04-03</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Madrid</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-555</identifier>
+        <datestamp>2021-10-20T14:35:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57727</identifier>
+          <identifier>NG-VG-1-555</identifier>
+          <title>Huwelijk van Hendrik IV, koning van Frankrijk met Maria de' Medici</title>
+          <creator>Dupré, Guillaume</creator>
+          <subject>Hendrik IV (koning van Frankrijk en Navarra)</subject>
+          <subject>Medici, Maria de'</subject>
+          <date>1603-07-28</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1919-52</identifier>
+        <datestamp>2021-10-02T12:32:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.55857</identifier>
+          <identifier>RP-T-1919-52</identifier>
+          <title>Actaeon verrast Diana en haar gezellinnen</title>
+          <creator>Mieris, Willem van</creator>
+          <date>1693-12-09</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>dekverf</format>
+          <format>waterverf</format>
+          <format>gouache (waterverf)</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1014</identifier>
+        <datestamp>2022-03-10T21:31:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56090</identifier>
+          <identifier>BK-NM-1014</identifier>
+          <title>Kunstkast, beschilderd met taferelen uit het leven van Christus en Maria</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <subject>Lupus, Joseph Désiré de</subject>
+          <date>ca. 1635</date>
+          <type>meubilair</type>
+          <type>kast</type>
+          <type>kunstkast</type>
+          <format>hout</format>
+          <format>vurenhout</format>
+          <format>eikenhout</format>
+          <format>ebbenhout</format>
+          <format>ivoor</format>
+          <format>ijzer</format>
+          <format>glas</format>
+          <format>verf</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-153</identifier>
+        <datestamp>2021-10-20T14:34:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57310</identifier>
+          <identifier>NG-VG-1-153</identifier>
+          <title>Michelangelo Buonarroti</title>
+          <creator>Leoni, Leone</creator>
+          <subject>cultuurgeschiedenis</subject>
+          <subject>schone kunsten</subject>
+          <subject>beeldhouwkunst</subject>
+          <subject>Michelangelo</subject>
+          <date>1561 - 1564</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-192</identifier>
+        <datestamp>2021-10-20T13:40:50Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57347</identifier>
+          <identifier>NG-VG-1-192</identifier>
+          <title>Verbreiding van de leer der wederdopers</title>
+          <creator>anoniem</creator>
+          <subject>protestantisme</subject>
+          <subject>wederdopers</subject>
+          <subject>Wederdopersoproer in Münster</subject>
+          <date>1535</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-203</identifier>
+        <datestamp>2021-10-20T13:40:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57359</identifier>
+          <identifier>NG-VG-1-203</identifier>
+          <title>Offer van Isaak en kruisiging</title>
+          <creator>Reinhart, Hans (der Ältere)</creator>
+          <date>1539</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leipzig</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1938-139</identifier>
+        <datestamp>2021-10-02T12:33:33Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56237</identifier>
+          <identifier>RP-T-1938-139</identifier>
+          <title>Vergezicht vanuit de duinen</title>
+          <creator>Molijn, Pieter de</creator>
+          <date>1650 - 1660</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1919-53</identifier>
+        <datestamp>2019-01-03T16:40:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56394</identifier>
+          <identifier>RP-T-1919-53</identifier>
+          <title>IJsvermaak</title>
+          <creator>Nolpe, Pieter</creator>
+          <date>1638</date>
+          <type>tekening</type>
+          <format>perkament</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-390-A</identifier>
+        <datestamp>2021-10-02T12:35:01Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57158</identifier>
+          <identifier>BK-1955-390-A</identifier>
+          <title>Vloertegel met veelkleurige rozet</title>
+          <creator>anoniem</creator>
+          <date>ca. 1545 - ca. 1570</date>
+          <type>vloertegel</type>
+          <type>bouwfragment</type>
+          <format>aardewerk</format>
+          <format>tinglazuur</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-87</identifier>
+        <datestamp>2021-10-20T14:34:39Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57252</identifier>
+          <identifier>NG-VG-1-87</identifier>
+          <title>Karel, aartshertog van Oostenrijk, verheven tot koning van Spanje</title>
+          <creator>anoniem</creator>
+          <subject>Karel V van Habsburg (Duits keizer en koning van Spanje)</subject>
+          <date>1516</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>lood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-419</identifier>
+        <datestamp>2021-10-20T13:42:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57560</identifier>
+          <identifier>NG-VG-1-419</identifier>
+          <title>Jan Baptist Houwaert, raadsheer en meester van de Rekenkamer van de Koning te Brussel</title>
+          <creator>Pater Alexander</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>rekenkamer</subject>
+          <subject>Houwaert, Jan Baptist</subject>
+          <date>1578</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-456</identifier>
+        <datestamp>2021-10-20T13:42:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57597</identifier>
+          <identifier>NG-VG-1-456</identifier>
+          <title>Beleg en inname van Antwerpen door de hertog van Parma</title>
+          <creator>Jonghelinck, Jacques</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Tachtigjarige Oorlog</subject>
+          <subject>Inname van Antwerpen</subject>
+          <subject>Antwerpen (stad)</subject>
+          <subject>Farnese, Alessandro (landvoogd van de Nederlanden en hertog van Parma en Piacenza)</subject>
+          <subject>Saksen-Teschen, Albert Casimir van</subject>
+          <date>1585</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-470</identifier>
+        <datestamp>2021-10-20T13:42:53Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57609</identifier>
+          <identifier>NG-VG-1-470</identifier>
+          <title>Vergaan van de Spaanse armada</title>
+          <creator>Bylaer, Gerard van</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Tachtigjarige Oorlog</subject>
+          <subject>Vergaan van de Spaanse Armada</subject>
+          <date>1588</date>
+          <type>historiepenning</type>
+          <type>triomfpenning</type>
+          <format>zilver</format>
+          <format>verguldsel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8266</identifier>
+        <datestamp>2021-10-02T12:36:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.57665</identifier>
+          <identifier>BK-NM-8266</identifier>
+          <title>Kinderledikant, beschilderd met een houtzaagmolen en droogloods, een scheepswerf met een schip, koningin Sheba en een koning in triomfwagen</title>
+          <creator>anoniem</creator>
+          <date>ca. 1650 - ca. 1700</date>
+          <type>meubilair</type>
+          <type>bed</type>
+          <type>ledikant</type>
+          <type>kinderledikant</type>
+          <format>hout</format>
+          <format>eikenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-XCV</identifier>
+        <datestamp>2021-10-19T16:26:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.56105</identifier>
+          <identifier>BK-XCV</identifier>
+          <title>Ruit met wapenschild met klimmende leeuw als helmteken</title>
+          <creator>anoniem</creator>
+          <date>1700 - 1800</date>
+          <type>ruit</type>
+          <type>wapenruit</type>
+          <format>glas</format>
+          <format>lood</format>
+          <format>glas-in-lood</format>
+          <format>grisailleverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyNjMyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

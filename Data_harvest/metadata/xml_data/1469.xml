@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyOTM2MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1982-61</identifier>
+        <datestamp>2021-10-02T00:51:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18843</identifier>
+          <identifier>BK-1982-61</identifier>
+          <title>Theekop</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <contributor>Weesper porseleinfabriek</contributor>
+          <description>toegeschreven aan Manufactuur Oud-Loosdrecht
+Loosdrecht, ca. 1774–1778
+porselein</description>
+          <date>ca. 1774 - ca. 1778</date>
+          <type>kop</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+          <coverage>Weesp</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15086</identifier>
+        <datestamp>2021-10-02T00:54:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19079</identifier>
+          <identifier>BK-15086</identifier>
+          <title>Repetitiehorloge</title>
+          <creator>Martineau Senr., Josh.</creator>
+          <contributor>anoniem</contributor>
+          <contributor>Wielandt (ca. 1750)</contributor>
+          <date>1740 - 1750</date>
+          <date>1740 - 1770</date>
+          <type>sieraad</type>
+          <type>horloge</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+          <coverage>Groot-Brittannië</coverage>
+          <coverage>Groot-Brittannië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17130-A</identifier>
+        <datestamp>2021-11-03T11:47:37Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19440</identifier>
+          <identifier>BK-17130-A</identifier>
+          <title>Bokaal</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1600</date>
+          <type>bokaal</type>
+          <format>goud</format>
+          <format>bergkristal</format>
+          <format>email</format>
+          <format>agaat</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Bohemen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17119</identifier>
+        <datestamp>2021-10-02T01:00:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19452</identifier>
+          <identifier>BK-17119</identifier>
+          <title>Kan</title>
+          <creator>anoniem</creator>
+          <description>Bergkristal wordt in allerlei kwaliteiten en formaten gevonden. Alleen de helderste stukken kunnen voor voorwerpen worden gebruikt. Voor een kan van deze grootte was een helder brok van ten minste 25 centimeter doorsnede nodig.</description>
+          <date>ca. 1550 - 1570</date>
+          <date>ca. 1640</date>
+          <type>kan</type>
+          <format>goud</format>
+          <format>bergkristal</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Milaan</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8488</identifier>
+        <datestamp>2021-11-03T16:52:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14840</identifier>
+          <identifier>BK-NM-8488</identifier>
+          <title>Wijnstoop</title>
+          <creator>anoniem</creator>
+          <date>1758</date>
+          <type>wijnmengel</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-NM-12028-22</identifier>
+        <datestamp>2021-11-02T08:26:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18689</identifier>
+          <identifier>NG-NM-12028-22</identifier>
+          <title>Makelaarsstokje van F.A. Gluysteen, makelaar te Amsterdam</title>
+          <creator>Groot, weduwe H. de</creator>
+          <contributor>Bout, Abraham</contributor>
+          <subject>economische geschiedenis</subject>
+          <subject>sociale geschiedenis</subject>
+          <subject>makelaarsgilde</subject>
+          <subject>Amsterdam</subject>
+          <subject>Gluysteen, Frederik Anthony</subject>
+          <date>ca. 1837</date>
+          <type>makelaarsstok</type>
+          <format>zilver</format>
+          <format>ebbenhout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-14562-Z-2-1</identifier>
+        <datestamp>2021-10-02T00:52:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18984</identifier>
+          <identifier>BK-14562-Z-2-1</identifier>
+          <title>Kop</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <date>1774 - 1784</date>
+          <type>kop</type>
+          <type>kop-en-schotel</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-15097</identifier>
+        <datestamp>2021-11-02T08:27:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19068</identifier>
+          <identifier>BK-15097</identifier>
+          <title>Horloge</title>
+          <creator>anoniem</creator>
+          <date>ca. 1840 - ca. 1860</date>
+          <type>sieraad</type>
+          <type>horloge</type>
+          <format>zilver</format>
+          <format>email</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12830-A</identifier>
+        <datestamp>2021-11-02T08:28:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19233</identifier>
+          <identifier>BK-NM-12830-A</identifier>
+          <title>Horloge van goud met geciseleerde wijzerplaat</title>
+          <creator>Leach</creator>
+          <date>ca. 1750 - ca. 1800</date>
+          <type>sieraad</type>
+          <type>horloge</type>
+          <format>goud</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Londen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-45</identifier>
+        <datestamp>2021-11-03T16:55:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19343</identifier>
+          <identifier>BK-NM-45</identifier>
+          <title>Snuiter van ijzer</title>
+          <date>1400 - 1500</date>
+          <type>snuiter</type>
+          <format>ijzer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-9792</identifier>
+        <datestamp>2021-11-03T16:55:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18625</identifier>
+          <identifier>BK-NM-9792</identifier>
+          <title>Boor</title>
+          <date>1600 - 1625</date>
+          <type>boor</type>
+          <format>ijzer</format>
+          <format>hout</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-8200</identifier>
+        <datestamp>2021-10-02T00:52:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18895</identifier>
+          <identifier>BK-NM-8200</identifier>
+          <title>Groep vazen</title>
+          <creator>Manufactuur Oud-Loosdrecht</creator>
+          <description>Twee van de vazen in deze groep dragen het merk van de Porceleinfabriek aan den Amstel, de opvolger van de Loosdrechtse porseleinfabriek. Zoals de Loosdrechtse fabriek eerder de voorraad en mallen van haar voorganger uit Weesp overnam, deed de onderneming in Ouderkerk aan de Amstel dat van Loosdrecht.</description>
+          <date>ca. 1784</date>
+          <type>vaas</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Loosdrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3080</identifier>
+        <datestamp>2021-10-02T00:59:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19404</identifier>
+          <identifier>BK-NM-3080</identifier>
+          <title>Halshorloge met binnen- en buitenkast</title>
+          <creator>Bockels, Matthijs</creator>
+          <contributor>anoniem</contributor>
+          <date>ca. 1610</date>
+          <date>ca. 1600 - ca. 1625</date>
+          <type>sieraad</type>
+          <type>halshorloge</type>
+          <type>kalenderhorloge</type>
+          <format>zilver</format>
+          <format>roggenvel</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Haarlem</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1979-20-B</identifier>
+        <datestamp>2021-11-03T16:52:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14706</identifier>
+          <identifier>BK-1979-20-B</identifier>
+          <title>Steun van lezenaar</title>
+          <creator>anoniem</creator>
+          <date>1750 - 1775</date>
+          <type>lessenaar</type>
+          <type>steun</type>
+          <format>messing</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1955-67</identifier>
+        <datestamp>2021-10-01T23:42:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14310</identifier>
+          <identifier>BK-1955-67</identifier>
+          <title>Decoratief object</title>
+          <creator>De Grieksche A</creator>
+          <contributor>Kocx, Adrianus</contributor>
+          <date>ca. 1685 - ca. 1690</date>
+          <type>decoratief object</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3906</identifier>
+        <datestamp>2022-04-11T08:44:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14347</identifier>
+          <identifier>BK-NM-3906</identifier>
+          <title>Schotel</title>
+          <creator>De Metaale Pot</creator>
+          <contributor>Eenhoorn, Lambertus van</contributor>
+          <contributor>De Dubbele Schenkkan</contributor>
+          <contributor>Victors, Louis</contributor>
+          <description>In de 17de eeuw was Chinees porselein een luxe gebruiksgoed bij uitstek op de tafels van de gegoede burgerij. Daarnaast werd het veel gebruikt als versiering in het interieur. Als reactie op het succes van het porselein ontwikkelden de pottenbakkers in Delft een steeds verfijnder aardewerk. Zowel de vormen als de decors van dit aardewerk werden vaak direct op Chinese voorbeelden gebaseerd.</description>
+          <date>ca. 1710 - ca. 1735</date>
+          <type>schotel</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Delft</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-12400-21</identifier>
+        <datestamp>2021-10-01T23:42:58Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14359</identifier>
+          <identifier>BK-NM-12400-21</identifier>
+          <title>Plaat</title>
+          <creator>De Blompot</creator>
+          <contributor>Aelmis, Johannes (I)</contributor>
+          <date>1736</date>
+          <type>plaat</type>
+          <format>faience</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rotterdam</coverage>
+          <coverage>Rotterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-3109</identifier>
+        <datestamp>2021-11-03T23:47:12Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.14856</identifier>
+          <identifier>BK-NM-3109</identifier>
+          <title>Trouwring van zilver</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1699</date>
+          <type>sieraad</type>
+          <type>ring (sieraad)</type>
+          <type>trouwring</type>
+          <format>zilver</format>
+          <format>been</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1971-187</identifier>
+        <datestamp>2022-01-17T13:17:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.19696</identifier>
+          <identifier>BK-1971-187</identifier>
+          <title>Linnen damasten servet met de initialen "StH"</title>
+          <creator>Lebeau, Chris</creator>
+          <contributor>Dissel, Van den Briel &amp; Verster, Linnenfabrieken Van</contributor>
+          <subject>Jachthuis Sint-Hubertus</subject>
+          <date>ca. 1920</date>
+          <type>servet</type>
+          <format>linnen</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Eindhoven</coverage>
+          <coverage>Eindhoven</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1960-91</identifier>
+        <datestamp>2021-10-02T00:48:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.18683</identifier>
+          <identifier>BK-1960-91</identifier>
+          <title>Cachet met het vrouwelijk wapen Clifford</title>
+          <creator>anoniem</creator>
+          <date>ca. 1750 - ca. 1775</date>
+          <type>cachet</type>
+          <format>goud</format>
+          <format>carneool</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyOTM4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

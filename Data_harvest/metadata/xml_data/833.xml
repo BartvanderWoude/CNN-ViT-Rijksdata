@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNjY0MA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2144</identifier>
+        <datestamp>2021-10-20T09:54:20Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59426</identifier>
+          <identifier>NG-VG-1-2144</identifier>
+          <title>Tweede eeuwfeest van de Reformatie</title>
+          <creator>anoniem</creator>
+          <subject>protestantisme</subject>
+          <subject>Reformatie</subject>
+          <subject>Luther, Martin</subject>
+          <date>1717</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Duitsland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2222</identifier>
+        <datestamp>2021-10-20T09:55:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59501</identifier>
+          <identifier>NG-VG-1-2222</identifier>
+          <title>Willem IV benoemd tot ridder van de kouseband</title>
+          <creator>Andeles, Andele</creator>
+          <subject>institutionele geschiedenis</subject>
+          <subject>volksvertegenwoordiging</subject>
+          <subject>uitreiking van onderscheiding</subject>
+          <subject>orde</subject>
+          <subject>Willem IV (prins van Oranje-Nassau)</subject>
+          <subject>Staten van Friesland</subject>
+          <subject>Orde van de Kouseband</subject>
+          <date>1733</date>
+          <type>historiepenning</type>
+          <type>landdagpenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leeuwarden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2269</identifier>
+        <datestamp>2021-10-20T09:55:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59551</identifier>
+          <identifier>NG-VG-1-2269</identifier>
+          <title>Stichting van de beurs te Rotterdam</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>handel</subject>
+          <subject>beurs</subject>
+          <subject>Rotterdam</subject>
+          <subject>Beurs (1736-1940)</subject>
+          <date>1736</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1820</identifier>
+        <datestamp>2021-10-20T13:53:52Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59015</identifier>
+          <identifier>NG-VG-1-1820</identifier>
+          <title>Neerslaan van de opstand van de keizerlijken te Napels</title>
+          <creator>Monogrammist IM (medailleur)</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Inname en bezetting van Napels (1701)</subject>
+          <subject>Haags verbond, groot</subject>
+          <subject>Napels</subject>
+          <subject>Campania</subject>
+          <subject>Filips V (koning van Spanje)</subject>
+          <date>1701</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1826</identifier>
+        <datestamp>2021-10-20T14:37:05Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59021</identifier>
+          <identifier>NG-VG-1-1826</identifier>
+          <title>Inhuldiging van Filips V te Brussel</title>
+          <creator>Roëttiers, Philippe (II)</creator>
+          <subject>Brussel (stad)</subject>
+          <subject>Filips V (koning van Spanje)</subject>
+          <date>1702</date>
+          <type>kopie</type>
+          <type>historiepenning</type>
+          <format>koper</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Antwerpen (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1952-J</identifier>
+        <datestamp>2021-10-20T09:51:57Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59191</identifier>
+          <identifier>NG-VG-1-1952-J</identifier>
+          <title>Ontzet van Barcelona</title>
+          <creator>Schmeltzing, Martin</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Ontzet van Barcelona (1706)</subject>
+          <subject>Barcelona</subject>
+          <subject>Spanje</subject>
+          <subject>Karel VI (keizer van het Heilige Roomse Rijk)</subject>
+          <date>1706</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2242</identifier>
+        <datestamp>2021-10-20T09:55:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59521</identifier>
+          <identifier>NG-VG-1-2242</identifier>
+          <title>Opname der Salzburger emigranten in Nederland</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>religieuze geschiedenis</subject>
+          <subject>protestantisme</subject>
+          <subject>opname der Salzburger emigranten in Nederland</subject>
+          <subject>Drievuldigheidskerk</subject>
+          <subject>Breskens</subject>
+          <date>1733</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-00-340</identifier>
+        <datestamp>2020-02-11T02:41:36Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59690</identifier>
+          <identifier>RP-T-00-340</identifier>
+          <title>Ruïne van de Villa van Maecenas te Tivoli</title>
+          <creator>Poelenburch, Cornelis van</creator>
+          <contributor>Breenbergh, Bartholomeus</contributor>
+          <date>1600 - 1667</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1899-A-4113</identifier>
+        <datestamp>2021-10-02T12:42:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59700</identifier>
+          <identifier>RP-T-1899-A-4113</identifier>
+          <title>Huis Soestdijk, van voren en van achteren gezien</title>
+          <creator>Rademaker, Abraham</creator>
+          <subject>Paleis Soestdijk</subject>
+          <subject>Soestdijk</subject>
+          <date>1685 - 1735</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <format>potlood</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-125-A</identifier>
+        <datestamp>2021-10-02T12:42:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59116</identifier>
+          <identifier>BK-1975-125-A</identifier>
+          <title>Bord</title>
+          <creator>Den Haag, Porseleinfabriek</creator>
+          <contributor>Doornik</contributor>
+          <date>1777 - 1790</date>
+          <type>bord (vaatwerk)</type>
+          <format>porselein</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+          <coverage>Doornik</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1935</identifier>
+        <datestamp>2021-10-20T09:51:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59165</identifier>
+          <identifier>NG-VG-1-1935</identifier>
+          <title>Duitsland van de Fransen bevrijd</title>
+          <creator>Nuernberger, Georg Friedrich</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>Duitsland bevrijd van de Fransen</subject>
+          <subject>Rijnland-Palts</subject>
+          <subject>Beieren</subject>
+          <date>1704</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Neurenberg</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-14361-B</identifier>
+        <datestamp>2021-10-02T12:42:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59622</identifier>
+          <identifier>BK-NM-14361-B</identifier>
+          <title>Strook applicatiekant met één bloem aan krullende tak</title>
+          <creator>anoniem</creator>
+          <date>ca. 1900 - ca. 1915</date>
+          <type>strook</type>
+          <format>katoen</format>
+          <format>tule</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Brussel (stad)</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-11673</identifier>
+        <datestamp>2021-10-02T12:43:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59860</identifier>
+          <identifier>BK-NM-11673</identifier>
+          <title>Stoel van mahoniehout</title>
+          <creator>anoniem</creator>
+          <contributor>anoniem</contributor>
+          <date>1825 - 1850</date>
+          <type>stoel</type>
+          <format>hout</format>
+          <format>iepenhout</format>
+          <format>mahoniehout</format>
+          <format>leer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1703</identifier>
+        <datestamp>2021-10-20T13:52:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58895</identifier>
+          <identifier>NG-VG-1-1703</identifier>
+          <title>Stillen van het aansprekersoproer te Amsterdam, ter ere van Jan Buste, adelborst onder Gilles van Heemert, kapitein in wijk 23</title>
+          <creator>Arondeaux, Reynier</creator>
+          <subject>sociale geschiedenis</subject>
+          <subject>ambacht en industrie</subject>
+          <subject>sociale onrust</subject>
+          <subject>landmacht</subject>
+          <subject>gewapende burgerij</subject>
+          <subject>Aansprekersoproer</subject>
+          <subject>Amsterdam</subject>
+          <date>1696</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nijmegen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1778</identifier>
+        <datestamp>2021-10-20T13:53:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58972</identifier>
+          <identifier>NG-VG-1-1778</identifier>
+          <title>Vrede van Rijswijk, ter ere van paus Innocentius XII</title>
+          <creator>Saint-Urbain, Ferdinand de</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>katholicisme</subject>
+          <subject>paus</subject>
+          <subject>Vrede van Rijswijk (1697)</subject>
+          <subject>Rijswijk</subject>
+          <subject>Innocentius XII</subject>
+          <date>1698</date>
+          <type>munt</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Rome</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-2289</identifier>
+        <datestamp>2021-10-20T09:55:47Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59571</identifier>
+          <identifier>NG-VG-1-2289</identifier>
+          <title>Eeuwfeest van de schouwburg te Amsterdam</title>
+          <creator>Holtzhey, Martin</creator>
+          <subject>kunsten en tentoonstelling</subject>
+          <subject>eeuwfeest van de schouwburg van Amsterdam</subject>
+          <subject>Amsterdam</subject>
+          <subject>Schouwburg Keizersgracht (1637-1772)</subject>
+          <date>1738</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-5509</identifier>
+        <datestamp>2021-10-02T12:43:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.59896</identifier>
+          <identifier>BK-NM-5509</identifier>
+          <title>Stoel met kolompoten, bekleed met runderleer</title>
+          <creator>anoniem</creator>
+          <date>1600 - 1650</date>
+          <type>stoel</type>
+          <format>hout</format>
+          <format>notenhout</format>
+          <format>vurenhout</format>
+          <format>leer</format>
+          <format>runderleer</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1629</identifier>
+        <datestamp>2021-10-20T13:52:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58822</identifier>
+          <identifier>NG-VG-1-1629</identifier>
+          <title>Het bombardement van Ratzeburg door Christiaan V, koning van Denemarken</title>
+          <creator>Meybusch, Anton</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>oorlog</subject>
+          <subject>Beleg van Ratzeburg (1693-1694)</subject>
+          <subject>Ratzeburg</subject>
+          <subject>Sleeswijk-Holstein</subject>
+          <subject>Christiaan V (koning van Denemarken en Noorwegen)</subject>
+          <date>1693</date>
+          <type>historiepenning</type>
+          <format>zilver</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Kopenhagen</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1679</identifier>
+        <datestamp>2021-10-20T13:52:29Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58872</identifier>
+          <identifier>NG-VG-1-1679</identifier>
+          <title>Herovering van Namen door Willem III</title>
+          <creator>Luder, Jan (I)</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>beleg</subject>
+          <subject>Beleg en verovering van Namen (1695)</subject>
+          <subject>Negenjarige Oorlog</subject>
+          <subject>Namen (stad)</subject>
+          <subject>Maas</subject>
+          <subject>Frankrijk</subject>
+          <subject>Samber</subject>
+          <subject>Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)</subject>
+          <date>1695</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Nederland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:NG-VG-1-1752</identifier>
+        <datestamp>2021-10-20T13:53:13Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.58946</identifier>
+          <identifier>NG-VG-1-1752</identifier>
+          <title>Vrede van Rijswijk, ter ere van Lodewijk XIV</title>
+          <creator>Roussel, Jérôme</creator>
+          <subject>politieke geschiedenis</subject>
+          <subject>vrede</subject>
+          <subject>Vrede van Rijswijk (1697)</subject>
+          <subject>Rijswijk</subject>
+          <subject>Lodewijk XIV (koning van Frankrijk)</subject>
+          <date>1697</date>
+          <type>historiepenning</type>
+          <format>brons</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Parijs</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxNjY2MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,485 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0OTIyMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1937-989</identifier>
+        <datestamp>2019-05-21T09:59:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125223</identifier>
+          <identifier>RP-P-1937-989</identifier>
+          <title>Portret van Johannes Becius</title>
+          <creator>Hoogstraten, Dirk van</creator>
+          <contributor>Hoogstraten, Dirk van</contributor>
+          <contributor>Graeff, I.V.</contributor>
+          <subject>Becius, Johannes</subject>
+          <date>1626 - 1640</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1890-A-16047</identifier>
+        <datestamp>2016-10-20T21:11:21Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125378</identifier>
+          <identifier>RP-P-1890-A-16047</identifier>
+          <title>Schaatser met slee bij een knotwilg</title>
+          <creator>Hoppenbrouwers, Johannes Franciscus</creator>
+          <date>1829 - 1866</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Den Haag</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-48.870</identifier>
+        <datestamp>2016-10-20T21:11:46Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125808</identifier>
+          <identifier>RP-P-OB-48.870</identifier>
+          <title>Portret van Pieter Burman</title>
+          <title>Petrus Burmannus</title>
+          <creator>Houbraken, Jacob</creator>
+          <contributor>Mij, Hieronymus van der</contributor>
+          <contributor>Witt, J. de</contributor>
+          <contributor>Luchtmans, Samuel (I)</contributor>
+          <subject>Burman, Pieter (I)</subject>
+          <date>1727 - 1755</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Leiden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1878-A-2099</identifier>
+        <datestamp>2016-10-20T21:11:34Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125615</identifier>
+          <identifier>RP-P-1878-A-2099</identifier>
+          <title>Gehangene in een studeervertrek</title>
+          <title>CXVII. Van zeekeren Student, die zelven de dood had aangedaan</title>
+          <creator>Houbraken, Arnold</creator>
+          <date>1682</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1885-A-9254</identifier>
+        <datestamp>2017-10-31T09:20:42Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125621</identifier>
+          <identifier>RP-P-1885-A-9254</identifier>
+          <title>Christus aan het kruis</title>
+          <title>Titelpagina voor: A. Bynaeus, Gekruiste Christus, 1683</title>
+          <creator>Houbraken, Arnold</creator>
+          <contributor>Houbraken, Arnold</contributor>
+          <contributor>Goris, weduwe Jasper</contributor>
+          <date>1681 - 1683</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1933-33</identifier>
+        <datestamp>2019-03-04T15:09:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.112039</identifier>
+          <identifier>RP-P-1933-33</identifier>
+          <title>Verkondiging aan de herders en de aanbidding  door de herders</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Groot, Johannes de (II)</contributor>
+          <contributor>Blussé &amp; Zoon, Abraham</contributor>
+          <date>1791</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Dordrecht</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.870</identifier>
+        <datestamp>2019-05-29T15:37:11Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111345</identifier>
+          <identifier>RP-P-OB-50.870</identifier>
+          <title>Gewapende heren in een vertrek</title>
+          <creator>Fokke, Simon</creator>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23958</identifier>
+        <datestamp>2016-10-20T20:59:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111681</identifier>
+          <identifier>RP-P-1903-A-23958</identifier>
+          <title>Minerva en Telemachus voor een tempel</title>
+          <title>Avonturen van Telemachus</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Folkema, Jacob</contributor>
+          <date>1715</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.073</identifier>
+        <datestamp>2019-05-29T15:38:27Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111780</identifier>
+          <identifier>RP-P-OB-52.073</identifier>
+          <title>Telemachus weigert de kroon en scepter der Kretenzers</title>
+          <title>Avonturen van Telemachus</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Wandelaar, Jan</contributor>
+          <contributor>Wandelaar, Jan</contributor>
+          <date>1758 - 1767</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1905-421</identifier>
+        <datestamp>2016-10-20T20:59:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111070</identifier>
+          <identifier>RP-P-1905-421</identifier>
+          <title>Henricus Slatius gevangen genomen, 1623</title>
+          <title>De geweezene predikant Henricus Slatius gevangen. Ao 1623</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <contributor>Fokke Simonsz., Arend</contributor>
+          <subject>Slatius, Henricus</subject>
+          <date>1776</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1909-1628</identifier>
+        <datestamp>2019-09-06T13:50:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111414</identifier>
+          <identifier>RP-P-1909-1628</identifier>
+          <title>Vier voorstellingen uit de klassieke geschiedenis</title>
+          <title>Illustraties uit de klassieke geschiedenis</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.938</identifier>
+        <datestamp>2019-02-26T17:01:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111491</identifier>
+          <identifier>RP-P-OB-50.938</identifier>
+          <title>Twaalf episodes uit de vaderlandse geschiedenis</title>
+          <title>Illustraties vaderlandse geschiedenis</title>
+          <creator>Fokke, Simon</creator>
+          <subject>historische gebeurtenissen en situaties</subject>
+          <subject>historische personen (portretten en taferelen uit het leven)</subject>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-52.052</identifier>
+        <datestamp>2019-05-29T15:38:16Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111757</identifier>
+          <identifier>RP-P-OB-52.052</identifier>
+          <title>Triomftocht van keizer Aurelianus in 274</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Picart, Bernard</contributor>
+          <date>1720 - 1767</date>
+          <type>prent</type>
+          <type>boekillustratie</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-3572</identifier>
+        <datestamp>2016-10-20T20:59:31Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111391</identifier>
+          <identifier>RP-P-1910-3572</identifier>
+          <title>Drie gratiën en een putto</title>
+          <title>Diligito caros * salvo tamen ante pudore</title>
+          <creator>Fokke, Simon</creator>
+          <contributor>Fokke, Simon</contributor>
+          <date>1759</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-50.961</identifier>
+        <datestamp>2019-02-26T17:01:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111514</identifier>
+          <identifier>RP-P-OB-50.961</identifier>
+          <title>Vier episodes uit de vaderlandse geschiedenis</title>
+          <title>Illustraties vaderlandse geschiedenis</title>
+          <creator>Fokke, Simon</creator>
+          <subject>historische gebeurtenissen en situaties</subject>
+          <subject>historische personen (portretten en taferelen uit het leven)</subject>
+          <subject>Stadhuis van Amsterdam (14e eeuw-1652)</subject>
+          <subject>Tromp, Maarten Harpertszoon</subject>
+          <subject>Willem II (prins van Oranje)</subject>
+          <date>1722 - 1784</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1903-A-23936</identifier>
+        <datestamp>2016-10-20T20:59:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.111734</identifier>
+          <identifier>RP-P-1903-A-23936</identifier>
+          <title>Ridders in gevecht</title>
+          <creator>Folkema, Jacob</creator>
+          <contributor>Folkema, Jacob</contributor>
+          <date>1702 - 1767</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1910-4533</identifier>
+        <datestamp>2016-10-20T21:00:07Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.112098</identifier>
+          <identifier>RP-P-1910-4533</identifier>
+          <title>Portretbuste van Joachim Murat</title>
+          <creator>Fontana, Pietro</creator>
+          <contributor>Pozzi</contributor>
+          <contributor>Canova, Antonio</contributor>
+          <subject>Murat, Joachim</subject>
+          <date>1773 - 1837</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+          <coverage>Italië</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-OB-48.713</identifier>
+        <datestamp>2019-05-29T15:47:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125914</identifier>
+          <identifier>RP-P-OB-48.713</identifier>
+          <title>Portret van Simon Eikelenberg</title>
+          <title>Simon Eikelenberg</title>
+          <creator>Houbraken, Jacob</creator>
+          <contributor>Pronk, Cornelis</contributor>
+          <contributor>Loon, A. van (19e eeuw)</contributor>
+          <subject>Eikelenberg, Simon</subject>
+          <date>1738 - 1780</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1937-1125</identifier>
+        <datestamp>2019-01-28T13:28:48Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.125814</identifier>
+          <identifier>RP-P-1937-1125</identifier>
+          <title>Portret van Joost Sijbrandtsz. Buyck</title>
+          <creator>Houbraken, Jacob</creator>
+          <contributor>Muller, Jan Harmensz.</contributor>
+          <subject>Buyck, Joost Sijbrandtsz.</subject>
+          <date>1749 - 1780</date>
+          <date>1796</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-P-1894-A-18475</identifier>
+        <datestamp>2016-10-20T21:11:59Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.126061</identifier>
+          <identifier>RP-P-1894-A-18475</identifier>
+          <title>Portret van Jan van der Heyden</title>
+          <title>Johan van der Heide</title>
+          <creator>Houbraken, Jacob</creator>
+          <subject>Heyden, Jan van der</subject>
+          <date>1708 - 1780</date>
+          <type>prent</type>
+          <format>papier</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Amsterdam</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0OTI0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

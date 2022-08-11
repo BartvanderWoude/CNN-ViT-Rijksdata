@@ -1,0 +1,463 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-06-01T18:38:12Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDMwMA==">https://www.rijksmuseum.nl/api/oai/yt0FYhrb</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1561</identifier>
+        <datestamp>2022-06-01T13:13:30Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8094</identifier>
+          <identifier>SK-A-1561</identifier>
+          <title>Gezelschap in een bordeel</title>
+          <creator>Brunswijkse Monogrammist</creator>
+          <contributor>Brunswijkse Monogrammist</contributor>
+          <subject>genrestuk</subject>
+          <date>ca. 1540</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1416-SS</identifier>
+        <datestamp>2020-11-25T17:30:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8221</identifier>
+          <identifier>AK-MAK-1416-SS</identifier>
+          <title>Wrijfprent</title>
+          <date>ca. 1900</date>
+          <type>wrijfprent</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-125</identifier>
+        <datestamp>2022-06-01T16:20:08Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8267</identifier>
+          <identifier>SK-C-125</identifier>
+          <title>Siberische windhond</title>
+          <creator>Dasveldt, Jan</creator>
+          <subject>diervoorstelling</subject>
+          <date>ca. 1825</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-843</identifier>
+        <datestamp>2022-06-01T16:29:49Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8276</identifier>
+          <identifier>SK-A-843</identifier>
+          <title>Portret van een zevenentwintigjarige man</title>
+          <title>Portret van een man, vermoedelijk Salomon van Schoonhoven (1617-1653), ruwaard van Putten</title>
+          <creator>Delff, Jacob Willemsz. (II)</creator>
+          <subject>portret</subject>
+          <date>1643</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-1416-O</identifier>
+        <datestamp>2020-11-25T17:30:04Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8063</identifier>
+          <identifier>AK-MAK-1416-O</identifier>
+          <title>Wrijfprent</title>
+          <date>ca. 1900</date>
+          <type>wrijfprent</type>
+          <format>papier</format>
+          <format>inkt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>China</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:RP-T-1978-1</identifier>
+        <datestamp>2021-10-01T22:23:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8241</identifier>
+          <identifier>RP-T-1978-1</identifier>
+          <title>Venus en Adonis</title>
+          <creator>Prud'hon, Pierre</creator>
+          <date>1808</date>
+          <type>tekening</type>
+          <format>papier</format>
+          <format>krijt</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3397</identifier>
+        <datestamp>2022-06-01T13:14:10Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8431</identifier>
+          <identifier>SK-A-3397</identifier>
+          <title>De heilige Sebastiaan</title>
+          <creator>anoniem</creator>
+          <subject>historiestuk</subject>
+          <date>1460 - 1499</date>
+          <type>schilderij</type>
+          <type>fragment</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Florence</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3493</identifier>
+        <datestamp>2022-06-01T16:30:45Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8888</identifier>
+          <identifier>SK-A-3493</identifier>
+          <title>Portret van een man</title>
+          <creator>anoniem</creator>
+          <contributor>Keyser, Thomas de</contributor>
+          <subject>portret</subject>
+          <date>1630 - 1650</date>
+          <type>schilderij</type>
+          <format>koper</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Noordelijke Nederlanden</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3177</identifier>
+        <datestamp>2022-03-28T17:03:43Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8972</identifier>
+          <identifier>SK-A-3177</identifier>
+          <title>Stadsgezicht met koepelkerk</title>
+          <creator>Maris, Jacob</creator>
+          <subject>stadsgezicht</subject>
+          <date>ca. 1872 - ca. 1875</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2959</identifier>
+        <datestamp>2022-06-01T13:14:03Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8408</identifier>
+          <identifier>SK-A-2959</identifier>
+          <title>De Farizeeër en de tollenaar</title>
+          <creator>Fabritius, Barent</creator>
+          <subject>historiestuk</subject>
+          <date>1661</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2991</identifier>
+        <datestamp>2022-02-01T11:03:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8998</identifier>
+          <identifier>SK-A-2991</identifier>
+          <title>Keuken</title>
+          <creator>Maris, Matthijs</creator>
+          <subject>genrestuk</subject>
+          <date>1859</date>
+          <type>schilderij</type>
+          <format>papier</format>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2319</identifier>
+        <datestamp>2022-06-01T15:18:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8291</identifier>
+          <identifier>SK-A-2319</identifier>
+          <title>Portret van Jan Caspar Gevaerts (1593-1666)</title>
+          <creator>Dyck, Anthony van</creator>
+          <contributor>Dyck, Anthony van</contributor>
+          <subject>portret</subject>
+          <subject>Gevartius, Jean Gaspard</subject>
+          <date>ca. 1630 - ca. 1650</date>
+          <type>schilderij</type>
+          <type>grisaille</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-542</identifier>
+        <datestamp>2022-01-27T13:35:14Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8750</identifier>
+          <identifier>SK-A-542</identifier>
+          <title>Portret van Philips (1566-95), graaf van Nassau</title>
+          <creator>Ravesteyn, Jan Antonisz. van</creator>
+          <subject>portret</subject>
+          <date>ca. 1610 - ca. 1620</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2615</identifier>
+        <datestamp>2021-10-01T22:39:35Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8825</identifier>
+          <identifier>SK-A-2615</identifier>
+          <title>Modelstudie van Sijtje van Bemmel (1880-1963)</title>
+          <title>Modelstudie</title>
+          <creator>Israëls, Jozef</creator>
+          <subject>portret</subject>
+          <subject>Bemmel, Sijtje van</subject>
+          <date>1896</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1219</identifier>
+        <datestamp>2022-06-01T13:13:38Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8140</identifier>
+          <identifier>SK-A-1219</identifier>
+          <title>Maria met kind</title>
+          <creator>Cima da Conegliano, Giovanni Battista</creator>
+          <subject>historiestuk</subject>
+          <date>1512 - 1517</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-1345</identifier>
+        <datestamp>2021-10-01T22:22:25Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8178</identifier>
+          <identifier>SK-C-1345</identifier>
+          <title>De heilige familie</title>
+          <creator>Vanni, Raffaello</creator>
+          <contributor>Cortona, Pietro da</contributor>
+          <subject>historiestuk</subject>
+          <date>1640 - 1660</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3957</identifier>
+        <datestamp>2022-04-04T19:11:44Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8190</identifier>
+          <identifier>SK-A-3957</identifier>
+          <title>Rivierlandschap met koeien</title>
+          <creator>Cuyp, Aelbert</creator>
+          <subject>landschap</subject>
+          <date>ca. 1645 - ca. 1650</date>
+          <type>schilderij</type>
+          <format>paneel</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-202</identifier>
+        <datestamp>2022-06-01T16:30:28Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8713</identifier>
+          <identifier>SK-A-202</identifier>
+          <title>Joos van Trappen (1599-1647), genoemd Banckers. Vice-admiraal van Zeeland</title>
+          <creator>anoniem</creator>
+          <subject>portret</subject>
+          <subject>maritieme geschiedenis</subject>
+          <subject>Trappen Banckers, Joost van</subject>
+          <subject>Admiraliteit van Zeeland</subject>
+          <subject>West-Indische Compagnie</subject>
+          <date>ca. 1640</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+          <coverage>Holland</coverage>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-687</identifier>
+        <datestamp>2021-10-01T22:25:40Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8332</identifier>
+          <identifier>SK-A-687</identifier>
+          <title>Kalme zee</title>
+          <creator>Dubbels, Hendrick Jacobsz.</creator>
+          <subject>marine</subject>
+          <date>1650 - 1676</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-158</identifier>
+        <datestamp>2022-05-25T15:53:15Z</datestamp>
+      </header>
+      <metadata>
+        <dc>
+          <identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8346</identifier>
+          <identifier>SK-C-158</identifier>
+          <title>Landschap met muilezeldrijver</title>
+          <creator>Jardin, Karel du</creator>
+          <subject>landschap</subject>
+          <date>1650 - 1655</date>
+          <type>schilderij</type>
+          <format>doek</format>
+          <format>olieverf</format>
+          <language>nl</language>
+          <publisher>Rijksmuseum</publisher>
+          <rights>http://creativecommons.org/publicdomain/mark/1.0/</rights>
+        </dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="555275">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6UHVibGljRG9tYWluSW1hZ2VzfDIwMTYtMDMtMTBUMDk6NTQ6Mzh8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUFOVnVhOFdSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwxMDMyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>
