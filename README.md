@@ -6,7 +6,7 @@ This repository contains an API data harvester for the open-source Rijksdata dat
 contains tools for cleaning up the harvested metadata, resizing images, etc.
 
 In order for these models to work straight
-out of the box you will need to download the created dataset using the link: https://www.mediafire.com/file/f9thriv340baxjf/rijksdata.zip/file  This can then be extracted in the Implementation/data/rijksdata/ folder. 
+out of the box you will need to download the created dataset using the link: https://drive.google.com/file/d/1UzZysureK4M7oTRy9ZPlbR1QnAGZDAXq/view?usp=sharing  This can then be extracted in the Implementation/data/rijksdata/ folder. 
 
 After doing this the training and testing environment can be run from Implementation/ using:
 ```
@@ -37,7 +37,7 @@ paired with a target century, as well as a list of art object IDs paired with a 
 
 ## Implementation
 This folder contains the heart of the project; the actual implementation of the Convolutional Neural Network and the Vision Transformer. In order for this to work straight
-out of the box you will need to download the created dataset using the link: https://www.mediafire.com/file/f9thriv340baxjf/rijksdata.zip/file  This can then be extracted in the Implementation/data/rijksdata/ folder. 
+out of the box you will need to download the created dataset using the link: https://drive.google.com/file/d/1UzZysureK4M7oTRy9ZPlbR1QnAGZDAXq/view?usp=sharing  This can then be extracted in the Implementation/data/rijksdata/ folder. 
 
 After doing this the training and testing environment can be run from Implementation/ using:
 ```
