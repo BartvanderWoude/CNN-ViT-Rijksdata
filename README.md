@@ -13,6 +13,14 @@ After doing this the training and testing environment can be run from Implementa
 python3 environment.py
 ```
 
+You will need to have installed the python packages:
+```
+torch
+torchvision
+pandas
+numpy
+```
+
 ## Data harvest
 This project makes use of the Rijksmuseum open-source dataset called Rijksdata (https://data.rijksmuseum.nl/). This database contains metadata and images of present 
 and past art historical objects found in the Rijksmuseum. The Rijksdata database makes use of an API to access its data. This folder contains for harvesting and cleaning up
