@@ -28,13 +28,18 @@ this data.
 
 ### Metadata
 records.py: This script harvests a large number of XML files from Rijksdata, each file containing 20 records that also have an image in the database.
+
 combiner.py: This script combines all XML files into a single large XML file.
+
 removeNamespace.py: Removes namespaces and other unnecessary information from full XML file.
 
 ### Images
 id_list_date.csv: A .csv file containing the IDs of all records containing an image and a usable date stamp.
+
 id_list_date.csv: A .csv file containing the IDs of all records containing an image and a usable list of materials.
+
 harvest_images.py: This script harvests the images from Rijksdata using the IDs from the ID lists and stores it in the folder data/.
+
 resize.py: This script resizes all images in the resize/ folder to 600x600 pixels.
 
 ## Data analysis
@@ -53,6 +58,7 @@ python3 environment.py
 ```
 
 environment.py: Script handling user input and pushing command to the CNN and ViT handlers.
+
 get_linearlayer_size.py: Script that helps find the output size of the vector that feeds into the MLP heads of the CNN and ViT.
 
 ### Library
@@ -60,10 +66,12 @@ get_linearlayer_size.py: Script that helps find the output size of the vector th
 This folder contains the DataLoader classes for both the date classification dataset and the material classification dataset.
 
 date_dataset.py: Contains DataLoader class for date dataset.
+
 format_dataset.py: Contains DataLoader class for material dataset.
 
 #### Cnn_pytorch
 cnn.py: Contains the class for the CNN architecture.
+
 cnn_handler.py: Contains the class that handles the CNN model, such as training, testing, saving, etc.
 
 #### Local_vit_pytorch
