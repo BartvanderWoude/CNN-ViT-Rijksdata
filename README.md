@@ -70,6 +70,7 @@ cnn_handler.py: Contains the class that handles the CNN model, such as training,
 A local version of the ViT library created by GitHub user lucidrains (https://github.com/lucidrains/vit-pytorch).
 
 vit.py: An existing file in lucidrain's ViT library, but there are changes to the ViT class to fit the model architecture to our needs.
+
 vit_handler.py: A new file that contains the class that handles the ViT model, such as training, testing, saving, etc.
 
 ### Saved_models
