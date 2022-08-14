@@ -1,4 +1,4 @@
-# Comparing CNN and ViT on their ability to multi-task classifying Rijksmuseum art
+# Comparing CNN and ViT on their ability to multi-task classify Rijksmuseum art
 This GitHub repository contains (almost) all files regarding Bart van der Woude's (s398891) Bachelor thesis Artificial Intelligence at the Rijksuniversiteit Groningen,
 supervised by Dr. M. Sabatelli. The thesis can be found using the link: ...
 
