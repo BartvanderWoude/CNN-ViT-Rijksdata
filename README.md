@@ -23,7 +23,7 @@ numpy
 
 ## Data harvest
 This project makes use of the Rijksmuseum open-source dataset called Rijksdata (https://data.rijksmuseum.nl/). This database contains metadata and images of present 
-and past art historical objects found in the Rijksmuseum. The Rijksdata database makes use of an API to access its data. This folder contains for harvesting and cleaning up
+and past art historical objects found in the Rijksmuseum. The Rijksdata database makes use of an API to access its data. This folder contains tools for harvesting and cleaning up
 this data.
 
 ### Metadata
