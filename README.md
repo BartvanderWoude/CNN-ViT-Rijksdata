@@ -1,6 +1,6 @@
 # Comparing CNN and ViT on their ability to multi-task classify Rijksmuseum art
 This GitHub repository contains (almost) all files regarding Bart van der Woude's (s398891) Bachelor thesis Artificial Intelligence at the Rijksuniversiteit Groningen,
-supervised by Dr. M. Sabatelli. The thesis can be found using the link: https://drive.google.com/file/d/1PtfH-SzqwblnkxOciQfBdimM6E2d_DaT/view?usp=sharing
+supervised by Dr. M. Sabatelli.
 
 This repository contains an API data harvester for the open-source Rijksdata dataset (https://data.rijksmuseum.nl/) metadata, as well as an image harvester. It 
 contains tools for cleaning up the harvested metadata, resizing images, etc.
