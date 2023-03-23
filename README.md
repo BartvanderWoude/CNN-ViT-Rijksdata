@@ -1,5 +1,5 @@
 # Comparing CNN and ViT on their ability to multi-task classify Rijksmuseum art
-This project aims to compare a standard convolutional neural network with the newly introduced vision transformer.
+This project aims to compare a standard convolutional neural network with the newly introduced vision transformer on their ability to classify Rijksmuseum art.
 
 This repository contains an API data harvester for the open-source Rijksdata dataset (https://data.rijksmuseum.nl/) metadata, as well as an image harvester. It 
 contains tools for cleaning up the harvested metadata, resizing images, etc.
